@@ -33,7 +33,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2008,2,sheffield_wednesday,46,Sheffield Wednesday,16,13,17,51,58,-7,61,0,61,1.326087,12,False,2.0,,
 2008,2,watford,46,Watford,16,10,20,68,72,-4,58,0,58,1.26087,13,False,2.0,,
 2008,2,doncaster_rovers,46,Doncaster Rovers,17,7,22,42,53,-11,58,0,58,1.26087,14,False,2.0,,
-2008,2,crystal_palace,46,Crystal Palace,15,12,19,52,55,-3,57,0,57,1.23913,15,False,2.0,,
+2008,2,crystal_palace,46,Crystal Palace,15,12,19,52,55,-3,57,1,56,1.217391,15,False,2.0,,
 2008,2,blackpool,46,Blackpool,13,17,16,47,58,-11,56,0,56,1.217391,16,False,2.0,,
 2008,2,coventry_city,46,Coventry City,13,15,18,47,58,-11,54,0,54,1.173913,17,False,2.0,,
 2008,2,derby_county,46,Derby County,14,12,20,55,67,-12,54,0,54,1.173913,18,False,2.0,,
@@ -95,14 +95,14 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2008,5,cambridge_united,46,Cambridge United,24,14,8,65,39,26,86,0,86,1.869565,2,False,5.0,,play-offs
 2008,5,histon,46,Histon,23,14,9,78,48,30,83,0,83,1.804348,3,False,5.0,,play-offs
 2008,5,torquay_united,46,Torquay United,23,14,9,72,47,25,83,0,83,1.804348,4,False,4.0,promoted via play-offs,play-offs
-2008,5,oxford_united,46,Oxford United,24,10,12,72,51,21,82,0,82,1.782609,5,False,5.0,,play-offs
-2008,5,stevenage,46,Stevenage,23,12,11,73,54,19,81,0,81,1.76087,6,False,5.0,,
-2008,5,kidderminster_harriers,46,Kidderminster Harriers,23,10,13,69,48,21,79,0,79,1.717391,7,False,5.0,,
+2008,5,stevenage,46,Stevenage,23,12,11,73,54,19,81,0,81,1.76087,5,False,5.0,,play-offs
+2008,5,kidderminster_harriers,46,Kidderminster Harriers,23,10,13,69,48,21,79,0,79,1.717391,6,False,5.0,,
+2008,5,oxford_united,46,Oxford United,24,10,12,72,51,21,82,5,77,1.673913,7,False,5.0,,
 2008,5,kettering_town,46,Kettering Town,21,13,12,50,37,13,76,0,76,1.652174,8,False,5.0,,
-2008,5,crawley_town,46,Crawley Town,19,14,13,77,55,22,71,0,71,1.543478,9,False,5.0,,
+2008,5,crawley_town,46,Crawley Town,19,14,13,77,55,22,71,1,70,1.521739,9,False,5.0,,
 2008,5,wrexham,46,Wrexham,18,12,16,64,48,16,66,0,66,1.434783,10,False,5.0,,
-2008,5,mansfield_town,46,Mansfield Town,19,9,18,57,55,2,66,0,66,1.434783,11,False,5.0,,
-2008,5,rushden_and_diamonds,46,Rushden & Diamonds,16,15,15,61,50,11,63,0,63,1.369565,12,False,5.0,,
+2008,5,rushden_and_diamonds,46,Rushden & Diamonds,16,15,15,61,50,11,63,0,63,1.369565,11,False,5.0,,
+2008,5,mansfield_town,46,Mansfield Town,19,9,18,57,55,2,66,4,62,1.347826,12,False,5.0,,
 2008,5,eastbourne_borough,46,Eastbourne Borough,18,6,22,58,70,-12,60,0,60,1.304348,13,False,5.0,,
 2008,5,ebbsfleet_united,46,Ebbsfleet United,16,10,20,52,60,-8,58,0,58,1.26087,14,False,5.0,,
 2008,5,altrincham,46,Altrincham,15,11,20,49,66,-17,56,0,56,1.217391,15,False,5.0,,
@@ -224,12 +224,12 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2009,5,barrow,44,Barrow,13,13,18,50,67,-17,52,0,52,1.181818,15,False,5.0,,
 2009,5,tamworth,44,Tamworth,11,16,17,42,52,-10,49,0,49,1.113636,16,False,5.0,,
 2009,5,hayes_and_yeading_united,44,Hayes & Yeading United,12,12,20,59,85,-26,48,0,48,1.090909,17,False,5.0,,
-2009,5,gateshead,44,Gateshead,13,7,24,46,69,-23,46,0,46,1.045455,18,False,5.0,,
-2009,5,histon,44,Histon,11,13,20,44,67,-23,46,0,46,1.045455,19,False,5.0,,
-2009,5,eastbourne_borough,44,Eastbourne Borough,11,13,20,42,72,-30,46,0,46,1.045455,20,False,5.0,,
+2009,5,histon,44,Histon,11,13,20,44,67,-23,46,0,46,1.045455,18,False,5.0,,
+2009,5,eastbourne_borough,44,Eastbourne Borough,11,13,20,42,72,-30,46,0,46,1.045455,19,False,5.0,,
+2009,5,gateshead,44,Gateshead,13,7,24,46,69,-23,46,1,45,1.022727,20,False,5.0,,
 2009,5,forest_green_rovers,44,Forest Green Rovers,12,9,23,50,76,-26,45,0,45,1.022727,21,False,5.0,reprieved,down
 2009,5,ebbsfleet_united,44,Ebbsfleet United,12,8,24,50,82,-32,44,0,44,1.0,22,False,,relegated,down
-2009,5,grays_athletic,44,Grays Athletic,5,13,26,35,91,-56,28,0,28,0.636364,23,False,,relegated,down
+2009,5,grays_athletic,44,Grays Athletic,5,13,26,35,91,-56,28,2,26,0.590909,23,False,,relegated,down
 2010,1,manchester_united,38,Manchester United,23,11,4,78,37,41,80,0,80,2.105263,1,False,1.0,champions,
 2010,1,chelsea,38,Chelsea,21,8,9,69,33,36,71,0,71,1.868421,2,False,1.0,,
 2010,1,manchester_city,38,Manchester City,21,8,9,60,33,27,71,0,71,1.868421,3,False,1.0,,
@@ -333,10 +333,10 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2010,5,newport_county,46,Newport County,18,15,13,78,60,18,69,0,69,1.5,9,False,5.0,,
 2010,5,bath_city,46,Bath City,16,15,15,64,68,-4,63,0,63,1.369565,10,False,5.0,,
 2010,5,grimsby_town,46,Grimsby Town,15,17,14,72,62,10,62,0,62,1.347826,11,False,5.0,,
-2010,5,rushden_and_diamonds,46,Rushden & Diamonds,16,14,16,65,62,3,62,0,62,1.347826,12,False,,expelled,
-2010,5,mansfield_town,46,Mansfield Town,17,10,19,73,75,-2,61,0,61,1.326087,13,False,5.0,,
-2010,5,kettering_town,46,Kettering Town,15,13,18,64,75,-11,58,0,58,1.26087,14,False,5.0,,
-2010,5,gateshead,46,Gateshead,14,15,17,65,68,-3,57,0,57,1.23913,15,False,5.0,,
+2010,5,mansfield_town,46,Mansfield Town,17,10,19,73,75,-2,61,0,61,1.326087,12,False,5.0,,
+2010,5,rushden_and_diamonds,46,Rushden & Diamonds,16,14,16,65,62,3,62,5,57,1.23913,13,False,,expelled,
+2010,5,gateshead,46,Gateshead,14,15,17,65,68,-3,57,0,57,1.23913,14,False,5.0,,
+2010,5,kettering_town,46,Kettering Town,15,13,18,64,75,-11,58,2,56,1.217391,15,False,5.0,,
 2010,5,hayes_and_yeading_united,46,Hayes & Yeading United,15,6,25,57,81,-24,51,0,51,1.108696,16,False,5.0,,
 2010,5,cambridge_united,46,Cambridge United,11,17,18,53,61,-8,50,0,50,1.086957,17,False,5.0,,
 2010,5,barrow,46,Barrow,12,14,20,52,67,-15,50,0,50,1.086957,18,False,5.0,,
@@ -345,7 +345,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2010,5,southport,46,Southport,11,13,22,56,77,-21,46,0,46,1.0,21,False,5.0,,
 2010,5,altrincham,46,Altrincham,11,11,24,47,87,-40,44,0,44,0.956522,22,False,,relegated,down
 2010,5,eastbourne_borough,46,Eastbourne Borough,10,9,27,62,104,-42,39,0,39,0.847826,23,False,,relegated,down
-2010,5,histon,46,Histon,8,9,29,41,90,-49,33,0,33,0.717391,24,False,,relegated,down
+2010,5,histon,46,Histon,8,9,29,41,90,-49,33,5,28,0.608696,24,False,,relegated,down
 2011,1,manchester_city,38,Manchester City,28,5,5,93,29,64,89,0,89,2.342105,1,False,1.0,champions,
 2011,1,manchester_united,38,Manchester United,28,5,5,89,33,56,89,0,89,2.342105,2,False,1.0,,
 2011,1,arsenal,38,Arsenal,21,7,10,74,49,25,70,0,70,1.842105,3,False,1.0,,
@@ -460,8 +460,8 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2011,5,afc_telford_united,46,AFC Telford United,10,16,20,45,65,-20,46,0,46,1.0,20,False,5.0,,
 2011,5,hayes_and_yeading_united,46,Hayes & Yeading United,11,8,27,58,90,-32,41,0,41,0.891304,21,False,,relegated,down
 2011,5,darlington,46,Darlington,11,13,22,47,73,-26,46,10,36,0.782609,22,False,,relegated,down
-2011,5,kettering_town,46,Kettering Town,8,9,29,40,100,-60,33,0,33,0.717391,23,False,,relegated,down
-2011,5,bath_city,46,Bath City,7,10,29,43,89,-46,31,0,31,0.673913,24,False,,relegated,down
+2011,5,bath_city,46,Bath City,7,10,29,43,89,-46,31,0,31,0.673913,23,False,,relegated,down
+2011,5,kettering_town,46,Kettering Town,8,9,29,40,100,-60,33,3,30,0.652174,24,False,,relegated,down
 2012,1,manchester_united,38,Manchester United,28,5,5,86,43,43,89,0,89,2.342105,1,False,1.0,champions,
 2012,1,manchester_city,38,Manchester City,23,9,6,66,34,32,78,0,78,2.052632,2,False,1.0,,
 2012,1,chelsea,38,Chelsea,22,9,7,75,39,36,75,0,75,1.973684,3,False,1.0,,
@@ -553,7 +553,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2012,4,plymouth_argyle,46,Plymouth Argyle,13,13,20,46,55,-9,52,0,52,1.130435,21,False,4.0,,
 2012,4,dagenham_and_redbridge,46,Dagenham & Redbridge,13,12,21,55,62,-7,51,0,51,1.108696,22,False,4.0,,
 2012,4,barnet,46,Barnet,13,12,21,47,59,-12,51,0,51,1.108696,23,False,5.0,relegated,down
-2012,4,aldershot_town,46,Aldershot Town,11,15,20,42,60,-18,48,10,38,0.826087,24,False,5.0,relegated,down
+2012,4,aldershot_town,46,Aldershot Town,11,15,20,42,60,-18,48,0,48,1.043478,24,False,5.0,relegated,down
 2012,5,mansfield_town,46,Mansfield Town,30,5,11,92,52,40,95,0,95,2.065217,1,False,4.0,promoted,auto up
 2012,5,kidderminster_harriers,46,Kidderminster Harriers,28,9,9,82,40,42,93,0,93,2.021739,2,False,5.0,,play-offs
 2012,5,newport_county,46,Newport County,25,10,11,85,60,25,85,0,85,1.847826,3,False,4.0,promoted via play-offs,play-offs
@@ -678,9 +678,9 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2013,5,braintree_town,46,Braintree Town,21,11,14,57,39,18,74,0,74,1.608696,6,False,5.0,,
 2013,5,kidderminster_harriers,46,Kidderminster Harriers,20,12,14,66,59,7,72,0,72,1.565217,7,False,5.0,,
 2013,5,barnet,46,Barnet,19,13,14,58,53,5,70,0,70,1.521739,8,False,5.0,,
-2013,5,alfreton_town,46,Alfreton Town,21,7,18,69,74,-5,70,0,70,1.521739,9,False,5.0,,
-2013,5,woking,46,Woking,20,8,18,66,69,-3,68,0,68,1.478261,10,False,5.0,,
-2013,5,forest_green_rovers,46,Forest Green Rovers,19,10,17,80,66,14,67,0,67,1.456522,11,False,5.0,,
+2013,5,woking,46,Woking,20,8,18,66,69,-3,68,0,68,1.478261,9,False,5.0,,
+2013,5,forest_green_rovers,46,Forest Green Rovers,19,10,17,80,66,14,67,0,67,1.456522,10,False,5.0,,
+2013,5,alfreton_town,46,Alfreton Town,21,7,18,69,74,-5,70,3,67,1.456522,11,False,5.0,,
 2013,5,salisbury_city,46,Salisbury City,19,10,17,58,63,-5,67,0,67,1.456522,12,False,,expelled,
 2013,5,nuneaton_borough,46,Nuneaton Borough,18,12,16,54,60,-6,66,0,66,1.434783,13,False,5.0,,
 2013,5,lincoln_city,46,Lincoln City,17,14,15,60,59,1,65,0,65,1.413043,14,False,5.0,,
@@ -790,7 +790,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2014,5,bristol_rovers,46,Bristol Rovers,25,16,5,73,34,39,91,0,91,1.978261,2,False,4.0,promoted via play-offs,play-offs
 2014,5,grimsby_town,46,Grimsby Town,25,11,10,74,40,34,86,0,86,1.869565,3,False,5.0,,play-offs
 2014,5,eastleigh,46,Eastleigh,24,10,12,87,61,26,82,0,82,1.782609,4,False,5.0,,play-offs
-2014,5,forest_green_rovers,46,Forest Green Rovers,22,16,8,80,54,26,82,0,82,1.782609,5,False,5.0,,play-offs
+2014,5,forest_green_rovers,46,Forest Green Rovers,22,16,8,80,54,26,82,3,79,1.717391,5,False,5.0,,play-offs
 2014,5,macclesfield_town,46,Macclesfield Town,21,15,10,60,46,14,78,0,78,1.695652,6,False,5.0,,
 2014,5,woking,46,Woking,21,13,12,77,52,25,76,0,76,1.652174,7,False,5.0,,
 2014,5,dover_athletic,46,Dover Athletic,19,11,16,69,58,11,68,0,68,1.478261,8,False,5.0,,
@@ -807,9 +807,9 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2014,5,southport,46,Southport,13,12,21,47,72,-25,51,0,51,1.108696,19,False,5.0,,
 2014,5,welling_united,46,Welling United,11,12,23,52,73,-21,45,0,45,0.978261,20,False,5.0,,
 2014,5,alfreton_town,46,Alfreton Town,12,9,25,49,90,-41,45,0,45,0.978261,21,False,,relegated,down
-2014,5,afc_telford_united,46,AFC Telford United,10,9,27,58,84,-26,39,0,39,0.847826,22,False,,relegated,down
-2014,5,dartford,46,Dartford,8,15,23,44,74,-30,39,0,39,0.847826,23,False,,relegated,down
-2014,5,nuneaton_borough,46,Nuneaton Borough,10,9,27,38,76,-38,39,0,39,0.847826,24,False,,relegated,down
+2014,5,dartford,46,Dartford,8,15,23,44,74,-30,39,0,39,0.847826,22,False,,relegated,down
+2014,5,afc_telford_united,46,AFC Telford United,10,9,27,58,84,-26,39,3,36,0.782609,23,False,,relegated,down
+2014,5,nuneaton_borough,46,Nuneaton Borough,10,9,27,38,76,-38,39,3,36,0.782609,24,False,,relegated,down
 2015,1,leicester_city,38,Leicester City,23,12,3,68,36,32,81,0,81,2.131579,1,False,1.0,champions,
 2015,1,arsenal,38,Arsenal,20,11,7,65,36,29,71,0,71,1.868421,2,False,1.0,,
 2015,1,tottenham_hotspur,38,Tottenham Hotspur,19,13,6,69,35,34,70,0,70,1.842105,3,False,1.0,,
@@ -867,9 +867,9 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2015,3,sheffield_united,46,Sheffield United,18,12,16,64,59,5,66,0,66,1.434783,11,False,3.0,,
 2015,3,port_vale,46,Port Vale,18,11,17,56,58,-2,65,0,65,1.413043,12,False,3.0,,
 2015,3,peterborough_united,46,Peterborough United,19,6,21,82,73,9,63,0,63,1.369565,13,False,3.0,,
-2015,3,bury,46,Bury,16,12,18,56,73,-17,60,0,60,1.304348,14,False,3.0,,
-2015,3,southend_united,46,Southend United,16,11,19,58,64,-6,59,0,59,1.282609,15,False,3.0,,
-2015,3,swindon_town,46,Swindon Town,16,11,19,64,71,-7,59,0,59,1.282609,16,False,3.0,,
+2015,3,southend_united,46,Southend United,16,11,19,58,64,-6,59,0,59,1.282609,14,False,3.0,,
+2015,3,swindon_town,46,Swindon Town,16,11,19,64,71,-7,59,0,59,1.282609,15,False,3.0,,
+2015,3,bury,46,Bury,16,12,18,56,73,-17,60,3,57,1.23913,16,False,3.0,,
 2015,3,oldham_athletic,46,Oldham Athletic,12,18,16,44,58,-14,54,0,54,1.173913,17,False,3.0,,
 2015,3,chesterfield,46,Chesterfield,15,8,23,58,70,-12,53,0,53,1.152174,18,False,3.0,,
 2015,3,fleetwood_town,46,Fleetwood Town,12,15,19,52,56,-4,51,0,51,1.108696,19,False,3.0,,
@@ -1258,21 +1258,21 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2018,5,harrogate_town,46,Harrogate Town,21,11,14,78,57,21,74,0,74,1.608696,6,False,5.0,,play-offs
 2018,5,eastleigh,46,Eastleigh,22,8,16,62,63,-1,74,0,74,1.608696,7,False,5.0,,play-offs
 2018,5,ebbsfleet_united,46,Ebbsfleet United,18,13,15,64,50,14,67,0,67,1.456522,8,False,5.0,,
-2018,5,gateshead,46,Gateshead,19,9,18,52,48,4,66,0,66,1.434783,9,False,,demoted,
-2018,5,sutton_united,46,Sutton United,17,14,15,55,60,-5,65,0,65,1.413043,10,False,5.0,,
-2018,5,barrow,46,Barrow,17,13,16,52,51,1,64,0,64,1.391304,11,False,5.0,,
-2018,5,bromley,46,Bromley,16,12,18,68,69,-1,60,0,60,1.304348,12,False,5.0,,
-2018,5,barnet,46,Barnet,16,12,18,45,50,-5,60,0,60,1.304348,13,False,5.0,,
-2018,5,dover_athletic,46,Dover Athletic,16,12,18,58,64,-6,60,0,60,1.304348,14,False,5.0,,
-2018,5,chesterfield,46,Chesterfield,14,17,15,55,53,2,59,0,59,1.282609,15,False,5.0,,
-2018,5,fc_halifax_town,46,FC Halifax Town,13,20,13,44,43,1,59,0,59,1.282609,16,False,5.0,,
-2018,5,hartlepool_united,46,Hartlepool United,15,14,17,56,62,-6,59,0,59,1.282609,17,False,5.0,,
+2018,5,sutton_united,46,Sutton United,17,14,15,55,60,-5,65,0,65,1.413043,9,False,5.0,,
+2018,5,barrow,46,Barrow,17,13,16,52,51,1,64,0,64,1.391304,10,False,5.0,,
+2018,5,bromley,46,Bromley,16,12,18,68,69,-1,60,0,60,1.304348,11,False,5.0,,
+2018,5,barnet,46,Barnet,16,12,18,45,50,-5,60,0,60,1.304348,12,False,5.0,,
+2018,5,dover_athletic,46,Dover Athletic,16,12,18,58,64,-6,60,0,60,1.304348,13,False,5.0,,
+2018,5,chesterfield,46,Chesterfield,14,17,15,55,53,2,59,0,59,1.282609,14,False,5.0,,
+2018,5,fc_halifax_town,46,FC Halifax Town,13,20,13,44,43,1,59,0,59,1.282609,15,False,5.0,,
+2018,5,hartlepool_united,46,Hartlepool United,15,14,17,56,62,-6,59,0,59,1.282609,16,False,5.0,,
+2018,5,gateshead,46,Gateshead,19,9,18,52,48,4,66,9,57,1.23913,17,False,,demoted,
 2018,5,dagenham_and_redbridge,46,Dagenham & Redbridge,15,11,20,50,56,-6,56,0,56,1.217391,18,False,5.0,,
 2018,5,maidenhead_united,46,Maidenhead United,16,6,24,45,70,-25,54,0,54,1.173913,19,False,5.0,,
 2018,5,boreham_wood,46,Boreham Wood,12,16,18,53,65,-12,52,0,52,1.130435,20,False,5.0,,
 2018,5,aldershot_town,46,Aldershot Town,11,11,24,38,67,-29,44,0,44,0.956522,21,False,5.0,reprieved,down
-2018,5,braintree_town,46,Braintree Town,11,8,27,48,78,-30,41,0,41,0.891304,22,False,,relegated,down
-2018,5,havant_and_waterlooville,46,Havant & Waterlooville,9,13,24,62,84,-22,40,0,40,0.869565,23,False,,relegated,down
+2018,5,havant_and_waterlooville,46,Havant & Waterlooville,9,13,24,62,84,-22,40,0,40,0.869565,22,False,,relegated,down
+2018,5,braintree_town,46,Braintree Town,11,8,27,48,78,-30,41,3,38,0.826087,23,False,,relegated,down
 2018,5,maidstone_united,46,Maidstone United,9,7,30,37,82,-45,34,0,34,0.73913,24,False,,relegated,down
 2019,1,liverpool,38,Liverpool,32,3,3,85,33,52,99,0,99,2.605263,1,False,1.0,champions,
 2019,1,manchester_city,38,Manchester City,26,3,9,102,35,67,81,0,81,2.131579,2,False,1.0,,
@@ -1722,8 +1722,8 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2022,5,dagenham_and_redbridge,46,Dagenham & Redbridge,18,9,19,61,72,-11,63,0,63,1.369565,10,False,5.0,,
 2022,5,fc_halifax_town,46,FC Halifax Town,16,13,17,49,48,1,61,0,61,1.326087,11,False,5.0,,
 2022,5,oldham_athletic,46,Oldham Athletic,16,13,17,63,64,-1,61,0,61,1.326087,12,False,5.0,,
-2022,5,gateshead,46,Gateshead,15,15,16,67,62,5,60,0,60,1.304348,13,False,5.0,,
-2022,5,wealdstone,46,Wealdstone,16,12,18,57,72,-15,60,0,60,1.304348,14,False,5.0,,
+2022,5,wealdstone,46,Wealdstone,16,12,18,57,72,-15,60,0,60,1.304348,13,False,5.0,,
+2022,5,gateshead,46,Gateshead,15,15,16,67,62,5,60,1,59,1.282609,14,False,5.0,,
 2022,5,solihull_moors,46,Solihull Moors,15,13,18,62,66,-4,58,0,58,1.26087,15,False,5.0,,
 2022,5,dorking_wanderers,46,Dorking Wanderers,16,9,21,67,91,-24,57,0,57,1.23913,16,False,5.0,,
 2022,5,altrincham,46,Altrincham,14,14,18,68,82,-14,56,0,56,1.217391,17,False,5.0,,

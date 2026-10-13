@@ -1,0 +1,41 @@
+# Tier 3 (League One) table notes, 2008-09 to 2025-26
+
+Source: English Wikipedia season pages, read via WebFetch (a summarising fetch, so "verbatim" quotes are as returned by that tool). All 18 pages were readable. Pts in tier3.csv are as printed (after deductions). "[check]" lines are my arithmetic checks (pts vs 3W+D), not page text.
+
+- 2008: "Rules for classification: 1) points; 2) goal difference; 3) number of goals scored."
+- 2008: "30 April 2009 – Stockport County are docked 10 points by the FA for entering administration." [check: Stockport 16W 12D = 60, printed 50]
+- 2009: "Rules for classification: 1) points; 2) goal difference; 3) number of goals scored." Table has an empty "Notes:" heading; no deduction footnotes on the table.
+- 2009: Reference list only: "Points deduction rocks Hartlepool" (BBC Sport, 5 June 2010). Page does not state the size. [check: Hartlepool 14W 11D = 53, printed 50]
+- 2009: Page has no text about a Southampton deduction. [check: Southampton 23W 14D = 83, printed 73]
+- 2010: "Rules for classification: 1) points; 2) goal difference; 3) number of goals scored."
+- 2010: Reference list only: "Plymouth Argyle are deducted 10 points" (BBC Sport, 21 February 2011). [check: Plymouth 15W 7D = 52, printed 42]
+- 2011: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored". No deductions; all pts = 3W+D.
+- 2012: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored"
+- 2012: Reference list only: "Coventry City deducted 10 points by the Football League" (BBC Sport, 28 March 2013). [check: 65 calc, printed 55]
+- 2012: Reference list only: "Portsmouth out of administration and deducted 10 points" (BBC Sport, 20 April 2013). [check: 42 calc, printed 32]
+- 2013: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored"
+- 2013: "On 2 August Coventry City were deducted 10 points for exiting administration without a CVA." [check: 61 calc, printed 51]
+- 2013: [check] Column totals as printed: GF 1473 vs GA 1474 (off by 1); each row's printed GD matches its GF-GA, so copied as shown.
+- 2014: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored". No deductions.
+- 2015: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored"
+- 2015: "Bury were deducted 3 points for playing the unregistered Callum Styles against Southend United on 8 May." [check: 60 calc, printed 57]
+- 2016: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored". No deductions.
+- 2017: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored". No deductions.
+- 2018: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored; 4) Head-to-head results". No deductions. (Charlton and Portsmouth both 88; decided on GD.)
+- 2019: "On 9 June, clubs voted to curtail the season, meaning the final table would be calculated by a points-per-game method"
+- 2019: "Rules for classification: 1) Points per game; 2) Goal difference; 3) Number of goals scored" / "4) Head-to-head results; 5) Wins; 6) Away goals; 7) Penalty points (sec 9.5); 8) 12-point sending-off offences"
+- 2019: "Bolton Wanderers deducted 12 points for entering administration." [check: 26 calc, printed 14]
+- 2019: "Bury deducted 12 points for entering into an insolvency event, before later being expelled from the EFL on 27 August 2019." Row shows "Club expelled", P 0, Pts −12, PPG "—". Key includes "(E) Eliminated".
+- 2019: Printed PPG (not in CSV): Coventry 1.97, Rotherham 1.77, Wycombe 1.74, Oxford 1.71, Portsmouth 1.71, Fleetwood 1.71, Peterborough 1.69, Sunderland 1.64, Doncaster 1.59, Gillingham 1.46, Ipswich 1.44, Burton 1.37, Blackpool 1.29, Bristol Rovers 1.29, Shrewsbury 1.21, Lincoln 1.20, Accrington 1.14, Rochdale 1.06, MK Dons 1.06, AFC Wimbledon 1.00, Tranmere 0.94, Southend 0.54, Bolton 0.41, Bury —. Note: unequal games played (34-36), so pos is by PPG, not pts.
+- 2020: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored; 4) Head-to-head results;" / "5) Wins; 6) Away goals; 7) Penalty points (sec 9.5); 8) 12-point sending off offences"
+- 2020: Page notes (below Team of the Season, not attached to the table): "Wigan Athletic were deducted 12 points by the EFL for entering administration." / "The club appealed against the decision, and it was confirmed on 4 August 2020 that it had not been upheld." This refers to Wigan's 2019-20 Championship deduction; Wigan's 2020-21 League One pts (48) = 3W+D, so no deduction in this table.
+- 2021: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored; 4) Head-to-head results;" / "5) Wins; 6) Away goals; 7) Penalty points based on yellow and red cards received" / "excluding the last four games of the season (sec 9.5);" / "8) 12-point sending off offences;" / "9) If the tie affects the automatic promotion or relegation places," / "a play-off game or games would be held between the two tied teams". No deductions.
+- 2022: "Rules for classification: 1) Points; 2) Goal difference; 3) Number of goals scored; 4) Head-to-head results;" / "5) Wins; 6) Away goals; 7) Penalty points (sec 9.5); 8) 12-point sending off offences". No deductions.
+- 2023: "On 19 May 2023, Wigan Athletic were deducted four points for failing to pay players and staff on time following previous EFL rules breaches in the 2022–23 season."
+- 2023: "Another four-point deduction was applied on 26 May, after the club's owners missed a deadline to deposit an amount equalling 125% of its monthly wage bill." [check: Wigan 70 calc, printed 62 = -8]
+- 2023: "On 16 August 2023, Reading were deducted one point for failing to pay players on time and in full on three occasions in the 2022–23 season."
+- 2023: "Another 3-point deduction was applied on 13 September, for failing to deposit wages on time."
+- 2023: "Another 2-point deduction was applied on 27 February, due to late HMRC payments." [check: Reading 59 calc, printed 53 = -6]
+- 2023: Rules for classification as 2022.
+- 2024: Rules for classification as 2022. No deductions or other footnotes.
+- 2025: Rules for classification as 2022. No deductions or other footnotes. Page shows no "Updated to match(es) played on" date, but all clubs have 46 played and champions/play-off winners/relegated clubs are marked (Lincoln City C,P; Cardiff City P; Bolton Wanderers O,P; Exeter, Port Vale, Rotherham, Northampton R). WebFetch also reported the infobox match count (454) conflicts with 552, so treat 2025-26 as final but lightly verified.
