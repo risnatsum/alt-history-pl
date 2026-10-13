@@ -48,18 +48,31 @@ League One, League Two and the National League were curtailed and decided on
 unweighted points per game, with deductions taken off before dividing. Ties on PPG go
 to goal difference, then goals scored.
 
-**E1-07 Points deductions** (`data/reference/adjustments.csv`). Entered from memory
-because Wikipedia and the league sites are blocked from the build environment. Every
-entry is marked Check until confirmed against official final tables. They reproduce
-every real promotion and relegation and these known totals: Everton 40 and Forest 32
-(2023/24), Portsmouth 19 (2009/10), Derby 34 and Reading 41 (2021/22), Birmingham 52
-(2018/19), Wigan 47 (2019/20) and 42 (2022/23), Sheffield Wednesday 41 (2020/21),
-Luton 26 (2008/09), Bolton 14 and Macclesfield 19 (2019/20). Least certain:
-Kidderminster −5 (2010/11), Darlington −10 (2011/12), Aldershot −10 (2013/14),
-Reading −4, Wigan −8 and Southend −10 (2023/24), Leicester −6 and Sheffield Wednesday
-−18 (2025/26; the latter leaves them on 0 points, which needs confirming). Deductions
-that don't change any position relative to promotion or relegation could be missing
-entirely, especially in the National League.
+**E1-07 Points deductions** (`data/reference/adjustments.csv`, every row cites its
+source). Premier League and EFL deductions are checked against dragonfootball.co.uk's
+points-deductions list (updated 7 Oct 2026), which Mus supplied, and against the
+Wikipedia final tables. National League deductions come from the Wikipedia final
+tables (Mus, 13 Oct 2026: no entries from memory); the earlier memory-based list had
+several wrong or missing, so all 22 are now taken from those tables. The Wikipedia
+check also added Crystal Palace −1 (2008/09 Championship) and Bury −3 (2015/16 League
+One), and removed an Aldershot −10 in 2012/13 League Two (their only deduction is the
+2013/14 National League one). Two dragonfootball entries are deliberately not applied:
+- Bury −12 (2019/20): Bury were expelled before playing, so there is no table to apply it to.
+- Brentford −3 (2018/19, "unfulfilled fixture"): Brentford were the side awarded the
+  unplayed match at Bolton, all three match sources give a 64-point season, and
+  Wikipedia agrees; Mus agrees it is an error on the list (13 Oct 2026).
+
+**E1-07b Check against published tables** (`data/reference/wikipedia_tables/`,
+`tests/test_e1.py::test_tables_match_wikipedia`). Every club's position and points in
+all 90 tables (2,083 rows) match the Wikipedia final tables. Remaining differences are
+goal totals only, none changing points or positions:
+- Premier League 2011/12: Wikipedia transcription swapped City and United rows; ours
+  has City champions on goal difference, as happened.
+- League One 2013/14 Sheffield United: goals against 46 vs 47; Wikipedia's own totals
+  don't add up.
+- League Two 2012/13 Oxford United: goals ±1; all 46 of our matches agree across 3 sources.
+- National League 2025/26 Scunthorpe and Wealdstone: goals differ; football-data is the
+  only source, probably linked to their abandoned match on 6 Sep 2025 (Check).
 
 **E1-08 Expunged and expelled clubs.** Chester City 2009/10 and Dover Athletic 2020/21
 had their records expunged: their matches are removed from the tables (football-data

@@ -81,3 +81,31 @@ def test_division_sizes(tables):
 
 def test_real_moves_match_final_positions(tables):
     assert check(tables) == []
+
+
+# Where our goal totals differ from the Wikipedia table without changing points or
+# position; each is explained in the assumptions log (E1-07).
+GOAL_ONLY_DIFFS = {(2013, 3, "sheffield_united"), (2012, 4, "oxford_united"),
+                   (2025, 5, "scunthorpe_united"), (2025, 5, "wealdstone")}
+# Wikipedia's 2011/12 PL rows for the two Manchester clubs came back swapped in transcription.
+TRANSCRIPTION_ERRORS = {(2011, 1, "manchester_city"), (2011, 1, "manchester_united")}
+
+
+def test_tables_match_wikipedia(tables):
+    from altpl.clubs import club_id
+    from altpl.config import REFERENCE
+    bad = []
+    for t in range(1, 6):
+        w = pd.read_csv(REFERENCE / "wikipedia_tables" / f"tier{t}.csv")
+        w = w[w.p > 0]  # expelled/expunged clubs are printed with zeros
+        for r in w.itertuples():
+            key = (r.season, t, club_id(r.club, r.season))
+            if key in TRANSCRIPTION_ERRORS:
+                continue
+            o = tables[(tables.season == r.season) & (tables.tier == t) &
+                       (tables.club_id == key[2])].iloc[0]
+            same = (o.pos, o.p, o.w, o.d, o.l, o.pts) == (r.pos, r.p, r.w, r.d, r.l, r.pts)
+            goals = (o.gf, o.ga) == (r.gf, r.ga) or key in GOAL_ONLY_DIFFS
+            if not (same and goals):
+                bad.append(key)
+    assert bad == []
