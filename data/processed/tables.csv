@@ -1,0 +1,2084 @@
+season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,next_tier,outcome,expected
+2008,1,manchester_united,38,Manchester United,28,6,4,68,24,44,90,0,90,2.368421,1,False,1.0,champions,
+2008,1,liverpool,38,Liverpool,25,11,2,77,27,50,86,0,86,2.263158,2,False,1.0,,
+2008,1,chelsea,38,Chelsea,25,8,5,68,24,44,83,0,83,2.184211,3,False,1.0,,
+2008,1,arsenal,38,Arsenal,20,12,6,68,37,31,72,0,72,1.894737,4,False,1.0,,
+2008,1,everton,38,Everton,17,12,9,55,37,18,63,0,63,1.657895,5,False,1.0,,
+2008,1,aston_villa,38,Aston Villa,17,11,10,54,48,6,62,0,62,1.631579,6,False,1.0,,
+2008,1,fulham,38,Fulham,14,11,13,39,34,5,53,0,53,1.394737,7,False,1.0,,
+2008,1,tottenham_hotspur,38,Tottenham Hotspur,14,9,15,45,45,0,51,0,51,1.342105,8,False,1.0,,
+2008,1,west_ham_united,38,West Ham United,14,9,15,42,45,-3,51,0,51,1.342105,9,False,1.0,,
+2008,1,manchester_city,38,Manchester City,15,5,18,58,50,8,50,0,50,1.315789,10,False,1.0,,
+2008,1,wigan_athletic,38,Wigan Athletic,12,9,17,34,45,-11,45,0,45,1.184211,11,False,1.0,,
+2008,1,stoke_city,38,Stoke City,12,9,17,38,55,-17,45,0,45,1.184211,12,False,1.0,,
+2008,1,bolton_wanderers,38,Bolton Wanderers,11,8,19,41,53,-12,41,0,41,1.078947,13,False,1.0,,
+2008,1,portsmouth,38,Portsmouth,10,11,17,38,57,-19,41,0,41,1.078947,14,False,1.0,,
+2008,1,blackburn_rovers,38,Blackburn Rovers,10,11,17,40,60,-20,41,0,41,1.078947,15,False,1.0,,
+2008,1,sunderland,38,Sunderland,9,9,20,34,54,-20,36,0,36,0.947368,16,False,1.0,,
+2008,1,hull_city,38,Hull City,8,11,19,39,64,-25,35,0,35,0.921053,17,False,1.0,,
+2008,1,newcastle_united,38,Newcastle United,7,13,18,40,59,-19,34,0,34,0.894737,18,False,2.0,relegated,down
+2008,1,middlesbrough,38,Middlesbrough,7,11,20,28,57,-29,32,0,32,0.842105,19,False,2.0,relegated,down
+2008,1,west_bromwich_albion,38,West Bromwich Albion,8,8,22,36,67,-31,32,0,32,0.842105,20,False,2.0,relegated,down
+2008,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,27,9,10,80,52,28,90,0,90,1.956522,1,False,1.0,promoted,auto up
+2008,2,birmingham_city,46,Birmingham City,23,14,9,54,37,17,83,0,83,1.804348,2,False,1.0,promoted,auto up
+2008,2,sheffield_united,46,Sheffield United,22,14,10,64,39,25,80,0,80,1.73913,3,False,2.0,,play-offs
+2008,2,reading,46,Reading,21,14,11,72,40,32,77,0,77,1.673913,4,False,2.0,,play-offs
+2008,2,burnley,46,Burnley,21,13,12,72,60,12,76,0,76,1.652174,5,False,1.0,promoted via play-offs,play-offs
+2008,2,preston_north_end,46,Preston North End,21,11,14,66,54,12,74,0,74,1.608696,6,False,2.0,,play-offs
+2008,2,cardiff_city,46,Cardiff City,19,17,10,65,53,12,74,0,74,1.608696,7,False,2.0,,
+2008,2,swansea_city,46,Swansea City,16,20,10,63,50,13,68,0,68,1.478261,8,False,2.0,,
+2008,2,ipswich_town,46,Ipswich Town,17,15,14,62,53,9,66,0,66,1.434783,9,False,2.0,,
+2008,2,bristol_city,46,Bristol City,15,16,15,54,54,0,61,0,61,1.326087,10,False,2.0,,
+2008,2,queens_park_rangers,46,Queens Park Rangers,15,16,15,42,44,-2,61,0,61,1.326087,11,False,2.0,,
+2008,2,sheffield_wednesday,46,Sheffield Wednesday,16,13,17,51,58,-7,61,0,61,1.326087,12,False,2.0,,
+2008,2,watford,46,Watford,16,10,20,68,72,-4,58,0,58,1.26087,13,False,2.0,,
+2008,2,doncaster_rovers,46,Doncaster Rovers,17,7,22,42,53,-11,58,0,58,1.26087,14,False,2.0,,
+2008,2,crystal_palace,46,Crystal Palace,15,12,19,52,55,-3,57,0,57,1.23913,15,False,2.0,,
+2008,2,blackpool,46,Blackpool,13,17,16,47,58,-11,56,0,56,1.217391,16,False,2.0,,
+2008,2,coventry_city,46,Coventry City,13,15,18,47,58,-11,54,0,54,1.173913,17,False,2.0,,
+2008,2,derby_county,46,Derby County,14,12,20,55,67,-12,54,0,54,1.173913,18,False,2.0,,
+2008,2,nottingham_forest,46,Nottingham Forest,13,14,19,50,65,-15,53,0,53,1.152174,19,False,2.0,,
+2008,2,barnsley,46,Barnsley,13,13,20,45,58,-13,52,0,52,1.130435,20,False,2.0,,
+2008,2,plymouth_argyle,46,Plymouth Argyle,13,12,21,44,57,-13,51,0,51,1.108696,21,False,2.0,,
+2008,2,norwich_city,46,Norwich City,12,10,24,57,70,-13,46,0,46,1.0,22,False,3.0,relegated,down
+2008,2,southampton,46,Southampton,10,15,21,46,69,-23,45,0,45,0.978261,23,False,3.0,relegated,down
+2008,2,charlton_athletic,46,Charlton Athletic,8,15,23,52,74,-22,39,0,39,0.847826,24,False,3.0,relegated,down
+2008,3,leicester_city,46,Leicester City,27,15,4,84,39,45,96,0,96,2.086957,1,False,2.0,promoted,auto up
+2008,3,peterborough_united,46,Peterborough United,26,11,9,78,54,24,89,0,89,1.934783,2,False,2.0,promoted,auto up
+2008,3,milton_keynes_dons,46,Milton Keynes Dons,26,9,11,83,47,36,87,0,87,1.891304,3,False,3.0,,play-offs
+2008,3,leeds_united,46,Leeds United,26,6,14,77,49,28,84,0,84,1.826087,4,False,3.0,,play-offs
+2008,3,millwall,46,Millwall,25,7,14,63,53,10,82,0,82,1.782609,5,False,3.0,,play-offs
+2008,3,scunthorpe_united,46,Scunthorpe United,22,10,14,82,63,19,76,0,76,1.652174,6,False,2.0,promoted via play-offs,play-offs
+2008,3,tranmere_rovers,46,Tranmere Rovers,21,11,14,62,49,13,74,0,74,1.608696,7,False,3.0,,
+2008,3,southend_united,46,Southend United,21,8,17,58,61,-3,71,0,71,1.543478,8,False,3.0,,
+2008,3,huddersfield_town,46,Huddersfield Town,18,14,14,62,65,-3,68,0,68,1.478261,9,False,3.0,,
+2008,3,oldham_athletic,46,Oldham Athletic,16,17,13,66,65,1,65,0,65,1.413043,10,False,3.0,,
+2008,3,bristol_rovers,46,Bristol Rovers,17,12,17,79,61,18,63,0,63,1.369565,11,False,3.0,,
+2008,3,colchester_united,46,Colchester United,18,9,19,58,58,0,63,0,63,1.369565,12,False,3.0,,
+2008,3,walsall,46,Walsall,17,10,19,61,66,-5,61,0,61,1.326087,13,False,3.0,,
+2008,3,leyton_orient,46,Leyton Orient,15,11,20,45,57,-12,56,0,56,1.217391,14,False,3.0,,
+2008,3,swindon_town,46,Swindon Town,12,17,17,68,71,-3,53,0,53,1.152174,15,False,3.0,,
+2008,3,brighton_and_hove_albion,46,Brighton & Hove Albion,13,13,20,55,70,-15,52,0,52,1.130435,16,False,3.0,,
+2008,3,yeovil_town,46,Yeovil Town,12,15,19,41,66,-25,51,0,51,1.108696,17,False,3.0,,
+2008,3,stockport_county,46,Stockport County,16,12,18,59,57,2,60,10,50,1.086957,18,False,3.0,,
+2008,3,hartlepool_united,46,Hartlepool United,13,11,22,66,79,-13,50,0,50,1.086957,19,False,3.0,,
+2008,3,carlisle_united,46,Carlisle United,12,14,20,56,69,-13,50,0,50,1.086957,20,False,3.0,,
+2008,3,northampton_town,46,Northampton Town,12,13,21,61,65,-4,49,0,49,1.065217,21,False,4.0,relegated,down
+2008,3,crewe_alexandra,46,Crewe Alexandra,12,10,24,59,82,-23,46,0,46,1.0,22,False,4.0,relegated,down
+2008,3,cheltenham_town,46,Cheltenham Town,9,12,25,51,91,-40,39,0,39,0.847826,23,False,4.0,relegated,down
+2008,3,hereford_united,46,Hereford United,9,7,30,42,79,-37,34,0,34,0.73913,24,False,4.0,relegated,down
+2008,4,brentford,46,Brentford,23,16,7,65,36,29,85,0,85,1.847826,1,False,3.0,promoted,auto up
+2008,4,exeter_city,46,Exeter City,22,13,11,65,50,15,79,0,79,1.717391,2,False,3.0,promoted,auto up
+2008,4,wycombe_wanderers,46,Wycombe Wanderers,20,18,8,54,33,21,78,0,78,1.695652,3,False,3.0,promoted,auto up
+2008,4,bury,46,Bury,21,15,10,63,43,20,78,0,78,1.695652,4,False,4.0,,play-offs
+2008,4,gillingham,46,Gillingham,21,12,13,58,55,3,75,0,75,1.630435,5,False,3.0,promoted via play-offs,play-offs
+2008,4,rochdale,46,Rochdale,19,13,14,70,59,11,70,0,70,1.521739,6,False,4.0,,play-offs
+2008,4,shrewsbury_town,46,Shrewsbury Town,17,18,11,61,44,17,69,0,69,1.5,7,False,4.0,,play-offs
+2008,4,dagenham_and_redbridge,46,Dagenham & Redbridge,19,11,16,77,53,24,68,0,68,1.478261,8,False,4.0,,
+2008,4,bradford_city,46,Bradford City,18,13,15,66,55,11,67,0,67,1.456522,9,False,4.0,,
+2008,4,chesterfield,46,Chesterfield,16,15,15,62,57,5,63,0,63,1.369565,10,False,4.0,,
+2008,4,morecambe,46,Morecambe,15,18,13,53,56,-3,63,0,63,1.369565,11,False,4.0,,
+2008,4,darlington,46,Darlington,20,12,14,61,44,17,72,10,62,1.347826,12,False,4.0,,
+2008,4,lincoln_city,46,Lincoln City,14,17,15,53,52,1,59,0,59,1.282609,13,False,4.0,,
+2008,4,rotherham_united,46,Rotherham United,21,12,13,60,46,14,75,17,58,1.26087,14,False,4.0,,
+2008,4,aldershot_town,46,Aldershot Town,14,12,20,59,80,-21,54,0,54,1.173913,15,False,4.0,,
+2008,4,accrington_stanley,46,Accrington Stanley,13,11,22,42,59,-17,50,0,50,1.086957,16,False,4.0,,
+2008,4,barnet,46,Barnet,11,15,20,56,74,-18,48,0,48,1.043478,17,False,4.0,,
+2008,4,port_vale,46,Port Vale,13,9,24,44,66,-22,48,0,48,1.043478,18,False,4.0,,
+2008,4,notts_county,46,Notts County,11,14,21,49,69,-20,47,0,47,1.021739,19,False,4.0,,
+2008,4,macclesfield_town,46,Macclesfield Town,13,8,25,45,77,-32,47,0,47,1.021739,20,False,4.0,,
+2008,4,bournemouth,46,Bournemouth,17,12,17,59,51,8,63,17,46,1.0,21,False,4.0,,
+2008,4,grimsby_town,46,Grimsby Town,9,14,23,51,69,-18,41,0,41,0.891304,22,False,4.0,,
+2008,4,chester_city,46,Chester City,8,13,25,43,81,-38,37,0,37,0.804348,23,False,5.0,relegated,down
+2008,4,luton_town,46,Luton Town,13,17,16,58,65,-7,56,30,26,0.565217,24,False,5.0,relegated,down
+2008,5,burton_albion,46,Burton Albion,27,7,12,81,52,29,88,0,88,1.913043,1,False,4.0,promoted,auto up
+2008,5,cambridge_united,46,Cambridge United,24,14,8,65,39,26,86,0,86,1.869565,2,False,5.0,,play-offs
+2008,5,histon,46,Histon,23,14,9,78,48,30,83,0,83,1.804348,3,False,5.0,,play-offs
+2008,5,torquay_united,46,Torquay United,23,14,9,72,47,25,83,0,83,1.804348,4,False,4.0,promoted via play-offs,play-offs
+2008,5,oxford_united,46,Oxford United,24,10,12,72,51,21,82,0,82,1.782609,5,False,5.0,,play-offs
+2008,5,stevenage,46,Stevenage,23,12,11,73,54,19,81,0,81,1.76087,6,False,5.0,,
+2008,5,kidderminster_harriers,46,Kidderminster Harriers,23,10,13,69,48,21,79,0,79,1.717391,7,False,5.0,,
+2008,5,kettering_town,46,Kettering Town,21,13,12,50,37,13,76,0,76,1.652174,8,False,5.0,,
+2008,5,crawley_town,46,Crawley Town,19,14,13,77,55,22,71,0,71,1.543478,9,False,5.0,,
+2008,5,wrexham,46,Wrexham,18,12,16,64,48,16,66,0,66,1.434783,10,False,5.0,,
+2008,5,mansfield_town,46,Mansfield Town,19,9,18,57,55,2,66,0,66,1.434783,11,False,5.0,,
+2008,5,rushden_and_diamonds,46,Rushden & Diamonds,16,15,15,61,50,11,63,0,63,1.369565,12,False,5.0,,
+2008,5,eastbourne_borough,46,Eastbourne Borough,18,6,22,58,70,-12,60,0,60,1.304348,13,False,5.0,,
+2008,5,ebbsfleet_united,46,Ebbsfleet United,16,10,20,52,60,-8,58,0,58,1.26087,14,False,5.0,,
+2008,5,altrincham,46,Altrincham,15,11,20,49,66,-17,56,0,56,1.217391,15,False,5.0,,
+2008,5,salisbury_city,46,Salisbury City,14,13,19,54,64,-10,55,0,55,1.195652,16,False,5.0,,
+2008,5,york_city,46,York City,11,19,16,47,51,-4,52,0,52,1.130435,17,False,5.0,,
+2008,5,forest_green_rovers,46,Forest Green Rovers,12,16,18,70,76,-6,52,0,52,1.130435,18,False,5.0,,
+2008,5,grays_athletic,46,Grays Athletic,14,10,22,44,64,-20,52,0,52,1.130435,19,False,5.0,,
+2008,5,barrow,46,Barrow,12,15,19,51,65,-14,51,0,51,1.108696,20,False,5.0,,
+2008,5,woking,46,Woking,10,14,22,37,60,-23,44,0,44,0.956522,21,False,,relegated,down
+2008,5,northwich_victoria,46,Northwich Victoria,11,10,25,56,75,-19,43,0,43,0.934783,22,False,,relegated,down
+2008,5,weymouth,46,Weymouth,11,10,25,45,86,-41,43,0,43,0.934783,23,False,,relegated,down
+2008,5,lewes,46,Lewes,6,6,34,28,89,-61,24,0,24,0.521739,24,False,,relegated,down
+2009,1,chelsea,38,Chelsea,27,5,6,103,32,71,86,0,86,2.263158,1,False,1.0,champions,
+2009,1,manchester_united,38,Manchester United,27,4,7,86,28,58,85,0,85,2.236842,2,False,1.0,,
+2009,1,arsenal,38,Arsenal,23,6,9,83,41,42,75,0,75,1.973684,3,False,1.0,,
+2009,1,tottenham_hotspur,38,Tottenham Hotspur,21,7,10,67,41,26,70,0,70,1.842105,4,False,1.0,,
+2009,1,manchester_city,38,Manchester City,18,13,7,73,45,28,67,0,67,1.763158,5,False,1.0,,
+2009,1,aston_villa,38,Aston Villa,17,13,8,52,39,13,64,0,64,1.684211,6,False,1.0,,
+2009,1,liverpool,38,Liverpool,18,9,11,61,35,26,63,0,63,1.657895,7,False,1.0,,
+2009,1,everton,38,Everton,16,13,9,60,49,11,61,0,61,1.605263,8,False,1.0,,
+2009,1,birmingham_city,38,Birmingham City,13,11,14,38,47,-9,50,0,50,1.315789,9,False,1.0,,
+2009,1,blackburn_rovers,38,Blackburn Rovers,13,11,14,41,55,-14,50,0,50,1.315789,10,False,1.0,,
+2009,1,stoke_city,38,Stoke City,11,14,13,34,48,-14,47,0,47,1.236842,11,False,1.0,,
+2009,1,fulham,38,Fulham,12,10,16,39,46,-7,46,0,46,1.210526,12,False,1.0,,
+2009,1,sunderland,38,Sunderland,11,11,16,48,56,-8,44,0,44,1.157895,13,False,1.0,,
+2009,1,bolton_wanderers,38,Bolton Wanderers,10,9,19,42,67,-25,39,0,39,1.026316,14,False,1.0,,
+2009,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,9,11,18,32,56,-24,38,0,38,1.0,15,False,1.0,,
+2009,1,wigan_athletic,38,Wigan Athletic,9,9,20,37,79,-42,36,0,36,0.947368,16,False,1.0,,
+2009,1,west_ham_united,38,West Ham United,8,11,19,47,66,-19,35,0,35,0.921053,17,False,1.0,,
+2009,1,burnley,38,Burnley,8,6,24,42,82,-40,30,0,30,0.789474,18,False,2.0,relegated,down
+2009,1,hull_city,38,Hull City,6,12,20,34,75,-41,30,0,30,0.789474,19,False,2.0,relegated,down
+2009,1,portsmouth,38,Portsmouth,7,7,24,34,66,-32,28,9,19,0.5,20,False,2.0,relegated,down
+2009,2,newcastle_united,46,Newcastle United,30,12,4,90,35,55,102,0,102,2.217391,1,False,1.0,promoted,auto up
+2009,2,west_bromwich_albion,46,West Bromwich Albion,26,13,7,89,48,41,91,0,91,1.978261,2,False,1.0,promoted,auto up
+2009,2,nottingham_forest,46,Nottingham Forest,22,13,11,65,40,25,79,0,79,1.717391,3,False,2.0,,play-offs
+2009,2,cardiff_city,46,Cardiff City,22,10,14,73,54,19,76,0,76,1.652174,4,False,2.0,,play-offs
+2009,2,leicester_city,46,Leicester City,21,13,12,61,45,16,76,0,76,1.652174,5,False,2.0,,play-offs
+2009,2,blackpool,46,Blackpool,19,13,14,74,58,16,70,0,70,1.521739,6,False,1.0,promoted via play-offs,play-offs
+2009,2,swansea_city,46,Swansea City,17,18,11,40,37,3,69,0,69,1.5,7,False,2.0,,
+2009,2,sheffield_united,46,Sheffield United,17,14,15,62,55,7,65,0,65,1.413043,8,False,2.0,,
+2009,2,reading,46,Reading,17,12,17,68,63,5,63,0,63,1.369565,9,False,2.0,,
+2009,2,bristol_city,46,Bristol City,15,18,13,56,65,-9,63,0,63,1.369565,10,False,2.0,,
+2009,2,middlesbrough,46,Middlesbrough,16,14,16,58,50,8,62,0,62,1.347826,11,False,2.0,,
+2009,2,doncaster_rovers,46,Doncaster Rovers,15,15,16,59,58,1,60,0,60,1.304348,12,False,2.0,,
+2009,2,queens_park_rangers,46,Queens Park Rangers,14,15,17,58,65,-7,57,0,57,1.23913,13,False,2.0,,
+2009,2,derby_county,46,Derby County,15,11,20,53,63,-10,56,0,56,1.217391,14,False,2.0,,
+2009,2,ipswich_town,46,Ipswich Town,12,20,14,50,61,-11,56,0,56,1.217391,15,False,2.0,,
+2009,2,watford,46,Watford,14,12,20,61,68,-7,54,0,54,1.173913,16,False,2.0,,
+2009,2,preston_north_end,46,Preston North End,13,15,18,58,73,-15,54,0,54,1.173913,17,False,2.0,,
+2009,2,barnsley,46,Barnsley,14,12,20,53,69,-16,54,0,54,1.173913,18,False,2.0,,
+2009,2,coventry_city,46,Coventry City,13,15,18,47,64,-17,54,0,54,1.173913,19,False,2.0,,
+2009,2,scunthorpe_united,46,Scunthorpe United,14,10,22,62,84,-22,52,0,52,1.130435,20,False,2.0,,
+2009,2,crystal_palace,46,Crystal Palace,14,17,15,50,53,-3,59,10,49,1.065217,21,False,2.0,,
+2009,2,sheffield_wednesday,46,Sheffield Wednesday,11,14,21,49,69,-20,47,0,47,1.021739,22,False,3.0,relegated,down
+2009,2,plymouth_argyle,46,Plymouth Argyle,11,8,27,43,68,-25,41,0,41,0.891304,23,False,3.0,relegated,down
+2009,2,peterborough_united,46,Peterborough United,8,10,28,46,80,-34,34,0,34,0.73913,24,False,3.0,relegated,down
+2009,3,norwich_city,46,Norwich City,29,8,9,89,47,42,95,0,95,2.065217,1,False,2.0,promoted,auto up
+2009,3,leeds_united,46,Leeds United,25,11,10,77,44,33,86,0,86,1.869565,2,False,2.0,promoted,auto up
+2009,3,millwall,46,Millwall,24,13,9,76,44,32,85,0,85,1.847826,3,False,2.0,promoted via play-offs,play-offs
+2009,3,charlton_athletic,46,Charlton Athletic,23,15,8,71,48,23,84,0,84,1.826087,4,False,3.0,,play-offs
+2009,3,swindon_town,46,Swindon Town,22,16,8,73,57,16,82,0,82,1.782609,5,False,3.0,,play-offs
+2009,3,huddersfield_town,46,Huddersfield Town,23,11,12,82,56,26,80,0,80,1.73913,6,False,3.0,,play-offs
+2009,3,southampton,46,Southampton,23,14,9,85,47,38,83,10,73,1.586957,7,False,3.0,,
+2009,3,colchester_united,46,Colchester United,20,12,14,64,52,12,72,0,72,1.565217,8,False,3.0,,
+2009,3,brentford,46,Brentford,14,20,12,55,52,3,62,0,62,1.347826,9,False,3.0,,
+2009,3,walsall,46,Walsall,16,14,16,60,63,-3,62,0,62,1.347826,10,False,3.0,,
+2009,3,bristol_rovers,46,Bristol Rovers,19,5,22,59,70,-11,62,0,62,1.347826,11,False,3.0,,
+2009,3,milton_keynes_dons,46,Milton Keynes Dons,17,9,20,60,68,-8,60,0,60,1.304348,12,False,3.0,,
+2009,3,brighton_and_hove_albion,46,Brighton & Hove Albion,15,14,17,56,60,-4,59,0,59,1.282609,13,False,3.0,,
+2009,3,carlisle_united,46,Carlisle United,15,13,18,63,66,-3,58,0,58,1.26087,14,False,3.0,,
+2009,3,yeovil_town,46,Yeovil Town,13,14,19,55,59,-4,53,0,53,1.152174,15,False,3.0,,
+2009,3,oldham_athletic,46,Oldham Athletic,13,13,20,39,57,-18,52,0,52,1.130435,16,False,3.0,,
+2009,3,leyton_orient,46,Leyton Orient,13,12,21,53,63,-10,51,0,51,1.108696,17,False,3.0,,
+2009,3,exeter_city,46,Exeter City,11,18,17,48,60,-12,51,0,51,1.108696,18,False,3.0,,
+2009,3,tranmere_rovers,46,Tranmere Rovers,14,9,23,45,72,-27,51,0,51,1.108696,19,False,3.0,,
+2009,3,hartlepool_united,46,Hartlepool United,14,11,21,59,67,-8,53,3,50,1.086957,20,False,3.0,,
+2009,3,gillingham,46,Gillingham,12,14,20,48,64,-16,50,0,50,1.086957,21,False,4.0,relegated,down
+2009,3,wycombe_wanderers,46,Wycombe Wanderers,10,15,21,56,76,-20,45,0,45,0.978261,22,False,4.0,relegated,down
+2009,3,southend_united,46,Southend United,10,13,23,51,72,-21,43,0,43,0.934783,23,False,4.0,relegated,down
+2009,3,stockport_county,46,Stockport County,5,10,31,35,95,-60,25,0,25,0.543478,24,False,4.0,relegated,down
+2009,4,notts_county,46,Notts County,27,12,7,96,31,65,93,0,93,2.021739,1,False,3.0,promoted,auto up
+2009,4,bournemouth,46,Bournemouth,25,8,13,61,44,17,83,0,83,1.804348,2,False,3.0,promoted,auto up
+2009,4,rochdale,46,Rochdale,25,7,14,82,48,34,82,0,82,1.782609,3,False,3.0,promoted,auto up
+2009,4,morecambe,46,Morecambe,20,13,13,73,64,9,73,0,73,1.586957,4,False,4.0,,play-offs
+2009,4,rotherham_united,46,Rotherham United,21,10,15,55,52,3,73,0,73,1.586957,5,False,4.0,,play-offs
+2009,4,aldershot_town,46,Aldershot Town,20,12,14,69,56,13,72,0,72,1.565217,6,False,4.0,,play-offs
+2009,4,dagenham_and_redbridge,46,Dagenham & Redbridge,20,12,14,69,58,11,72,0,72,1.565217,7,False,3.0,promoted via play-offs,play-offs
+2009,4,chesterfield,46,Chesterfield,21,7,18,61,62,-1,70,0,70,1.521739,8,False,4.0,,
+2009,4,bury,46,Bury,19,12,15,54,59,-5,69,0,69,1.5,9,False,4.0,,
+2009,4,port_vale,46,Port Vale,17,17,12,61,50,11,68,0,68,1.478261,10,False,4.0,,
+2009,4,northampton_town,46,Northampton Town,18,13,15,62,53,9,67,0,67,1.456522,11,False,4.0,,
+2009,4,shrewsbury_town,46,Shrewsbury Town,17,12,17,55,54,1,63,0,63,1.369565,12,False,4.0,,
+2009,4,burton_albion,46,Burton Albion,17,11,18,71,71,0,62,0,62,1.347826,13,False,4.0,,
+2009,4,bradford_city,46,Bradford City,16,14,16,59,62,-3,62,0,62,1.347826,14,False,4.0,,
+2009,4,accrington_stanley,46,Accrington Stanley,18,7,21,62,74,-12,61,0,61,1.326087,15,False,4.0,,
+2009,4,hereford_united,46,Hereford United,17,8,21,54,65,-11,59,0,59,1.282609,16,False,4.0,,
+2009,4,torquay_united,46,Torquay United,14,15,17,64,55,9,57,0,57,1.23913,17,False,4.0,,
+2009,4,crewe_alexandra,46,Crewe Alexandra,15,10,21,68,73,-5,55,0,55,1.195652,18,False,4.0,,
+2009,4,macclesfield_town,46,Macclesfield Town,12,18,16,49,58,-9,54,0,54,1.173913,19,False,4.0,,
+2009,4,lincoln_city,46,Lincoln City,13,11,22,42,65,-23,50,0,50,1.086957,20,False,4.0,,
+2009,4,barnet,46,Barnet,12,12,22,47,63,-16,48,0,48,1.043478,21,False,4.0,,
+2009,4,cheltenham_town,46,Cheltenham Town,10,18,18,54,71,-17,48,0,48,1.043478,22,False,4.0,,
+2009,4,grimsby_town,46,Grimsby Town,9,17,20,45,71,-26,44,0,44,0.956522,23,False,5.0,relegated,down
+2009,4,darlington,46,Darlington,8,6,32,33,87,-54,30,0,30,0.652174,24,False,5.0,relegated,down
+2009,5,stevenage,44,Stevenage,30,9,5,79,24,55,99,0,99,2.25,1,False,4.0,promoted,auto up
+2009,5,luton_town,44,Luton Town,26,10,8,84,40,44,88,0,88,2.0,2,False,5.0,,play-offs
+2009,5,oxford_united,44,Oxford United,25,11,8,64,31,33,86,0,86,1.954545,3,False,4.0,promoted via play-offs,play-offs
+2009,5,rushden_and_diamonds,44,Rushden & Diamonds,22,13,9,77,39,38,79,0,79,1.795455,4,False,5.0,,play-offs
+2009,5,york_city,44,York City,22,12,10,62,35,27,78,0,78,1.772727,5,False,5.0,,play-offs
+2009,5,kettering_town,44,Kettering Town,18,12,14,51,41,10,66,0,66,1.5,6,False,5.0,,
+2009,5,crawley_town,44,Crawley Town,19,9,16,50,57,-7,66,0,66,1.5,7,False,5.0,,
+2009,5,afc_wimbledon,44,AFC Wimbledon,18,10,16,61,47,14,64,0,64,1.454545,8,False,5.0,,
+2009,5,mansfield_town,44,Mansfield Town,17,11,16,69,60,9,62,0,62,1.409091,9,False,5.0,,
+2009,5,cambridge_united,44,Cambridge United,15,14,15,65,53,12,59,0,59,1.340909,10,False,5.0,,
+2009,5,wrexham,44,Wrexham,15,13,16,45,39,6,58,0,58,1.318182,11,False,5.0,,
+2009,5,salisbury_city,44,Salisbury City,21,5,18,58,63,-5,68,10,58,1.318182,12,False,,demoted,
+2009,5,kidderminster_harriers,44,Kidderminster Harriers,15,12,17,57,52,5,57,0,57,1.295455,13,False,5.0,,
+2009,5,altrincham,44,Altrincham,13,15,16,53,51,2,54,0,54,1.227273,14,False,5.0,,
+2009,5,barrow,44,Barrow,13,13,18,50,67,-17,52,0,52,1.181818,15,False,5.0,,
+2009,5,tamworth,44,Tamworth,11,16,17,42,52,-10,49,0,49,1.113636,16,False,5.0,,
+2009,5,hayes_and_yeading_united,44,Hayes & Yeading United,12,12,20,59,85,-26,48,0,48,1.090909,17,False,5.0,,
+2009,5,gateshead,44,Gateshead,13,7,24,46,69,-23,46,0,46,1.045455,18,False,5.0,,
+2009,5,histon,44,Histon,11,13,20,44,67,-23,46,0,46,1.045455,19,False,5.0,,
+2009,5,eastbourne_borough,44,Eastbourne Borough,11,13,20,42,72,-30,46,0,46,1.045455,20,False,5.0,,
+2009,5,forest_green_rovers,44,Forest Green Rovers,12,9,23,50,76,-26,45,0,45,1.022727,21,False,5.0,reprieved,down
+2009,5,ebbsfleet_united,44,Ebbsfleet United,12,8,24,50,82,-32,44,0,44,1.0,22,False,,relegated,down
+2009,5,grays_athletic,44,Grays Athletic,5,13,26,35,91,-56,28,0,28,0.636364,23,False,,relegated,down
+2010,1,manchester_united,38,Manchester United,23,11,4,78,37,41,80,0,80,2.105263,1,False,1.0,champions,
+2010,1,chelsea,38,Chelsea,21,8,9,69,33,36,71,0,71,1.868421,2,False,1.0,,
+2010,1,manchester_city,38,Manchester City,21,8,9,60,33,27,71,0,71,1.868421,3,False,1.0,,
+2010,1,arsenal,38,Arsenal,19,11,8,72,43,29,68,0,68,1.789474,4,False,1.0,,
+2010,1,tottenham_hotspur,38,Tottenham Hotspur,16,14,8,55,46,9,62,0,62,1.631579,5,False,1.0,,
+2010,1,liverpool,38,Liverpool,17,7,14,59,44,15,58,0,58,1.526316,6,False,1.0,,
+2010,1,everton,38,Everton,13,15,10,51,45,6,54,0,54,1.421053,7,False,1.0,,
+2010,1,fulham,38,Fulham,11,16,11,49,43,6,49,0,49,1.289474,8,False,1.0,,
+2010,1,aston_villa,38,Aston Villa,12,12,14,48,59,-11,48,0,48,1.263158,9,False,1.0,,
+2010,1,sunderland,38,Sunderland,12,11,15,45,56,-11,47,0,47,1.236842,10,False,1.0,,
+2010,1,west_bromwich_albion,38,West Bromwich Albion,12,11,15,56,71,-15,47,0,47,1.236842,11,False,1.0,,
+2010,1,newcastle_united,38,Newcastle United,11,13,14,56,57,-1,46,0,46,1.210526,12,False,1.0,,
+2010,1,stoke_city,38,Stoke City,13,7,18,46,48,-2,46,0,46,1.210526,13,False,1.0,,
+2010,1,bolton_wanderers,38,Bolton Wanderers,12,10,16,52,56,-4,46,0,46,1.210526,14,False,1.0,,
+2010,1,blackburn_rovers,38,Blackburn Rovers,11,10,17,46,59,-13,43,0,43,1.131579,15,False,1.0,,
+2010,1,wigan_athletic,38,Wigan Athletic,9,15,14,40,61,-21,42,0,42,1.105263,16,False,1.0,,
+2010,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,11,7,20,46,66,-20,40,0,40,1.052632,17,False,1.0,,
+2010,1,birmingham_city,38,Birmingham City,8,15,15,37,58,-21,39,0,39,1.026316,18,False,2.0,relegated,down
+2010,1,blackpool,38,Blackpool,10,9,19,55,78,-23,39,0,39,1.026316,19,False,2.0,relegated,down
+2010,1,west_ham_united,38,West Ham United,7,12,19,43,70,-27,33,0,33,0.868421,20,False,2.0,relegated,down
+2010,2,queens_park_rangers,46,Queens Park Rangers,24,16,6,71,32,39,88,0,88,1.913043,1,False,1.0,promoted,auto up
+2010,2,norwich_city,46,Norwich City,23,15,8,83,58,25,84,0,84,1.826087,2,False,1.0,promoted,auto up
+2010,2,swansea_city,46,Swansea City,24,8,14,69,42,27,80,0,80,1.73913,3,False,1.0,promoted via play-offs,play-offs
+2010,2,cardiff_city,46,Cardiff City,23,11,12,76,54,22,80,0,80,1.73913,4,False,2.0,,play-offs
+2010,2,reading,46,Reading,20,17,9,77,51,26,77,0,77,1.673913,5,False,2.0,,play-offs
+2010,2,nottingham_forest,46,Nottingham Forest,20,15,11,69,50,19,75,0,75,1.630435,6,False,2.0,,play-offs
+2010,2,leeds_united,46,Leeds United,19,15,12,81,70,11,72,0,72,1.565217,7,False,2.0,,
+2010,2,burnley,46,Burnley,18,14,14,65,61,4,68,0,68,1.478261,8,False,2.0,,
+2010,2,millwall,46,Millwall,18,13,15,62,48,14,67,0,67,1.456522,9,False,2.0,,
+2010,2,leicester_city,46,Leicester City,19,10,17,76,71,5,67,0,67,1.456522,10,False,2.0,,
+2010,2,hull_city,46,Hull City,16,17,13,52,51,1,65,0,65,1.413043,11,False,2.0,,
+2010,2,middlesbrough,46,Middlesbrough,17,11,18,68,68,0,62,0,62,1.347826,12,False,2.0,,
+2010,2,ipswich_town,46,Ipswich Town,18,8,20,62,68,-6,62,0,62,1.347826,13,False,2.0,,
+2010,2,watford,46,Watford,16,13,17,77,71,6,61,0,61,1.326087,14,False,2.0,,
+2010,2,bristol_city,46,Bristol City,17,9,20,62,65,-3,60,0,60,1.304348,15,False,2.0,,
+2010,2,portsmouth,46,Portsmouth,15,13,18,53,60,-7,58,0,58,1.26087,16,False,2.0,,
+2010,2,barnsley,46,Barnsley,14,14,18,55,66,-11,56,0,56,1.217391,17,False,2.0,,
+2010,2,coventry_city,46,Coventry City,14,13,19,54,58,-4,55,0,55,1.195652,18,False,2.0,,
+2010,2,derby_county,46,Derby County,13,10,23,58,71,-13,49,0,49,1.065217,19,False,2.0,,
+2010,2,crystal_palace,46,Crystal Palace,12,12,22,44,69,-25,48,0,48,1.043478,20,False,2.0,,
+2010,2,doncaster_rovers,46,Doncaster Rovers,11,15,20,55,81,-26,48,0,48,1.043478,21,False,2.0,,
+2010,2,preston_north_end,46,Preston North End,10,12,24,54,79,-25,42,0,42,0.913043,22,False,3.0,relegated,down
+2010,2,sheffield_united,46,Sheffield United,11,9,26,44,79,-35,42,0,42,0.913043,23,False,3.0,relegated,down
+2010,2,scunthorpe_united,46,Scunthorpe United,12,6,28,43,87,-44,42,0,42,0.913043,24,False,3.0,relegated,down
+2010,3,brighton_and_hove_albion,46,Brighton & Hove Albion,28,11,7,85,40,45,95,0,95,2.065217,1,False,2.0,promoted,auto up
+2010,3,southampton,46,Southampton,28,8,10,86,38,48,92,0,92,2.0,2,False,2.0,promoted,auto up
+2010,3,huddersfield_town,46,Huddersfield Town,25,12,9,77,48,29,87,0,87,1.891304,3,False,3.0,,play-offs
+2010,3,peterborough_united,46,Peterborough United,23,10,13,106,75,31,79,0,79,1.717391,4,False,2.0,promoted via play-offs,play-offs
+2010,3,milton_keynes_dons,46,Milton Keynes Dons,23,8,15,67,60,7,77,0,77,1.673913,5,False,3.0,,play-offs
+2010,3,bournemouth,46,Bournemouth,19,14,13,75,54,21,71,0,71,1.543478,6,False,3.0,,play-offs
+2010,3,leyton_orient,46,Leyton Orient,19,13,14,71,62,9,70,0,70,1.521739,7,False,3.0,,
+2010,3,exeter_city,46,Exeter City,20,10,16,66,73,-7,70,0,70,1.521739,8,False,3.0,,
+2010,3,rochdale,46,Rochdale,18,14,14,63,55,8,68,0,68,1.478261,9,False,3.0,,
+2010,3,colchester_united,46,Colchester United,16,14,16,57,63,-6,62,0,62,1.347826,10,False,3.0,,
+2010,3,brentford,46,Brentford,17,10,19,55,62,-7,61,0,61,1.326087,11,False,3.0,,
+2010,3,carlisle_united,46,Carlisle United,16,11,19,60,62,-2,59,0,59,1.282609,12,False,3.0,,
+2010,3,charlton_athletic,46,Charlton Athletic,15,14,17,62,66,-4,59,0,59,1.282609,13,False,3.0,,
+2010,3,yeovil_town,46,Yeovil Town,16,11,19,56,66,-10,59,0,59,1.282609,14,False,3.0,,
+2010,3,sheffield_wednesday,46,Sheffield Wednesday,16,10,20,67,67,0,58,0,58,1.26087,15,False,3.0,,
+2010,3,hartlepool_united,46,Hartlepool United,15,12,19,47,65,-18,57,0,57,1.23913,16,False,3.0,,
+2010,3,oldham_athletic,46,Oldham Athletic,13,17,16,53,60,-7,56,0,56,1.217391,17,True,3.0,,
+2010,3,tranmere_rovers,46,Tranmere Rovers,15,11,20,53,60,-7,56,0,56,1.217391,18,True,3.0,,
+2010,3,notts_county,46,Notts County,14,8,24,46,60,-14,50,0,50,1.086957,19,False,3.0,,
+2010,3,walsall,46,Walsall,12,12,22,56,75,-19,48,0,48,1.043478,20,False,3.0,,
+2010,3,dagenham_and_redbridge,46,Dagenham & Redbridge,12,11,23,52,70,-18,47,0,47,1.021739,21,False,4.0,relegated,down
+2010,3,bristol_rovers,46,Bristol Rovers,11,12,23,48,82,-34,45,0,45,0.978261,22,False,4.0,relegated,down
+2010,3,plymouth_argyle,46,Plymouth Argyle,15,7,24,51,74,-23,52,10,42,0.913043,23,False,4.0,relegated,down
+2010,3,swindon_town,46,Swindon Town,9,14,23,50,72,-22,41,0,41,0.891304,24,False,4.0,relegated,down
+2010,4,chesterfield,46,Chesterfield,24,14,8,85,51,34,86,0,86,1.869565,1,False,3.0,promoted,auto up
+2010,4,bury,46,Bury,23,12,11,82,50,32,81,0,81,1.76087,2,False,3.0,promoted,auto up
+2010,4,wycombe_wanderers,46,Wycombe Wanderers,22,14,10,69,50,19,80,0,80,1.73913,3,False,3.0,promoted,auto up
+2010,4,shrewsbury_town,46,Shrewsbury Town,22,13,11,72,49,23,79,0,79,1.717391,4,False,4.0,,play-offs
+2010,4,accrington_stanley,46,Accrington Stanley,18,19,9,73,55,18,73,0,73,1.586957,5,False,4.0,,play-offs
+2010,4,stevenage,46,Stevenage,18,15,13,62,45,17,69,0,69,1.5,6,False,3.0,promoted via play-offs,play-offs
+2010,4,torquay_united,46,Torquay United,17,18,11,74,53,21,69,1,68,1.478261,7,False,4.0,,play-offs
+2010,4,gillingham,46,Gillingham,17,17,12,67,57,10,68,0,68,1.478261,8,False,4.0,,
+2010,4,rotherham_united,46,Rotherham United,17,15,14,75,60,15,66,0,66,1.434783,9,False,4.0,,
+2010,4,crewe_alexandra,46,Crewe Alexandra,18,11,17,87,65,22,65,0,65,1.413043,10,False,4.0,,
+2010,4,port_vale,46,Port Vale,17,14,15,54,49,5,65,0,65,1.413043,11,False,4.0,,
+2010,4,oxford_united,46,Oxford United,17,12,17,58,60,-2,63,0,63,1.369565,12,False,4.0,,
+2010,4,southend_united,46,Southend United,16,13,17,62,56,6,61,0,61,1.326087,13,False,4.0,,
+2010,4,aldershot_town,46,Aldershot Town,14,19,13,54,54,0,61,0,61,1.326087,14,False,4.0,,
+2010,4,macclesfield_town,46,Macclesfield Town,14,13,19,59,73,-14,55,0,55,1.195652,15,False,4.0,,
+2010,4,northampton_town,46,Northampton Town,11,19,16,63,71,-8,52,0,52,1.130435,16,False,4.0,,
+2010,4,cheltenham_town,46,Cheltenham Town,13,13,20,56,77,-21,52,0,52,1.130435,17,False,4.0,,
+2010,4,bradford_city,46,Bradford City,15,7,24,43,68,-25,52,0,52,1.130435,18,False,4.0,,
+2010,4,burton_albion,46,Burton Albion,12,15,19,56,70,-14,51,0,51,1.108696,19,False,4.0,,
+2010,4,morecambe,46,Morecambe,13,12,21,54,73,-19,51,0,51,1.108696,20,False,4.0,,
+2010,4,hereford_united,46,Hereford United,12,17,17,50,66,-16,53,3,50,1.086957,21,False,4.0,,
+2010,4,barnet,46,Barnet,12,12,22,58,77,-19,48,0,48,1.043478,22,False,4.0,,
+2010,4,lincoln_city,46,Lincoln City,13,8,25,45,81,-36,47,0,47,1.021739,23,False,5.0,relegated,down
+2010,4,stockport_county,46,Stockport County,9,14,23,48,96,-48,41,0,41,0.891304,24,False,5.0,relegated,down
+2010,5,crawley_town,46,Crawley Town,31,12,3,93,30,63,105,0,105,2.282609,1,False,4.0,promoted,auto up
+2010,5,afc_wimbledon,46,AFC Wimbledon,27,9,10,83,47,36,90,0,90,1.956522,2,False,4.0,promoted via play-offs,play-offs
+2010,5,luton_town,46,Luton Town,23,15,8,85,37,48,84,0,84,1.826087,3,False,5.0,,play-offs
+2010,5,wrexham,46,Wrexham,22,15,9,66,49,17,81,0,81,1.76087,4,False,5.0,,play-offs
+2010,5,fleetwood_town,46,Fleetwood Town,22,12,12,68,42,26,78,0,78,1.695652,5,False,5.0,,play-offs
+2010,5,kidderminster_harriers,46,Kidderminster Harriers,20,17,9,74,60,14,77,5,72,1.565217,6,False,5.0,,
+2010,5,darlington,46,Darlington,18,17,11,61,42,19,71,0,71,1.543478,7,False,5.0,,
+2010,5,york_city,46,York City,19,14,13,55,50,5,71,0,71,1.543478,8,False,5.0,,
+2010,5,newport_county,46,Newport County,18,15,13,78,60,18,69,0,69,1.5,9,False,5.0,,
+2010,5,bath_city,46,Bath City,16,15,15,64,68,-4,63,0,63,1.369565,10,False,5.0,,
+2010,5,grimsby_town,46,Grimsby Town,15,17,14,72,62,10,62,0,62,1.347826,11,False,5.0,,
+2010,5,rushden_and_diamonds,46,Rushden & Diamonds,16,14,16,65,62,3,62,0,62,1.347826,12,False,,expelled,
+2010,5,mansfield_town,46,Mansfield Town,17,10,19,73,75,-2,61,0,61,1.326087,13,False,5.0,,
+2010,5,kettering_town,46,Kettering Town,15,13,18,64,75,-11,58,0,58,1.26087,14,False,5.0,,
+2010,5,gateshead,46,Gateshead,14,15,17,65,68,-3,57,0,57,1.23913,15,False,5.0,,
+2010,5,hayes_and_yeading_united,46,Hayes & Yeading United,15,6,25,57,81,-24,51,0,51,1.108696,16,False,5.0,,
+2010,5,cambridge_united,46,Cambridge United,11,17,18,53,61,-8,50,0,50,1.086957,17,False,5.0,,
+2010,5,barrow,46,Barrow,12,14,20,52,67,-15,50,0,50,1.086957,18,False,5.0,,
+2010,5,tamworth,46,Tamworth,12,13,21,62,83,-21,49,0,49,1.065217,19,False,5.0,,
+2010,5,forest_green_rovers,46,Forest Green Rovers,10,16,20,53,72,-19,46,0,46,1.0,20,False,5.0,,
+2010,5,southport,46,Southport,11,13,22,56,77,-21,46,0,46,1.0,21,False,5.0,,
+2010,5,altrincham,46,Altrincham,11,11,24,47,87,-40,44,0,44,0.956522,22,False,,relegated,down
+2010,5,eastbourne_borough,46,Eastbourne Borough,10,9,27,62,104,-42,39,0,39,0.847826,23,False,,relegated,down
+2010,5,histon,46,Histon,8,9,29,41,90,-49,33,0,33,0.717391,24,False,,relegated,down
+2011,1,manchester_city,38,Manchester City,28,5,5,93,29,64,89,0,89,2.342105,1,False,1.0,champions,
+2011,1,manchester_united,38,Manchester United,28,5,5,89,33,56,89,0,89,2.342105,2,False,1.0,,
+2011,1,arsenal,38,Arsenal,21,7,10,74,49,25,70,0,70,1.842105,3,False,1.0,,
+2011,1,tottenham_hotspur,38,Tottenham Hotspur,20,9,9,66,41,25,69,0,69,1.815789,4,False,1.0,,
+2011,1,newcastle_united,38,Newcastle United,19,8,11,56,51,5,65,0,65,1.710526,5,False,1.0,,
+2011,1,chelsea,38,Chelsea,18,10,10,65,46,19,64,0,64,1.684211,6,False,1.0,,
+2011,1,everton,38,Everton,15,11,12,50,40,10,56,0,56,1.473684,7,False,1.0,,
+2011,1,liverpool,38,Liverpool,14,10,14,47,40,7,52,0,52,1.368421,8,False,1.0,,
+2011,1,fulham,38,Fulham,14,10,14,48,51,-3,52,0,52,1.368421,9,False,1.0,,
+2011,1,west_bromwich_albion,38,West Bromwich Albion,13,8,17,45,52,-7,47,0,47,1.236842,10,False,1.0,,
+2011,1,swansea_city,38,Swansea City,12,11,15,44,51,-7,47,0,47,1.236842,11,False,1.0,,
+2011,1,norwich_city,38,Norwich City,12,11,15,52,66,-14,47,0,47,1.236842,12,False,1.0,,
+2011,1,sunderland,38,Sunderland,11,12,15,45,46,-1,45,0,45,1.184211,13,False,1.0,,
+2011,1,stoke_city,38,Stoke City,11,12,15,36,53,-17,45,0,45,1.184211,14,False,1.0,,
+2011,1,wigan_athletic,38,Wigan Athletic,11,10,17,42,62,-20,43,0,43,1.131579,15,False,1.0,,
+2011,1,aston_villa,38,Aston Villa,7,17,14,37,53,-16,38,0,38,1.0,16,False,1.0,,
+2011,1,queens_park_rangers,38,Queens Park Rangers,10,7,21,43,66,-23,37,0,37,0.973684,17,False,1.0,,
+2011,1,bolton_wanderers,38,Bolton Wanderers,10,6,22,46,77,-31,36,0,36,0.947368,18,False,2.0,relegated,down
+2011,1,blackburn_rovers,38,Blackburn Rovers,8,7,23,48,78,-30,31,0,31,0.815789,19,False,2.0,relegated,down
+2011,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,5,10,23,40,82,-42,25,0,25,0.657895,20,False,2.0,relegated,down
+2011,2,reading,46,Reading,27,8,11,69,41,28,89,0,89,1.934783,1,False,1.0,promoted,auto up
+2011,2,southampton,46,Southampton,26,10,10,85,46,39,88,0,88,1.913043,2,False,1.0,promoted,auto up
+2011,2,west_ham_united,46,West Ham United,24,14,8,81,48,33,86,0,86,1.869565,3,False,1.0,promoted via play-offs,play-offs
+2011,2,birmingham_city,46,Birmingham City,20,16,10,78,51,27,76,0,76,1.652174,4,False,2.0,,play-offs
+2011,2,blackpool,46,Blackpool,20,15,11,79,59,20,75,0,75,1.630435,5,False,2.0,,play-offs
+2011,2,cardiff_city,46,Cardiff City,19,18,9,66,53,13,75,0,75,1.630435,6,False,2.0,,play-offs
+2011,2,middlesbrough,46,Middlesbrough,18,16,12,52,51,1,70,0,70,1.521739,7,False,2.0,,
+2011,2,hull_city,46,Hull City,19,11,16,47,44,3,68,0,68,1.478261,8,False,2.0,,
+2011,2,leicester_city,46,Leicester City,18,12,16,66,55,11,66,0,66,1.434783,9,False,2.0,,
+2011,2,brighton_and_hove_albion,46,Brighton & Hove Albion,17,15,14,52,52,0,66,0,66,1.434783,10,False,2.0,,
+2011,2,watford,46,Watford,16,16,14,56,64,-8,64,0,64,1.391304,11,False,2.0,,
+2011,2,derby_county,46,Derby County,18,10,18,50,58,-8,64,0,64,1.391304,12,False,2.0,,
+2011,2,burnley,46,Burnley,17,11,18,61,58,3,62,0,62,1.347826,13,False,2.0,,
+2011,2,leeds_united,46,Leeds United,17,10,19,65,68,-3,61,0,61,1.326087,14,False,2.0,,
+2011,2,ipswich_town,46,Ipswich Town,17,10,19,69,77,-8,61,0,61,1.326087,15,False,2.0,,
+2011,2,millwall,46,Millwall,15,12,19,55,57,-2,57,0,57,1.23913,16,False,2.0,,
+2011,2,crystal_palace,46,Crystal Palace,13,17,16,46,51,-5,56,0,56,1.217391,17,False,2.0,,
+2011,2,peterborough_united,46,Peterborough United,13,11,22,67,77,-10,50,0,50,1.086957,18,False,2.0,,
+2011,2,nottingham_forest,46,Nottingham Forest,14,8,24,48,63,-15,50,0,50,1.086957,19,False,2.0,,
+2011,2,bristol_city,46,Bristol City,12,13,21,44,68,-24,49,0,49,1.065217,20,False,2.0,,
+2011,2,barnsley,46,Barnsley,13,9,24,49,74,-25,48,0,48,1.043478,21,False,2.0,,
+2011,2,portsmouth,46,Portsmouth,13,11,22,50,59,-9,50,10,40,0.869565,22,False,3.0,relegated,down
+2011,2,coventry_city,46,Coventry City,9,13,24,41,65,-24,40,0,40,0.869565,23,False,3.0,relegated,down
+2011,2,doncaster_rovers,46,Doncaster Rovers,8,12,26,43,80,-37,36,0,36,0.782609,24,False,3.0,relegated,down
+2011,3,charlton_athletic,46,Charlton Athletic,30,11,5,82,36,46,101,0,101,2.195652,1,False,2.0,promoted,auto up
+2011,3,sheffield_wednesday,46,Sheffield Wednesday,28,9,9,81,48,33,93,0,93,2.021739,2,False,2.0,promoted,auto up
+2011,3,sheffield_united,46,Sheffield United,27,9,10,92,51,41,90,0,90,1.956522,3,False,3.0,,play-offs
+2011,3,huddersfield_town,46,Huddersfield Town,21,18,7,79,47,32,81,0,81,1.76087,4,False,2.0,promoted via play-offs,play-offs
+2011,3,milton_keynes_dons,46,Milton Keynes Dons,22,14,10,84,47,37,80,0,80,1.73913,5,False,3.0,,play-offs
+2011,3,stevenage,46,Stevenage,18,19,9,69,44,25,73,0,73,1.586957,6,False,3.0,,play-offs
+2011,3,notts_county,46,Notts County,21,10,15,75,63,12,73,0,73,1.586957,7,False,3.0,,
+2011,3,carlisle_united,46,Carlisle United,18,15,13,65,66,-1,69,0,69,1.5,8,False,3.0,,
+2011,3,brentford,46,Brentford,18,13,15,63,52,11,67,0,67,1.456522,9,False,3.0,,
+2011,3,colchester_united,46,Colchester United,13,20,13,61,66,-5,59,0,59,1.282609,10,False,3.0,,
+2011,3,bournemouth,46,Bournemouth,15,13,18,48,52,-4,58,0,58,1.26087,11,False,3.0,,
+2011,3,tranmere_rovers,46,Tranmere Rovers,14,14,18,49,53,-4,56,0,56,1.217391,12,False,3.0,,
+2011,3,hartlepool_united,46,Hartlepool United,14,14,18,50,55,-5,56,0,56,1.217391,13,False,3.0,,
+2011,3,bury,46,Bury,15,11,20,60,79,-19,56,0,56,1.217391,14,False,3.0,,
+2011,3,preston_north_end,46,Preston North End,13,15,18,54,68,-14,54,0,54,1.173913,15,False,3.0,,
+2011,3,oldham_athletic,46,Oldham Athletic,14,12,20,50,66,-16,54,0,54,1.173913,16,False,3.0,,
+2011,3,yeovil_town,46,Yeovil Town,14,12,20,59,80,-21,54,0,54,1.173913,17,False,3.0,,
+2011,3,scunthorpe_united,46,Scunthorpe United,10,22,14,55,59,-4,52,0,52,1.130435,18,False,3.0,,
+2011,3,walsall,46,Walsall,10,20,16,51,57,-6,50,0,50,1.086957,19,False,3.0,,
+2011,3,leyton_orient,46,Leyton Orient,13,11,22,48,75,-27,50,0,50,1.086957,20,False,3.0,,
+2011,3,wycombe_wanderers,46,Wycombe Wanderers,11,10,25,65,88,-23,43,0,43,0.934783,21,False,4.0,relegated,down
+2011,3,chesterfield,46,Chesterfield,10,12,24,56,81,-25,42,0,42,0.913043,22,False,4.0,relegated,down
+2011,3,exeter_city,46,Exeter City,10,12,24,46,75,-29,42,0,42,0.913043,23,False,4.0,relegated,down
+2011,3,rochdale,46,Rochdale,8,14,24,47,81,-34,38,0,38,0.826087,24,False,4.0,relegated,down
+2011,4,swindon_town,46,Swindon Town,29,6,11,75,32,43,93,0,93,2.021739,1,False,3.0,promoted,auto up
+2011,4,shrewsbury_town,46,Shrewsbury Town,26,10,10,66,41,25,88,0,88,1.913043,2,False,3.0,promoted,auto up
+2011,4,crawley_town,46,Crawley Town,23,15,8,76,54,22,84,0,84,1.826087,3,False,3.0,promoted,auto up
+2011,4,southend_united,46,Southend United,25,8,13,77,48,29,83,0,83,1.804348,4,False,4.0,,play-offs
+2011,4,torquay_united,46,Torquay United,23,12,11,63,50,13,81,0,81,1.76087,5,False,4.0,,play-offs
+2011,4,cheltenham_town,46,Cheltenham Town,23,8,15,66,50,16,77,0,77,1.673913,6,False,4.0,,play-offs
+2011,4,crewe_alexandra,46,Crewe Alexandra,20,12,14,67,59,8,72,0,72,1.565217,7,False,3.0,promoted via play-offs,play-offs
+2011,4,gillingham,46,Gillingham,20,10,16,79,62,17,70,0,70,1.521739,8,False,4.0,,
+2011,4,oxford_united,46,Oxford United,17,17,12,59,48,11,68,0,68,1.478261,9,False,4.0,,
+2011,4,rotherham_united,46,Rotherham United,18,13,15,67,63,4,67,0,67,1.456522,10,False,4.0,,
+2011,4,aldershot_town,46,Aldershot Town,19,9,18,54,52,2,66,0,66,1.434783,11,False,4.0,,
+2011,4,port_vale,46,Port Vale,20,9,17,68,60,8,69,10,59,1.282609,12,False,4.0,,
+2011,4,bristol_rovers,46,Bristol Rovers,15,12,19,60,70,-10,57,0,57,1.23913,13,False,4.0,,
+2011,4,accrington_stanley,46,Accrington Stanley,14,15,17,54,66,-12,57,0,57,1.23913,14,False,4.0,,
+2011,4,morecambe,46,Morecambe,14,14,18,63,57,6,56,0,56,1.217391,15,False,4.0,,
+2011,4,afc_wimbledon,46,AFC Wimbledon,15,9,22,62,78,-16,54,0,54,1.173913,16,False,4.0,,
+2011,4,burton_albion,46,Burton Albion,14,12,20,54,81,-27,54,0,54,1.173913,17,False,4.0,,
+2011,4,bradford_city,46,Bradford City,12,14,20,54,59,-5,50,0,50,1.086957,18,False,4.0,,
+2011,4,dagenham_and_redbridge,46,Dagenham & Redbridge,14,8,24,50,72,-22,50,0,50,1.086957,19,False,4.0,,
+2011,4,northampton_town,46,Northampton Town,12,12,22,56,79,-23,48,0,48,1.043478,20,False,4.0,,
+2011,4,plymouth_argyle,46,Plymouth Argyle,10,16,20,47,64,-17,46,0,46,1.0,21,False,4.0,,
+2011,4,barnet,46,Barnet,12,10,24,52,79,-27,46,0,46,1.0,22,False,4.0,,
+2011,4,hereford_united,46,Hereford United,10,14,22,50,70,-20,44,0,44,0.956522,23,False,5.0,relegated,down
+2011,4,macclesfield_town,46,Macclesfield Town,8,13,25,39,64,-25,37,0,37,0.804348,24,False,5.0,relegated,down
+2011,5,fleetwood_town,46,Fleetwood Town,31,10,5,102,48,54,103,0,103,2.23913,1,False,4.0,promoted,auto up
+2011,5,wrexham,46,Wrexham,30,8,8,85,33,52,98,0,98,2.130435,2,False,5.0,,play-offs
+2011,5,mansfield_town,46,Mansfield Town,25,14,7,87,48,39,89,0,89,1.934783,3,False,5.0,,play-offs
+2011,5,york_city,46,York City,23,14,9,81,45,36,83,0,83,1.804348,4,False,4.0,promoted via play-offs,play-offs
+2011,5,luton_town,46,Luton Town,22,15,9,78,42,36,81,0,81,1.76087,5,False,5.0,,play-offs
+2011,5,kidderminster_harriers,46,Kidderminster Harriers,22,10,14,82,63,19,76,0,76,1.652174,6,False,5.0,,
+2011,5,southport,46,Southport,21,13,12,72,69,3,76,0,76,1.652174,7,False,5.0,,
+2011,5,gateshead,46,Gateshead,21,11,14,69,62,7,74,0,74,1.608696,8,False,5.0,,
+2011,5,cambridge_united,46,Cambridge United,19,14,13,57,41,16,71,0,71,1.543478,9,False,5.0,,
+2011,5,forest_green_rovers,46,Forest Green Rovers,19,13,14,66,45,21,70,0,70,1.521739,10,False,5.0,,
+2011,5,grimsby_town,46,Grimsby Town,19,13,14,79,60,19,70,0,70,1.521739,11,False,5.0,,
+2011,5,braintree_town,46,Braintree Town,17,11,18,76,80,-4,62,0,62,1.347826,12,False,5.0,,
+2011,5,barrow,46,Barrow,17,9,20,62,76,-14,60,0,60,1.304348,13,False,5.0,,
+2011,5,ebbsfleet_united,46,Ebbsfleet United,14,12,20,69,84,-15,54,0,54,1.173913,14,False,5.0,,
+2011,5,alfreton_town,46,Alfreton Town,15,9,22,62,86,-24,54,0,54,1.173913,15,False,5.0,,
+2011,5,stockport_county,46,Stockport County,12,15,19,58,74,-16,51,0,51,1.108696,16,False,5.0,,
+2011,5,lincoln_city,46,Lincoln City,13,10,23,56,66,-10,49,0,49,1.065217,17,False,5.0,,
+2011,5,tamworth,46,Tamworth,11,15,20,47,70,-23,48,0,48,1.043478,18,False,5.0,,
+2011,5,newport_county,46,Newport County,11,14,21,53,65,-12,47,0,47,1.021739,19,False,5.0,,
+2011,5,afc_telford_united,46,AFC Telford United,10,16,20,45,65,-20,46,0,46,1.0,20,False,5.0,,
+2011,5,hayes_and_yeading_united,46,Hayes & Yeading United,11,8,27,58,90,-32,41,0,41,0.891304,21,False,,relegated,down
+2011,5,darlington,46,Darlington,11,13,22,47,73,-26,46,10,36,0.782609,22,False,,relegated,down
+2011,5,kettering_town,46,Kettering Town,8,9,29,40,100,-60,33,0,33,0.717391,23,False,,relegated,down
+2011,5,bath_city,46,Bath City,7,10,29,43,89,-46,31,0,31,0.673913,24,False,,relegated,down
+2012,1,manchester_united,38,Manchester United,28,5,5,86,43,43,89,0,89,2.342105,1,False,1.0,champions,
+2012,1,manchester_city,38,Manchester City,23,9,6,66,34,32,78,0,78,2.052632,2,False,1.0,,
+2012,1,chelsea,38,Chelsea,22,9,7,75,39,36,75,0,75,1.973684,3,False,1.0,,
+2012,1,arsenal,38,Arsenal,21,10,7,72,37,35,73,0,73,1.921053,4,False,1.0,,
+2012,1,tottenham_hotspur,38,Tottenham Hotspur,21,9,8,66,46,20,72,0,72,1.894737,5,False,1.0,,
+2012,1,everton,38,Everton,16,15,7,55,40,15,63,0,63,1.657895,6,False,1.0,,
+2012,1,liverpool,38,Liverpool,16,13,9,71,43,28,61,0,61,1.605263,7,False,1.0,,
+2012,1,west_bromwich_albion,38,West Bromwich Albion,14,7,17,53,57,-4,49,0,49,1.289474,8,False,1.0,,
+2012,1,swansea_city,38,Swansea City,11,13,14,47,51,-4,46,0,46,1.210526,9,False,1.0,,
+2012,1,west_ham_united,38,West Ham United,12,10,16,45,53,-8,46,0,46,1.210526,10,False,1.0,,
+2012,1,norwich_city,38,Norwich City,10,14,14,41,58,-17,44,0,44,1.157895,11,False,1.0,,
+2012,1,fulham,38,Fulham,11,10,17,50,60,-10,43,0,43,1.131579,12,False,1.0,,
+2012,1,stoke_city,38,Stoke City,9,15,14,34,45,-11,42,0,42,1.105263,13,False,1.0,,
+2012,1,southampton,38,Southampton,9,14,15,49,60,-11,41,0,41,1.078947,14,False,1.0,,
+2012,1,aston_villa,38,Aston Villa,10,11,17,47,69,-22,41,0,41,1.078947,15,False,1.0,,
+2012,1,newcastle_united,38,Newcastle United,11,8,19,45,68,-23,41,0,41,1.078947,16,False,1.0,,
+2012,1,sunderland,38,Sunderland,9,12,17,41,54,-13,39,0,39,1.026316,17,False,1.0,,
+2012,1,wigan_athletic,38,Wigan Athletic,9,9,20,47,73,-26,36,0,36,0.947368,18,False,2.0,relegated,down
+2012,1,reading,38,Reading,6,10,22,43,73,-30,28,0,28,0.736842,19,False,2.0,relegated,down
+2012,1,queens_park_rangers,38,Queens Park Rangers,4,13,21,30,60,-30,25,0,25,0.657895,20,False,2.0,relegated,down
+2012,2,cardiff_city,46,Cardiff City,25,12,9,72,45,27,87,0,87,1.891304,1,False,1.0,promoted,auto up
+2012,2,hull_city,46,Hull City,24,7,15,61,52,9,79,0,79,1.717391,2,False,1.0,promoted,auto up
+2012,2,watford,46,Watford,23,8,15,85,58,27,77,0,77,1.673913,3,False,2.0,,play-offs
+2012,2,brighton_and_hove_albion,46,Brighton & Hove Albion,19,18,9,69,43,26,75,0,75,1.630435,4,False,2.0,,play-offs
+2012,2,crystal_palace,46,Crystal Palace,19,15,12,73,62,11,72,0,72,1.565217,5,False,1.0,promoted via play-offs,play-offs
+2012,2,leicester_city,46,Leicester City,19,11,16,71,48,23,68,0,68,1.478261,6,False,2.0,,play-offs
+2012,2,bolton_wanderers,46,Bolton Wanderers,18,14,14,69,61,8,68,0,68,1.478261,7,False,2.0,,
+2012,2,nottingham_forest,46,Nottingham Forest,17,16,13,63,59,4,67,0,67,1.456522,8,False,2.0,,
+2012,2,charlton_athletic,46,Charlton Athletic,17,14,15,65,59,6,65,0,65,1.413043,9,False,2.0,,
+2012,2,derby_county,46,Derby County,16,13,17,65,62,3,61,0,61,1.326087,10,False,2.0,,
+2012,2,burnley,46,Burnley,16,13,17,62,60,2,61,0,61,1.326087,11,False,2.0,,
+2012,2,birmingham_city,46,Birmingham City,15,16,15,63,69,-6,61,0,61,1.326087,12,False,2.0,,
+2012,2,leeds_united,46,Leeds United,17,10,19,57,66,-9,61,0,61,1.326087,13,False,2.0,,
+2012,2,ipswich_town,46,Ipswich Town,16,12,18,48,61,-13,60,0,60,1.304348,14,False,2.0,,
+2012,2,blackpool,46,Blackpool,14,17,15,62,63,-1,59,0,59,1.282609,15,False,2.0,,
+2012,2,middlesbrough,46,Middlesbrough,18,5,23,61,70,-9,59,0,59,1.282609,16,False,2.0,,
+2012,2,blackburn_rovers,46,Blackburn Rovers,14,16,16,55,62,-7,58,0,58,1.26087,17,False,2.0,,
+2012,2,sheffield_wednesday,46,Sheffield Wednesday,16,10,20,53,61,-8,58,0,58,1.26087,18,False,2.0,,
+2012,2,huddersfield_town,46,Huddersfield Town,15,13,18,53,73,-20,58,0,58,1.26087,19,False,2.0,,
+2012,2,millwall,46,Millwall,15,11,20,51,62,-11,56,0,56,1.217391,20,False,2.0,,
+2012,2,barnsley,46,Barnsley,14,13,19,56,70,-14,55,0,55,1.195652,21,False,2.0,,
+2012,2,peterborough_united,46,Peterborough United,15,9,22,66,75,-9,54,0,54,1.173913,22,False,3.0,relegated,down
+2012,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,14,9,23,55,69,-14,51,0,51,1.108696,23,False,3.0,relegated,down
+2012,2,bristol_city,46,Bristol City,11,8,27,59,84,-25,41,0,41,0.891304,24,False,3.0,relegated,down
+2012,3,doncaster_rovers,46,Doncaster Rovers,25,9,12,62,44,18,84,0,84,1.826087,1,False,2.0,promoted,auto up
+2012,3,bournemouth,46,Bournemouth,24,11,11,76,53,23,83,0,83,1.804348,2,False,2.0,promoted,auto up
+2012,3,brentford,46,Brentford,21,16,9,62,47,15,79,0,79,1.717391,3,False,3.0,,play-offs
+2012,3,yeovil_town,46,Yeovil Town,23,8,15,71,56,15,77,0,77,1.673913,4,False,2.0,promoted via play-offs,play-offs
+2012,3,sheffield_united,46,Sheffield United,19,18,9,56,42,14,75,0,75,1.630435,5,False,3.0,,play-offs
+2012,3,swindon_town,46,Swindon Town,20,14,12,72,39,33,74,0,74,1.608696,6,False,3.0,,play-offs
+2012,3,leyton_orient,46,Leyton Orient,21,8,17,55,48,7,71,0,71,1.543478,7,False,3.0,,
+2012,3,milton_keynes_dons,46,Milton Keynes Dons,19,13,14,62,45,17,70,0,70,1.521739,8,False,3.0,,
+2012,3,walsall,46,Walsall,17,17,12,65,58,7,68,0,68,1.478261,9,False,3.0,,
+2012,3,crawley_town,46,Crawley Town,18,14,14,59,58,1,68,0,68,1.478261,10,False,3.0,,
+2012,3,tranmere_rovers,46,Tranmere Rovers,19,10,17,58,48,10,67,0,67,1.456522,11,False,3.0,,
+2012,3,notts_county,46,Notts County,16,17,13,61,49,12,65,0,65,1.413043,12,False,3.0,,
+2012,3,crewe_alexandra,46,Crewe Alexandra,18,10,18,54,62,-8,64,0,64,1.391304,13,False,3.0,,
+2012,3,preston_north_end,46,Preston North End,14,17,15,54,49,5,59,0,59,1.282609,14,False,3.0,,
+2012,3,coventry_city,46,Coventry City,18,11,17,66,59,7,65,10,55,1.195652,15,False,3.0,,
+2012,3,shrewsbury_town,46,Shrewsbury Town,13,16,17,54,60,-6,55,0,55,1.195652,16,False,3.0,,
+2012,3,carlisle_united,46,Carlisle United,14,13,19,56,77,-21,55,0,55,1.195652,17,False,3.0,,
+2012,3,stevenage,46,Stevenage,15,9,22,47,64,-17,54,0,54,1.173913,18,False,3.0,,
+2012,3,oldham_athletic,46,Oldham Athletic,14,9,23,46,59,-13,51,0,51,1.108696,19,False,3.0,,
+2012,3,colchester_united,46,Colchester United,14,9,23,47,68,-21,51,0,51,1.108696,20,False,3.0,,
+2012,3,scunthorpe_united,46,Scunthorpe United,13,9,24,49,73,-24,48,0,48,1.043478,21,False,4.0,relegated,down
+2012,3,bury,46,Bury,9,14,23,45,73,-28,41,0,41,0.891304,22,False,4.0,relegated,down
+2012,3,hartlepool_united,46,Hartlepool United,9,14,23,39,67,-28,41,0,41,0.891304,23,False,4.0,relegated,down
+2012,3,portsmouth,46,Portsmouth,10,12,24,51,69,-18,42,10,32,0.695652,24,False,4.0,relegated,down
+2012,4,gillingham,46,Gillingham,23,14,9,66,39,27,83,0,83,1.804348,1,False,3.0,promoted,auto up
+2012,4,rotherham_united,46,Rotherham United,24,7,15,74,59,15,79,0,79,1.717391,2,False,3.0,promoted,auto up
+2012,4,port_vale,46,Port Vale,21,15,10,87,52,35,78,0,78,1.695652,3,False,3.0,promoted,auto up
+2012,4,burton_albion,46,Burton Albion,22,10,14,71,65,6,76,0,76,1.652174,4,False,4.0,,play-offs
+2012,4,cheltenham_town,46,Cheltenham Town,20,15,11,58,51,7,75,0,75,1.630435,5,False,4.0,,play-offs
+2012,4,northampton_town,46,Northampton Town,21,10,15,64,55,9,73,0,73,1.586957,6,False,4.0,,play-offs
+2012,4,bradford_city,46,Bradford City,18,15,13,63,52,11,69,0,69,1.5,7,False,3.0,promoted via play-offs,play-offs
+2012,4,chesterfield,46,Chesterfield,18,13,15,60,45,15,67,0,67,1.456522,8,False,4.0,,
+2012,4,oxford_united,46,Oxford United,19,8,19,60,61,-1,65,0,65,1.413043,9,False,4.0,,
+2012,4,exeter_city,46,Exeter City,18,10,18,63,62,1,64,0,64,1.391304,10,False,4.0,,
+2012,4,southend_united,46,Southend United,16,13,17,61,55,6,61,0,61,1.326087,11,False,4.0,,
+2012,4,rochdale,46,Rochdale,16,13,17,68,70,-2,61,0,61,1.326087,12,False,4.0,,
+2012,4,fleetwood_town,46,Fleetwood Town,15,15,16,55,57,-2,60,0,60,1.304348,13,False,4.0,,
+2012,4,bristol_rovers,46,Bristol Rovers,16,12,18,60,69,-9,60,0,60,1.304348,14,False,4.0,,
+2012,4,wycombe_wanderers,46,Wycombe Wanderers,17,9,20,50,60,-10,60,0,60,1.304348,15,False,4.0,,
+2012,4,morecambe,46,Morecambe,15,13,18,55,61,-6,58,0,58,1.26087,16,False,4.0,,
+2012,4,york_city,46,York City,12,19,15,50,60,-10,55,0,55,1.195652,17,False,4.0,,
+2012,4,accrington_stanley,46,Accrington Stanley,14,12,20,51,68,-17,54,0,54,1.173913,18,False,4.0,,
+2012,4,torquay_united,46,Torquay United,13,14,19,55,62,-7,53,0,53,1.152174,19,False,4.0,,
+2012,4,afc_wimbledon,46,AFC Wimbledon,14,11,21,54,76,-22,53,0,53,1.152174,20,False,4.0,,
+2012,4,plymouth_argyle,46,Plymouth Argyle,13,13,20,46,55,-9,52,0,52,1.130435,21,False,4.0,,
+2012,4,dagenham_and_redbridge,46,Dagenham & Redbridge,13,12,21,55,62,-7,51,0,51,1.108696,22,False,4.0,,
+2012,4,barnet,46,Barnet,13,12,21,47,59,-12,51,0,51,1.108696,23,False,5.0,relegated,down
+2012,4,aldershot_town,46,Aldershot Town,11,15,20,42,60,-18,48,0,48,1.043478,24,False,5.0,relegated,down
+2012,5,mansfield_town,46,Mansfield Town,30,5,11,92,52,40,95,0,95,2.065217,1,False,4.0,promoted,auto up
+2012,5,kidderminster_harriers,46,Kidderminster Harriers,28,9,9,82,40,42,93,0,93,2.021739,2,False,5.0,,play-offs
+2012,5,newport_county,46,Newport County,25,10,11,85,60,25,85,0,85,1.847826,3,False,4.0,promoted via play-offs,play-offs
+2012,5,grimsby_town,46,Grimsby Town,23,14,9,70,38,32,83,0,83,1.804348,4,False,5.0,,play-offs
+2012,5,wrexham,46,Wrexham,22,14,10,74,45,29,80,0,80,1.73913,5,False,5.0,,play-offs
+2012,5,hereford_united,46,Hereford United,19,13,14,73,63,10,70,0,70,1.521739,6,False,5.0,,
+2012,5,luton_town,46,Luton Town,18,13,15,70,62,8,67,0,67,1.456522,7,False,5.0,,
+2012,5,dartford,46,Dartford,19,9,18,67,63,4,66,0,66,1.434783,8,False,5.0,,
+2012,5,braintree_town,46,Braintree Town,19,9,18,63,72,-9,66,0,66,1.434783,9,False,5.0,,
+2012,5,forest_green_rovers,46,Forest Green Rovers,18,11,17,63,49,14,65,0,65,1.413043,10,False,5.0,,
+2012,5,macclesfield_town,46,Macclesfield Town,17,12,17,65,70,-5,63,0,63,1.369565,11,False,5.0,,
+2012,5,woking,46,Woking,18,8,20,73,81,-8,62,0,62,1.347826,12,False,5.0,,
+2012,5,alfreton_town,46,Alfreton Town,16,12,18,69,74,-5,60,0,60,1.304348,13,False,5.0,,
+2012,5,cambridge_united,46,Cambridge United,15,14,17,68,69,-1,59,0,59,1.282609,14,False,5.0,,
+2012,5,nuneaton_borough,46,Nuneaton Borough,14,15,17,55,63,-8,57,0,57,1.23913,15,False,5.0,,
+2012,5,lincoln_city,46,Lincoln City,15,11,20,66,73,-7,56,0,56,1.217391,16,False,5.0,,
+2012,5,gateshead,46,Gateshead,13,16,17,58,61,-3,55,0,55,1.195652,17,False,5.0,,
+2012,5,hyde_united,46,Hyde United,16,7,23,63,75,-12,55,0,55,1.195652,18,False,5.0,,
+2012,5,tamworth,46,Tamworth,15,10,21,55,69,-14,55,0,55,1.195652,19,False,5.0,,
+2012,5,southport,46,Southport,14,12,20,72,86,-14,54,0,54,1.173913,20,False,5.0,,
+2012,5,stockport_county,46,Stockport County,13,11,22,57,76,-19,50,0,50,1.086957,21,False,,relegated,down
+2012,5,barrow,46,Barrow,11,13,22,45,83,-38,46,0,46,1.0,22,False,,relegated,down
+2012,5,ebbsfleet_united,46,Ebbsfleet United,8,15,23,55,89,-34,39,0,39,0.847826,23,False,,relegated,down
+2012,5,afc_telford_united,46,AFC Telford United,6,17,23,52,79,-27,35,0,35,0.76087,24,False,,relegated,down
+2013,1,manchester_city,38,Manchester City,27,5,6,102,37,65,86,0,86,2.263158,1,False,1.0,champions,
+2013,1,liverpool,38,Liverpool,26,6,6,101,50,51,84,0,84,2.210526,2,False,1.0,,
+2013,1,chelsea,38,Chelsea,25,7,6,71,27,44,82,0,82,2.157895,3,False,1.0,,
+2013,1,arsenal,38,Arsenal,24,7,7,68,41,27,79,0,79,2.078947,4,False,1.0,,
+2013,1,everton,38,Everton,21,9,8,61,39,22,72,0,72,1.894737,5,False,1.0,,
+2013,1,tottenham_hotspur,38,Tottenham Hotspur,21,6,11,55,51,4,69,0,69,1.815789,6,False,1.0,,
+2013,1,manchester_united,38,Manchester United,19,7,12,64,43,21,64,0,64,1.684211,7,False,1.0,,
+2013,1,southampton,38,Southampton,15,11,12,54,46,8,56,0,56,1.473684,8,False,1.0,,
+2013,1,stoke_city,38,Stoke City,13,11,14,45,52,-7,50,0,50,1.315789,9,False,1.0,,
+2013,1,newcastle_united,38,Newcastle United,15,4,19,43,59,-16,49,0,49,1.289474,10,False,1.0,,
+2013,1,crystal_palace,38,Crystal Palace,13,6,19,33,48,-15,45,0,45,1.184211,11,False,1.0,,
+2013,1,swansea_city,38,Swansea City,11,9,18,54,54,0,42,0,42,1.105263,12,False,1.0,,
+2013,1,west_ham_united,38,West Ham United,11,7,20,40,51,-11,40,0,40,1.052632,13,False,1.0,,
+2013,1,sunderland,38,Sunderland,10,8,20,41,60,-19,38,0,38,1.0,14,False,1.0,,
+2013,1,aston_villa,38,Aston Villa,10,8,20,39,61,-22,38,0,38,1.0,15,False,1.0,,
+2013,1,hull_city,38,Hull City,10,7,21,38,53,-15,37,0,37,0.973684,16,False,1.0,,
+2013,1,west_bromwich_albion,38,West Bromwich Albion,7,15,16,43,59,-16,36,0,36,0.947368,17,False,1.0,,
+2013,1,norwich_city,38,Norwich City,8,9,21,28,62,-34,33,0,33,0.868421,18,False,2.0,relegated,down
+2013,1,fulham,38,Fulham,9,5,24,40,85,-45,32,0,32,0.842105,19,False,2.0,relegated,down
+2013,1,cardiff_city,38,Cardiff City,7,9,22,32,74,-42,30,0,30,0.789474,20,False,2.0,relegated,down
+2013,2,leicester_city,46,Leicester City,31,9,6,83,43,40,102,0,102,2.217391,1,False,1.0,promoted,auto up
+2013,2,burnley,46,Burnley,26,15,5,72,37,35,93,0,93,2.021739,2,False,1.0,promoted,auto up
+2013,2,derby_county,46,Derby County,25,10,11,84,52,32,85,0,85,1.847826,3,False,2.0,,play-offs
+2013,2,queens_park_rangers,46,Queens Park Rangers,23,11,12,60,44,16,80,0,80,1.73913,4,False,1.0,promoted via play-offs,play-offs
+2013,2,wigan_athletic,46,Wigan Athletic,21,10,15,61,48,13,73,0,73,1.586957,5,False,2.0,,play-offs
+2013,2,brighton_and_hove_albion,46,Brighton & Hove Albion,19,15,12,55,40,15,72,0,72,1.565217,6,False,2.0,,play-offs
+2013,2,reading,46,Reading,19,14,13,70,56,14,71,0,71,1.543478,7,False,2.0,,
+2013,2,blackburn_rovers,46,Blackburn Rovers,18,16,12,70,62,8,70,0,70,1.521739,8,False,2.0,,
+2013,2,ipswich_town,46,Ipswich Town,18,14,14,60,54,6,68,0,68,1.478261,9,False,2.0,,
+2013,2,bournemouth,46,Bournemouth,18,12,16,67,66,1,66,0,66,1.434783,10,False,2.0,,
+2013,2,nottingham_forest,46,Nottingham Forest,16,17,13,67,64,3,65,0,65,1.413043,11,False,2.0,,
+2013,2,middlesbrough,46,Middlesbrough,16,16,14,62,50,12,64,0,64,1.391304,12,False,2.0,,
+2013,2,watford,46,Watford,15,15,16,74,64,10,60,0,60,1.304348,13,False,2.0,,
+2013,2,bolton_wanderers,46,Bolton Wanderers,14,17,15,59,60,-1,59,0,59,1.282609,14,False,2.0,,
+2013,2,leeds_united,46,Leeds United,16,9,21,59,67,-8,57,0,57,1.23913,15,False,2.0,,
+2013,2,sheffield_wednesday,46,Sheffield Wednesday,13,14,19,63,65,-2,53,0,53,1.152174,16,False,2.0,,
+2013,2,huddersfield_town,46,Huddersfield Town,14,11,21,58,65,-7,53,0,53,1.152174,17,False,2.0,,
+2013,2,charlton_athletic,46,Charlton Athletic,13,12,21,41,61,-20,51,0,51,1.108696,18,False,2.0,,
+2013,2,millwall,46,Millwall,11,15,20,46,74,-28,48,0,48,1.043478,19,False,2.0,,
+2013,2,blackpool,46,Blackpool,11,13,22,38,66,-28,46,0,46,1.0,20,False,2.0,,
+2013,2,birmingham_city,46,Birmingham City,11,11,24,58,74,-16,44,0,44,0.956522,21,False,2.0,,
+2013,2,doncaster_rovers,46,Doncaster Rovers,11,11,24,39,70,-31,44,0,44,0.956522,22,False,3.0,relegated,down
+2013,2,barnsley,46,Barnsley,9,12,25,44,77,-33,39,0,39,0.847826,23,False,3.0,relegated,down
+2013,2,yeovil_town,46,Yeovil Town,8,13,25,44,75,-31,37,0,37,0.804348,24,False,3.0,relegated,down
+2013,3,wolverhampton_wanderers,46,Wolverhampton Wanderers,31,10,5,89,31,58,103,0,103,2.23913,1,False,2.0,promoted,auto up
+2013,3,brentford,46,Brentford,28,10,8,72,43,29,94,0,94,2.043478,2,False,2.0,promoted,auto up
+2013,3,leyton_orient,46,Leyton Orient,25,11,10,85,45,40,86,0,86,1.869565,3,False,3.0,,play-offs
+2013,3,rotherham_united,46,Rotherham United,24,14,8,86,58,28,86,0,86,1.869565,4,False,2.0,promoted via play-offs,play-offs
+2013,3,preston_north_end,46,Preston North End,23,16,7,72,46,26,85,0,85,1.847826,5,False,3.0,,play-offs
+2013,3,peterborough_united,46,Peterborough United,23,5,18,72,58,14,74,0,74,1.608696,6,False,3.0,,play-offs
+2013,3,sheffield_united,46,Sheffield United,18,13,15,48,46,2,67,0,67,1.456522,7,False,3.0,,
+2013,3,swindon_town,46,Swindon Town,19,9,18,63,59,4,66,0,66,1.434783,8,False,3.0,,
+2013,3,port_vale,46,Port Vale,18,7,21,59,73,-14,61,0,61,1.326087,9,False,3.0,,
+2013,3,milton_keynes_dons,46,Milton Keynes Dons,17,9,20,63,65,-2,60,0,60,1.304348,10,False,3.0,,
+2013,3,bradford_city,46,Bradford City,14,17,15,57,54,3,59,0,59,1.282609,11,False,3.0,,
+2013,3,bristol_city,46,Bristol City,13,19,14,70,67,3,58,0,58,1.26087,12,False,3.0,,
+2013,3,walsall,46,Walsall,14,16,16,49,49,0,58,0,58,1.26087,13,False,3.0,,
+2013,3,crawley_town,46,Crawley Town,14,15,17,48,54,-6,57,0,57,1.23913,14,False,3.0,,
+2013,3,oldham_athletic,46,Oldham Athletic,14,14,18,50,59,-9,56,0,56,1.217391,15,False,3.0,,
+2013,3,colchester_united,46,Colchester United,13,14,19,53,61,-8,53,0,53,1.152174,16,False,3.0,,
+2013,3,gillingham,46,Gillingham,15,8,23,60,79,-19,53,0,53,1.152174,17,False,3.0,,
+2013,3,coventry_city,46,Coventry City,16,13,17,74,77,-3,61,10,51,1.108696,18,False,3.0,,
+2013,3,crewe_alexandra,46,Crewe Alexandra,13,12,21,54,80,-26,51,0,51,1.108696,19,False,3.0,,
+2013,3,notts_county,46,Notts County,15,5,26,64,77,-13,50,0,50,1.086957,20,False,3.0,,
+2013,3,tranmere_rovers,46,Tranmere Rovers,12,11,23,52,79,-27,47,0,47,1.021739,21,False,4.0,relegated,down
+2013,3,carlisle_united,46,Carlisle United,11,12,23,43,76,-33,45,0,45,0.978261,22,False,4.0,relegated,down
+2013,3,shrewsbury_town,46,Shrewsbury Town,9,15,22,44,65,-21,42,0,42,0.913043,23,False,4.0,relegated,down
+2013,3,stevenage,46,Stevenage,11,9,26,46,72,-26,42,0,42,0.913043,24,False,4.0,relegated,down
+2013,4,chesterfield,46,Chesterfield,23,15,8,71,40,31,84,0,84,1.826087,1,False,3.0,promoted,auto up
+2013,4,scunthorpe_united,46,Scunthorpe United,20,21,5,68,44,24,81,0,81,1.76087,2,False,3.0,promoted,auto up
+2013,4,rochdale,46,Rochdale,24,9,13,69,48,21,81,0,81,1.76087,3,False,3.0,promoted,auto up
+2013,4,fleetwood_town,46,Fleetwood Town,22,10,14,66,52,14,76,0,76,1.652174,4,False,3.0,promoted via play-offs,play-offs
+2013,4,southend_united,46,Southend United,19,15,12,56,39,17,72,0,72,1.565217,5,False,4.0,,play-offs
+2013,4,burton_albion,46,Burton Albion,19,15,12,47,42,5,72,0,72,1.565217,6,False,4.0,,play-offs
+2013,4,york_city,46,York City,18,17,11,52,41,11,71,0,71,1.543478,7,False,4.0,,play-offs
+2013,4,oxford_united,46,Oxford United,16,14,16,53,50,3,62,0,62,1.347826,8,False,4.0,,
+2013,4,dagenham_and_redbridge,46,Dagenham & Redbridge,15,15,16,53,59,-6,60,0,60,1.304348,9,False,4.0,,
+2013,4,plymouth_argyle,46,Plymouth Argyle,16,12,18,51,58,-7,60,0,60,1.304348,10,False,4.0,,
+2013,4,mansfield_town,46,Mansfield Town,15,15,16,49,58,-9,60,0,60,1.304348,11,False,4.0,,
+2013,4,bury,46,Bury,13,20,13,59,51,8,59,0,59,1.282609,12,False,4.0,,
+2013,4,portsmouth,46,Portsmouth,14,17,15,56,66,-10,59,0,59,1.282609,13,False,4.0,,
+2013,4,newport_county,46,Newport County,14,16,16,56,59,-3,58,0,58,1.26087,14,False,4.0,,
+2013,4,accrington_stanley,46,Accrington Stanley,14,15,17,54,56,-2,57,0,57,1.23913,15,False,4.0,,
+2013,4,exeter_city,46,Exeter City,14,13,19,54,57,-3,55,0,55,1.195652,16,False,4.0,,
+2013,4,cheltenham_town,46,Cheltenham Town,13,16,17,53,63,-10,55,0,55,1.195652,17,False,4.0,,
+2013,4,morecambe,46,Morecambe,13,15,18,52,64,-12,54,0,54,1.173913,18,False,4.0,,
+2013,4,hartlepool_united,46,Hartlepool United,14,11,21,50,56,-6,53,0,53,1.152174,19,False,4.0,,
+2013,4,afc_wimbledon,46,AFC Wimbledon,14,14,18,49,57,-8,56,3,53,1.152174,20,False,4.0,,
+2013,4,northampton_town,46,Northampton Town,13,14,19,42,57,-15,53,0,53,1.152174,21,False,4.0,,
+2013,4,wycombe_wanderers,46,Wycombe Wanderers,12,14,20,46,54,-8,50,0,50,1.086957,22,False,4.0,,
+2013,4,bristol_rovers,46,Bristol Rovers,12,14,20,43,54,-11,50,0,50,1.086957,23,False,5.0,relegated,down
+2013,4,torquay_united,46,Torquay United,12,9,25,42,66,-24,45,0,45,0.978261,24,False,5.0,relegated,down
+2013,5,luton_town,46,Luton Town,30,11,5,102,35,67,101,0,101,2.195652,1,False,4.0,promoted,auto up
+2013,5,cambridge_united,46,Cambridge United,23,13,10,72,35,37,82,0,82,1.782609,2,False,4.0,promoted via play-offs,play-offs
+2013,5,gateshead,46,Gateshead,22,13,11,72,50,22,79,0,79,1.717391,3,False,5.0,,play-offs
+2013,5,grimsby_town,46,Grimsby Town,22,12,12,65,46,19,78,0,78,1.695652,4,False,5.0,,play-offs
+2013,5,fc_halifax_town,46,FC Halifax Town,22,11,13,85,58,27,77,0,77,1.673913,5,False,5.0,,play-offs
+2013,5,braintree_town,46,Braintree Town,21,11,14,57,39,18,74,0,74,1.608696,6,False,5.0,,
+2013,5,kidderminster_harriers,46,Kidderminster Harriers,20,12,14,66,59,7,72,0,72,1.565217,7,False,5.0,,
+2013,5,barnet,46,Barnet,19,13,14,58,53,5,70,0,70,1.521739,8,False,5.0,,
+2013,5,alfreton_town,46,Alfreton Town,21,7,18,69,74,-5,70,0,70,1.521739,9,False,5.0,,
+2013,5,woking,46,Woking,20,8,18,66,69,-3,68,0,68,1.478261,10,False,5.0,,
+2013,5,forest_green_rovers,46,Forest Green Rovers,19,10,17,80,66,14,67,0,67,1.456522,11,False,5.0,,
+2013,5,salisbury_city,46,Salisbury City,19,10,17,58,63,-5,67,0,67,1.456522,12,False,,expelled,
+2013,5,nuneaton_borough,46,Nuneaton Borough,18,12,16,54,60,-6,66,0,66,1.434783,13,False,5.0,,
+2013,5,lincoln_city,46,Lincoln City,17,14,15,60,59,1,65,0,65,1.413043,14,False,5.0,,
+2013,5,macclesfield_town,46,Macclesfield Town,18,7,21,62,63,-1,61,0,61,1.326087,15,False,5.0,,
+2013,5,welling_united,46,Welling United,16,12,18,59,61,-2,60,0,60,1.304348,16,False,5.0,,
+2013,5,wrexham,46,Wrexham,16,11,19,61,61,0,59,0,59,1.282609,17,False,5.0,,
+2013,5,southport,46,Southport,14,11,21,53,71,-18,53,0,53,1.152174,18,False,5.0,,
+2013,5,aldershot_town,46,Aldershot Town,16,13,17,69,62,7,61,10,51,1.108696,19,False,5.0,,
+2013,5,hereford_united,46,Hereford United,13,12,21,44,63,-19,51,0,51,1.108696,20,False,,expelled,
+2013,5,chester,46,Chester,12,15,19,49,70,-21,51,0,51,1.108696,21,False,5.0,reprieved,
+2013,5,dartford,46,Dartford,12,8,26,49,74,-25,44,0,44,0.956522,22,False,5.0,reprieved,
+2013,5,tamworth,46,Tamworth,10,9,27,43,81,-38,39,0,39,0.847826,23,False,,relegated,down
+2013,5,hyde_united,46,Hyde United,1,7,38,38,119,-81,10,0,10,0.217391,24,False,,relegated,down
+2014,1,chelsea,38,Chelsea,26,9,3,73,32,41,87,0,87,2.289474,1,False,1.0,champions,
+2014,1,manchester_city,38,Manchester City,24,7,7,83,38,45,79,0,79,2.078947,2,False,1.0,,
+2014,1,arsenal,38,Arsenal,22,9,7,71,36,35,75,0,75,1.973684,3,False,1.0,,
+2014,1,manchester_united,38,Manchester United,20,10,8,62,37,25,70,0,70,1.842105,4,False,1.0,,
+2014,1,tottenham_hotspur,38,Tottenham Hotspur,19,7,12,58,53,5,64,0,64,1.684211,5,False,1.0,,
+2014,1,liverpool,38,Liverpool,18,8,12,52,48,4,62,0,62,1.631579,6,False,1.0,,
+2014,1,southampton,38,Southampton,18,6,14,54,33,21,60,0,60,1.578947,7,False,1.0,,
+2014,1,swansea_city,38,Swansea City,16,8,14,46,49,-3,56,0,56,1.473684,8,False,1.0,,
+2014,1,stoke_city,38,Stoke City,15,9,14,48,45,3,54,0,54,1.421053,9,False,1.0,,
+2014,1,crystal_palace,38,Crystal Palace,13,9,16,47,51,-4,48,0,48,1.263158,10,False,1.0,,
+2014,1,everton,38,Everton,12,11,15,48,50,-2,47,0,47,1.236842,11,False,1.0,,
+2014,1,west_ham_united,38,West Ham United,12,11,15,44,47,-3,47,0,47,1.236842,12,False,1.0,,
+2014,1,west_bromwich_albion,38,West Bromwich Albion,11,11,16,38,51,-13,44,0,44,1.157895,13,False,1.0,,
+2014,1,leicester_city,38,Leicester City,11,8,19,46,55,-9,41,0,41,1.078947,14,False,1.0,,
+2014,1,newcastle_united,38,Newcastle United,10,9,19,40,63,-23,39,0,39,1.026316,15,False,1.0,,
+2014,1,sunderland,38,Sunderland,7,17,14,31,53,-22,38,0,38,1.0,16,False,1.0,,
+2014,1,aston_villa,38,Aston Villa,10,8,20,31,57,-26,38,0,38,1.0,17,False,1.0,,
+2014,1,hull_city,38,Hull City,8,11,19,33,51,-18,35,0,35,0.921053,18,False,2.0,relegated,down
+2014,1,burnley,38,Burnley,7,12,19,28,53,-25,33,0,33,0.868421,19,False,2.0,relegated,down
+2014,1,queens_park_rangers,38,Queens Park Rangers,8,6,24,42,73,-31,30,0,30,0.789474,20,False,2.0,relegated,down
+2014,2,bournemouth,46,Bournemouth,26,12,8,98,45,53,90,0,90,1.956522,1,False,1.0,promoted,auto up
+2014,2,watford,46,Watford,27,8,11,91,50,41,89,0,89,1.934783,2,False,1.0,promoted,auto up
+2014,2,norwich_city,46,Norwich City,25,11,10,88,48,40,86,0,86,1.869565,3,False,1.0,promoted via play-offs,play-offs
+2014,2,middlesbrough,46,Middlesbrough,25,10,11,68,37,31,85,0,85,1.847826,4,False,2.0,,play-offs
+2014,2,brentford,46,Brentford,23,9,14,78,59,19,78,0,78,1.695652,5,False,2.0,,play-offs
+2014,2,ipswich_town,46,Ipswich Town,22,12,12,72,54,18,78,0,78,1.695652,6,False,2.0,,play-offs
+2014,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,22,12,12,70,56,14,78,0,78,1.695652,7,False,2.0,,
+2014,2,derby_county,46,Derby County,21,14,11,85,56,29,77,0,77,1.673913,8,False,2.0,,
+2014,2,blackburn_rovers,46,Blackburn Rovers,17,16,13,66,59,7,67,0,67,1.456522,9,False,2.0,,
+2014,2,birmingham_city,46,Birmingham City,16,15,15,54,64,-10,63,0,63,1.369565,10,False,2.0,,
+2014,2,cardiff_city,46,Cardiff City,16,14,16,57,61,-4,62,0,62,1.347826,11,False,2.0,,
+2014,2,charlton_athletic,46,Charlton Athletic,14,18,14,54,60,-6,60,0,60,1.304348,12,False,2.0,,
+2014,2,sheffield_wednesday,46,Sheffield Wednesday,14,18,14,43,49,-6,60,0,60,1.304348,13,False,2.0,,
+2014,2,nottingham_forest,46,Nottingham Forest,15,14,17,71,69,2,59,0,59,1.282609,14,False,2.0,,
+2014,2,leeds_united,46,Leeds United,15,11,20,50,61,-11,56,0,56,1.217391,15,False,2.0,,
+2014,2,huddersfield_town,46,Huddersfield Town,13,16,17,58,75,-17,55,0,55,1.195652,16,False,2.0,,
+2014,2,fulham,46,Fulham,14,10,22,62,83,-21,52,0,52,1.130435,17,False,2.0,,
+2014,2,bolton_wanderers,46,Bolton Wanderers,13,12,21,54,67,-13,51,0,51,1.108696,18,False,2.0,,
+2014,2,reading,46,Reading,13,11,22,48,69,-21,50,0,50,1.086957,19,False,2.0,,
+2014,2,brighton_and_hove_albion,46,Brighton & Hove Albion,10,17,19,44,54,-10,47,0,47,1.021739,20,False,2.0,,
+2014,2,rotherham_united,46,Rotherham United,11,16,19,46,67,-21,49,3,46,1.0,21,False,2.0,,
+2014,2,millwall,46,Millwall,9,14,23,42,76,-34,41,0,41,0.891304,22,False,3.0,relegated,down
+2014,2,wigan_athletic,46,Wigan Athletic,9,12,25,39,64,-25,39,0,39,0.847826,23,False,3.0,relegated,down
+2014,2,blackpool,46,Blackpool,4,14,28,36,91,-55,26,0,26,0.565217,24,False,3.0,relegated,down
+2014,3,bristol_city,46,Bristol City,29,12,5,96,38,58,99,0,99,2.152174,1,False,2.0,promoted,auto up
+2014,3,milton_keynes_dons,46,Milton Keynes Dons,27,10,9,101,44,57,91,0,91,1.978261,2,False,2.0,promoted,auto up
+2014,3,preston_north_end,46,Preston North End,25,14,7,79,40,39,89,0,89,1.934783,3,False,2.0,promoted via play-offs,play-offs
+2014,3,swindon_town,46,Swindon Town,23,10,13,76,57,19,79,0,79,1.717391,4,False,3.0,,play-offs
+2014,3,sheffield_united,46,Sheffield United,19,14,13,66,53,13,71,0,71,1.543478,5,False,3.0,,play-offs
+2014,3,chesterfield,46,Chesterfield,19,12,15,68,55,13,69,0,69,1.5,6,False,3.0,,play-offs
+2014,3,bradford_city,46,Bradford City,17,14,15,55,55,0,65,0,65,1.413043,7,False,3.0,,
+2014,3,rochdale,46,Rochdale,19,6,21,72,66,6,63,0,63,1.369565,8,False,3.0,,
+2014,3,peterborough_united,46,Peterborough United,18,9,19,53,56,-3,63,0,63,1.369565,9,False,3.0,,
+2014,3,fleetwood_town,46,Fleetwood Town,17,12,17,49,52,-3,63,0,63,1.369565,10,False,3.0,,
+2014,3,barnsley,46,Barnsley,17,11,18,62,61,1,62,0,62,1.347826,11,False,3.0,,
+2014,3,gillingham,46,Gillingham,16,14,16,65,66,-1,62,0,62,1.347826,12,False,3.0,,
+2014,3,doncaster_rovers,46,Doncaster Rovers,16,13,17,58,62,-4,61,0,61,1.326087,13,False,3.0,,
+2014,3,walsall,46,Walsall,14,17,15,50,54,-4,59,0,59,1.282609,14,False,3.0,,
+2014,3,oldham_athletic,46,Oldham Athletic,14,15,17,54,67,-13,57,0,57,1.23913,15,False,3.0,,
+2014,3,scunthorpe_united,46,Scunthorpe United,14,14,18,62,75,-13,56,0,56,1.217391,16,False,3.0,,
+2014,3,coventry_city,46,Coventry City,13,16,17,49,60,-11,55,0,55,1.195652,17,False,3.0,,
+2014,3,port_vale,46,Port Vale,15,9,22,55,65,-10,54,0,54,1.173913,18,False,3.0,,
+2014,3,colchester_united,46,Colchester United,14,10,22,58,77,-19,52,0,52,1.130435,19,False,3.0,,
+2014,3,crewe_alexandra,46,Crewe Alexandra,14,10,22,43,75,-32,52,0,52,1.130435,20,False,3.0,,
+2014,3,notts_county,46,Notts County,12,14,20,45,63,-18,50,0,50,1.086957,21,False,4.0,relegated,down
+2014,3,crawley_town,46,Crawley Town,13,11,22,53,79,-26,50,0,50,1.086957,22,False,4.0,relegated,down
+2014,3,leyton_orient,46,Leyton Orient,12,13,21,59,69,-10,49,0,49,1.065217,23,False,4.0,relegated,down
+2014,3,yeovil_town,46,Yeovil Town,10,10,26,36,75,-39,40,0,40,0.869565,24,False,4.0,relegated,down
+2014,4,burton_albion,46,Burton Albion,28,10,8,69,39,30,94,0,94,2.043478,1,False,3.0,promoted,auto up
+2014,4,shrewsbury_town,46,Shrewsbury Town,27,8,11,67,31,36,89,0,89,1.934783,2,False,3.0,promoted,auto up
+2014,4,bury,46,Bury,26,7,13,60,40,20,85,0,85,1.847826,3,False,3.0,promoted,auto up
+2014,4,wycombe_wanderers,46,Wycombe Wanderers,23,15,8,67,45,22,84,0,84,1.826087,4,False,4.0,,play-offs
+2014,4,southend_united,46,Southend United,24,12,10,54,38,16,84,0,84,1.826087,5,False,3.0,promoted via play-offs,play-offs
+2014,4,stevenage,46,Stevenage,20,12,14,62,54,8,72,0,72,1.565217,6,False,4.0,,play-offs
+2014,4,plymouth_argyle,46,Plymouth Argyle,20,11,15,55,37,18,71,0,71,1.543478,7,False,4.0,,play-offs
+2014,4,luton_town,46,Luton Town,19,11,16,54,44,10,68,0,68,1.478261,8,False,4.0,,
+2014,4,newport_county,46,Newport County,18,11,17,51,54,-3,65,0,65,1.413043,9,False,4.0,,
+2014,4,exeter_city,46,Exeter City,17,13,16,61,65,-4,64,0,64,1.391304,10,False,4.0,,
+2014,4,morecambe,46,Morecambe,17,12,17,53,52,1,63,0,63,1.369565,11,False,4.0,,
+2014,4,northampton_town,46,Northampton Town,18,7,21,67,62,5,61,0,61,1.326087,12,False,4.0,,
+2014,4,oxford_united,46,Oxford United,15,16,15,50,49,1,61,0,61,1.326087,13,False,4.0,,
+2014,4,dagenham_and_redbridge,46,Dagenham & Redbridge,17,8,21,58,59,-1,59,0,59,1.282609,14,False,4.0,,
+2014,4,afc_wimbledon,46,AFC Wimbledon,14,16,16,54,60,-6,58,0,58,1.26087,15,False,4.0,,
+2014,4,portsmouth,46,Portsmouth,14,15,17,52,54,-2,57,0,57,1.23913,16,False,4.0,,
+2014,4,accrington_stanley,46,Accrington Stanley,15,11,20,58,77,-19,56,0,56,1.217391,17,False,4.0,,
+2014,4,york_city,46,York City,11,19,16,46,51,-5,52,0,52,1.130435,18,False,4.0,,
+2014,4,cambridge_united,46,Cambridge United,13,12,21,61,66,-5,51,0,51,1.108696,19,False,4.0,,
+2014,4,carlisle_united,46,Carlisle United,14,8,24,56,74,-18,50,0,50,1.086957,20,False,4.0,,
+2014,4,mansfield_town,46,Mansfield Town,13,9,24,38,62,-24,48,0,48,1.043478,21,False,4.0,,
+2014,4,hartlepool_united,46,Hartlepool United,12,9,25,39,70,-31,45,0,45,0.978261,22,False,4.0,,
+2014,4,cheltenham_town,46,Cheltenham Town,9,14,23,40,67,-27,41,0,41,0.891304,23,False,5.0,relegated,down
+2014,4,tranmere_rovers,46,Tranmere Rovers,9,12,25,45,67,-22,39,0,39,0.847826,24,False,5.0,relegated,down
+2014,5,barnet,46,Barnet,28,8,10,94,46,48,92,0,92,2.0,1,False,4.0,promoted,auto up
+2014,5,bristol_rovers,46,Bristol Rovers,25,16,5,73,34,39,91,0,91,1.978261,2,False,4.0,promoted via play-offs,play-offs
+2014,5,grimsby_town,46,Grimsby Town,25,11,10,74,40,34,86,0,86,1.869565,3,False,5.0,,play-offs
+2014,5,eastleigh,46,Eastleigh,24,10,12,87,61,26,82,0,82,1.782609,4,False,5.0,,play-offs
+2014,5,forest_green_rovers,46,Forest Green Rovers,22,16,8,80,54,26,82,0,82,1.782609,5,False,5.0,,play-offs
+2014,5,macclesfield_town,46,Macclesfield Town,21,15,10,60,46,14,78,0,78,1.695652,6,False,5.0,,
+2014,5,woking,46,Woking,21,13,12,77,52,25,76,0,76,1.652174,7,False,5.0,,
+2014,5,dover_athletic,46,Dover Athletic,19,11,16,69,58,11,68,0,68,1.478261,8,False,5.0,,
+2014,5,fc_halifax_town,46,FC Halifax Town,17,15,14,60,54,6,66,0,66,1.434783,9,False,5.0,,
+2014,5,gateshead,46,Gateshead,17,15,14,66,62,4,66,0,66,1.434783,10,False,5.0,,
+2014,5,wrexham,46,Wrexham,17,15,14,56,52,4,66,0,66,1.434783,11,False,5.0,,
+2014,5,chester,46,Chester,19,6,21,64,76,-12,63,0,63,1.369565,12,False,5.0,,
+2014,5,torquay_united,46,Torquay United,16,13,17,64,60,4,61,0,61,1.326087,13,False,5.0,,
+2014,5,braintree_town,46,Braintree Town,18,5,23,56,57,-1,59,0,59,1.282609,14,False,5.0,,
+2014,5,lincoln_city,46,Lincoln City,16,10,20,62,71,-9,58,0,58,1.26087,15,False,5.0,,
+2014,5,kidderminster_harriers,46,Kidderminster Harriers,15,12,19,51,60,-9,57,0,57,1.23913,16,False,5.0,,
+2014,5,altrincham,46,Altrincham,16,8,22,54,73,-19,56,0,56,1.217391,17,False,5.0,,
+2014,5,aldershot_town,46,Aldershot Town,14,11,21,51,61,-10,53,0,53,1.152174,18,False,5.0,,
+2014,5,southport,46,Southport,13,12,21,47,72,-25,51,0,51,1.108696,19,False,5.0,,
+2014,5,welling_united,46,Welling United,11,12,23,52,73,-21,45,0,45,0.978261,20,False,5.0,,
+2014,5,alfreton_town,46,Alfreton Town,12,9,25,49,90,-41,45,0,45,0.978261,21,False,,relegated,down
+2014,5,afc_telford_united,46,AFC Telford United,10,9,27,58,84,-26,39,0,39,0.847826,22,False,,relegated,down
+2014,5,dartford,46,Dartford,8,15,23,44,74,-30,39,0,39,0.847826,23,False,,relegated,down
+2014,5,nuneaton_borough,46,Nuneaton Borough,10,9,27,38,76,-38,39,0,39,0.847826,24,False,,relegated,down
+2015,1,leicester_city,38,Leicester City,23,12,3,68,36,32,81,0,81,2.131579,1,False,1.0,champions,
+2015,1,arsenal,38,Arsenal,20,11,7,65,36,29,71,0,71,1.868421,2,False,1.0,,
+2015,1,tottenham_hotspur,38,Tottenham Hotspur,19,13,6,69,35,34,70,0,70,1.842105,3,False,1.0,,
+2015,1,manchester_city,38,Manchester City,19,9,10,71,41,30,66,0,66,1.736842,4,False,1.0,,
+2015,1,manchester_united,38,Manchester United,19,9,10,49,35,14,66,0,66,1.736842,5,False,1.0,,
+2015,1,southampton,38,Southampton,18,9,11,59,41,18,63,0,63,1.657895,6,False,1.0,,
+2015,1,west_ham_united,38,West Ham United,16,14,8,65,51,14,62,0,62,1.631579,7,False,1.0,,
+2015,1,liverpool,38,Liverpool,16,12,10,63,50,13,60,0,60,1.578947,8,False,1.0,,
+2015,1,stoke_city,38,Stoke City,14,9,15,41,55,-14,51,0,51,1.342105,9,False,1.0,,
+2015,1,chelsea,38,Chelsea,12,14,12,59,53,6,50,0,50,1.315789,10,False,1.0,,
+2015,1,everton,38,Everton,11,14,13,59,55,4,47,0,47,1.236842,11,False,1.0,,
+2015,1,swansea_city,38,Swansea City,12,11,15,42,52,-10,47,0,47,1.236842,12,False,1.0,,
+2015,1,watford,38,Watford,12,9,17,40,50,-10,45,0,45,1.184211,13,False,1.0,,
+2015,1,west_bromwich_albion,38,West Bromwich Albion,10,13,15,34,48,-14,43,0,43,1.131579,14,False,1.0,,
+2015,1,crystal_palace,38,Crystal Palace,11,9,18,39,51,-12,42,0,42,1.105263,15,False,1.0,,
+2015,1,bournemouth,38,Bournemouth,11,9,18,45,67,-22,42,0,42,1.105263,16,False,1.0,,
+2015,1,sunderland,38,Sunderland,9,12,17,48,62,-14,39,0,39,1.026316,17,False,1.0,,
+2015,1,newcastle_united,38,Newcastle United,9,10,19,44,65,-21,37,0,37,0.973684,18,False,2.0,relegated,down
+2015,1,norwich_city,38,Norwich City,9,7,22,39,67,-28,34,0,34,0.894737,19,False,2.0,relegated,down
+2015,1,aston_villa,38,Aston Villa,3,8,27,27,76,-49,17,0,17,0.447368,20,False,2.0,relegated,down
+2015,2,burnley,46,Burnley,26,15,5,72,35,37,93,0,93,2.021739,1,False,1.0,promoted,auto up
+2015,2,middlesbrough,46,Middlesbrough,26,11,9,63,31,32,89,0,89,1.934783,2,False,1.0,promoted,auto up
+2015,2,brighton_and_hove_albion,46,Brighton & Hove Albion,24,17,5,72,42,30,89,0,89,1.934783,3,False,2.0,,play-offs
+2015,2,hull_city,46,Hull City,24,11,11,69,35,34,83,0,83,1.804348,4,False,1.0,promoted via play-offs,play-offs
+2015,2,derby_county,46,Derby County,21,15,10,66,43,23,78,0,78,1.695652,5,False,2.0,,play-offs
+2015,2,sheffield_wednesday,46,Sheffield Wednesday,19,17,10,66,45,21,74,0,74,1.608696,6,False,2.0,,play-offs
+2015,2,ipswich_town,46,Ipswich Town,18,15,13,53,51,2,69,0,69,1.5,7,False,2.0,,
+2015,2,cardiff_city,46,Cardiff City,17,17,12,56,51,5,68,0,68,1.478261,8,False,2.0,,
+2015,2,brentford,46,Brentford,19,8,19,72,67,5,65,0,65,1.413043,9,False,2.0,,
+2015,2,birmingham_city,46,Birmingham City,16,15,15,53,49,4,63,0,63,1.369565,10,False,2.0,,
+2015,2,preston_north_end,46,Preston North End,15,17,14,45,45,0,62,0,62,1.347826,11,False,2.0,,
+2015,2,queens_park_rangers,46,Queens Park Rangers,14,18,14,54,54,0,60,0,60,1.304348,12,False,2.0,,
+2015,2,leeds_united,46,Leeds United,14,17,15,50,58,-8,59,0,59,1.282609,13,False,2.0,,
+2015,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,14,16,16,53,58,-5,58,0,58,1.26087,14,False,2.0,,
+2015,2,blackburn_rovers,46,Blackburn Rovers,13,16,17,46,46,0,55,0,55,1.195652,15,False,2.0,,
+2015,2,nottingham_forest,46,Nottingham Forest,13,16,17,43,47,-4,55,0,55,1.195652,16,False,2.0,,
+2015,2,reading,46,Reading,13,13,20,52,59,-7,52,0,52,1.130435,17,False,2.0,,
+2015,2,bristol_city,46,Bristol City,13,13,20,54,71,-17,52,0,52,1.130435,18,False,2.0,,
+2015,2,huddersfield_town,46,Huddersfield Town,13,12,21,59,70,-11,51,0,51,1.108696,19,False,2.0,,
+2015,2,fulham,46,Fulham,12,15,19,66,79,-13,51,0,51,1.108696,20,False,2.0,,
+2015,2,rotherham_united,46,Rotherham United,13,10,23,53,71,-18,49,0,49,1.065217,21,False,2.0,,
+2015,2,charlton_athletic,46,Charlton Athletic,9,13,24,40,80,-40,40,0,40,0.869565,22,False,3.0,relegated,down
+2015,2,milton_keynes_dons,46,Milton Keynes Dons,9,12,25,39,69,-30,39,0,39,0.847826,23,False,3.0,relegated,down
+2015,2,bolton_wanderers,46,Bolton Wanderers,5,15,26,41,81,-40,30,0,30,0.652174,24,False,3.0,relegated,down
+2015,3,wigan_athletic,46,Wigan Athletic,24,15,7,82,45,37,87,0,87,1.891304,1,False,2.0,promoted,auto up
+2015,3,burton_albion,46,Burton Albion,25,10,11,57,37,20,85,0,85,1.847826,2,False,2.0,promoted,auto up
+2015,3,walsall,46,Walsall,24,12,10,71,49,22,84,0,84,1.826087,3,False,3.0,,play-offs
+2015,3,millwall,46,Millwall,24,9,13,73,49,24,81,0,81,1.76087,4,False,3.0,,play-offs
+2015,3,bradford_city,46,Bradford City,23,11,12,55,40,15,80,0,80,1.73913,5,False,3.0,,play-offs
+2015,3,barnsley,46,Barnsley,22,8,16,70,54,16,74,0,74,1.608696,6,False,2.0,promoted via play-offs,play-offs
+2015,3,scunthorpe_united,46,Scunthorpe United,21,11,14,60,47,13,74,0,74,1.608696,7,False,3.0,,
+2015,3,coventry_city,46,Coventry City,19,12,15,67,49,18,69,0,69,1.5,8,False,3.0,,
+2015,3,gillingham,46,Gillingham,19,12,15,71,56,15,69,0,69,1.5,9,False,3.0,,
+2015,3,rochdale,46,Rochdale,19,12,15,68,61,7,69,0,69,1.5,10,False,3.0,,
+2015,3,sheffield_united,46,Sheffield United,18,12,16,64,59,5,66,0,66,1.434783,11,False,3.0,,
+2015,3,port_vale,46,Port Vale,18,11,17,56,58,-2,65,0,65,1.413043,12,False,3.0,,
+2015,3,peterborough_united,46,Peterborough United,19,6,21,82,73,9,63,0,63,1.369565,13,False,3.0,,
+2015,3,bury,46,Bury,16,12,18,56,73,-17,60,0,60,1.304348,14,False,3.0,,
+2015,3,southend_united,46,Southend United,16,11,19,58,64,-6,59,0,59,1.282609,15,False,3.0,,
+2015,3,swindon_town,46,Swindon Town,16,11,19,64,71,-7,59,0,59,1.282609,16,False,3.0,,
+2015,3,oldham_athletic,46,Oldham Athletic,12,18,16,44,58,-14,54,0,54,1.173913,17,False,3.0,,
+2015,3,chesterfield,46,Chesterfield,15,8,23,58,70,-12,53,0,53,1.152174,18,False,3.0,,
+2015,3,fleetwood_town,46,Fleetwood Town,12,15,19,52,56,-4,51,0,51,1.108696,19,False,3.0,,
+2015,3,shrewsbury_town,46,Shrewsbury Town,13,11,22,58,79,-21,50,0,50,1.086957,20,False,3.0,,
+2015,3,doncaster_rovers,46,Doncaster Rovers,11,13,22,48,64,-16,46,0,46,1.0,21,False,4.0,relegated,down
+2015,3,blackpool,46,Blackpool,12,10,24,40,63,-23,46,0,46,1.0,22,False,4.0,relegated,down
+2015,3,colchester_united,46,Colchester United,9,13,24,57,99,-42,40,0,40,0.869565,23,False,4.0,relegated,down
+2015,3,crewe_alexandra,46,Crewe Alexandra,7,13,26,46,83,-37,34,0,34,0.73913,24,False,4.0,relegated,down
+2015,4,northampton_town,46,Northampton Town,29,12,5,82,46,36,99,0,99,2.152174,1,False,3.0,promoted,auto up
+2015,4,oxford_united,46,Oxford United,24,14,8,84,41,43,86,0,86,1.869565,2,False,3.0,promoted,auto up
+2015,4,bristol_rovers,46,Bristol Rovers,26,7,13,77,46,31,85,0,85,1.847826,3,False,3.0,promoted,auto up
+2015,4,accrington_stanley,46,Accrington Stanley,24,13,9,74,48,26,85,0,85,1.847826,4,False,4.0,,play-offs
+2015,4,plymouth_argyle,46,Plymouth Argyle,24,9,13,72,46,26,81,0,81,1.76087,5,False,4.0,,play-offs
+2015,4,portsmouth,46,Portsmouth,21,15,10,75,44,31,78,0,78,1.695652,6,False,4.0,,play-offs
+2015,4,afc_wimbledon,46,AFC Wimbledon,21,12,13,64,50,14,75,0,75,1.630435,7,False,3.0,promoted via play-offs,play-offs
+2015,4,leyton_orient,46,Leyton Orient,19,12,15,60,61,-1,69,0,69,1.5,8,False,4.0,,
+2015,4,cambridge_united,46,Cambridge United,18,14,14,66,55,11,68,0,68,1.478261,9,False,4.0,,
+2015,4,carlisle_united,46,Carlisle United,17,16,13,67,62,5,67,0,67,1.456522,10,False,4.0,,
+2015,4,luton_town,46,Luton Town,19,9,18,63,61,2,66,0,66,1.434783,11,False,4.0,,
+2015,4,mansfield_town,46,Mansfield Town,17,13,16,61,53,8,64,0,64,1.391304,12,False,4.0,,
+2015,4,wycombe_wanderers,46,Wycombe Wanderers,17,13,16,45,44,1,64,0,64,1.391304,13,False,4.0,,
+2015,4,exeter_city,46,Exeter City,17,13,16,63,65,-2,64,0,64,1.391304,14,False,4.0,,
+2015,4,barnet,46,Barnet,17,11,18,67,68,-1,62,0,62,1.347826,15,False,4.0,,
+2015,4,hartlepool_united,46,Hartlepool United,15,6,25,49,72,-23,51,0,51,1.108696,16,False,4.0,,
+2015,4,notts_county,46,Notts County,14,9,23,54,83,-29,51,0,51,1.108696,17,False,4.0,,
+2015,4,stevenage,46,Stevenage,11,15,20,52,67,-15,48,0,48,1.043478,18,False,4.0,,
+2015,4,yeovil_town,46,Yeovil Town,11,15,20,43,59,-16,48,0,48,1.043478,19,False,4.0,,
+2015,4,crawley_town,46,Crawley Town,13,8,25,45,78,-33,47,0,47,1.021739,20,False,4.0,,
+2015,4,morecambe,46,Morecambe,12,10,24,69,91,-22,46,0,46,1.0,21,False,4.0,,
+2015,4,newport_county,46,Newport County,10,13,23,43,64,-21,43,0,43,0.934783,22,False,4.0,,
+2015,4,dagenham_and_redbridge,46,Dagenham & Redbridge,8,10,28,46,81,-35,34,0,34,0.73913,23,False,5.0,relegated,down
+2015,4,york_city,46,York City,7,13,26,51,87,-36,34,0,34,0.73913,24,False,5.0,relegated,down
+2015,5,cheltenham_town,46,Cheltenham Town,30,11,5,87,30,57,101,0,101,2.195652,1,False,4.0,promoted,auto up
+2015,5,forest_green_rovers,46,Forest Green Rovers,26,11,9,69,42,27,89,0,89,1.934783,2,False,5.0,,play-offs
+2015,5,braintree_town,46,Braintree Town,23,12,11,56,38,18,81,0,81,1.76087,3,False,5.0,,play-offs
+2015,5,grimsby_town,46,Grimsby Town,22,14,10,82,45,37,80,0,80,1.73913,4,False,4.0,promoted via play-offs,play-offs
+2015,5,dover_athletic,46,Dover Athletic,23,11,12,75,53,22,80,0,80,1.73913,5,False,5.0,,play-offs
+2015,5,tranmere_rovers,46,Tranmere Rovers,22,12,12,61,44,17,78,0,78,1.695652,6,False,5.0,,
+2015,5,eastleigh,46,Eastleigh,21,12,13,64,53,11,75,0,75,1.630435,7,False,5.0,,
+2015,5,wrexham,46,Wrexham,20,9,17,71,56,15,69,0,69,1.5,8,False,5.0,,
+2015,5,gateshead,46,Gateshead,19,10,17,59,70,-11,67,0,67,1.456522,9,False,5.0,,
+2015,5,macclesfield_town,46,Macclesfield Town,19,9,18,60,48,12,66,0,66,1.434783,10,False,5.0,,
+2015,5,barrow,46,Barrow,17,14,15,64,71,-7,65,0,65,1.413043,11,False,5.0,,
+2015,5,woking,46,Woking,17,10,19,71,68,3,61,0,61,1.326087,12,False,5.0,,
+2015,5,lincoln_city,46,Lincoln City,16,13,17,69,68,1,61,0,61,1.326087,13,False,5.0,,
+2015,5,bromley,46,Bromley,17,9,20,67,72,-5,60,0,60,1.304348,14,False,5.0,,
+2015,5,aldershot_town,46,Aldershot Town,16,8,22,54,72,-18,56,0,56,1.217391,15,False,5.0,,
+2015,5,southport,46,Southport,14,13,19,52,65,-13,55,0,55,1.195652,16,False,5.0,,
+2015,5,chester,46,Chester,14,12,20,67,71,-4,54,0,54,1.173913,17,False,5.0,,
+2015,5,torquay_united,46,Torquay United,13,12,21,54,76,-22,51,0,51,1.108696,18,False,5.0,,
+2015,5,boreham_wood,46,Boreham Wood,12,14,20,44,49,-5,50,0,50,1.086957,19,False,5.0,,
+2015,5,guiseley,46,Guiseley,11,16,19,47,70,-23,49,0,49,1.065217,20,False,5.0,,
+2015,5,fc_halifax_town,46,FC Halifax Town,12,12,22,55,82,-27,48,0,48,1.043478,21,False,,relegated,down
+2015,5,altrincham,46,Altrincham,10,14,22,48,73,-25,44,0,44,0.956522,22,False,,relegated,down
+2015,5,kidderminster_harriers,46,Kidderminster Harriers,9,13,24,49,71,-22,40,0,40,0.869565,23,False,,relegated,down
+2015,5,welling_united,46,Welling United,8,11,27,35,73,-38,35,0,35,0.76087,24,False,,relegated,down
+2016,1,chelsea,38,Chelsea,30,3,5,85,33,52,93,0,93,2.447368,1,False,1.0,champions,
+2016,1,tottenham_hotspur,38,Tottenham Hotspur,26,8,4,86,26,60,86,0,86,2.263158,2,False,1.0,,
+2016,1,manchester_city,38,Manchester City,23,9,6,80,39,41,78,0,78,2.052632,3,False,1.0,,
+2016,1,liverpool,38,Liverpool,22,10,6,78,42,36,76,0,76,2.0,4,False,1.0,,
+2016,1,arsenal,38,Arsenal,23,6,9,77,44,33,75,0,75,1.973684,5,False,1.0,,
+2016,1,manchester_united,38,Manchester United,18,15,5,54,29,25,69,0,69,1.815789,6,False,1.0,,
+2016,1,everton,38,Everton,17,10,11,62,44,18,61,0,61,1.605263,7,False,1.0,,
+2016,1,southampton,38,Southampton,12,10,16,41,48,-7,46,0,46,1.210526,8,False,1.0,,
+2016,1,bournemouth,38,Bournemouth,12,10,16,55,67,-12,46,0,46,1.210526,9,False,1.0,,
+2016,1,west_bromwich_albion,38,West Bromwich Albion,12,9,17,43,51,-8,45,0,45,1.184211,10,False,1.0,,
+2016,1,west_ham_united,38,West Ham United,12,9,17,47,64,-17,45,0,45,1.184211,11,False,1.0,,
+2016,1,leicester_city,38,Leicester City,12,8,18,48,63,-15,44,0,44,1.157895,12,False,1.0,,
+2016,1,stoke_city,38,Stoke City,11,11,16,41,56,-15,44,0,44,1.157895,13,False,1.0,,
+2016,1,crystal_palace,38,Crystal Palace,12,5,21,50,63,-13,41,0,41,1.078947,14,False,1.0,,
+2016,1,swansea_city,38,Swansea City,12,5,21,45,70,-25,41,0,41,1.078947,15,False,1.0,,
+2016,1,burnley,38,Burnley,11,7,20,39,55,-16,40,0,40,1.052632,16,False,1.0,,
+2016,1,watford,38,Watford,11,7,20,40,68,-28,40,0,40,1.052632,17,False,1.0,,
+2016,1,hull_city,38,Hull City,9,7,22,37,80,-43,34,0,34,0.894737,18,False,2.0,relegated,down
+2016,1,middlesbrough,38,Middlesbrough,5,13,20,27,53,-26,28,0,28,0.736842,19,False,2.0,relegated,down
+2016,1,sunderland,38,Sunderland,6,6,26,29,69,-40,24,0,24,0.631579,20,False,2.0,relegated,down
+2016,2,newcastle_united,46,Newcastle United,29,7,10,85,40,45,94,0,94,2.043478,1,False,1.0,promoted,auto up
+2016,2,brighton_and_hove_albion,46,Brighton & Hove Albion,28,9,9,74,40,34,93,0,93,2.021739,2,False,1.0,promoted,auto up
+2016,2,reading,46,Reading,26,7,13,68,64,4,85,0,85,1.847826,3,False,2.0,,play-offs
+2016,2,sheffield_wednesday,46,Sheffield Wednesday,24,9,13,60,45,15,81,0,81,1.76087,4,False,2.0,,play-offs
+2016,2,huddersfield_town,46,Huddersfield Town,25,6,15,56,58,-2,81,0,81,1.76087,5,False,1.0,promoted via play-offs,play-offs
+2016,2,fulham,46,Fulham,22,14,10,85,57,28,80,0,80,1.73913,6,False,2.0,,play-offs
+2016,2,leeds_united,46,Leeds United,22,9,15,61,47,14,75,0,75,1.630435,7,False,2.0,,
+2016,2,norwich_city,46,Norwich City,20,10,16,85,69,16,70,0,70,1.521739,8,False,2.0,,
+2016,2,derby_county,46,Derby County,18,13,15,54,50,4,67,0,67,1.456522,9,False,2.0,,
+2016,2,brentford,46,Brentford,18,10,18,75,65,10,64,0,64,1.391304,10,False,2.0,,
+2016,2,preston_north_end,46,Preston North End,16,14,16,64,63,1,62,0,62,1.347826,11,False,2.0,,
+2016,2,cardiff_city,46,Cardiff City,17,11,18,60,61,-1,62,0,62,1.347826,12,False,2.0,,
+2016,2,aston_villa,46,Aston Villa,16,14,16,47,48,-1,62,0,62,1.347826,13,False,2.0,,
+2016,2,barnsley,46,Barnsley,15,13,18,64,67,-3,58,0,58,1.26087,14,False,2.0,,
+2016,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,16,10,20,54,58,-4,58,0,58,1.26087,15,False,2.0,,
+2016,2,ipswich_town,46,Ipswich Town,13,16,17,48,58,-10,55,0,55,1.195652,16,False,2.0,,
+2016,2,bristol_city,46,Bristol City,15,9,22,60,66,-6,54,0,54,1.173913,17,False,2.0,,
+2016,2,queens_park_rangers,46,Queens Park Rangers,15,8,23,52,66,-14,53,0,53,1.152174,18,False,2.0,,
+2016,2,birmingham_city,46,Birmingham City,13,14,19,45,64,-19,53,0,53,1.152174,19,False,2.0,,
+2016,2,burton_albion,46,Burton Albion,13,13,20,49,63,-14,52,0,52,1.130435,20,False,2.0,,
+2016,2,nottingham_forest,46,Nottingham Forest,14,9,23,62,72,-10,51,0,51,1.108696,21,False,2.0,,
+2016,2,blackburn_rovers,46,Blackburn Rovers,12,15,19,53,65,-12,51,0,51,1.108696,22,False,3.0,relegated,down
+2016,2,wigan_athletic,46,Wigan Athletic,10,12,24,40,57,-17,42,0,42,0.913043,23,False,3.0,relegated,down
+2016,2,rotherham_united,46,Rotherham United,5,8,33,40,98,-58,23,0,23,0.5,24,False,3.0,relegated,down
+2016,3,sheffield_united,46,Sheffield United,30,10,6,92,47,45,100,0,100,2.173913,1,False,2.0,promoted,auto up
+2016,3,bolton_wanderers,46,Bolton Wanderers,25,11,10,68,36,32,86,0,86,1.869565,2,False,2.0,promoted,auto up
+2016,3,scunthorpe_united,46,Scunthorpe United,24,10,12,80,54,26,82,0,82,1.782609,3,False,3.0,,play-offs
+2016,3,fleetwood_town,46,Fleetwood Town,23,13,10,64,43,21,82,0,82,1.782609,4,False,3.0,,play-offs
+2016,3,bradford_city,46,Bradford City,20,19,7,62,43,19,79,0,79,1.717391,5,False,3.0,,play-offs
+2016,3,millwall,46,Millwall,20,13,13,66,57,9,73,0,73,1.586957,6,False,2.0,promoted via play-offs,play-offs
+2016,3,southend_united,46,Southend United,20,12,14,70,53,17,72,0,72,1.565217,7,False,3.0,,
+2016,3,oxford_united,46,Oxford United,20,9,17,65,52,13,69,0,69,1.5,8,False,3.0,,
+2016,3,rochdale,46,Rochdale,19,12,15,71,62,9,69,0,69,1.5,9,False,3.0,,
+2016,3,bristol_rovers,46,Bristol Rovers,18,12,16,68,70,-2,66,0,66,1.434783,10,False,3.0,,
+2016,3,peterborough_united,46,Peterborough United,17,11,18,62,62,0,62,0,62,1.347826,11,False,3.0,,
+2016,3,milton_keynes_dons,46,Milton Keynes Dons,16,13,17,60,58,2,61,0,61,1.326087,12,False,3.0,,
+2016,3,charlton_athletic,46,Charlton Athletic,14,18,14,60,53,7,60,0,60,1.304348,13,False,3.0,,
+2016,3,walsall,46,Walsall,14,16,16,51,58,-7,58,0,58,1.26087,14,False,3.0,,
+2016,3,afc_wimbledon,46,AFC Wimbledon,13,18,15,52,55,-3,57,0,57,1.23913,15,False,3.0,,
+2016,3,northampton_town,46,Northampton Town,14,11,21,60,73,-13,53,0,53,1.152174,16,False,3.0,,
+2016,3,oldham_athletic,46,Oldham Athletic,12,17,17,31,44,-13,53,0,53,1.152174,17,False,3.0,,
+2016,3,shrewsbury_town,46,Shrewsbury Town,13,12,21,46,63,-17,51,0,51,1.108696,18,False,3.0,,
+2016,3,bury,46,Bury,13,11,22,61,73,-12,50,0,50,1.086957,19,False,3.0,,
+2016,3,gillingham,46,Gillingham,12,14,20,59,79,-20,50,0,50,1.086957,20,False,3.0,,
+2016,3,port_vale,46,Port Vale,12,13,21,45,70,-25,49,0,49,1.065217,21,False,4.0,relegated,down
+2016,3,swindon_town,46,Swindon Town,11,11,24,44,66,-22,44,0,44,0.956522,22,False,4.0,relegated,down
+2016,3,coventry_city,46,Coventry City,9,12,25,37,68,-31,39,0,39,0.847826,23,False,4.0,relegated,down
+2016,3,chesterfield,46,Chesterfield,9,10,27,43,78,-35,37,0,37,0.804348,24,False,4.0,relegated,down
+2016,4,portsmouth,46,Portsmouth,26,9,11,79,40,39,87,0,87,1.891304,1,False,3.0,promoted,auto up
+2016,4,plymouth_argyle,46,Plymouth Argyle,26,9,11,71,46,25,87,0,87,1.891304,2,False,3.0,promoted,auto up
+2016,4,doncaster_rovers,46,Doncaster Rovers,25,10,11,85,55,30,85,0,85,1.847826,3,False,3.0,promoted,auto up
+2016,4,luton_town,46,Luton Town,20,17,9,70,43,27,77,0,77,1.673913,4,False,4.0,,play-offs
+2016,4,exeter_city,46,Exeter City,21,8,17,75,56,19,71,0,71,1.543478,5,False,4.0,,play-offs
+2016,4,carlisle_united,46,Carlisle United,18,17,11,69,68,1,71,0,71,1.543478,6,False,4.0,,play-offs
+2016,4,blackpool,46,Blackpool,18,16,12,69,46,23,70,0,70,1.521739,7,False,3.0,promoted via play-offs,play-offs
+2016,4,colchester_united,46,Colchester United,19,12,15,67,57,10,69,0,69,1.5,8,False,4.0,,
+2016,4,wycombe_wanderers,46,Wycombe Wanderers,19,12,15,58,53,5,69,0,69,1.5,9,False,4.0,,
+2016,4,stevenage,46,Stevenage,20,7,19,67,63,4,67,0,67,1.456522,10,False,4.0,,
+2016,4,cambridge_united,46,Cambridge United,19,9,18,58,50,8,66,0,66,1.434783,11,False,4.0,,
+2016,4,mansfield_town,46,Mansfield Town,17,15,14,54,50,4,66,0,66,1.434783,12,False,4.0,,
+2016,4,accrington_stanley,46,Accrington Stanley,17,14,15,59,56,3,65,0,65,1.413043,13,False,4.0,,
+2016,4,grimsby_town,46,Grimsby Town,17,11,18,59,63,-4,62,0,62,1.347826,14,False,4.0,,
+2016,4,barnet,46,Barnet,14,15,17,57,64,-7,57,0,57,1.23913,15,False,4.0,,
+2016,4,notts_county,46,Notts County,16,8,22,54,76,-22,56,0,56,1.217391,16,False,4.0,,
+2016,4,crewe_alexandra,46,Crewe Alexandra,14,13,19,58,67,-9,55,0,55,1.195652,17,False,4.0,,
+2016,4,morecambe,46,Morecambe,14,10,22,53,73,-20,52,0,52,1.130435,18,False,4.0,,
+2016,4,crawley_town,46,Crawley Town,13,12,21,53,71,-18,51,0,51,1.108696,19,False,4.0,,
+2016,4,yeovil_town,46,Yeovil Town,11,17,18,49,64,-15,50,0,50,1.086957,20,False,4.0,,
+2016,4,cheltenham_town,46,Cheltenham Town,12,14,20,49,69,-20,50,0,50,1.086957,21,False,4.0,,
+2016,4,newport_county,46,Newport County,12,12,22,51,73,-22,48,0,48,1.043478,22,False,4.0,,
+2016,4,hartlepool_united,46,Hartlepool United,11,13,22,54,75,-21,46,0,46,1.0,23,False,5.0,relegated,down
+2016,4,leyton_orient,46,Leyton Orient,10,6,30,47,87,-40,36,0,36,0.782609,24,False,5.0,relegated,down
+2016,5,lincoln_city,46,Lincoln City,30,9,7,83,40,43,99,0,99,2.152174,1,False,4.0,promoted,auto up
+2016,5,tranmere_rovers,46,Tranmere Rovers,29,8,9,79,39,40,95,0,95,2.065217,2,False,5.0,,play-offs
+2016,5,forest_green_rovers,46,Forest Green Rovers,25,11,10,88,56,32,86,0,86,1.869565,3,False,4.0,promoted via play-offs,play-offs
+2016,5,dagenham_and_redbridge,46,Dagenham & Redbridge,26,6,14,79,53,26,84,0,84,1.826087,4,False,5.0,,play-offs
+2016,5,aldershot_town,46,Aldershot Town,23,13,10,66,37,29,82,0,82,1.782609,5,False,5.0,,play-offs
+2016,5,dover_athletic,46,Dover Athletic,24,7,15,85,63,22,79,0,79,1.717391,6,False,5.0,,
+2016,5,barrow,46,Barrow,20,15,11,72,53,19,75,0,75,1.630435,7,False,5.0,,
+2016,5,gateshead,46,Gateshead,19,13,14,72,51,21,70,0,70,1.521739,8,False,5.0,,
+2016,5,macclesfield_town,46,Macclesfield Town,20,8,18,64,57,7,68,0,68,1.478261,9,False,5.0,,
+2016,5,bromley,46,Bromley,18,8,20,59,66,-7,62,0,62,1.347826,10,False,5.0,,
+2016,5,boreham_wood,46,Boreham Wood,15,13,18,49,48,1,58,0,58,1.26087,11,False,5.0,,
+2016,5,sutton_united,46,Sutton United,15,13,18,61,63,-2,58,0,58,1.26087,12,False,5.0,,
+2016,5,wrexham,46,Wrexham,15,13,18,47,61,-14,58,0,58,1.26087,13,False,5.0,,
+2016,5,maidstone_united,46,Maidstone United,16,10,20,59,75,-16,58,0,58,1.26087,14,False,5.0,,
+2016,5,eastleigh,46,Eastleigh,14,15,17,56,63,-7,57,0,57,1.23913,15,False,5.0,,
+2016,5,solihull_moors,46,Solihull Moors,15,10,21,62,75,-13,55,0,55,1.195652,16,False,5.0,,
+2016,5,torquay_united,46,Torquay United,14,11,21,54,61,-7,53,0,53,1.152174,17,False,5.0,,
+2016,5,woking,46,Woking,14,11,21,66,80,-14,53,0,53,1.152174,18,False,5.0,,
+2016,5,chester,46,Chester,14,10,22,63,71,-8,52,0,52,1.130435,19,False,5.0,,
+2016,5,guiseley,46,Guiseley,13,12,21,50,67,-17,51,0,51,1.108696,20,False,5.0,,
+2016,5,york_city,46,York City,11,17,18,55,70,-15,50,0,50,1.086957,21,False,,relegated,down
+2016,5,braintree_town,46,Braintree Town,13,9,24,51,76,-25,48,0,48,1.043478,22,False,,relegated,down
+2016,5,southport,46,Southport,10,9,27,52,97,-45,39,0,39,0.847826,23,False,,relegated,down
+2016,5,north_ferriby_united,46,North Ferriby United,12,3,31,32,82,-50,39,0,39,0.847826,24,False,,relegated,down
+2017,1,manchester_city,38,Manchester City,32,4,2,106,27,79,100,0,100,2.631579,1,False,1.0,champions,
+2017,1,manchester_united,38,Manchester United,25,6,7,68,28,40,81,0,81,2.131579,2,False,1.0,,
+2017,1,tottenham_hotspur,38,Tottenham Hotspur,23,8,7,74,36,38,77,0,77,2.026316,3,False,1.0,,
+2017,1,liverpool,38,Liverpool,21,12,5,84,38,46,75,0,75,1.973684,4,False,1.0,,
+2017,1,chelsea,38,Chelsea,21,7,10,62,38,24,70,0,70,1.842105,5,False,1.0,,
+2017,1,arsenal,38,Arsenal,19,6,13,74,51,23,63,0,63,1.657895,6,False,1.0,,
+2017,1,burnley,38,Burnley,14,12,12,36,39,-3,54,0,54,1.421053,7,False,1.0,,
+2017,1,everton,38,Everton,13,10,15,44,58,-14,49,0,49,1.289474,8,False,1.0,,
+2017,1,leicester_city,38,Leicester City,12,11,15,56,60,-4,47,0,47,1.236842,9,False,1.0,,
+2017,1,newcastle_united,38,Newcastle United,12,8,18,39,47,-8,44,0,44,1.157895,10,False,1.0,,
+2017,1,crystal_palace,38,Crystal Palace,11,11,16,45,55,-10,44,0,44,1.157895,11,False,1.0,,
+2017,1,bournemouth,38,Bournemouth,11,11,16,45,61,-16,44,0,44,1.157895,12,False,1.0,,
+2017,1,west_ham_united,38,West Ham United,10,12,16,48,68,-20,42,0,42,1.105263,13,False,1.0,,
+2017,1,watford,38,Watford,11,8,19,44,64,-20,41,0,41,1.078947,14,False,1.0,,
+2017,1,brighton_and_hove_albion,38,Brighton & Hove Albion,9,13,16,34,54,-20,40,0,40,1.052632,15,False,1.0,,
+2017,1,huddersfield_town,38,Huddersfield Town,9,10,19,28,58,-30,37,0,37,0.973684,16,False,1.0,,
+2017,1,southampton,38,Southampton,7,15,16,37,56,-19,36,0,36,0.947368,17,False,1.0,,
+2017,1,swansea_city,38,Swansea City,8,9,21,28,56,-28,33,0,33,0.868421,18,False,2.0,relegated,down
+2017,1,stoke_city,38,Stoke City,7,12,19,35,68,-33,33,0,33,0.868421,19,False,2.0,relegated,down
+2017,1,west_bromwich_albion,38,West Bromwich Albion,6,13,19,31,56,-25,31,0,31,0.815789,20,False,2.0,relegated,down
+2017,2,wolverhampton_wanderers,46,Wolverhampton Wanderers,30,9,7,82,39,43,99,0,99,2.152174,1,False,1.0,promoted,auto up
+2017,2,cardiff_city,46,Cardiff City,27,9,10,69,39,30,90,0,90,1.956522,2,False,1.0,promoted,auto up
+2017,2,fulham,46,Fulham,25,13,8,79,46,33,88,0,88,1.913043,3,False,1.0,promoted via play-offs,play-offs
+2017,2,aston_villa,46,Aston Villa,24,11,11,72,42,30,83,0,83,1.804348,4,False,2.0,,play-offs
+2017,2,middlesbrough,46,Middlesbrough,22,10,14,67,45,22,76,0,76,1.652174,5,False,2.0,,play-offs
+2017,2,derby_county,46,Derby County,20,15,11,70,48,22,75,0,75,1.630435,6,False,2.0,,play-offs
+2017,2,preston_north_end,46,Preston North End,19,16,11,57,46,11,73,0,73,1.586957,7,False,2.0,,
+2017,2,millwall,46,Millwall,19,15,12,56,45,11,72,0,72,1.565217,8,False,2.0,,
+2017,2,brentford,46,Brentford,18,15,13,62,52,10,69,0,69,1.5,9,False,2.0,,
+2017,2,sheffield_united,46,Sheffield United,20,9,17,62,55,7,69,0,69,1.5,10,False,2.0,,
+2017,2,bristol_city,46,Bristol City,17,16,13,67,58,9,67,0,67,1.456522,11,False,2.0,,
+2017,2,ipswich_town,46,Ipswich Town,17,9,20,57,60,-3,60,0,60,1.304348,12,False,2.0,,
+2017,2,leeds_united,46,Leeds United,17,9,20,59,64,-5,60,0,60,1.304348,13,False,2.0,,
+2017,2,norwich_city,46,Norwich City,15,15,16,49,60,-11,60,0,60,1.304348,14,False,2.0,,
+2017,2,sheffield_wednesday,46,Sheffield Wednesday,14,15,17,59,60,-1,57,0,57,1.23913,15,False,2.0,,
+2017,2,queens_park_rangers,46,Queens Park Rangers,15,11,20,58,70,-12,56,0,56,1.217391,16,False,2.0,,
+2017,2,nottingham_forest,46,Nottingham Forest,15,8,23,51,65,-14,53,0,53,1.152174,17,False,2.0,,
+2017,2,hull_city,46,Hull City,11,16,19,70,70,0,49,0,49,1.065217,18,False,2.0,,
+2017,2,birmingham_city,46,Birmingham City,13,7,26,38,68,-30,46,0,46,1.0,19,False,2.0,,
+2017,2,reading,46,Reading,10,14,22,48,70,-22,44,0,44,0.956522,20,False,2.0,,
+2017,2,bolton_wanderers,46,Bolton Wanderers,10,13,23,39,74,-35,43,0,43,0.934783,21,False,2.0,,
+2017,2,barnsley,46,Barnsley,9,14,23,48,72,-24,41,0,41,0.891304,22,False,3.0,relegated,down
+2017,2,burton_albion,46,Burton Albion,10,11,25,38,81,-43,41,0,41,0.891304,23,False,3.0,relegated,down
+2017,2,sunderland,46,Sunderland,7,16,23,52,80,-28,37,0,37,0.804348,24,False,3.0,relegated,down
+2017,3,wigan_athletic,46,Wigan Athletic,29,11,6,89,29,60,98,0,98,2.130435,1,False,2.0,promoted,auto up
+2017,3,blackburn_rovers,46,Blackburn Rovers,28,12,6,82,40,42,96,0,96,2.086957,2,False,2.0,promoted,auto up
+2017,3,shrewsbury_town,46,Shrewsbury Town,25,12,9,60,39,21,87,0,87,1.891304,3,False,3.0,,play-offs
+2017,3,rotherham_united,46,Rotherham United,24,7,15,73,53,20,79,0,79,1.717391,4,False,2.0,promoted via play-offs,play-offs
+2017,3,scunthorpe_united,46,Scunthorpe United,19,17,10,65,50,15,74,0,74,1.608696,5,False,3.0,,play-offs
+2017,3,charlton_athletic,46,Charlton Athletic,20,11,15,58,51,7,71,0,71,1.543478,6,False,3.0,,play-offs
+2017,3,plymouth_argyle,46,Plymouth Argyle,19,11,16,58,59,-1,68,0,68,1.478261,7,False,3.0,,
+2017,3,portsmouth,46,Portsmouth,20,6,20,57,56,1,66,0,66,1.434783,8,False,3.0,,
+2017,3,peterborough_united,46,Peterborough United,17,13,16,68,60,8,64,0,64,1.391304,9,False,3.0,,
+2017,3,southend_united,46,Southend United,17,12,17,58,62,-4,63,0,63,1.369565,10,False,3.0,,
+2017,3,bradford_city,46,Bradford City,18,9,19,57,67,-10,63,0,63,1.369565,11,False,3.0,,
+2017,3,blackpool,46,Blackpool,15,15,16,60,55,5,60,0,60,1.304348,12,False,3.0,,
+2017,3,bristol_rovers,46,Bristol Rovers,16,11,19,60,66,-6,59,0,59,1.282609,13,False,3.0,,
+2017,3,fleetwood_town,46,Fleetwood Town,16,9,21,59,68,-9,57,0,57,1.23913,14,False,3.0,,
+2017,3,doncaster_rovers,46,Doncaster Rovers,13,17,16,52,52,0,56,0,56,1.217391,15,False,3.0,,
+2017,3,oxford_united,46,Oxford United,15,11,20,61,66,-5,56,0,56,1.217391,16,False,3.0,,
+2017,3,gillingham,46,Gillingham,13,17,16,50,55,-5,56,0,56,1.217391,17,False,3.0,,
+2017,3,afc_wimbledon,46,AFC Wimbledon,13,14,19,47,58,-11,53,0,53,1.152174,18,False,3.0,,
+2017,3,walsall,46,Walsall,13,13,20,53,66,-13,52,0,52,1.130435,19,False,3.0,,
+2017,3,rochdale,46,Rochdale,11,18,17,49,57,-8,51,0,51,1.108696,20,False,3.0,,
+2017,3,oldham_athletic,46,Oldham Athletic,11,17,18,58,75,-17,50,0,50,1.086957,21,False,4.0,relegated,down
+2017,3,northampton_town,46,Northampton Town,12,11,23,43,77,-34,47,0,47,1.021739,22,False,4.0,relegated,down
+2017,3,milton_keynes_dons,46,Milton Keynes Dons,11,12,23,43,69,-26,45,0,45,0.978261,23,False,4.0,relegated,down
+2017,3,bury,46,Bury,8,12,26,41,71,-30,36,0,36,0.782609,24,False,4.0,relegated,down
+2017,4,accrington_stanley,46,Accrington Stanley,29,6,11,76,46,30,93,0,93,2.021739,1,False,3.0,promoted,auto up
+2017,4,luton_town,46,Luton Town,25,13,8,94,46,48,88,0,88,1.913043,2,False,3.0,promoted,auto up
+2017,4,wycombe_wanderers,46,Wycombe Wanderers,24,12,10,79,60,19,84,0,84,1.826087,3,False,3.0,promoted,auto up
+2017,4,exeter_city,46,Exeter City,24,8,14,64,54,10,80,0,80,1.73913,4,False,4.0,,play-offs
+2017,4,notts_county,46,Notts County,21,14,11,71,48,23,77,0,77,1.673913,5,False,4.0,,play-offs
+2017,4,coventry_city,46,Coventry City,22,9,15,64,47,17,75,0,75,1.630435,6,False,3.0,promoted via play-offs,play-offs
+2017,4,lincoln_city,46,Lincoln City,20,15,11,64,48,16,75,0,75,1.630435,7,False,4.0,,play-offs
+2017,4,mansfield_town,46,Mansfield Town,18,18,10,67,52,15,72,0,72,1.565217,8,False,4.0,,
+2017,4,swindon_town,46,Swindon Town,20,8,18,67,65,2,68,0,68,1.478261,9,False,4.0,,
+2017,4,carlisle_united,46,Carlisle United,17,16,13,62,54,8,67,0,67,1.456522,10,False,4.0,,
+2017,4,newport_county,46,Newport County,16,16,14,56,58,-2,64,0,64,1.391304,11,False,4.0,,
+2017,4,cambridge_united,46,Cambridge United,17,13,16,56,60,-4,64,0,64,1.391304,12,False,4.0,,
+2017,4,colchester_united,46,Colchester United,16,14,16,53,52,1,62,0,62,1.347826,13,False,4.0,,
+2017,4,crawley_town,46,Crawley Town,16,11,19,58,66,-8,59,0,59,1.282609,14,False,4.0,,
+2017,4,crewe_alexandra,46,Crewe Alexandra,17,5,24,62,75,-13,56,0,56,1.217391,15,False,4.0,,
+2017,4,stevenage,46,Stevenage,14,13,19,60,65,-5,55,0,55,1.195652,16,False,4.0,,
+2017,4,cheltenham_town,46,Cheltenham Town,13,12,21,67,73,-6,51,0,51,1.108696,17,False,4.0,,
+2017,4,grimsby_town,46,Grimsby Town,13,12,21,42,66,-24,51,0,51,1.108696,18,False,4.0,,
+2017,4,yeovil_town,46,Yeovil Town,12,12,22,59,75,-16,48,0,48,1.043478,19,False,4.0,,
+2017,4,port_vale,46,Port Vale,11,14,21,49,67,-18,47,0,47,1.021739,20,False,4.0,,
+2017,4,forest_green_rovers,46,Forest Green Rovers,13,8,25,54,77,-23,47,0,47,1.021739,21,False,4.0,,
+2017,4,morecambe,46,Morecambe,9,19,18,41,56,-15,46,0,46,1.0,22,False,4.0,,
+2017,4,barnet,46,Barnet,12,10,24,46,65,-19,46,0,46,1.0,23,False,5.0,relegated,down
+2017,4,chesterfield,46,Chesterfield,10,8,28,47,83,-36,38,0,38,0.826087,24,False,5.0,relegated,down
+2017,5,macclesfield_town,46,Macclesfield Town,27,11,8,67,46,21,92,0,92,2.0,1,False,4.0,promoted,auto up
+2017,5,tranmere_rovers,46,Tranmere Rovers,24,10,12,78,46,32,82,0,82,1.782609,2,False,4.0,promoted via play-offs,play-offs
+2017,5,sutton_united,46,Sutton United,23,10,13,67,53,14,79,0,79,1.717391,3,False,5.0,,play-offs
+2017,5,boreham_wood,46,Boreham Wood,20,15,11,64,47,17,75,0,75,1.630435,4,False,5.0,,play-offs
+2017,5,aldershot_town,46,Aldershot Town,20,15,11,64,52,12,75,0,75,1.630435,5,False,5.0,,play-offs
+2017,5,ebbsfleet_united,46,Ebbsfleet United,19,17,10,64,50,14,74,0,74,1.608696,6,False,5.0,,play-offs
+2017,5,afc_fylde,46,AFC Fylde,20,13,13,82,56,26,73,0,73,1.586957,7,False,5.0,,play-offs
+2017,5,dover_athletic,46,Dover Athletic,20,13,13,62,44,18,73,0,73,1.586957,8,False,5.0,,
+2017,5,bromley,46,Bromley,19,13,14,75,58,17,70,0,70,1.521739,9,False,5.0,,
+2017,5,wrexham,46,Wrexham,17,19,10,49,39,10,70,0,70,1.521739,10,False,5.0,,
+2017,5,dagenham_and_redbridge,46,Dagenham & Redbridge,19,11,16,69,62,7,68,0,68,1.478261,11,False,5.0,,
+2017,5,maidenhead_united,46,Maidenhead United,17,13,16,65,66,-1,64,0,64,1.391304,12,False,5.0,,
+2017,5,leyton_orient,46,Leyton Orient,16,12,18,58,56,2,60,0,60,1.304348,13,False,5.0,,
+2017,5,eastleigh,46,Eastleigh,13,17,16,65,72,-7,56,0,56,1.217391,14,False,5.0,,
+2017,5,hartlepool_united,46,Hartlepool United,14,14,18,53,63,-10,56,0,56,1.217391,15,False,5.0,,
+2017,5,fc_halifax_town,46,FC Halifax Town,13,16,17,48,58,-10,55,0,55,1.195652,16,False,5.0,,
+2017,5,gateshead,46,Gateshead,12,18,16,62,58,4,54,0,54,1.173913,17,False,5.0,,
+2017,5,solihull_moors,46,Solihull Moors,14,12,20,49,60,-11,54,0,54,1.173913,18,False,5.0,,
+2017,5,maidstone_united,46,Maidstone United,13,15,18,52,64,-12,54,0,54,1.173913,19,False,5.0,,
+2017,5,barrow,46,Barrow,11,16,19,51,63,-12,49,0,49,1.065217,20,False,5.0,,
+2017,5,woking,46,Woking,13,9,24,55,76,-21,48,0,48,1.043478,21,False,,relegated,down
+2017,5,torquay_united,46,Torquay United,10,12,24,45,73,-28,42,0,42,0.913043,22,False,,relegated,down
+2017,5,chester,46,Chester,8,13,25,42,79,-37,37,0,37,0.804348,23,False,,relegated,down
+2017,5,guiseley,46,Guiseley,7,12,27,44,89,-45,33,0,33,0.717391,24,False,,relegated,down
+2018,1,manchester_city,38,Manchester City,32,2,4,95,23,72,98,0,98,2.578947,1,False,1.0,champions,
+2018,1,liverpool,38,Liverpool,30,7,1,89,22,67,97,0,97,2.552632,2,False,1.0,,
+2018,1,chelsea,38,Chelsea,21,9,8,63,39,24,72,0,72,1.894737,3,False,1.0,,
+2018,1,tottenham_hotspur,38,Tottenham Hotspur,23,2,13,67,39,28,71,0,71,1.868421,4,False,1.0,,
+2018,1,arsenal,38,Arsenal,21,7,10,73,51,22,70,0,70,1.842105,5,False,1.0,,
+2018,1,manchester_united,38,Manchester United,19,9,10,65,54,11,66,0,66,1.736842,6,False,1.0,,
+2018,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,16,9,13,47,46,1,57,0,57,1.5,7,False,1.0,,
+2018,1,everton,38,Everton,15,9,14,54,46,8,54,0,54,1.421053,8,False,1.0,,
+2018,1,leicester_city,38,Leicester City,15,7,16,51,48,3,52,0,52,1.368421,9,False,1.0,,
+2018,1,west_ham_united,38,West Ham United,15,7,16,52,55,-3,52,0,52,1.368421,10,False,1.0,,
+2018,1,watford,38,Watford,14,8,16,52,59,-7,50,0,50,1.315789,11,False,1.0,,
+2018,1,crystal_palace,38,Crystal Palace,14,7,17,51,53,-2,49,0,49,1.289474,12,False,1.0,,
+2018,1,newcastle_united,38,Newcastle United,12,9,17,42,48,-6,45,0,45,1.184211,13,False,1.0,,
+2018,1,bournemouth,38,Bournemouth,13,6,19,56,70,-14,45,0,45,1.184211,14,False,1.0,,
+2018,1,burnley,38,Burnley,11,7,20,45,68,-23,40,0,40,1.052632,15,False,1.0,,
+2018,1,southampton,38,Southampton,9,12,17,45,65,-20,39,0,39,1.026316,16,False,1.0,,
+2018,1,brighton_and_hove_albion,38,Brighton & Hove Albion,9,9,20,35,60,-25,36,0,36,0.947368,17,False,1.0,,
+2018,1,cardiff_city,38,Cardiff City,10,4,24,34,69,-35,34,0,34,0.894737,18,False,2.0,relegated,down
+2018,1,fulham,38,Fulham,7,5,26,34,81,-47,26,0,26,0.684211,19,False,2.0,relegated,down
+2018,1,huddersfield_town,38,Huddersfield Town,3,7,28,22,76,-54,16,0,16,0.421053,20,False,2.0,relegated,down
+2018,2,norwich_city,46,Norwich City,27,13,6,93,57,36,94,0,94,2.043478,1,False,1.0,promoted,auto up
+2018,2,sheffield_united,46,Sheffield United,26,11,9,78,41,37,89,0,89,1.934783,2,False,1.0,promoted,auto up
+2018,2,leeds_united,46,Leeds United,25,8,13,73,50,23,83,0,83,1.804348,3,False,2.0,,play-offs
+2018,2,west_bromwich_albion,46,West Bromwich Albion,23,11,12,87,62,25,80,0,80,1.73913,4,False,2.0,,play-offs
+2018,2,aston_villa,46,Aston Villa,20,16,10,82,61,21,76,0,76,1.652174,5,False,1.0,promoted via play-offs,play-offs
+2018,2,derby_county,46,Derby County,20,14,12,69,54,15,74,0,74,1.608696,6,False,2.0,,play-offs
+2018,2,middlesbrough,46,Middlesbrough,20,13,13,49,41,8,73,0,73,1.586957,7,False,2.0,,
+2018,2,bristol_city,46,Bristol City,19,13,14,59,53,6,70,0,70,1.521739,8,False,2.0,,
+2018,2,nottingham_forest,46,Nottingham Forest,17,15,14,61,54,7,66,0,66,1.434783,9,False,2.0,,
+2018,2,swansea_city,46,Swansea City,18,11,17,65,62,3,65,0,65,1.413043,10,False,2.0,,
+2018,2,brentford,46,Brentford,17,13,16,73,59,14,64,0,64,1.391304,11,False,2.0,,
+2018,2,sheffield_wednesday,46,Sheffield Wednesday,16,16,14,60,62,-2,64,0,64,1.391304,12,False,2.0,,
+2018,2,hull_city,46,Hull City,17,11,18,66,68,-2,62,0,62,1.347826,13,False,2.0,,
+2018,2,preston_north_end,46,Preston North End,16,13,17,67,67,0,61,0,61,1.326087,14,False,2.0,,
+2018,2,blackburn_rovers,46,Blackburn Rovers,16,12,18,64,69,-5,60,0,60,1.304348,15,False,2.0,,
+2018,2,stoke_city,46,Stoke City,11,22,13,45,52,-7,55,0,55,1.195652,16,False,2.0,,
+2018,2,birmingham_city,46,Birmingham City,14,19,13,64,58,6,61,9,52,1.130435,17,False,2.0,,
+2018,2,wigan_athletic,46,Wigan Athletic,13,13,20,51,64,-13,52,0,52,1.130435,18,False,2.0,,
+2018,2,queens_park_rangers,46,Queens Park Rangers,14,9,23,53,71,-18,51,0,51,1.108696,19,False,2.0,,
+2018,2,reading,46,Reading,10,17,19,49,66,-17,47,0,47,1.021739,20,False,2.0,,
+2018,2,millwall,46,Millwall,10,14,22,48,64,-16,44,0,44,0.956522,21,False,2.0,,
+2018,2,rotherham_united,46,Rotherham United,8,16,22,52,83,-31,40,0,40,0.869565,22,False,3.0,relegated,down
+2018,2,bolton_wanderers,46,Bolton Wanderers,8,8,30,29,78,-49,32,0,32,0.695652,23,False,3.0,relegated,down
+2018,2,ipswich_town,46,Ipswich Town,5,16,25,36,77,-41,31,0,31,0.673913,24,False,3.0,relegated,down
+2018,3,luton_town,46,Luton Town,27,13,6,90,42,48,94,0,94,2.043478,1,False,2.0,promoted,auto up
+2018,3,barnsley,46,Barnsley,26,13,7,80,39,41,91,0,91,1.978261,2,False,2.0,promoted,auto up
+2018,3,charlton_athletic,46,Charlton Athletic,26,10,10,73,40,33,88,0,88,1.913043,3,False,2.0,promoted via play-offs,play-offs
+2018,3,portsmouth,46,Portsmouth,25,13,8,83,51,32,88,0,88,1.913043,4,False,3.0,,play-offs
+2018,3,sunderland,46,Sunderland,22,19,5,80,47,33,85,0,85,1.847826,5,False,3.0,,play-offs
+2018,3,doncaster_rovers,46,Doncaster Rovers,20,13,13,76,58,18,73,0,73,1.586957,6,False,3.0,,play-offs
+2018,3,peterborough_united,46,Peterborough United,20,12,14,71,62,9,72,0,72,1.565217,7,False,3.0,,
+2018,3,coventry_city,46,Coventry City,18,11,17,54,54,0,65,0,65,1.413043,8,False,3.0,,
+2018,3,burton_albion,46,Burton Albion,17,12,17,66,57,9,63,0,63,1.369565,9,False,3.0,,
+2018,3,blackpool,46,Blackpool,15,17,14,50,52,-2,62,0,62,1.347826,10,False,3.0,,
+2018,3,fleetwood_town,46,Fleetwood Town,16,13,17,58,52,6,61,0,61,1.326087,11,False,3.0,,
+2018,3,oxford_united,46,Oxford United,15,15,16,58,64,-6,60,0,60,1.304348,12,False,3.0,,
+2018,3,gillingham,46,Gillingham,15,10,21,61,72,-11,55,0,55,1.195652,13,False,3.0,,
+2018,3,accrington_stanley,46,Accrington Stanley,14,13,19,51,67,-16,55,0,55,1.195652,14,False,3.0,,
+2018,3,bristol_rovers,46,Bristol Rovers,13,15,18,47,50,-3,54,0,54,1.173913,15,False,3.0,,
+2018,3,rochdale,46,Rochdale,15,9,22,54,87,-33,54,0,54,1.173913,16,False,3.0,,
+2018,3,wycombe_wanderers,46,Wycombe Wanderers,14,11,21,55,67,-12,53,0,53,1.152174,17,False,3.0,,
+2018,3,shrewsbury_town,46,Shrewsbury Town,12,16,18,51,59,-8,52,0,52,1.130435,18,False,3.0,,
+2018,3,southend_united,46,Southend United,14,8,24,55,68,-13,50,0,50,1.086957,19,False,3.0,,
+2018,3,afc_wimbledon,46,AFC Wimbledon,13,11,22,42,63,-21,50,0,50,1.086957,20,False,3.0,,
+2018,3,plymouth_argyle,46,Plymouth Argyle,13,11,22,56,80,-24,50,0,50,1.086957,21,False,4.0,relegated,down
+2018,3,walsall,46,Walsall,12,11,23,49,71,-22,47,0,47,1.021739,22,False,4.0,relegated,down
+2018,3,scunthorpe_united,46,Scunthorpe United,12,10,24,53,83,-30,46,0,46,1.0,23,False,4.0,relegated,down
+2018,3,bradford_city,46,Bradford City,11,8,27,49,77,-28,41,0,41,0.891304,24,False,4.0,relegated,down
+2018,4,lincoln_city,46,Lincoln City,23,16,7,73,43,30,85,0,85,1.847826,1,False,3.0,promoted,auto up
+2018,4,bury,46,Bury,22,13,11,82,56,26,79,0,79,1.717391,2,False,,expelled,auto up
+2018,4,milton_keynes_dons,46,Milton Keynes Dons,23,10,13,71,49,22,79,0,79,1.717391,3,False,3.0,promoted,auto up
+2018,4,mansfield_town,46,Mansfield Town,20,16,10,69,41,28,76,0,76,1.652174,4,False,4.0,,play-offs
+2018,4,forest_green_rovers,46,Forest Green Rovers,20,14,12,68,47,21,74,0,74,1.608696,5,False,4.0,,play-offs
+2018,4,tranmere_rovers,46,Tranmere Rovers,20,13,13,63,50,13,73,0,73,1.586957,6,False,3.0,promoted via play-offs,play-offs
+2018,4,newport_county,46,Newport County,20,11,15,59,59,0,71,0,71,1.543478,7,False,4.0,,play-offs
+2018,4,colchester_united,46,Colchester United,20,10,16,65,53,12,70,0,70,1.521739,8,False,4.0,,
+2018,4,exeter_city,46,Exeter City,19,13,14,60,49,11,70,0,70,1.521739,9,False,4.0,,
+2018,4,stevenage,46,Stevenage,20,10,16,59,55,4,70,0,70,1.521739,10,False,4.0,,
+2018,4,carlisle_united,46,Carlisle United,20,8,18,67,62,5,68,0,68,1.478261,11,False,4.0,,
+2018,4,crewe_alexandra,46,Crewe Alexandra,19,8,19,60,59,1,65,0,65,1.413043,12,False,4.0,,
+2018,4,swindon_town,46,Swindon Town,16,16,14,59,56,3,64,0,64,1.391304,13,False,4.0,,
+2018,4,oldham_athletic,46,Oldham Athletic,16,14,16,67,60,7,62,0,62,1.347826,14,False,4.0,,
+2018,4,northampton_town,46,Northampton Town,14,19,13,64,63,1,61,0,61,1.326087,15,False,4.0,,
+2018,4,cheltenham_town,46,Cheltenham Town,15,12,19,57,68,-11,57,0,57,1.23913,16,False,4.0,,
+2018,4,grimsby_town,46,Grimsby Town,16,8,22,45,56,-11,56,0,56,1.217391,17,False,4.0,,
+2018,4,morecambe,46,Morecambe,14,12,20,54,70,-16,54,0,54,1.173913,18,False,4.0,,
+2018,4,crawley_town,46,Crawley Town,15,8,23,51,68,-17,53,0,53,1.152174,19,False,4.0,,
+2018,4,port_vale,46,Port Vale,12,13,21,39,55,-16,49,0,49,1.065217,20,False,4.0,,
+2018,4,cambridge_united,46,Cambridge United,12,11,23,40,66,-26,47,0,47,1.021739,21,False,4.0,,
+2018,4,macclesfield_town,46,Macclesfield Town,10,14,22,48,74,-26,44,0,44,0.956522,22,False,4.0,,
+2018,4,notts_county,46,Notts County,9,14,23,48,84,-36,41,0,41,0.891304,23,False,5.0,relegated,down
+2018,4,yeovil_town,46,Yeovil Town,9,13,24,41,66,-25,40,0,40,0.869565,24,False,5.0,relegated,down
+2018,5,leyton_orient,46,Leyton Orient,25,14,7,73,35,38,89,0,89,1.934783,1,False,4.0,promoted,auto up
+2018,5,solihull_moors,46,Solihull Moors,25,11,10,73,43,30,86,0,86,1.869565,2,False,5.0,,play-offs
+2018,5,salford_city,46,Salford City,25,10,11,77,45,32,85,0,85,1.847826,3,False,4.0,promoted via play-offs,play-offs
+2018,5,wrexham,46,Wrexham,25,9,12,58,39,19,84,0,84,1.826087,4,False,5.0,,play-offs
+2018,5,afc_fylde,46,AFC Fylde,22,15,9,72,41,31,81,0,81,1.76087,5,False,5.0,,play-offs
+2018,5,harrogate_town,46,Harrogate Town,21,11,14,78,57,21,74,0,74,1.608696,6,False,5.0,,play-offs
+2018,5,eastleigh,46,Eastleigh,22,8,16,62,63,-1,74,0,74,1.608696,7,False,5.0,,play-offs
+2018,5,ebbsfleet_united,46,Ebbsfleet United,18,13,15,64,50,14,67,0,67,1.456522,8,False,5.0,,
+2018,5,gateshead,46,Gateshead,19,9,18,52,48,4,66,0,66,1.434783,9,False,,demoted,
+2018,5,sutton_united,46,Sutton United,17,14,15,55,60,-5,65,0,65,1.413043,10,False,5.0,,
+2018,5,barrow,46,Barrow,17,13,16,52,51,1,64,0,64,1.391304,11,False,5.0,,
+2018,5,bromley,46,Bromley,16,12,18,68,69,-1,60,0,60,1.304348,12,False,5.0,,
+2018,5,barnet,46,Barnet,16,12,18,45,50,-5,60,0,60,1.304348,13,False,5.0,,
+2018,5,dover_athletic,46,Dover Athletic,16,12,18,58,64,-6,60,0,60,1.304348,14,False,5.0,,
+2018,5,chesterfield,46,Chesterfield,14,17,15,55,53,2,59,0,59,1.282609,15,False,5.0,,
+2018,5,fc_halifax_town,46,FC Halifax Town,13,20,13,44,43,1,59,0,59,1.282609,16,False,5.0,,
+2018,5,hartlepool_united,46,Hartlepool United,15,14,17,56,62,-6,59,0,59,1.282609,17,False,5.0,,
+2018,5,dagenham_and_redbridge,46,Dagenham & Redbridge,15,11,20,50,56,-6,56,0,56,1.217391,18,False,5.0,,
+2018,5,maidenhead_united,46,Maidenhead United,16,6,24,45,70,-25,54,0,54,1.173913,19,False,5.0,,
+2018,5,boreham_wood,46,Boreham Wood,12,16,18,53,65,-12,52,0,52,1.130435,20,False,5.0,,
+2018,5,aldershot_town,46,Aldershot Town,11,11,24,38,67,-29,44,0,44,0.956522,21,False,5.0,reprieved,down
+2018,5,braintree_town,46,Braintree Town,11,8,27,48,78,-30,41,0,41,0.891304,22,False,,relegated,down
+2018,5,havant_and_waterlooville,46,Havant & Waterlooville,9,13,24,62,84,-22,40,0,40,0.869565,23,False,,relegated,down
+2018,5,maidstone_united,46,Maidstone United,9,7,30,37,82,-45,34,0,34,0.73913,24,False,,relegated,down
+2019,1,liverpool,38,Liverpool,32,3,3,85,33,52,99,0,99,2.605263,1,False,1.0,champions,
+2019,1,manchester_city,38,Manchester City,26,3,9,102,35,67,81,0,81,2.131579,2,False,1.0,,
+2019,1,manchester_united,38,Manchester United,18,12,8,66,36,30,66,0,66,1.736842,3,False,1.0,,
+2019,1,chelsea,38,Chelsea,20,6,12,69,54,15,66,0,66,1.736842,4,False,1.0,,
+2019,1,leicester_city,38,Leicester City,18,8,12,67,41,26,62,0,62,1.631579,5,False,1.0,,
+2019,1,tottenham_hotspur,38,Tottenham Hotspur,16,11,11,61,47,14,59,0,59,1.552632,6,False,1.0,,
+2019,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,15,14,9,51,40,11,59,0,59,1.552632,7,False,1.0,,
+2019,1,arsenal,38,Arsenal,14,14,10,56,48,8,56,0,56,1.473684,8,False,1.0,,
+2019,1,sheffield_united,38,Sheffield United,14,12,12,39,39,0,54,0,54,1.421053,9,False,1.0,,
+2019,1,burnley,38,Burnley,15,9,14,43,50,-7,54,0,54,1.421053,10,False,1.0,,
+2019,1,southampton,38,Southampton,15,7,16,51,60,-9,52,0,52,1.368421,11,False,1.0,,
+2019,1,everton,38,Everton,13,10,15,44,56,-12,49,0,49,1.289474,12,False,1.0,,
+2019,1,newcastle_united,38,Newcastle United,11,11,16,38,58,-20,44,0,44,1.157895,13,False,1.0,,
+2019,1,crystal_palace,38,Crystal Palace,11,10,17,31,50,-19,43,0,43,1.131579,14,False,1.0,,
+2019,1,brighton_and_hove_albion,38,Brighton & Hove Albion,9,14,15,39,54,-15,41,0,41,1.078947,15,False,1.0,,
+2019,1,west_ham_united,38,West Ham United,10,9,19,49,62,-13,39,0,39,1.026316,16,False,1.0,,
+2019,1,aston_villa,38,Aston Villa,9,8,21,41,67,-26,35,0,35,0.921053,17,False,1.0,,
+2019,1,bournemouth,38,Bournemouth,9,7,22,40,65,-25,34,0,34,0.894737,18,False,2.0,relegated,down
+2019,1,watford,38,Watford,8,10,20,36,64,-28,34,0,34,0.894737,19,False,2.0,relegated,down
+2019,1,norwich_city,38,Norwich City,5,6,27,26,75,-49,21,0,21,0.552632,20,False,2.0,relegated,down
+2019,2,leeds_united,46,Leeds United,28,9,9,77,35,42,93,0,93,2.021739,1,False,1.0,promoted,auto up
+2019,2,west_bromwich_albion,46,West Bromwich Albion,22,17,7,77,45,32,83,0,83,1.804348,2,False,1.0,promoted,auto up
+2019,2,brentford,46,Brentford,24,9,13,80,38,42,81,0,81,1.76087,3,False,2.0,,play-offs
+2019,2,fulham,46,Fulham,23,12,11,64,48,16,81,0,81,1.76087,4,False,1.0,promoted via play-offs,play-offs
+2019,2,cardiff_city,46,Cardiff City,19,16,11,68,58,10,73,0,73,1.586957,5,False,2.0,,play-offs
+2019,2,swansea_city,46,Swansea City,18,16,12,62,53,9,70,0,70,1.521739,6,False,2.0,,play-offs
+2019,2,nottingham_forest,46,Nottingham Forest,18,16,12,58,50,8,70,0,70,1.521739,7,False,2.0,,
+2019,2,millwall,46,Millwall,17,17,12,57,51,6,68,0,68,1.478261,8,False,2.0,,
+2019,2,preston_north_end,46,Preston North End,18,12,16,59,54,5,66,0,66,1.434783,9,False,2.0,,
+2019,2,derby_county,46,Derby County,17,13,16,62,64,-2,64,0,64,1.391304,10,False,2.0,,
+2019,2,blackburn_rovers,46,Blackburn Rovers,17,12,17,66,63,3,63,0,63,1.369565,11,False,2.0,,
+2019,2,bristol_city,46,Bristol City,17,12,17,60,65,-5,63,0,63,1.369565,12,False,2.0,,
+2019,2,queens_park_rangers,46,Queens Park Rangers,16,10,20,67,76,-9,58,0,58,1.26087,13,False,2.0,,
+2019,2,reading,46,Reading,15,11,20,59,58,1,56,0,56,1.217391,14,False,2.0,,
+2019,2,stoke_city,46,Stoke City,16,8,22,62,68,-6,56,0,56,1.217391,15,False,2.0,,
+2019,2,sheffield_wednesday,46,Sheffield Wednesday,15,11,20,58,66,-8,56,0,56,1.217391,16,False,2.0,,
+2019,2,middlesbrough,46,Middlesbrough,13,14,19,48,61,-13,53,0,53,1.152174,17,False,2.0,,
+2019,2,huddersfield_town,46,Huddersfield Town,13,12,21,52,70,-18,51,0,51,1.108696,18,False,2.0,,
+2019,2,luton_town,46,Luton Town,14,9,23,54,82,-28,51,0,51,1.108696,19,False,2.0,,
+2019,2,birmingham_city,46,Birmingham City,12,14,20,54,75,-21,50,0,50,1.086957,20,False,2.0,,
+2019,2,barnsley,46,Barnsley,12,13,21,49,69,-20,49,0,49,1.065217,21,False,2.0,,
+2019,2,charlton_athletic,46,Charlton Athletic,12,12,22,50,65,-15,48,0,48,1.043478,22,False,3.0,relegated,down
+2019,2,wigan_athletic,46,Wigan Athletic,15,14,17,57,56,1,59,12,47,1.021739,23,False,3.0,relegated,down
+2019,2,hull_city,46,Hull City,12,9,25,57,87,-30,45,0,45,0.978261,24,False,3.0,relegated,down
+2019,3,coventry_city,34,Coventry City,18,13,3,48,30,18,67,0,67,1.970588,1,False,2.0,promoted,auto up
+2019,3,rotherham_united,35,Rotherham United,18,8,9,61,38,23,62,0,62,1.771429,2,False,2.0,promoted,auto up
+2019,3,wycombe_wanderers,34,Wycombe Wanderers,17,8,9,45,40,5,59,0,59,1.735294,3,False,2.0,promoted via play-offs,play-offs
+2019,3,oxford_united,35,Oxford United,17,9,9,61,37,24,60,0,60,1.714286,4,False,3.0,,play-offs
+2019,3,portsmouth,35,Portsmouth,17,9,9,53,36,17,60,0,60,1.714286,5,False,3.0,,play-offs
+2019,3,fleetwood_town,35,Fleetwood Town,16,12,7,51,38,13,60,0,60,1.714286,6,False,3.0,,play-offs
+2019,3,peterborough_united,35,Peterborough United,17,8,10,68,40,28,59,0,59,1.685714,7,False,3.0,,
+2019,3,sunderland,36,Sunderland,16,11,9,48,32,16,59,0,59,1.638889,8,False,3.0,,
+2019,3,doncaster_rovers,34,Doncaster Rovers,15,9,10,51,33,18,54,0,54,1.588235,9,False,3.0,,
+2019,3,gillingham,35,Gillingham,12,15,8,42,34,8,51,0,51,1.457143,10,False,3.0,,
+2019,3,ipswich_town,36,Ipswich Town,14,10,12,46,36,10,52,0,52,1.444444,11,False,3.0,,
+2019,3,burton_albion,35,Burton Albion,12,12,11,50,50,0,48,0,48,1.371429,12,False,3.0,,
+2019,3,blackpool,35,Blackpool,11,12,12,44,43,1,45,0,45,1.285714,13,False,3.0,,
+2019,3,bristol_rovers,35,Bristol Rovers,12,9,14,38,49,-11,45,0,45,1.285714,14,False,3.0,,
+2019,3,shrewsbury_town,34,Shrewsbury Town,10,11,13,31,42,-11,41,0,41,1.205882,15,False,3.0,,
+2019,3,lincoln_city,35,Lincoln City,12,6,17,44,46,-2,42,0,42,1.2,16,False,3.0,,
+2019,3,accrington_stanley,35,Accrington Stanley,10,10,15,47,53,-6,40,0,40,1.142857,17,False,3.0,,
+2019,3,rochdale,34,Rochdale,10,6,18,39,57,-18,36,0,36,1.058824,18,False,3.0,,
+2019,3,milton_keynes_dons,35,Milton Keynes Dons,10,7,18,36,47,-11,37,0,37,1.057143,19,False,3.0,,
+2019,3,afc_wimbledon,35,AFC Wimbledon,8,11,16,39,52,-13,35,0,35,1.0,20,False,3.0,,
+2019,3,tranmere_rovers,34,Tranmere Rovers,8,8,18,36,60,-24,32,0,32,0.941176,21,False,4.0,relegated,down
+2019,3,southend_united,35,Southend United,4,7,24,39,85,-46,19,0,19,0.542857,22,False,4.0,relegated,down
+2019,3,bolton_wanderers,34,Bolton Wanderers,5,11,18,27,66,-39,26,12,14,0.411765,23,False,4.0,relegated,down
+2019,4,swindon_town,36,Swindon Town,21,6,9,62,39,23,69,0,69,1.916667,1,False,3.0,promoted,auto up
+2019,4,crewe_alexandra,37,Crewe Alexandra,20,9,8,67,43,24,69,0,69,1.864865,2,False,3.0,promoted,auto up
+2019,4,plymouth_argyle,37,Plymouth Argyle,20,8,9,61,39,22,68,0,68,1.837838,3,False,3.0,promoted,auto up
+2019,4,cheltenham_town,36,Cheltenham Town,17,13,6,52,27,25,64,0,64,1.777778,4,False,4.0,,play-offs
+2019,4,exeter_city,37,Exeter City,18,11,8,53,43,10,65,0,65,1.756757,5,False,4.0,,play-offs
+2019,4,colchester_united,37,Colchester United,15,13,9,52,37,15,58,0,58,1.567568,6,False,4.0,,play-offs
+2019,4,northampton_town,37,Northampton Town,17,7,13,54,40,14,58,0,58,1.567568,7,False,3.0,promoted via play-offs,play-offs
+2019,4,port_vale,37,Port Vale,14,15,8,50,44,6,57,0,57,1.540541,8,False,4.0,,
+2019,4,bradford_city,37,Bradford City,14,12,11,44,40,4,54,0,54,1.459459,9,False,4.0,,
+2019,4,forest_green_rovers,36,Forest Green Rovers,13,10,13,43,40,3,49,0,49,1.361111,10,False,4.0,,
+2019,4,salford_city,37,Salford City,13,11,13,49,46,3,50,0,50,1.351351,11,False,4.0,,
+2019,4,walsall,36,Walsall,13,8,15,40,49,-9,47,0,47,1.305556,12,False,4.0,,
+2019,4,crawley_town,37,Crawley Town,11,15,11,51,47,4,48,0,48,1.297297,13,False,4.0,,
+2019,4,newport_county,36,Newport County,12,10,14,32,39,-7,46,0,46,1.277778,14,False,4.0,,
+2019,4,grimsby_town,37,Grimsby Town,12,11,14,45,51,-6,47,0,47,1.27027,15,False,4.0,,
+2019,4,cambridge_united,37,Cambridge United,12,9,16,40,48,-8,45,0,45,1.216216,16,False,4.0,,
+2019,4,leyton_orient,36,Leyton Orient,10,12,14,47,55,-8,42,0,42,1.166667,17,False,4.0,,
+2019,4,carlisle_united,37,Carlisle United,10,12,15,39,56,-17,42,0,42,1.135135,18,False,4.0,,
+2019,4,oldham_athletic,37,Oldham Athletic,9,14,14,44,57,-13,41,0,41,1.108108,19,False,4.0,,
+2019,4,scunthorpe_united,37,Scunthorpe United,10,10,17,44,56,-12,40,0,40,1.081081,20,False,4.0,,
+2019,4,mansfield_town,36,Mansfield Town,9,11,16,48,55,-7,38,0,38,1.055556,21,False,4.0,,
+2019,4,morecambe,37,Morecambe,7,11,19,35,60,-25,32,0,32,0.864865,22,False,4.0,,
+2019,4,stevenage,36,Stevenage,3,13,20,24,50,-26,22,0,22,0.611111,23,False,4.0,reprieved,
+2019,4,macclesfield_town,37,Macclesfield Town,7,15,15,32,47,-15,36,17,19,0.513514,24,False,,relegated,down
+2019,5,barrow,37,Barrow,21,7,9,68,39,29,70,0,70,1.891892,1,False,4.0,promoted,auto up
+2019,5,harrogate_town,37,Harrogate Town,19,9,9,61,44,17,66,0,66,1.783784,2,False,4.0,promoted via play-offs,play-offs
+2019,5,notts_county,38,Notts County,17,12,9,61,38,23,63,0,63,1.657895,3,False,5.0,,play-offs
+2019,5,yeovil_town,37,Yeovil Town,17,9,11,61,44,17,60,0,60,1.621622,4,False,5.0,,play-offs
+2019,5,boreham_wood,37,Boreham Wood,16,12,9,55,40,15,60,0,60,1.621622,5,False,5.0,,play-offs
+2019,5,fc_halifax_town,37,FC Halifax Town,17,7,13,50,49,1,58,0,58,1.567568,6,False,5.0,,play-offs
+2019,5,barnet,35,Barnet,14,12,9,52,42,10,54,0,54,1.542857,7,False,5.0,,play-offs
+2019,5,stockport_county,39,Stockport County,16,10,13,51,54,-3,58,0,58,1.487179,8,False,5.0,,
+2019,5,solihull_moors,38,Solihull Moors,15,10,13,48,37,11,55,0,55,1.447368,9,False,5.0,,
+2019,5,woking,38,Woking,15,10,13,50,55,-5,55,0,55,1.447368,10,False,5.0,,
+2019,5,dover_athletic,38,Dover Athletic,15,9,14,49,49,0,54,0,54,1.421053,11,False,5.0,expunged_next,
+2019,5,hartlepool_united,39,Hartlepool United,14,13,12,56,50,6,55,0,55,1.410256,12,False,5.0,,
+2019,5,bromley,38,Bromley,14,10,14,57,52,5,52,0,52,1.368421,13,False,5.0,,
+2019,5,torquay_united,36,Torquay United,14,6,16,56,61,-5,48,0,48,1.333333,14,False,5.0,,
+2019,5,sutton_united,38,Sutton United,12,14,12,47,42,5,50,0,50,1.315789,15,False,5.0,,
+2019,5,eastleigh,37,Eastleigh,11,13,13,43,55,-12,46,0,46,1.243243,16,False,5.0,,
+2019,5,dagenham_and_redbridge,37,Dagenham & Redbridge,11,11,15,40,44,-4,44,0,44,1.189189,17,False,5.0,,
+2019,5,aldershot_town,39,Aldershot Town,12,10,17,43,55,-12,46,0,46,1.179487,18,False,5.0,,
+2019,5,wrexham,37,Wrexham,11,10,16,46,49,-3,43,0,43,1.162162,19,False,5.0,,
+2019,5,chesterfield,38,Chesterfield,11,11,16,55,65,-10,44,0,44,1.157895,20,False,5.0,,
+2019,5,maidenhead_united,38,Maidenhead United,12,5,21,44,58,-14,41,0,41,1.078947,21,False,5.0,,
+2019,5,ebbsfleet_united,39,Ebbsfleet United,10,12,17,47,68,-21,42,0,42,1.076923,22,False,,relegated,down
+2019,5,afc_fylde,37,AFC Fylde,9,12,16,44,60,-16,39,0,39,1.054054,23,False,,relegated,down
+2019,5,chorley,38,Chorley,4,14,20,31,65,-34,26,0,26,0.684211,24,False,,relegated,down
+2020,1,manchester_city,38,Manchester City,27,5,6,83,32,51,86,0,86,2.263158,1,False,1.0,champions,
+2020,1,manchester_united,38,Manchester United,21,11,6,73,44,29,74,0,74,1.947368,2,False,1.0,,
+2020,1,liverpool,38,Liverpool,20,9,9,68,42,26,69,0,69,1.815789,3,False,1.0,,
+2020,1,chelsea,38,Chelsea,19,10,9,58,36,22,67,0,67,1.763158,4,False,1.0,,
+2020,1,leicester_city,38,Leicester City,20,6,12,68,50,18,66,0,66,1.736842,5,False,1.0,,
+2020,1,west_ham_united,38,West Ham United,19,8,11,62,47,15,65,0,65,1.710526,6,False,1.0,,
+2020,1,tottenham_hotspur,38,Tottenham Hotspur,18,8,12,68,45,23,62,0,62,1.631579,7,False,1.0,,
+2020,1,arsenal,38,Arsenal,18,7,13,55,39,16,61,0,61,1.605263,8,False,1.0,,
+2020,1,leeds_united,38,Leeds United,18,5,15,62,54,8,59,0,59,1.552632,9,False,1.0,,
+2020,1,everton,38,Everton,17,8,13,47,48,-1,59,0,59,1.552632,10,False,1.0,,
+2020,1,aston_villa,38,Aston Villa,16,7,15,55,46,9,55,0,55,1.447368,11,False,1.0,,
+2020,1,newcastle_united,38,Newcastle United,12,9,17,46,62,-16,45,0,45,1.184211,12,False,1.0,,
+2020,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,12,9,17,36,52,-16,45,0,45,1.184211,13,False,1.0,,
+2020,1,crystal_palace,38,Crystal Palace,12,8,18,41,66,-25,44,0,44,1.157895,14,False,1.0,,
+2020,1,southampton,38,Southampton,12,7,19,47,68,-21,43,0,43,1.131579,15,False,1.0,,
+2020,1,brighton_and_hove_albion,38,Brighton & Hove Albion,9,14,15,40,46,-6,41,0,41,1.078947,16,False,1.0,,
+2020,1,burnley,38,Burnley,10,9,19,33,55,-22,39,0,39,1.026316,17,False,1.0,,
+2020,1,fulham,38,Fulham,5,13,20,27,53,-26,28,0,28,0.736842,18,False,2.0,relegated,down
+2020,1,west_bromwich_albion,38,West Bromwich Albion,5,11,22,35,76,-41,26,0,26,0.684211,19,False,2.0,relegated,down
+2020,1,sheffield_united,38,Sheffield United,7,2,29,20,63,-43,23,0,23,0.605263,20,False,2.0,relegated,down
+2020,2,norwich_city,46,Norwich City,29,10,7,75,36,39,97,0,97,2.108696,1,False,1.0,promoted,auto up
+2020,2,watford,46,Watford,27,10,9,63,30,33,91,0,91,1.978261,2,False,1.0,promoted,auto up
+2020,2,brentford,46,Brentford,24,15,7,79,42,37,87,0,87,1.891304,3,False,1.0,promoted via play-offs,play-offs
+2020,2,swansea_city,46,Swansea City,23,11,12,56,39,17,80,0,80,1.73913,4,False,2.0,,play-offs
+2020,2,barnsley,46,Barnsley,23,9,14,58,50,8,78,0,78,1.695652,5,False,2.0,,play-offs
+2020,2,bournemouth,46,Bournemouth,22,11,13,73,46,27,77,0,77,1.673913,6,False,2.0,,play-offs
+2020,2,reading,46,Reading,19,13,14,62,54,8,70,0,70,1.521739,7,False,2.0,,
+2020,2,cardiff_city,46,Cardiff City,18,14,14,66,49,17,68,0,68,1.478261,8,False,2.0,,
+2020,2,queens_park_rangers,46,Queens Park Rangers,19,11,16,57,55,2,68,0,68,1.478261,9,False,2.0,,
+2020,2,middlesbrough,46,Middlesbrough,18,10,18,55,53,2,64,0,64,1.391304,10,False,2.0,,
+2020,2,millwall,46,Millwall,15,17,14,47,52,-5,62,0,62,1.347826,11,False,2.0,,
+2020,2,luton_town,46,Luton Town,17,11,18,41,52,-11,62,0,62,1.347826,12,False,2.0,,
+2020,2,preston_north_end,46,Preston North End,18,7,21,49,56,-7,61,0,61,1.326087,13,False,2.0,,
+2020,2,stoke_city,46,Stoke City,15,15,16,50,52,-2,60,0,60,1.304348,14,False,2.0,,
+2020,2,blackburn_rovers,46,Blackburn Rovers,15,12,19,65,54,11,57,0,57,1.23913,15,False,2.0,,
+2020,2,coventry_city,46,Coventry City,14,13,19,49,61,-12,55,0,55,1.195652,16,False,2.0,,
+2020,2,nottingham_forest,46,Nottingham Forest,12,16,18,37,45,-8,52,0,52,1.130435,17,False,2.0,,
+2020,2,birmingham_city,46,Birmingham City,13,13,20,37,61,-24,52,0,52,1.130435,18,False,2.0,,
+2020,2,bristol_city,46,Bristol City,15,6,25,46,68,-22,51,0,51,1.108696,19,False,2.0,,
+2020,2,huddersfield_town,46,Huddersfield Town,12,13,21,50,71,-21,49,0,49,1.065217,20,False,2.0,,
+2020,2,derby_county,46,Derby County,11,11,24,36,58,-22,44,0,44,0.956522,21,False,2.0,,
+2020,2,wycombe_wanderers,46,Wycombe Wanderers,11,10,25,39,69,-30,43,0,43,0.934783,22,False,3.0,relegated,down
+2020,2,rotherham_united,46,Rotherham United,11,9,26,44,60,-16,42,0,42,0.913043,23,False,3.0,relegated,down
+2020,2,sheffield_wednesday,46,Sheffield Wednesday,12,11,23,40,61,-21,47,6,41,0.891304,24,False,3.0,relegated,down
+2020,3,hull_city,46,Hull City,27,8,11,80,38,42,89,0,89,1.934783,1,False,2.0,promoted,auto up
+2020,3,peterborough_united,46,Peterborough United,26,9,11,83,46,37,87,0,87,1.891304,2,False,2.0,promoted,auto up
+2020,3,blackpool,46,Blackpool,23,11,12,60,37,23,80,0,80,1.73913,3,False,2.0,promoted via play-offs,play-offs
+2020,3,sunderland,46,Sunderland,20,17,9,70,42,28,77,0,77,1.673913,4,False,3.0,,play-offs
+2020,3,lincoln_city,46,Lincoln City,22,11,13,69,50,19,77,0,77,1.673913,5,False,3.0,,play-offs
+2020,3,oxford_united,46,Oxford United,22,8,16,77,56,21,74,0,74,1.608696,6,False,3.0,,play-offs
+2020,3,charlton_athletic,46,Charlton Athletic,20,14,12,70,56,14,74,0,74,1.608696,7,False,3.0,,
+2020,3,portsmouth,46,Portsmouth,21,9,16,65,51,14,72,0,72,1.565217,8,False,3.0,,
+2020,3,ipswich_town,46,Ipswich Town,19,12,15,46,46,0,69,0,69,1.5,9,False,3.0,,
+2020,3,gillingham,46,Gillingham,19,10,17,63,60,3,67,0,67,1.456522,10,False,3.0,,
+2020,3,accrington_stanley,46,Accrington Stanley,18,13,15,63,68,-5,67,0,67,1.456522,11,False,3.0,,
+2020,3,crewe_alexandra,46,Crewe Alexandra,18,12,16,56,61,-5,66,0,66,1.434783,12,False,3.0,,
+2020,3,milton_keynes_dons,46,Milton Keynes Dons,18,11,17,64,62,2,65,0,65,1.413043,13,False,3.0,,
+2020,3,doncaster_rovers,46,Doncaster Rovers,19,7,20,63,67,-4,64,0,64,1.391304,14,False,3.0,,
+2020,3,fleetwood_town,46,Fleetwood Town,16,12,18,49,46,3,60,0,60,1.304348,15,False,3.0,,
+2020,3,burton_albion,46,Burton Albion,15,12,19,61,73,-12,57,0,57,1.23913,16,False,3.0,,
+2020,3,shrewsbury_town,46,Shrewsbury Town,13,15,18,50,57,-7,54,0,54,1.173913,17,False,3.0,,
+2020,3,plymouth_argyle,46,Plymouth Argyle,14,11,21,53,80,-27,53,0,53,1.152174,18,False,3.0,,
+2020,3,afc_wimbledon,46,AFC Wimbledon,12,15,19,54,70,-16,51,0,51,1.108696,19,False,3.0,,
+2020,3,wigan_athletic,46,Wigan Athletic,13,9,24,54,77,-23,48,0,48,1.043478,20,False,3.0,,
+2020,3,rochdale,46,Rochdale,11,14,21,61,78,-17,47,0,47,1.021739,21,False,4.0,relegated,down
+2020,3,northampton_town,46,Northampton Town,11,12,23,41,67,-26,45,0,45,0.978261,22,False,4.0,relegated,down
+2020,3,swindon_town,46,Swindon Town,13,4,29,55,89,-34,43,0,43,0.934783,23,False,4.0,relegated,down
+2020,3,bristol_rovers,46,Bristol Rovers,10,8,28,40,70,-30,38,0,38,0.826087,24,False,4.0,relegated,down
+2020,4,cheltenham_town,46,Cheltenham Town,24,10,12,61,39,22,82,0,82,1.782609,1,False,3.0,promoted,auto up
+2020,4,cambridge_united,46,Cambridge United,24,8,14,73,49,24,80,0,80,1.73913,2,False,3.0,promoted,auto up
+2020,4,bolton_wanderers,46,Bolton Wanderers,23,10,13,59,50,9,79,0,79,1.717391,3,False,3.0,promoted,auto up
+2020,4,morecambe,46,Morecambe,23,9,14,69,58,11,78,0,78,1.695652,4,False,3.0,promoted via play-offs,play-offs
+2020,4,newport_county,46,Newport County,20,13,13,57,42,15,73,0,73,1.586957,5,False,4.0,,play-offs
+2020,4,forest_green_rovers,46,Forest Green Rovers,20,13,13,59,51,8,73,0,73,1.586957,6,False,4.0,,play-offs
+2020,4,tranmere_rovers,46,Tranmere Rovers,20,13,13,55,50,5,73,0,73,1.586957,7,False,4.0,,play-offs
+2020,4,salford_city,46,Salford City,19,14,13,54,34,20,71,0,71,1.543478,8,False,4.0,,
+2020,4,exeter_city,46,Exeter City,18,16,12,71,50,21,70,0,70,1.521739,9,False,4.0,,
+2020,4,carlisle_united,46,Carlisle United,18,12,16,60,51,9,66,0,66,1.434783,10,False,4.0,,
+2020,4,leyton_orient,46,Leyton Orient,17,10,19,53,55,-2,61,0,61,1.326087,11,False,4.0,,
+2020,4,crawley_town,46,Crawley Town,16,13,17,56,62,-6,61,0,61,1.326087,12,False,4.0,,
+2020,4,port_vale,46,Port Vale,17,9,20,57,57,0,60,0,60,1.304348,13,False,4.0,,
+2020,4,stevenage,46,Stevenage,14,18,14,41,41,0,60,0,60,1.304348,14,False,4.0,,
+2020,4,bradford_city,46,Bradford City,16,11,19,48,53,-5,59,0,59,1.282609,15,False,4.0,,
+2020,4,mansfield_town,46,Mansfield Town,13,19,14,57,55,2,58,0,58,1.26087,16,False,4.0,,
+2020,4,harrogate_town,46,Harrogate Town,16,9,21,52,61,-9,57,0,57,1.23913,17,False,4.0,,
+2020,4,oldham_athletic,46,Oldham Athletic,15,9,22,72,81,-9,54,0,54,1.173913,18,False,4.0,,
+2020,4,walsall,46,Walsall,11,20,15,45,53,-8,53,0,53,1.152174,19,False,4.0,,
+2020,4,colchester_united,46,Colchester United,11,18,17,44,61,-17,51,0,51,1.108696,20,False,4.0,,
+2020,4,barrow,46,Barrow,13,11,22,53,59,-6,50,0,50,1.086957,21,False,4.0,,
+2020,4,scunthorpe_united,46,Scunthorpe United,13,9,24,41,64,-23,48,0,48,1.043478,22,False,4.0,,
+2020,4,southend_united,46,Southend United,10,15,21,29,58,-29,45,0,45,0.978261,23,False,5.0,relegated,down
+2020,4,grimsby_town,46,Grimsby Town,10,13,23,37,69,-32,43,0,43,0.934783,24,False,5.0,relegated,down
+2020,5,sutton_united,42,Sutton United,25,9,8,72,36,36,84,0,84,2.0,1,False,4.0,promoted,auto up
+2020,5,torquay_united,42,Torquay United,23,11,8,68,39,29,80,0,80,1.904762,2,False,5.0,,play-offs
+2020,5,stockport_county,42,Stockport County,21,14,7,69,32,37,77,0,77,1.833333,3,False,5.0,,play-offs
+2020,5,hartlepool_united,42,Hartlepool United,22,10,10,66,43,23,76,0,76,1.809524,4,False,4.0,promoted via play-offs,play-offs
+2020,5,notts_county,42,Notts County,20,10,12,62,41,21,70,0,70,1.666667,5,False,5.0,,play-offs
+2020,5,chesterfield,42,Chesterfield,21,6,15,60,43,17,69,0,69,1.642857,6,False,5.0,,play-offs
+2020,5,bromley,42,Bromley,19,12,11,63,53,10,69,0,69,1.642857,7,False,5.0,,play-offs
+2020,5,wrexham,42,Wrexham,19,11,12,64,43,21,68,0,68,1.619048,8,False,5.0,,
+2020,5,eastleigh,42,Eastleigh,18,12,12,49,40,9,66,0,66,1.571429,9,False,5.0,,
+2020,5,fc_halifax_town,42,FC Halifax Town,19,8,15,63,54,9,65,0,65,1.547619,10,False,5.0,,
+2020,5,solihull_moors,42,Solihull Moors,19,7,16,58,48,10,64,0,64,1.52381,11,False,5.0,,
+2020,5,dagenham_and_redbridge,42,Dagenham & Redbridge,17,9,16,53,48,5,60,0,60,1.428571,12,False,5.0,,
+2020,5,maidenhead_united,42,Maidenhead United,15,11,16,62,60,2,56,0,56,1.333333,13,False,5.0,,
+2020,5,boreham_wood,42,Boreham Wood,13,16,13,52,48,4,55,0,55,1.309524,14,False,5.0,,
+2020,5,aldershot_town,42,Aldershot Town,15,7,20,59,66,-7,52,0,52,1.238095,15,False,5.0,,
+2020,5,yeovil_town,42,Yeovil Town,15,7,20,58,68,-10,52,0,52,1.238095,16,False,5.0,,
+2020,5,altrincham,42,Altrincham,12,11,19,46,60,-14,47,0,47,1.119048,17,False,5.0,,
+2020,5,weymouth,42,Weymouth,11,6,25,45,71,-26,39,0,39,0.928571,18,False,5.0,,
+2020,5,wealdstone,42,Wealdstone,10,7,25,49,99,-50,37,0,37,0.880952,19,False,5.0,,
+2020,5,woking,42,Woking,8,9,25,42,69,-27,33,0,33,0.785714,20,False,5.0,,
+2020,5,king_s_lynn_town,42,King's Lynn Town,7,10,25,50,98,-48,31,0,31,0.738095,21,False,5.0,,
+2020,5,barnet,42,Barnet,8,7,27,37,88,-51,31,0,31,0.738095,22,False,5.0,,
+2021,1,manchester_city,38,Manchester City,29,6,3,99,26,73,93,0,93,2.447368,1,False,1.0,champions,
+2021,1,liverpool,38,Liverpool,28,8,2,94,26,68,92,0,92,2.421053,2,False,1.0,,
+2021,1,chelsea,38,Chelsea,21,11,6,76,33,43,74,0,74,1.947368,3,False,1.0,,
+2021,1,tottenham_hotspur,38,Tottenham Hotspur,22,5,11,69,40,29,71,0,71,1.868421,4,False,1.0,,
+2021,1,arsenal,38,Arsenal,22,3,13,61,48,13,69,0,69,1.815789,5,False,1.0,,
+2021,1,manchester_united,38,Manchester United,16,10,12,57,57,0,58,0,58,1.526316,6,False,1.0,,
+2021,1,west_ham_united,38,West Ham United,16,8,14,60,51,9,56,0,56,1.473684,7,False,1.0,,
+2021,1,leicester_city,38,Leicester City,14,10,14,62,59,3,52,0,52,1.368421,8,False,1.0,,
+2021,1,brighton_and_hove_albion,38,Brighton & Hove Albion,12,15,11,42,44,-2,51,0,51,1.342105,9,False,1.0,,
+2021,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,15,6,17,38,43,-5,51,0,51,1.342105,10,False,1.0,,
+2021,1,newcastle_united,38,Newcastle United,13,10,15,44,62,-18,49,0,49,1.289474,11,False,1.0,,
+2021,1,crystal_palace,38,Crystal Palace,11,15,12,50,46,4,48,0,48,1.263158,12,False,1.0,,
+2021,1,brentford,38,Brentford,13,7,18,48,56,-8,46,0,46,1.210526,13,False,1.0,,
+2021,1,aston_villa,38,Aston Villa,13,6,19,52,54,-2,45,0,45,1.184211,14,False,1.0,,
+2021,1,southampton,38,Southampton,9,13,16,43,67,-24,40,0,40,1.052632,15,False,1.0,,
+2021,1,everton,38,Everton,11,6,21,43,66,-23,39,0,39,1.026316,16,False,1.0,,
+2021,1,leeds_united,38,Leeds United,9,11,18,42,79,-37,38,0,38,1.0,17,False,1.0,,
+2021,1,burnley,38,Burnley,7,14,17,34,53,-19,35,0,35,0.921053,18,False,2.0,relegated,down
+2021,1,watford,38,Watford,6,5,27,34,77,-43,23,0,23,0.605263,19,False,2.0,relegated,down
+2021,1,norwich_city,38,Norwich City,5,7,26,23,84,-61,22,0,22,0.578947,20,False,2.0,relegated,down
+2021,2,fulham,46,Fulham,27,9,10,106,43,63,90,0,90,1.956522,1,False,1.0,promoted,auto up
+2021,2,bournemouth,46,Bournemouth,25,13,8,74,39,35,88,0,88,1.913043,2,False,1.0,promoted,auto up
+2021,2,huddersfield_town,46,Huddersfield Town,23,13,10,64,47,17,82,0,82,1.782609,3,False,2.0,,play-offs
+2021,2,nottingham_forest,46,Nottingham Forest,23,11,12,73,40,33,80,0,80,1.73913,4,False,1.0,promoted via play-offs,play-offs
+2021,2,sheffield_united,46,Sheffield United,21,12,13,63,45,18,75,0,75,1.630435,5,False,2.0,,play-offs
+2021,2,luton_town,46,Luton Town,21,12,13,63,55,8,75,0,75,1.630435,6,False,2.0,,play-offs
+2021,2,middlesbrough,46,Middlesbrough,20,10,16,59,50,9,70,0,70,1.521739,7,False,2.0,,
+2021,2,blackburn_rovers,46,Blackburn Rovers,19,12,15,59,50,9,69,0,69,1.5,8,False,2.0,,
+2021,2,millwall,46,Millwall,18,15,13,53,45,8,69,0,69,1.5,9,False,2.0,,
+2021,2,west_bromwich_albion,46,West Bromwich Albion,18,13,15,52,45,7,67,0,67,1.456522,10,False,2.0,,
+2021,2,queens_park_rangers,46,Queens Park Rangers,19,9,18,60,59,1,66,0,66,1.434783,11,False,2.0,,
+2021,2,coventry_city,46,Coventry City,17,13,16,60,59,1,64,0,64,1.391304,12,False,2.0,,
+2021,2,preston_north_end,46,Preston North End,16,16,14,52,56,-4,64,0,64,1.391304,13,False,2.0,,
+2021,2,stoke_city,46,Stoke City,17,11,18,57,52,5,62,0,62,1.347826,14,False,2.0,,
+2021,2,swansea_city,46,Swansea City,16,13,17,58,68,-10,61,0,61,1.326087,15,False,2.0,,
+2021,2,blackpool,46,Blackpool,16,12,18,54,58,-4,60,0,60,1.304348,16,False,2.0,,
+2021,2,bristol_city,46,Bristol City,15,10,21,62,77,-15,55,0,55,1.195652,17,False,2.0,,
+2021,2,cardiff_city,46,Cardiff City,15,8,23,50,68,-18,53,0,53,1.152174,18,False,2.0,,
+2021,2,hull_city,46,Hull City,14,9,23,41,54,-13,51,0,51,1.108696,19,False,2.0,,
+2021,2,birmingham_city,46,Birmingham City,11,14,21,50,75,-25,47,0,47,1.021739,20,False,2.0,,
+2021,2,reading,46,Reading,13,8,25,54,87,-33,47,6,41,0.891304,21,False,2.0,,
+2021,2,peterborough_united,46,Peterborough United,9,10,27,43,87,-44,37,0,37,0.804348,22,False,3.0,relegated,down
+2021,2,derby_county,46,Derby County,14,13,19,45,53,-8,55,21,34,0.73913,23,False,3.0,relegated,down
+2021,2,barnsley,46,Barnsley,6,12,28,33,73,-40,30,0,30,0.652174,24,False,3.0,relegated,down
+2021,3,wigan_athletic,46,Wigan Athletic,27,11,8,82,44,38,92,0,92,2.0,1,False,2.0,promoted,auto up
+2021,3,rotherham_united,46,Rotherham United,27,9,10,70,33,37,90,0,90,1.956522,2,False,2.0,promoted,auto up
+2021,3,milton_keynes_dons,46,Milton Keynes Dons,26,11,9,78,44,34,89,0,89,1.934783,3,False,3.0,,play-offs
+2021,3,sheffield_wednesday,46,Sheffield Wednesday,24,13,9,78,50,28,85,0,85,1.847826,4,False,3.0,,play-offs
+2021,3,sunderland,46,Sunderland,24,12,10,79,53,26,84,0,84,1.826087,5,False,2.0,promoted via play-offs,play-offs
+2021,3,wycombe_wanderers,46,Wycombe Wanderers,23,14,9,75,51,24,83,0,83,1.804348,6,False,3.0,,play-offs
+2021,3,plymouth_argyle,46,Plymouth Argyle,23,11,12,68,48,20,80,0,80,1.73913,7,False,3.0,,
+2021,3,oxford_united,46,Oxford United,22,10,14,82,59,23,76,0,76,1.652174,8,False,3.0,,
+2021,3,bolton_wanderers,46,Bolton Wanderers,21,10,15,74,57,17,73,0,73,1.586957,9,False,3.0,,
+2021,3,portsmouth,46,Portsmouth,20,13,13,68,51,17,73,0,73,1.586957,10,False,3.0,,
+2021,3,ipswich_town,46,Ipswich Town,18,16,12,67,46,21,70,0,70,1.521739,11,False,3.0,,
+2021,3,accrington_stanley,46,Accrington Stanley,17,10,19,61,80,-19,61,0,61,1.326087,12,False,3.0,,
+2021,3,charlton_athletic,46,Charlton Athletic,17,8,21,55,59,-4,59,0,59,1.282609,13,False,3.0,,
+2021,3,cambridge_united,46,Cambridge United,15,13,18,56,74,-18,58,0,58,1.26087,14,False,3.0,,
+2021,3,cheltenham_town,46,Cheltenham Town,13,17,16,66,80,-14,56,0,56,1.217391,15,False,3.0,,
+2021,3,burton_albion,46,Burton Albion,14,11,21,51,67,-16,53,0,53,1.152174,16,False,3.0,,
+2021,3,lincoln_city,46,Lincoln City,14,10,22,55,63,-8,52,0,52,1.130435,17,False,3.0,,
+2021,3,shrewsbury_town,46,Shrewsbury Town,12,14,20,47,51,-4,50,0,50,1.086957,18,False,3.0,,
+2021,3,morecambe,46,Morecambe,10,12,24,57,88,-31,42,0,42,0.913043,19,False,3.0,,
+2021,3,fleetwood_town,46,Fleetwood Town,8,16,22,62,82,-20,40,0,40,0.869565,20,False,3.0,,
+2021,3,gillingham,46,Gillingham,8,16,22,35,69,-34,40,0,40,0.869565,21,False,4.0,relegated,down
+2021,3,doncaster_rovers,46,Doncaster Rovers,10,8,28,37,82,-45,38,0,38,0.826087,22,False,4.0,relegated,down
+2021,3,afc_wimbledon,46,AFC Wimbledon,6,19,21,49,75,-26,37,0,37,0.804348,23,False,4.0,relegated,down
+2021,3,crewe_alexandra,46,Crewe Alexandra,7,8,31,37,83,-46,29,0,29,0.630435,24,False,4.0,relegated,down
+2021,4,forest_green_rovers,46,Forest Green Rovers,23,15,8,75,44,31,84,0,84,1.826087,1,False,3.0,promoted,auto up
+2021,4,exeter_city,46,Exeter City,23,15,8,65,41,24,84,0,84,1.826087,2,False,3.0,promoted,auto up
+2021,4,bristol_rovers,46,Bristol Rovers,23,11,12,71,49,22,80,0,80,1.73913,3,False,3.0,promoted,auto up
+2021,4,northampton_town,46,Northampton Town,23,11,12,60,38,22,80,0,80,1.73913,4,False,4.0,,play-offs
+2021,4,port_vale,46,Port Vale,22,12,12,67,46,21,78,0,78,1.695652,5,False,3.0,promoted via play-offs,play-offs
+2021,4,swindon_town,46,Swindon Town,22,11,13,77,54,23,77,0,77,1.673913,6,False,4.0,,play-offs
+2021,4,mansfield_town,46,Mansfield Town,22,11,13,67,52,15,77,0,77,1.673913,7,False,4.0,,play-offs
+2021,4,sutton_united,46,Sutton United,22,10,14,69,53,16,76,0,76,1.652174,8,False,4.0,,
+2021,4,tranmere_rovers,46,Tranmere Rovers,21,12,13,53,40,13,75,0,75,1.630435,9,False,4.0,,
+2021,4,salford_city,46,Salford City,19,13,14,60,46,14,70,0,70,1.521739,10,False,4.0,,
+2021,4,newport_county,46,Newport County,19,12,15,67,58,9,69,0,69,1.5,11,False,4.0,,
+2021,4,crawley_town,46,Crawley Town,17,10,19,56,66,-10,61,0,61,1.326087,12,False,4.0,,
+2021,4,leyton_orient,46,Leyton Orient,14,16,16,62,47,15,58,0,58,1.26087,13,False,4.0,,
+2021,4,bradford_city,46,Bradford City,14,16,16,53,55,-2,58,0,58,1.26087,14,False,4.0,,
+2021,4,colchester_united,46,Colchester United,14,13,19,48,60,-12,55,0,55,1.195652,15,False,4.0,,
+2021,4,walsall,46,Walsall,14,12,20,47,60,-13,54,0,54,1.173913,16,False,4.0,,
+2021,4,hartlepool_united,46,Hartlepool United,14,12,20,44,64,-20,54,0,54,1.173913,17,False,4.0,,
+2021,4,rochdale,46,Rochdale,12,17,17,51,59,-8,53,0,53,1.152174,18,False,4.0,,
+2021,4,harrogate_town,46,Harrogate Town,14,11,21,64,75,-11,53,0,53,1.152174,19,False,4.0,,
+2021,4,carlisle_united,46,Carlisle United,14,11,21,39,62,-23,53,0,53,1.152174,20,False,4.0,,
+2021,4,stevenage,46,Stevenage,11,14,21,45,68,-23,47,0,47,1.021739,21,False,4.0,,
+2021,4,barrow,46,Barrow,10,14,22,44,57,-13,44,0,44,0.956522,22,False,4.0,,
+2021,4,oldham_athletic,46,Oldham Athletic,9,11,26,46,75,-29,38,0,38,0.826087,23,False,5.0,relegated,down
+2021,4,scunthorpe_united,46,Scunthorpe United,4,14,28,29,90,-61,26,0,26,0.565217,24,False,5.0,relegated,down
+2021,5,stockport_county,44,Stockport County,30,4,10,87,38,49,94,0,94,2.136364,1,False,4.0,promoted,auto up
+2021,5,wrexham,44,Wrexham,26,10,8,91,46,45,88,0,88,2.0,2,False,5.0,,play-offs
+2021,5,solihull_moors,44,Solihull Moors,25,12,7,83,45,38,87,0,87,1.977273,3,False,5.0,,play-offs
+2021,5,fc_halifax_town,44,FC Halifax Town,25,9,10,62,35,27,84,0,84,1.909091,4,False,5.0,,play-offs
+2021,5,notts_county,44,Notts County,24,10,10,81,52,29,82,0,82,1.863636,5,False,5.0,,play-offs
+2021,5,grimsby_town,44,Grimsby Town,23,8,13,68,46,22,77,0,77,1.75,6,False,4.0,promoted via play-offs,play-offs
+2021,5,chesterfield,44,Chesterfield,20,14,10,69,51,18,74,0,74,1.681818,7,False,5.0,,play-offs
+2021,5,dagenham_and_redbridge,44,Dagenham & Redbridge,22,7,15,80,53,27,73,0,73,1.659091,8,False,5.0,,
+2021,5,boreham_wood,44,Boreham Wood,18,13,13,49,40,9,67,0,67,1.522727,9,False,5.0,,
+2021,5,bromley,44,Bromley,18,13,13,61,53,8,67,0,67,1.522727,10,False,5.0,,
+2021,5,torquay_united,44,Torquay United,18,12,14,66,54,12,66,0,66,1.5,11,False,5.0,,
+2021,5,yeovil_town,44,Yeovil Town,15,14,15,43,46,-3,59,0,59,1.340909,12,False,5.0,,
+2021,5,southend_united,44,Southend United,16,10,18,45,61,-16,58,0,58,1.318182,13,False,5.0,,
+2021,5,altrincham,44,Altrincham,15,10,19,62,69,-7,55,0,55,1.25,14,False,5.0,,
+2021,5,woking,44,Woking,16,5,23,59,61,-2,53,0,53,1.204545,15,False,5.0,,
+2021,5,wealdstone,44,Wealdstone,14,11,19,51,65,-14,53,0,53,1.204545,16,False,5.0,,
+2021,5,maidenhead_united,44,Maidenhead United,13,12,19,48,67,-19,51,0,51,1.159091,17,False,5.0,,
+2021,5,barnet,44,Barnet,13,11,20,59,89,-30,50,0,50,1.136364,18,False,5.0,,
+2021,5,eastleigh,44,Eastleigh,12,10,22,52,74,-22,46,0,46,1.045455,19,False,5.0,,
+2021,5,aldershot_town,44,Aldershot Town,11,10,23,46,73,-27,43,0,43,0.977273,20,False,5.0,,
+2021,5,king_s_lynn_town,44,King's Lynn Town,8,10,26,47,79,-32,34,0,34,0.772727,21,False,,relegated,down
+2021,5,weymouth,44,Weymouth,6,10,28,40,88,-48,28,0,28,0.636364,22,False,,relegated,down
+2021,5,dover_athletic,44,Dover Athletic,2,7,35,37,101,-64,13,12,1,0.022727,23,False,,relegated,down
+2022,1,manchester_city,38,Manchester City,28,5,5,94,33,61,89,0,89,2.342105,1,False,1.0,champions,
+2022,1,arsenal,38,Arsenal,26,6,6,88,43,45,84,0,84,2.210526,2,False,1.0,,
+2022,1,manchester_united,38,Manchester United,23,6,9,58,43,15,75,0,75,1.973684,3,False,1.0,,
+2022,1,newcastle_united,38,Newcastle United,19,14,5,68,33,35,71,0,71,1.868421,4,False,1.0,,
+2022,1,liverpool,38,Liverpool,19,10,9,75,47,28,67,0,67,1.763158,5,False,1.0,,
+2022,1,brighton_and_hove_albion,38,Brighton & Hove Albion,18,8,12,72,53,19,62,0,62,1.631579,6,False,1.0,,
+2022,1,aston_villa,38,Aston Villa,18,7,13,51,46,5,61,0,61,1.605263,7,False,1.0,,
+2022,1,tottenham_hotspur,38,Tottenham Hotspur,18,6,14,70,63,7,60,0,60,1.578947,8,False,1.0,,
+2022,1,brentford,38,Brentford,15,14,9,58,46,12,59,0,59,1.552632,9,False,1.0,,
+2022,1,fulham,38,Fulham,15,7,16,55,53,2,52,0,52,1.368421,10,False,1.0,,
+2022,1,crystal_palace,38,Crystal Palace,11,12,15,40,49,-9,45,0,45,1.184211,11,False,1.0,,
+2022,1,chelsea,38,Chelsea,11,11,16,38,47,-9,44,0,44,1.157895,12,False,1.0,,
+2022,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,11,8,19,31,58,-27,41,0,41,1.078947,13,False,1.0,,
+2022,1,west_ham_united,38,West Ham United,11,7,20,42,55,-13,40,0,40,1.052632,14,False,1.0,,
+2022,1,bournemouth,38,Bournemouth,11,6,21,37,71,-34,39,0,39,1.026316,15,False,1.0,,
+2022,1,nottingham_forest,38,Nottingham Forest,9,11,18,38,68,-30,38,0,38,1.0,16,False,1.0,,
+2022,1,everton,38,Everton,8,12,18,34,57,-23,36,0,36,0.947368,17,False,1.0,,
+2022,1,leicester_city,38,Leicester City,9,7,22,51,68,-17,34,0,34,0.894737,18,False,2.0,relegated,down
+2022,1,leeds_united,38,Leeds United,7,10,21,48,78,-30,31,0,31,0.815789,19,False,2.0,relegated,down
+2022,1,southampton,38,Southampton,6,7,25,36,73,-37,25,0,25,0.657895,20,False,2.0,relegated,down
+2022,2,burnley,46,Burnley,29,14,3,87,35,52,101,0,101,2.195652,1,False,1.0,promoted,auto up
+2022,2,sheffield_united,46,Sheffield United,28,7,11,73,39,34,91,0,91,1.978261,2,False,1.0,promoted,auto up
+2022,2,luton_town,46,Luton Town,21,17,8,57,39,18,80,0,80,1.73913,3,False,1.0,promoted via play-offs,play-offs
+2022,2,middlesbrough,46,Middlesbrough,22,9,15,84,56,28,75,0,75,1.630435,4,False,2.0,,play-offs
+2022,2,coventry_city,46,Coventry City,18,16,12,58,46,12,70,0,70,1.521739,5,False,2.0,,play-offs
+2022,2,sunderland,46,Sunderland,18,15,13,68,55,13,69,0,69,1.5,6,False,2.0,,play-offs
+2022,2,blackburn_rovers,46,Blackburn Rovers,20,9,17,52,54,-2,69,0,69,1.5,7,False,2.0,,
+2022,2,millwall,46,Millwall,19,11,16,57,50,7,68,0,68,1.478261,8,False,2.0,,
+2022,2,west_bromwich_albion,46,West Bromwich Albion,18,12,16,59,53,6,66,0,66,1.434783,9,False,2.0,,
+2022,2,swansea_city,46,Swansea City,18,12,16,68,64,4,66,0,66,1.434783,10,False,2.0,,
+2022,2,watford,46,Watford,16,15,15,56,53,3,63,0,63,1.369565,11,False,2.0,,
+2022,2,preston_north_end,46,Preston North End,17,12,17,45,59,-14,63,0,63,1.369565,12,False,2.0,,
+2022,2,norwich_city,46,Norwich City,17,11,18,57,54,3,62,0,62,1.347826,13,False,2.0,,
+2022,2,bristol_city,46,Bristol City,15,14,17,55,56,-1,59,0,59,1.282609,14,False,2.0,,
+2022,2,hull_city,46,Hull City,14,16,16,51,61,-10,58,0,58,1.26087,15,False,2.0,,
+2022,2,stoke_city,46,Stoke City,14,11,21,55,54,1,53,0,53,1.152174,16,False,2.0,,
+2022,2,birmingham_city,46,Birmingham City,14,11,21,47,58,-11,53,0,53,1.152174,17,False,2.0,,
+2022,2,huddersfield_town,46,Huddersfield Town,14,11,21,47,62,-15,53,0,53,1.152174,18,False,2.0,,
+2022,2,rotherham_united,46,Rotherham United,11,17,18,49,60,-11,50,0,50,1.086957,19,False,2.0,,
+2022,2,queens_park_rangers,46,Queens Park Rangers,13,11,22,44,71,-27,50,0,50,1.086957,20,False,2.0,,
+2022,2,cardiff_city,46,Cardiff City,13,10,23,41,58,-17,49,0,49,1.065217,21,False,2.0,,
+2022,2,reading,46,Reading,13,11,22,46,68,-22,50,6,44,0.956522,22,False,3.0,relegated,down
+2022,2,blackpool,46,Blackpool,11,11,24,48,72,-24,44,0,44,0.956522,23,False,3.0,relegated,down
+2022,2,wigan_athletic,46,Wigan Athletic,10,15,21,38,65,-27,45,3,42,0.913043,24,False,3.0,relegated,down
+2022,3,plymouth_argyle,46,Plymouth Argyle,31,8,7,82,47,35,101,0,101,2.195652,1,False,2.0,promoted,auto up
+2022,3,ipswich_town,46,Ipswich Town,28,14,4,101,35,66,98,0,98,2.130435,2,False,2.0,promoted,auto up
+2022,3,sheffield_wednesday,46,Sheffield Wednesday,28,12,6,81,37,44,96,0,96,2.086957,3,False,2.0,promoted via play-offs,play-offs
+2022,3,barnsley,46,Barnsley,26,8,12,80,47,33,86,0,86,1.869565,4,False,3.0,,play-offs
+2022,3,bolton_wanderers,46,Bolton Wanderers,23,12,11,62,36,26,81,0,81,1.76087,5,False,3.0,,play-offs
+2022,3,peterborough_united,46,Peterborough United,24,5,17,75,54,21,77,0,77,1.673913,6,False,3.0,,play-offs
+2022,3,derby_county,46,Derby County,21,13,12,67,46,21,76,0,76,1.652174,7,False,3.0,,
+2022,3,portsmouth,46,Portsmouth,17,19,10,61,50,11,70,0,70,1.521739,8,False,3.0,,
+2022,3,wycombe_wanderers,46,Wycombe Wanderers,20,9,17,59,51,8,69,0,69,1.5,9,False,3.0,,
+2022,3,charlton_athletic,46,Charlton Athletic,16,14,16,70,66,4,62,0,62,1.347826,10,False,3.0,,
+2022,3,lincoln_city,46,Lincoln City,14,20,12,47,47,0,62,0,62,1.347826,11,False,3.0,,
+2022,3,shrewsbury_town,46,Shrewsbury Town,17,8,21,52,61,-9,59,0,59,1.282609,12,False,3.0,,
+2022,3,fleetwood_town,46,Fleetwood Town,14,16,16,53,51,2,58,0,58,1.26087,13,False,3.0,,
+2022,3,exeter_city,46,Exeter City,15,11,20,64,68,-4,56,0,56,1.217391,14,False,3.0,,
+2022,3,burton_albion,46,Burton Albion,15,11,20,57,79,-22,56,0,56,1.217391,15,False,3.0,,
+2022,3,cheltenham_town,46,Cheltenham Town,14,12,20,45,61,-16,54,0,54,1.173913,16,False,3.0,,
+2022,3,bristol_rovers,46,Bristol Rovers,14,11,21,58,73,-15,53,0,53,1.152174,17,False,3.0,,
+2022,3,port_vale,46,Port Vale,13,10,23,48,71,-23,49,0,49,1.065217,18,False,3.0,,
+2022,3,oxford_united,46,Oxford United,11,14,21,49,56,-7,47,0,47,1.021739,19,False,3.0,,
+2022,3,cambridge_united,46,Cambridge United,13,7,26,41,68,-27,46,0,46,1.0,20,False,3.0,,
+2022,3,milton_keynes_dons,46,Milton Keynes Dons,11,12,23,44,66,-22,45,0,45,0.978261,21,False,4.0,relegated,down
+2022,3,morecambe,46,Morecambe,10,14,22,47,78,-31,44,0,44,0.956522,22,False,4.0,relegated,down
+2022,3,accrington_stanley,46,Accrington Stanley,11,11,24,40,77,-37,44,0,44,0.956522,23,False,4.0,relegated,down
+2022,3,forest_green_rovers,46,Forest Green Rovers,6,9,31,31,89,-58,27,0,27,0.586957,24,False,4.0,relegated,down
+2022,4,leyton_orient,46,Leyton Orient,26,13,7,61,34,27,91,0,91,1.978261,1,False,3.0,promoted,auto up
+2022,4,stevenage,46,Stevenage,24,13,9,61,39,22,85,0,85,1.847826,2,False,3.0,promoted,auto up
+2022,4,northampton_town,46,Northampton Town,23,14,9,62,42,20,83,0,83,1.804348,3,False,3.0,promoted,auto up
+2022,4,stockport_county,46,Stockport County,22,13,11,65,37,28,79,0,79,1.717391,4,False,4.0,,play-offs
+2022,4,carlisle_united,46,Carlisle United,20,16,10,66,43,23,76,0,76,1.652174,5,False,3.0,promoted via play-offs,play-offs
+2022,4,bradford_city,46,Bradford City,20,16,10,61,43,18,76,0,76,1.652174,6,False,4.0,,play-offs
+2022,4,salford_city,46,Salford City,22,9,15,72,54,18,75,0,75,1.630435,7,False,4.0,,play-offs
+2022,4,mansfield_town,46,Mansfield Town,21,12,13,72,55,17,75,0,75,1.630435,8,False,4.0,,
+2022,4,barrow,46,Barrow,18,8,20,47,53,-6,62,0,62,1.347826,9,False,4.0,,
+2022,4,swindon_town,46,Swindon Town,16,13,17,61,55,6,61,0,61,1.326087,10,False,4.0,,
+2022,4,grimsby_town,46,Grimsby Town,16,13,17,49,56,-7,61,0,61,1.326087,11,False,4.0,,
+2022,4,tranmere_rovers,46,Tranmere Rovers,15,13,18,45,48,-3,58,0,58,1.26087,12,False,4.0,,
+2022,4,crewe_alexandra,46,Crewe Alexandra,14,16,16,48,60,-12,58,0,58,1.26087,13,False,4.0,,
+2022,4,sutton_united,46,Sutton United,15,13,18,46,58,-12,58,0,58,1.26087,14,False,4.0,,
+2022,4,newport_county,46,Newport County,14,15,17,53,56,-3,57,0,57,1.23913,15,False,4.0,,
+2022,4,walsall,46,Walsall,12,19,15,46,49,-3,55,0,55,1.195652,16,False,4.0,,
+2022,4,gillingham,46,Gillingham,14,13,19,36,49,-13,55,0,55,1.195652,17,False,4.0,,
+2022,4,doncaster_rovers,46,Doncaster Rovers,16,7,23,46,65,-19,55,0,55,1.195652,18,False,4.0,,
+2022,4,harrogate_town,46,Harrogate Town,12,16,18,59,68,-9,52,0,52,1.130435,19,False,4.0,,
+2022,4,colchester_united,46,Colchester United,12,13,21,44,51,-7,49,0,49,1.065217,20,False,4.0,,
+2022,4,afc_wimbledon,46,AFC Wimbledon,11,15,20,48,60,-12,48,0,48,1.043478,21,False,4.0,,
+2022,4,crawley_town,46,Crawley Town,11,13,22,48,71,-23,46,0,46,1.0,22,False,4.0,,
+2022,4,hartlepool_united,46,Hartlepool United,9,16,21,52,78,-26,43,0,43,0.934783,23,False,5.0,relegated,down
+2022,4,rochdale,46,Rochdale,9,11,26,46,70,-24,38,0,38,0.826087,24,False,5.0,relegated,down
+2022,5,wrexham,46,Wrexham,34,9,3,116,43,73,111,0,111,2.413043,1,False,4.0,promoted,auto up
+2022,5,notts_county,46,Notts County,32,11,3,117,42,75,107,0,107,2.326087,2,False,4.0,promoted via play-offs,play-offs
+2022,5,chesterfield,46,Chesterfield,25,9,12,81,52,29,84,0,84,1.826087,3,False,5.0,,play-offs
+2022,5,woking,46,Woking,24,10,12,71,48,23,82,0,82,1.782609,4,False,5.0,,play-offs
+2022,5,barnet,46,Barnet,21,11,14,75,67,8,74,0,74,1.608696,5,False,5.0,,play-offs
+2022,5,boreham_wood,46,Boreham Wood,19,15,12,52,40,12,72,0,72,1.565217,6,False,5.0,,play-offs
+2022,5,bromley,46,Bromley,18,17,11,68,53,15,71,0,71,1.543478,7,False,5.0,,play-offs
+2022,5,southend_united,46,Southend United,20,9,17,57,45,12,69,0,69,1.5,8,False,5.0,,
+2022,5,eastleigh,46,Eastleigh,19,10,17,56,57,-1,67,0,67,1.456522,9,False,5.0,,
+2022,5,dagenham_and_redbridge,46,Dagenham & Redbridge,18,9,19,61,72,-11,63,0,63,1.369565,10,False,5.0,,
+2022,5,fc_halifax_town,46,FC Halifax Town,16,13,17,49,48,1,61,0,61,1.326087,11,False,5.0,,
+2022,5,oldham_athletic,46,Oldham Athletic,16,13,17,63,64,-1,61,0,61,1.326087,12,False,5.0,,
+2022,5,gateshead,46,Gateshead,15,15,16,67,62,5,60,0,60,1.304348,13,False,5.0,,
+2022,5,wealdstone,46,Wealdstone,16,12,18,57,72,-15,60,0,60,1.304348,14,False,5.0,,
+2022,5,solihull_moors,46,Solihull Moors,15,13,18,62,66,-4,58,0,58,1.26087,15,False,5.0,,
+2022,5,dorking_wanderers,46,Dorking Wanderers,16,9,21,67,91,-24,57,0,57,1.23913,16,False,5.0,,
+2022,5,altrincham,46,Altrincham,14,14,18,68,82,-14,56,0,56,1.217391,17,False,5.0,,
+2022,5,aldershot_town,46,Aldershot Town,14,11,21,64,76,-12,53,0,53,1.152174,18,False,5.0,,
+2022,5,york_city,46,York City,13,12,21,55,63,-8,51,0,51,1.108696,19,False,5.0,,
+2022,5,maidenhead_united,46,Maidenhead United,13,11,22,47,66,-19,50,0,50,1.086957,20,False,5.0,,
+2022,5,torquay_united,46,Torquay United,12,12,22,58,80,-22,48,0,48,1.043478,21,False,,relegated,down
+2022,5,yeovil_town,46,Yeovil Town,7,19,20,35,60,-25,40,0,40,0.869565,22,False,,relegated,down
+2022,5,scunthorpe_united,46,Scunthorpe United,8,10,28,49,87,-38,34,0,34,0.73913,23,False,,relegated,down
+2022,5,maidstone_united,46,Maidstone United,5,10,31,45,104,-59,25,0,25,0.543478,24,False,,relegated,down
+2023,1,manchester_city,38,Manchester City,28,7,3,96,34,62,91,0,91,2.394737,1,False,1.0,champions,
+2023,1,arsenal,38,Arsenal,28,5,5,91,29,62,89,0,89,2.342105,2,False,1.0,,
+2023,1,liverpool,38,Liverpool,24,10,4,86,41,45,82,0,82,2.157895,3,False,1.0,,
+2023,1,aston_villa,38,Aston Villa,20,8,10,76,61,15,68,0,68,1.789474,4,False,1.0,,
+2023,1,tottenham_hotspur,38,Tottenham Hotspur,20,6,12,74,61,13,66,0,66,1.736842,5,False,1.0,,
+2023,1,chelsea,38,Chelsea,18,9,11,77,63,14,63,0,63,1.657895,6,False,1.0,,
+2023,1,newcastle_united,38,Newcastle United,18,6,14,85,62,23,60,0,60,1.578947,7,False,1.0,,
+2023,1,manchester_united,38,Manchester United,18,6,14,57,58,-1,60,0,60,1.578947,8,False,1.0,,
+2023,1,west_ham_united,38,West Ham United,14,10,14,60,74,-14,52,0,52,1.368421,9,False,1.0,,
+2023,1,crystal_palace,38,Crystal Palace,13,10,15,57,58,-1,49,0,49,1.289474,10,False,1.0,,
+2023,1,brighton_and_hove_albion,38,Brighton & Hove Albion,12,12,14,55,62,-7,48,0,48,1.263158,11,False,1.0,,
+2023,1,bournemouth,38,Bournemouth,13,9,16,54,67,-13,48,0,48,1.263158,12,False,1.0,,
+2023,1,fulham,38,Fulham,13,8,17,55,61,-6,47,0,47,1.236842,13,False,1.0,,
+2023,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,13,7,18,50,65,-15,46,0,46,1.210526,14,False,1.0,,
+2023,1,everton,38,Everton,13,9,16,40,51,-11,48,8,40,1.052632,15,False,1.0,,
+2023,1,brentford,38,Brentford,10,9,19,56,65,-9,39,0,39,1.026316,16,False,1.0,,
+2023,1,nottingham_forest,38,Nottingham Forest,9,9,20,49,67,-18,36,4,32,0.842105,17,False,1.0,,
+2023,1,luton_town,38,Luton Town,6,8,24,52,85,-33,26,0,26,0.684211,18,False,2.0,relegated,down
+2023,1,burnley,38,Burnley,5,9,24,41,78,-37,24,0,24,0.631579,19,False,2.0,relegated,down
+2023,1,sheffield_united,38,Sheffield United,3,7,28,35,104,-69,16,0,16,0.421053,20,False,2.0,relegated,down
+2023,2,leicester_city,46,Leicester City,31,4,11,89,41,48,97,0,97,2.108696,1,False,1.0,promoted,auto up
+2023,2,ipswich_town,46,Ipswich Town,28,12,6,92,57,35,96,0,96,2.086957,2,False,1.0,promoted,auto up
+2023,2,leeds_united,46,Leeds United,27,9,10,81,43,38,90,0,90,1.956522,3,False,2.0,,play-offs
+2023,2,southampton,46,Southampton,26,9,11,87,63,24,87,0,87,1.891304,4,False,1.0,promoted via play-offs,play-offs
+2023,2,west_bromwich_albion,46,West Bromwich Albion,21,12,13,70,47,23,75,0,75,1.630435,5,False,2.0,,play-offs
+2023,2,norwich_city,46,Norwich City,21,10,15,79,64,15,73,0,73,1.586957,6,False,2.0,,play-offs
+2023,2,hull_city,46,Hull City,19,13,14,68,60,8,70,0,70,1.521739,7,False,2.0,,
+2023,2,middlesbrough,46,Middlesbrough,20,9,17,71,62,9,69,0,69,1.5,8,False,2.0,,
+2023,2,coventry_city,46,Coventry City,17,13,16,70,59,11,64,0,64,1.391304,9,False,2.0,,
+2023,2,preston_north_end,46,Preston North End,18,9,19,56,67,-11,63,0,63,1.369565,10,False,2.0,,
+2023,2,bristol_city,46,Bristol City,17,11,18,53,51,2,62,0,62,1.347826,11,False,2.0,,
+2023,2,cardiff_city,46,Cardiff City,19,5,22,53,70,-17,62,0,62,1.347826,12,False,2.0,,
+2023,2,millwall,46,Millwall,16,11,19,45,55,-10,59,0,59,1.282609,13,False,2.0,,
+2023,2,swansea_city,46,Swansea City,15,12,19,59,65,-6,57,0,57,1.23913,14,False,2.0,,
+2023,2,watford,46,Watford,13,17,16,61,61,0,56,0,56,1.217391,15,False,2.0,,
+2023,2,sunderland,46,Sunderland,16,8,22,52,54,-2,56,0,56,1.217391,16,False,2.0,,
+2023,2,stoke_city,46,Stoke City,15,11,20,49,60,-11,56,0,56,1.217391,17,False,2.0,,
+2023,2,queens_park_rangers,46,Queens Park Rangers,15,11,20,47,58,-11,56,0,56,1.217391,18,False,2.0,,
+2023,2,blackburn_rovers,46,Blackburn Rovers,14,11,21,60,74,-14,53,0,53,1.152174,19,False,2.0,,
+2023,2,sheffield_wednesday,46,Sheffield Wednesday,15,8,23,44,68,-24,53,0,53,1.152174,20,False,2.0,,
+2023,2,plymouth_argyle,46,Plymouth Argyle,13,12,21,59,70,-11,51,0,51,1.108696,21,False,2.0,,
+2023,2,birmingham_city,46,Birmingham City,13,11,22,50,65,-15,50,0,50,1.086957,22,False,3.0,relegated,down
+2023,2,huddersfield_town,46,Huddersfield Town,9,18,19,48,77,-29,45,0,45,0.978261,23,False,3.0,relegated,down
+2023,2,rotherham_united,46,Rotherham United,5,12,29,37,89,-52,27,0,27,0.586957,24,False,3.0,relegated,down
+2023,3,portsmouth,46,Portsmouth,28,13,5,78,41,37,97,0,97,2.108696,1,False,2.0,promoted,auto up
+2023,3,derby_county,46,Derby County,28,8,10,78,37,41,92,0,92,2.0,2,False,2.0,promoted,auto up
+2023,3,bolton_wanderers,46,Bolton Wanderers,25,12,9,86,51,35,87,0,87,1.891304,3,False,3.0,,play-offs
+2023,3,peterborough_united,46,Peterborough United,25,9,12,89,61,28,84,0,84,1.826087,4,False,3.0,,play-offs
+2023,3,oxford_united,46,Oxford United,22,11,13,79,56,23,77,0,77,1.673913,5,False,2.0,promoted via play-offs,play-offs
+2023,3,barnsley,46,Barnsley,21,13,12,82,64,18,76,0,76,1.652174,6,False,3.0,,play-offs
+2023,3,lincoln_city,46,Lincoln City,20,14,12,65,40,25,74,0,74,1.608696,7,False,3.0,,
+2023,3,blackpool,46,Blackpool,21,10,15,65,48,17,73,0,73,1.586957,8,False,3.0,,
+2023,3,stevenage,46,Stevenage,19,14,13,57,46,11,71,0,71,1.543478,9,False,3.0,,
+2023,3,wycombe_wanderers,46,Wycombe Wanderers,17,14,15,60,55,5,65,0,65,1.413043,10,False,3.0,,
+2023,3,leyton_orient,46,Leyton Orient,18,11,17,53,55,-2,65,0,65,1.413043,11,False,3.0,,
+2023,3,wigan_athletic,46,Wigan Athletic,20,10,16,63,56,7,70,8,62,1.347826,12,False,3.0,,
+2023,3,exeter_city,46,Exeter City,17,10,19,46,61,-15,61,0,61,1.326087,13,False,3.0,,
+2023,3,northampton_town,46,Northampton Town,17,9,20,57,66,-9,60,0,60,1.304348,14,False,3.0,,
+2023,3,bristol_rovers,46,Bristol Rovers,16,9,21,52,68,-16,57,0,57,1.23913,15,False,3.0,,
+2023,3,reading,46,Reading,16,11,19,68,70,-2,59,4,55,1.195652,16,False,3.0,,
+2023,3,charlton_athletic,46,Charlton Athletic,11,20,15,64,65,-1,53,0,53,1.152174,17,False,3.0,,
+2023,3,cambridge_united,46,Cambridge United,12,12,22,39,61,-22,48,0,48,1.043478,18,False,3.0,,
+2023,3,shrewsbury_town,46,Shrewsbury Town,13,9,24,35,67,-32,48,0,48,1.043478,19,False,3.0,,
+2023,3,burton_albion,46,Burton Albion,12,10,24,39,67,-28,46,0,46,1.0,20,False,3.0,,
+2023,3,cheltenham_town,46,Cheltenham Town,12,8,26,41,65,-24,44,0,44,0.956522,21,False,4.0,relegated,down
+2023,3,fleetwood_town,46,Fleetwood Town,10,13,23,49,72,-23,43,0,43,0.934783,22,False,4.0,relegated,down
+2023,3,port_vale,46,Port Vale,10,11,25,41,74,-33,41,0,41,0.891304,23,False,4.0,relegated,down
+2023,3,carlisle_united,46,Carlisle United,7,9,30,41,81,-40,30,0,30,0.652174,24,False,4.0,relegated,down
+2023,4,stockport_county,46,Stockport County,27,11,8,96,48,48,92,0,92,2.0,1,False,3.0,promoted,auto up
+2023,4,wrexham,46,Wrexham,26,10,10,89,52,37,88,0,88,1.913043,2,False,3.0,promoted,auto up
+2023,4,mansfield_town,46,Mansfield Town,24,14,8,90,47,43,86,0,86,1.869565,3,False,3.0,promoted,auto up
+2023,4,milton_keynes_dons,46,Milton Keynes Dons,23,9,14,83,68,15,78,0,78,1.695652,4,False,4.0,,play-offs
+2023,4,doncaster_rovers,46,Doncaster Rovers,21,8,17,73,68,5,71,0,71,1.543478,5,False,4.0,,play-offs
+2023,4,crewe_alexandra,46,Crewe Alexandra,19,14,13,69,65,4,71,0,71,1.543478,6,False,4.0,,play-offs
+2023,4,crawley_town,46,Crawley Town,21,7,18,73,67,6,70,0,70,1.521739,7,False,3.0,promoted via play-offs,play-offs
+2023,4,barrow,46,Barrow,18,15,13,62,56,6,69,0,69,1.5,8,False,4.0,,
+2023,4,bradford_city,46,Bradford City,19,12,15,61,59,2,69,0,69,1.5,9,False,4.0,,
+2023,4,afc_wimbledon,46,AFC Wimbledon,17,14,15,64,51,13,65,0,65,1.413043,10,False,4.0,,
+2023,4,walsall,46,Walsall,18,11,17,69,73,-4,65,0,65,1.413043,11,False,4.0,,
+2023,4,gillingham,46,Gillingham,18,10,18,46,57,-11,64,0,64,1.391304,12,False,4.0,,
+2023,4,harrogate_town,46,Harrogate Town,17,12,17,60,69,-9,63,0,63,1.369565,13,False,4.0,,
+2023,4,notts_county,46,Notts County,18,7,21,89,86,3,61,0,61,1.326087,14,False,4.0,,
+2023,4,morecambe,46,Morecambe,17,10,19,67,81,-14,61,0,61,1.326087,15,False,4.0,,
+2023,4,tranmere_rovers,46,Tranmere Rovers,17,6,23,67,70,-3,57,0,57,1.23913,16,False,4.0,,
+2023,4,accrington_stanley,46,Accrington Stanley,16,9,21,63,71,-8,57,0,57,1.23913,17,False,4.0,,
+2023,4,newport_county,46,Newport County,16,7,23,62,76,-14,55,0,55,1.195652,18,False,4.0,,
+2023,4,swindon_town,46,Swindon Town,14,12,20,77,83,-6,54,0,54,1.173913,19,False,4.0,,
+2023,4,salford_city,46,Salford City,13,12,21,66,82,-16,51,0,51,1.108696,20,False,4.0,,
+2023,4,grimsby_town,46,Grimsby Town,11,16,19,57,74,-17,49,0,49,1.065217,21,False,4.0,,
+2023,4,colchester_united,46,Colchester United,11,12,23,59,80,-21,45,0,45,0.978261,22,False,4.0,,
+2023,4,sutton_united,46,Sutton United,9,15,22,59,84,-25,42,0,42,0.913043,23,False,5.0,relegated,down
+2023,4,forest_green_rovers,46,Forest Green Rovers,11,9,26,44,78,-34,42,0,42,0.913043,24,False,5.0,relegated,down
+2023,5,chesterfield,46,Chesterfield,31,5,10,106,65,41,98,0,98,2.130435,1,False,4.0,promoted,auto up
+2023,5,barnet,46,Barnet,26,8,12,91,60,31,86,0,86,1.869565,2,False,5.0,,play-offs
+2023,5,bromley,46,Bromley,22,15,9,73,49,24,81,0,81,1.76087,3,False,4.0,promoted via play-offs,play-offs
+2023,5,altrincham,46,Altrincham,22,11,13,84,59,25,77,0,77,1.673913,4,False,5.0,,play-offs
+2023,5,solihull_moors,46,Solihull Moors,21,13,12,71,62,9,76,0,76,1.652174,5,False,5.0,,play-offs
+2023,5,gateshead,46,Gateshead,22,9,15,88,64,24,75,0,75,1.630435,6,False,5.0,,play-offs
+2023,5,fc_halifax_town,46,FC Halifax Town,19,14,13,58,50,8,71,0,71,1.543478,7,False,5.0,,play-offs
+2023,5,aldershot_town,46,Aldershot Town,20,9,17,74,83,-9,69,0,69,1.5,8,False,5.0,,
+2023,5,southend_united,46,Southend United,21,12,13,70,45,25,75,10,65,1.413043,9,False,5.0,,
+2023,5,oldham_athletic,46,Oldham Athletic,15,18,13,63,60,3,63,0,63,1.369565,10,False,5.0,,
+2023,5,rochdale,46,Rochdale,16,14,16,69,64,5,62,0,62,1.347826,11,False,5.0,,
+2023,5,hartlepool_united,46,Hartlepool United,17,9,20,70,82,-12,60,0,60,1.304348,12,False,5.0,,
+2023,5,eastleigh,46,Eastleigh,16,11,19,73,87,-14,59,0,59,1.282609,13,False,5.0,,
+2023,5,maidenhead_united,46,Maidenhead United,15,13,18,60,67,-7,58,0,58,1.26087,14,False,5.0,,
+2023,5,dagenham_and_redbridge,46,Dagenham & Redbridge,14,14,18,69,63,6,56,0,56,1.217391,15,False,5.0,,
+2023,5,wealdstone,46,Wealdstone,15,11,20,60,72,-12,56,0,56,1.217391,16,False,5.0,,
+2023,5,woking,46,Woking,15,10,21,49,55,-6,55,0,55,1.195652,17,False,5.0,,
+2023,5,afc_fylde,46,AFC Fylde,15,10,21,74,82,-8,55,0,55,1.195652,18,False,5.0,,
+2023,5,ebbsfleet_united,46,Ebbsfleet United,14,12,20,59,74,-15,54,0,54,1.173913,19,False,5.0,,
+2023,5,york_city,46,York City,12,17,17,55,69,-14,53,0,53,1.152174,20,False,5.0,,
+2023,5,boreham_wood,46,Boreham Wood,12,16,18,59,73,-14,52,0,52,1.130435,21,False,,relegated,down
+2023,5,kidderminster_harriers,46,Kidderminster Harriers,11,13,22,40,59,-19,46,0,46,1.0,22,False,,relegated,down
+2023,5,dorking_wanderers,46,Dorking Wanderers,12,9,25,54,85,-31,45,0,45,0.978261,23,False,,relegated,down
+2023,5,oxford_city,46,Oxford City,8,9,29,54,94,-40,33,0,33,0.717391,24,False,,relegated,down
+2024,1,liverpool,38,Liverpool,25,9,4,86,41,45,84,0,84,2.210526,1,False,1.0,champions,
+2024,1,arsenal,38,Arsenal,20,14,4,69,34,35,74,0,74,1.947368,2,False,1.0,,
+2024,1,manchester_city,38,Manchester City,21,8,9,72,44,28,71,0,71,1.868421,3,False,1.0,,
+2024,1,chelsea,38,Chelsea,20,9,9,64,43,21,69,0,69,1.815789,4,False,1.0,,
+2024,1,newcastle_united,38,Newcastle United,20,6,12,68,47,21,66,0,66,1.736842,5,False,1.0,,
+2024,1,aston_villa,38,Aston Villa,19,9,10,58,51,7,66,0,66,1.736842,6,False,1.0,,
+2024,1,nottingham_forest,38,Nottingham Forest,19,8,11,58,46,12,65,0,65,1.710526,7,False,1.0,,
+2024,1,brighton_and_hove_albion,38,Brighton & Hove Albion,16,13,9,66,59,7,61,0,61,1.605263,8,False,1.0,,
+2024,1,bournemouth,38,Bournemouth,15,11,12,58,46,12,56,0,56,1.473684,9,False,1.0,,
+2024,1,brentford,38,Brentford,16,8,14,66,57,9,56,0,56,1.473684,10,False,1.0,,
+2024,1,fulham,38,Fulham,15,9,14,54,54,0,54,0,54,1.421053,11,False,1.0,,
+2024,1,crystal_palace,38,Crystal Palace,13,14,11,51,51,0,53,0,53,1.394737,12,False,1.0,,
+2024,1,everton,38,Everton,11,15,12,42,44,-2,48,0,48,1.263158,13,False,1.0,,
+2024,1,west_ham_united,38,West Ham United,11,10,17,46,62,-16,43,0,43,1.131579,14,False,1.0,,
+2024,1,manchester_united,38,Manchester United,11,9,18,44,54,-10,42,0,42,1.105263,15,False,1.0,,
+2024,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,12,6,20,54,69,-15,42,0,42,1.105263,16,False,1.0,,
+2024,1,tottenham_hotspur,38,Tottenham Hotspur,11,5,22,64,65,-1,38,0,38,1.0,17,False,1.0,,
+2024,1,leicester_city,38,Leicester City,6,7,25,33,80,-47,25,0,25,0.657895,18,False,2.0,relegated,down
+2024,1,ipswich_town,38,Ipswich Town,4,10,24,36,82,-46,22,0,22,0.578947,19,False,2.0,relegated,down
+2024,1,southampton,38,Southampton,2,6,30,26,86,-60,12,0,12,0.315789,20,False,2.0,relegated,down
+2024,2,leeds_united,46,Leeds United,29,13,4,95,30,65,100,0,100,2.173913,1,False,1.0,promoted,auto up
+2024,2,burnley,46,Burnley,28,16,2,69,16,53,100,0,100,2.173913,2,False,1.0,promoted,auto up
+2024,2,sheffield_united,46,Sheffield United,28,8,10,63,36,27,92,0,92,2.0,3,False,2.0,,play-offs
+2024,2,sunderland,46,Sunderland,21,13,12,58,44,14,76,0,76,1.652174,4,False,1.0,promoted via play-offs,play-offs
+2024,2,coventry_city,46,Coventry City,20,9,17,64,58,6,69,0,69,1.5,5,False,2.0,,play-offs
+2024,2,bristol_city,46,Bristol City,17,17,12,59,55,4,68,0,68,1.478261,6,False,2.0,,play-offs
+2024,2,blackburn_rovers,46,Blackburn Rovers,19,9,18,53,48,5,66,0,66,1.434783,7,False,2.0,,
+2024,2,millwall,46,Millwall,18,12,16,47,49,-2,66,0,66,1.434783,8,False,2.0,,
+2024,2,west_bromwich_albion,46,West Bromwich Albion,15,19,12,57,47,10,64,0,64,1.391304,9,False,2.0,,
+2024,2,middlesbrough,46,Middlesbrough,18,10,18,64,56,8,64,0,64,1.391304,10,False,2.0,,
+2024,2,swansea_city,46,Swansea City,17,10,19,51,56,-5,61,0,61,1.326087,11,False,2.0,,
+2024,2,sheffield_wednesday,46,Sheffield Wednesday,15,13,18,60,69,-9,58,0,58,1.26087,12,False,2.0,,
+2024,2,norwich_city,46,Norwich City,14,15,17,71,68,3,57,0,57,1.23913,13,False,2.0,,
+2024,2,watford,46,Watford,16,9,21,53,61,-8,57,0,57,1.23913,14,False,2.0,,
+2024,2,queens_park_rangers,46,Queens Park Rangers,14,14,18,53,63,-10,56,0,56,1.217391,15,False,2.0,,
+2024,2,portsmouth,46,Portsmouth,14,12,20,58,71,-13,54,0,54,1.173913,16,False,2.0,,
+2024,2,oxford_united,46,Oxford United,13,14,19,49,65,-16,53,0,53,1.152174,17,False,2.0,,
+2024,2,stoke_city,46,Stoke City,12,15,19,45,62,-17,51,0,51,1.108696,18,False,2.0,,
+2024,2,derby_county,46,Derby County,13,11,22,48,56,-8,50,0,50,1.086957,19,False,2.0,,
+2024,2,preston_north_end,46,Preston North End,10,20,16,48,59,-11,50,0,50,1.086957,20,False,2.0,,
+2024,2,hull_city,46,Hull City,12,13,21,44,54,-10,49,0,49,1.065217,21,False,2.0,,
+2024,2,luton_town,46,Luton Town,13,10,23,45,69,-24,49,0,49,1.065217,22,False,3.0,relegated,down
+2024,2,plymouth_argyle,46,Plymouth Argyle,11,13,22,51,88,-37,46,0,46,1.0,23,False,3.0,relegated,down
+2024,2,cardiff_city,46,Cardiff City,9,17,20,48,73,-25,44,0,44,0.956522,24,False,3.0,relegated,down
+2024,3,birmingham_city,46,Birmingham City,34,9,3,84,31,53,111,0,111,2.413043,1,False,2.0,promoted,auto up
+2024,3,wrexham,46,Wrexham,27,11,8,67,34,33,92,0,92,2.0,2,False,2.0,promoted,auto up
+2024,3,stockport_county,46,Stockport County,25,12,9,72,42,30,87,0,87,1.891304,3,False,3.0,,play-offs
+2024,3,charlton_athletic,46,Charlton Athletic,25,10,11,67,43,24,85,0,85,1.847826,4,False,2.0,promoted via play-offs,play-offs
+2024,3,wycombe_wanderers,46,Wycombe Wanderers,24,12,10,70,45,25,84,0,84,1.826087,5,False,3.0,,play-offs
+2024,3,leyton_orient,46,Leyton Orient,24,6,16,72,48,24,78,0,78,1.695652,6,False,3.0,,play-offs
+2024,3,reading,46,Reading,21,12,13,68,57,11,75,0,75,1.630435,7,False,3.0,,
+2024,3,bolton_wanderers,46,Bolton Wanderers,20,8,18,67,70,-3,68,0,68,1.478261,8,False,3.0,,
+2024,3,blackpool,46,Blackpool,17,16,13,72,60,12,67,0,67,1.456522,9,False,3.0,,
+2024,3,huddersfield_town,46,Huddersfield Town,19,7,20,58,55,3,64,0,64,1.391304,10,False,3.0,,
+2024,3,lincoln_city,46,Lincoln City,16,13,17,64,56,8,61,0,61,1.326087,11,False,3.0,,
+2024,3,barnsley,46,Barnsley,17,10,19,69,73,-4,61,0,61,1.326087,12,False,3.0,,
+2024,3,rotherham_united,46,Rotherham United,16,11,19,54,59,-5,59,0,59,1.282609,13,False,3.0,,
+2024,3,stevenage,46,Stevenage,15,12,19,42,50,-8,57,0,57,1.23913,14,False,3.0,,
+2024,3,wigan_athletic,46,Wigan Athletic,13,17,16,40,42,-2,56,0,56,1.217391,15,False,3.0,,
+2024,3,exeter_city,46,Exeter City,15,11,20,49,65,-16,56,0,56,1.217391,16,False,3.0,,
+2024,3,mansfield_town,46,Mansfield Town,15,9,22,60,73,-13,54,0,54,1.173913,17,False,3.0,,
+2024,3,peterborough_united,46,Peterborough United,13,12,21,68,81,-13,51,0,51,1.108696,18,False,3.0,,
+2024,3,northampton_town,46,Northampton Town,12,15,19,48,66,-18,51,0,51,1.108696,19,False,3.0,,
+2024,3,burton_albion,46,Burton Albion,11,14,21,49,66,-17,47,0,47,1.021739,20,False,3.0,,
+2024,3,crawley_town,46,Crawley Town,12,10,24,57,83,-26,46,0,46,1.0,21,False,4.0,relegated,down
+2024,3,bristol_rovers,46,Bristol Rovers,12,7,27,44,76,-32,43,0,43,0.934783,22,False,4.0,relegated,down
+2024,3,cambridge_united,46,Cambridge United,9,11,26,45,73,-28,38,0,38,0.826087,23,False,4.0,relegated,down
+2024,3,shrewsbury_town,46,Shrewsbury Town,8,9,29,41,79,-38,33,0,33,0.717391,24,False,4.0,relegated,down
+2024,4,doncaster_rovers,46,Doncaster Rovers,24,12,10,73,50,23,84,0,84,1.826087,1,False,3.0,promoted,auto up
+2024,4,port_vale,46,Port Vale,22,14,10,65,46,19,80,0,80,1.73913,2,False,3.0,promoted,auto up
+2024,4,bradford_city,46,Bradford City,22,12,12,64,45,19,78,0,78,1.695652,3,False,3.0,promoted,auto up
+2024,4,walsall,46,Walsall,21,14,11,75,54,21,77,0,77,1.673913,4,False,4.0,,play-offs
+2024,4,afc_wimbledon,46,AFC Wimbledon,20,13,13,56,35,21,73,0,73,1.586957,5,False,3.0,promoted via play-offs,play-offs
+2024,4,notts_county,46,Notts County,20,12,14,68,49,19,72,0,72,1.565217,6,False,4.0,,play-offs
+2024,4,chesterfield,46,Chesterfield,19,13,14,73,54,19,70,0,70,1.521739,7,False,4.0,,play-offs
+2024,4,salford_city,46,Salford City,18,15,13,64,54,10,69,0,69,1.5,8,False,4.0,,
+2024,4,grimsby_town,46,Grimsby Town,20,8,18,61,67,-6,68,0,68,1.478261,9,False,4.0,,
+2024,4,colchester_united,46,Colchester United,16,19,11,52,47,5,67,0,67,1.456522,10,False,4.0,,
+2024,4,bromley,46,Bromley,17,15,14,64,59,5,66,0,66,1.434783,11,False,4.0,,
+2024,4,swindon_town,46,Swindon Town,15,17,14,71,63,8,62,0,62,1.347826,12,False,4.0,,
+2024,4,crewe_alexandra,46,Crewe Alexandra,15,17,14,49,48,1,62,0,62,1.347826,13,False,4.0,,
+2024,4,fleetwood_town,46,Fleetwood Town,15,15,16,60,60,0,60,0,60,1.304348,14,False,4.0,,
+2024,4,cheltenham_town,46,Cheltenham Town,16,12,18,60,70,-10,60,0,60,1.304348,15,False,4.0,,
+2024,4,barrow,46,Barrow,15,14,17,52,50,2,59,0,59,1.282609,16,False,4.0,,
+2024,4,gillingham,46,Gillingham,14,16,16,41,46,-5,58,0,58,1.26087,17,False,4.0,,
+2024,4,harrogate_town,46,Harrogate Town,14,11,21,43,61,-18,53,0,53,1.152174,18,False,4.0,,
+2024,4,milton_keynes_dons,46,Milton Keynes Dons,14,10,22,52,66,-14,52,0,52,1.130435,19,False,4.0,,
+2024,4,tranmere_rovers,46,Tranmere Rovers,12,15,19,45,65,-20,51,0,51,1.108696,20,False,4.0,,
+2024,4,accrington_stanley,46,Accrington Stanley,12,14,20,53,69,-16,50,0,50,1.086957,21,False,4.0,,
+2024,4,newport_county,46,Newport County,13,10,23,52,76,-24,49,0,49,1.065217,22,False,4.0,,
+2024,4,carlisle_united,46,Carlisle United,10,12,24,44,71,-27,42,0,42,0.913043,23,False,5.0,relegated,down
+2024,4,morecambe,46,Morecambe,10,6,30,40,72,-32,36,0,36,0.782609,24,False,5.0,relegated,down
+2024,5,barnet,46,Barnet,31,9,6,97,38,59,102,0,102,2.217391,1,False,4.0,promoted,auto up
+2024,5,york_city,46,York City,29,9,8,95,42,53,96,0,96,2.086957,2,False,5.0,,play-offs
+2024,5,forest_green_rovers,46,Forest Green Rovers,22,17,7,69,42,27,83,0,83,1.804348,3,False,5.0,,play-offs
+2024,5,rochdale,46,Rochdale,21,11,14,69,44,25,74,0,74,1.608696,4,False,5.0,,play-offs
+2024,5,oldham_athletic,46,Oldham Athletic,19,16,11,64,48,16,73,0,73,1.586957,5,False,4.0,promoted via play-offs,play-offs
+2024,5,fc_halifax_town,46,FC Halifax Town,19,13,14,50,46,4,70,0,70,1.521739,6,False,5.0,,play-offs
+2024,5,southend_united,46,Southend United,17,17,12,59,48,11,68,0,68,1.478261,7,False,5.0,,play-offs
+2024,5,gateshead,46,Gateshead,19,10,17,76,68,8,67,0,67,1.456522,8,False,5.0,,
+2024,5,altrincham,46,Altrincham,17,13,16,68,62,6,64,0,64,1.391304,9,False,5.0,,
+2024,5,tamworth,46,Tamworth,17,13,16,65,72,-7,64,0,64,1.391304,10,False,5.0,,
+2024,5,hartlepool_united,46,Hartlepool United,14,18,14,59,62,-3,60,0,60,1.304348,11,False,5.0,,
+2024,5,sutton_united,46,Sutton United,15,15,16,59,64,-5,60,0,60,1.304348,12,False,5.0,,
+2024,5,eastleigh,46,Eastleigh,14,17,15,58,61,-3,59,0,59,1.282609,13,False,5.0,,
+2024,5,solihull_moors,46,Solihull Moors,16,10,20,61,67,-6,58,0,58,1.26087,14,False,5.0,,
+2024,5,woking,46,Woking,13,19,14,52,59,-7,58,0,58,1.26087,15,False,5.0,,
+2024,5,aldershot_town,46,Aldershot Town,14,15,17,69,83,-14,57,0,57,1.23913,16,False,5.0,,
+2024,5,braintree_town,46,Braintree Town,15,11,20,51,59,-8,56,0,56,1.217391,17,False,5.0,,
+2024,5,yeovil_town,46,Yeovil Town,15,11,20,51,60,-9,56,0,56,1.217391,18,False,5.0,,
+2024,5,boston_united,46,Boston United,15,10,21,54,67,-13,55,0,55,1.195652,19,False,5.0,,
+2024,5,wealdstone,46,Wealdstone,13,14,19,56,76,-20,53,0,53,1.152174,20,False,5.0,,
+2024,5,dagenham_and_redbridge,46,Dagenham & Redbridge,12,16,18,61,62,-1,52,0,52,1.130435,21,False,,relegated,down
+2024,5,maidenhead_united,46,Maidenhead United,14,10,22,57,75,-18,52,0,52,1.130435,22,False,,relegated,down
+2024,5,afc_fylde,46,AFC Fylde,11,7,28,50,85,-35,40,0,40,0.869565,23,False,,relegated,down
+2024,5,ebbsfleet_united,46,Ebbsfleet United,3,13,30,38,98,-60,22,0,22,0.478261,24,False,,relegated,down
+2025,1,arsenal,38,Arsenal,26,7,5,71,27,44,85,0,85,2.236842,1,False,1.0,champions,
+2025,1,manchester_city,38,Manchester City,23,9,6,77,35,42,78,0,78,2.052632,2,False,1.0,,
+2025,1,manchester_united,38,Manchester United,20,11,7,69,50,19,71,0,71,1.868421,3,False,1.0,,
+2025,1,aston_villa,38,Aston Villa,19,8,11,56,49,7,65,0,65,1.710526,4,False,1.0,,
+2025,1,liverpool,38,Liverpool,17,9,12,63,53,10,60,0,60,1.578947,5,False,1.0,,
+2025,1,bournemouth,38,Bournemouth,13,18,7,58,54,4,57,0,57,1.5,6,False,1.0,,
+2025,1,sunderland,38,Sunderland,14,12,12,42,48,-6,54,0,54,1.421053,7,False,1.0,,
+2025,1,brighton_and_hove_albion,38,Brighton & Hove Albion,14,11,13,52,46,6,53,0,53,1.394737,8,False,1.0,,
+2025,1,brentford,38,Brentford,14,11,13,55,52,3,53,0,53,1.394737,9,False,1.0,,
+2025,1,chelsea,38,Chelsea,14,10,14,58,52,6,52,0,52,1.368421,10,False,1.0,,
+2025,1,fulham,38,Fulham,15,7,16,47,51,-4,52,0,52,1.368421,11,False,1.0,,
+2025,1,newcastle_united,38,Newcastle United,14,7,17,53,55,-2,49,0,49,1.289474,12,False,1.0,,
+2025,1,everton,38,Everton,13,10,15,47,50,-3,49,0,49,1.289474,13,False,1.0,,
+2025,1,leeds_united,38,Leeds United,11,14,13,49,56,-7,47,0,47,1.236842,14,False,1.0,,
+2025,1,crystal_palace,38,Crystal Palace,11,12,15,41,51,-10,45,0,45,1.184211,15,False,1.0,,
+2025,1,nottingham_forest,38,Nottingham Forest,11,11,16,48,51,-3,44,0,44,1.157895,16,False,1.0,,
+2025,1,tottenham_hotspur,38,Tottenham Hotspur,10,11,17,48,57,-9,41,0,41,1.078947,17,False,1.0,,
+2025,1,west_ham_united,38,West Ham United,10,9,19,46,65,-19,39,0,39,1.026316,18,False,2.0,relegated,down
+2025,1,burnley,38,Burnley,4,10,24,38,75,-37,22,0,22,0.578947,19,False,2.0,relegated,down
+2025,1,wolverhampton_wanderers,38,Wolverhampton Wanderers,3,11,24,27,68,-41,20,0,20,0.526316,20,False,2.0,relegated,down
+2025,2,coventry_city,46,Coventry City,28,11,7,97,45,52,95,0,95,2.065217,1,False,1.0,promoted,auto up
+2025,2,ipswich_town,46,Ipswich Town,23,15,8,80,47,33,84,0,84,1.826087,2,False,1.0,promoted,auto up
+2025,2,millwall,46,Millwall,24,11,11,64,49,15,83,0,83,1.804348,3,False,2.0,,play-offs
+2025,2,southampton,46,Southampton,22,14,10,82,56,26,80,0,80,1.73913,4,False,2.0,,play-offs
+2025,2,middlesbrough,46,Middlesbrough,22,14,10,72,47,25,80,0,80,1.73913,5,False,2.0,,play-offs
+2025,2,hull_city,46,Hull City,21,10,15,70,66,4,73,0,73,1.586957,6,False,1.0,promoted via play-offs,play-offs
+2025,2,wrexham,46,Wrexham,19,14,13,69,65,4,71,0,71,1.543478,7,False,2.0,,
+2025,2,derby_county,46,Derby County,20,9,17,67,59,8,69,0,69,1.5,8,False,2.0,,
+2025,2,norwich_city,46,Norwich City,19,8,19,63,56,7,65,0,65,1.413043,9,False,2.0,,
+2025,2,birmingham_city,46,Birmingham City,17,13,16,57,56,1,64,0,64,1.391304,10,False,2.0,,
+2025,2,swansea_city,46,Swansea City,18,10,18,57,59,-2,64,0,64,1.391304,11,False,2.0,,
+2025,2,bristol_city,46,Bristol City,17,11,18,59,59,0,62,0,62,1.347826,12,False,2.0,,
+2025,2,sheffield_united,46,Sheffield United,18,6,22,66,66,0,60,0,60,1.304348,13,False,2.0,,
+2025,2,preston_north_end,46,Preston North End,15,15,16,55,62,-7,60,0,60,1.304348,14,False,2.0,,
+2025,2,queens_park_rangers,46,Queens Park Rangers,16,10,20,61,73,-12,58,0,58,1.26087,15,False,2.0,,
+2025,2,watford,46,Watford,14,15,17,53,65,-12,57,0,57,1.23913,16,False,2.0,,
+2025,2,stoke_city,46,Stoke City,15,10,21,51,56,-5,55,0,55,1.195652,17,False,2.0,,
+2025,2,portsmouth,46,Portsmouth,14,13,19,49,64,-15,55,0,55,1.195652,18,False,2.0,,
+2025,2,west_bromwich_albion,46,West Bromwich Albion,13,14,19,48,58,-10,53,0,53,1.152174,19,False,2.0,,
+2025,2,charlton_athletic,46,Charlton Athletic,13,14,19,44,58,-14,53,0,53,1.152174,20,False,2.0,,
+2025,2,blackburn_rovers,46,Blackburn Rovers,13,13,20,42,56,-14,52,0,52,1.130435,21,False,2.0,,
+2025,2,oxford_united,46,Oxford United,11,14,21,45,59,-14,47,0,47,1.021739,22,False,3.0,relegated,down
+2025,2,leicester_city,46,Leicester City,12,16,18,58,68,-10,52,6,46,1.0,23,False,3.0,relegated,down
+2025,2,sheffield_wednesday,46,Sheffield Wednesday,2,12,32,29,89,-60,18,18,0,0.0,24,False,3.0,relegated,down
+2025,3,lincoln_city,46,Lincoln City,31,10,5,89,41,48,103,0,103,2.23913,1,False,2.0,promoted,auto up
+2025,3,cardiff_city,46,Cardiff City,27,10,9,90,50,40,91,0,91,1.978261,2,False,2.0,promoted,auto up
+2025,3,stockport_county,46,Stockport County,22,11,13,71,58,13,77,0,77,1.673913,3,False,3.0,,play-offs
+2025,3,bradford_city,46,Bradford City,22,11,13,58,51,7,77,0,77,1.673913,4,False,3.0,,play-offs
+2025,3,bolton_wanderers,46,Bolton Wanderers,19,18,9,70,52,18,75,0,75,1.630435,5,False,2.0,promoted via play-offs,play-offs
+2025,3,stevenage,46,Stevenage,21,12,13,49,46,3,75,0,75,1.630435,6,False,3.0,,play-offs
+2025,3,luton_town,46,Luton Town,21,11,14,68,56,12,74,0,74,1.608696,7,False,3.0,,
+2025,3,plymouth_argyle,46,Plymouth Argyle,22,7,17,75,63,12,73,0,73,1.586957,8,False,3.0,,
+2025,3,huddersfield_town,46,Huddersfield Town,18,13,15,74,64,10,67,0,67,1.456522,9,False,3.0,,
+2025,3,mansfield_town,46,Mansfield Town,16,17,13,62,50,12,65,0,65,1.413043,10,False,3.0,,
+2025,3,wycombe_wanderers,46,Wycombe Wanderers,17,12,17,69,58,11,63,0,63,1.369565,11,False,3.0,,
+2025,3,reading,46,Reading,16,15,15,64,60,4,63,0,63,1.369565,12,False,3.0,,
+2025,3,blackpool,46,Blackpool,17,9,20,54,65,-11,60,0,60,1.304348,13,False,3.0,,
+2025,3,doncaster_rovers,46,Doncaster Rovers,17,9,20,50,69,-19,60,0,60,1.304348,14,False,3.0,,
+2025,3,barnsley,46,Barnsley,15,14,17,68,73,-5,59,0,59,1.282609,15,False,3.0,,
+2025,3,wigan_athletic,46,Wigan Athletic,14,14,18,49,58,-9,56,0,56,1.217391,16,False,3.0,,
+2025,3,burton_albion,46,Burton Albion,13,15,18,50,60,-10,54,0,54,1.173913,17,False,3.0,,
+2025,3,peterborough_united,46,Peterborough United,15,8,23,64,68,-4,53,0,53,1.152174,18,False,3.0,,
+2025,3,afc_wimbledon,46,AFC Wimbledon,15,8,23,51,72,-21,53,0,53,1.152174,19,False,3.0,,
+2025,3,leyton_orient,46,Leyton Orient,14,10,22,59,71,-12,52,0,52,1.130435,20,False,3.0,,
+2025,3,exeter_city,46,Exeter City,12,13,21,52,61,-9,49,0,49,1.065217,21,False,4.0,relegated,down
+2025,3,port_vale,46,Port Vale,10,12,24,36,61,-25,42,0,42,0.913043,22,False,4.0,relegated,down
+2025,3,rotherham_united,46,Rotherham United,10,11,25,41,71,-30,41,0,41,0.891304,23,False,4.0,relegated,down
+2025,3,northampton_town,46,Northampton Town,9,8,29,39,74,-35,35,0,35,0.76087,24,False,4.0,relegated,down
+2025,4,bromley,46,Bromley,24,15,7,71,46,25,87,0,87,1.891304,1,False,3.0,promoted,auto up
+2025,4,milton_keynes_dons,46,Milton Keynes Dons,24,14,8,86,45,41,86,0,86,1.869565,2,False,3.0,promoted,auto up
+2025,4,cambridge_united,46,Cambridge United,22,16,8,66,33,33,82,0,82,1.782609,3,False,3.0,promoted,auto up
+2025,4,salford_city,46,Salford City,25,6,15,61,51,10,81,0,81,1.76087,4,False,4.0,,play-offs
+2025,4,notts_county,46,Notts County,24,8,14,74,52,22,80,0,80,1.73913,5,False,3.0,promoted via play-offs,play-offs
+2025,4,chesterfield,46,Chesterfield,21,16,9,71,56,15,79,0,79,1.717391,6,False,4.0,,play-offs
+2025,4,grimsby_town,46,Grimsby Town,22,12,12,74,50,24,78,0,78,1.695652,7,False,4.0,,play-offs
+2025,4,barnet,46,Barnet,21,13,12,70,53,17,76,0,76,1.652174,8,False,4.0,,
+2025,4,swindon_town,46,Swindon Town,22,9,15,70,59,11,75,0,75,1.630435,9,False,4.0,,
+2025,4,oldham_athletic,46,Oldham Athletic,18,14,14,60,44,16,68,0,68,1.478261,10,False,4.0,,
+2025,4,crewe_alexandra,46,Crewe Alexandra,19,10,17,64,58,6,67,0,67,1.456522,11,False,4.0,,
+2025,4,colchester_united,46,Colchester United,18,12,16,62,49,13,66,0,66,1.434783,12,False,4.0,,
+2025,4,walsall,46,Walsall,18,11,17,56,56,0,65,0,65,1.413043,13,False,4.0,,
+2025,4,bristol_rovers,46,Bristol Rovers,19,5,22,56,65,-9,62,0,62,1.347826,14,False,4.0,,
+2025,4,fleetwood_town,46,Fleetwood Town,15,16,15,57,58,-1,61,0,61,1.326087,15,False,4.0,,
+2025,4,accrington_stanley,46,Accrington Stanley,14,11,21,47,58,-11,53,0,53,1.152174,16,False,4.0,,
+2025,4,gillingham,46,Gillingham,13,14,19,53,72,-19,53,0,53,1.152174,17,False,4.0,,
+2025,4,cheltenham_town,46,Cheltenham Town,14,10,22,53,79,-26,52,0,52,1.130435,18,False,4.0,,
+2025,4,shrewsbury_town,46,Shrewsbury Town,13,10,23,42,69,-27,49,0,49,1.065217,19,False,4.0,,
+2025,4,newport_county,46,Newport County,12,7,27,48,77,-29,43,0,43,0.934783,20,False,4.0,,
+2025,4,tranmere_rovers,46,Tranmere Rovers,10,11,25,54,79,-25,41,0,41,0.891304,21,False,4.0,,
+2025,4,crawley_town,46,Crawley Town,8,16,22,44,68,-24,40,0,40,0.869565,22,False,4.0,,
+2025,4,harrogate_town,46,Harrogate Town,10,9,27,39,68,-29,39,0,39,0.847826,23,False,5.0,relegated,down
+2025,4,barrow,46,Barrow,9,9,28,45,78,-33,36,0,36,0.782609,24,False,5.0,relegated,down
+2025,5,york_city,46,York City,33,9,4,114,41,73,108,0,108,2.347826,1,False,4.0,promoted,auto up
+2025,5,rochdale,46,Rochdale,33,7,6,88,41,47,106,0,106,2.304348,2,False,4.0,promoted via play-offs,play-offs
+2025,5,carlisle_united,46,Carlisle United,29,8,9,87,51,36,95,0,95,2.065217,3,False,5.0,,play-offs
+2025,5,boreham_wood,46,Boreham Wood,27,9,10,95,58,37,90,0,90,1.956522,4,False,5.0,,play-offs
+2025,5,scunthorpe_united,46,Scunthorpe United,23,13,10,79,63,16,82,0,82,1.782609,5,False,5.0,,play-offs
+2025,5,southend_united,46,Southend United,23,12,11,83,47,36,81,0,81,1.76087,6,False,5.0,,play-offs
+2025,5,forest_green_rovers,46,Forest Green Rovers,23,12,11,82,52,30,81,0,81,1.76087,7,False,5.0,,play-offs
+2025,5,fc_halifax_town,46,FC Halifax Town,20,10,16,69,66,3,70,0,70,1.521739,8,False,5.0,,
+2025,5,hartlepool_united,46,Hartlepool United,18,14,14,54,59,-5,68,0,68,1.478261,9,False,5.0,,
+2025,5,woking,46,Woking,16,15,15,69,54,15,63,0,63,1.369565,10,False,5.0,,
+2025,5,tamworth,46,Tamworth,17,11,18,63,71,-8,62,0,62,1.347826,11,False,5.0,,
+2025,5,boston_united,46,Boston United,15,14,17,63,67,-4,59,0,59,1.282609,12,False,5.0,,
+2025,5,altrincham,46,Altrincham,17,6,23,55,65,-10,57,0,57,1.23913,13,False,5.0,,
+2025,5,solihull_moors,46,Solihull Moors,14,14,18,71,72,-1,56,0,56,1.217391,14,False,5.0,,
+2025,5,wealdstone,46,Wealdstone,15,11,20,68,76,-8,56,0,56,1.217391,15,False,5.0,,
+2025,5,yeovil_town,46,Yeovil Town,15,6,25,48,68,-20,51,0,51,1.108696,16,False,5.0,,
+2025,5,eastleigh,46,Eastleigh,13,11,22,57,80,-23,50,0,50,1.086957,17,False,5.0,,
+2025,5,gateshead,46,Gateshead,14,8,24,54,90,-36,50,0,50,1.086957,18,False,5.0,,
+2025,5,sutton_united,46,Sutton United,11,14,21,59,79,-20,47,0,47,1.021739,19,False,5.0,,
+2025,5,aldershot_town,46,Aldershot Town,13,7,26,69,87,-18,46,0,46,1.0,20,False,5.0,,
+2025,5,brackley_town,46,Brackley Town,10,12,24,40,75,-35,42,0,42,0.913043,21,False,,relegated,down
+2025,5,morecambe,46,Morecambe,9,11,26,66,103,-37,38,0,38,0.826087,22,False,,relegated,down
+2025,5,braintree_town,46,Braintree Town,8,12,26,38,76,-38,36,0,36,0.782609,23,False,,relegated,down
+2025,5,truro_city,46,Truro City,8,10,28,42,72,-30,34,0,34,0.73913,24,False,,relegated,down
