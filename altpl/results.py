@@ -1,9 +1,10 @@
-"""Build the canonical results table by reconciling the three sources.
+"""Build the canonical results table from football-data, checked against two other sources.
 
-Every fixture is keyed by (season, tier, home club, away club). Where sources
-disagree on a score the majority wins; a two-way split is settled by an entry
-in data/reference/result_overrides.csv, or failing that by SOURCE_PRIORITY,
-and is always written to data/processed/source_conflicts.csv for review.
+Every fixture is keyed by (season, tier, home club, away club). football-data is
+the source (Mus, 13 Oct 2026): its score is used whenever it has the match. The
+other sources only fill matches football-data lacks and flag disagreements,
+which are written to data/processed/source_conflicts.csv. An entry in
+data/reference/result_overrides.csv beats everything.
 """
 from __future__ import annotations
 
@@ -12,10 +13,11 @@ import pandas as pd
 from altpl.clubs import club_id
 from altpl.config import PROCESSED, REFERENCE, SOURCES
 
-# The GitHub mirror of football-data.co.uk (footballdata_mirror.csv) is a copy, not
-# an independent source, so it does not vote; it only fills odds for 2013/14 PL,
-# the one football-data file missing from Mus's download.
+# The GitHub mirror of football-data.co.uk (footballdata_mirror.csv) is a copy of
+# football-data, so it stands in for 2013/14 PL, the one file missing from Mus's
+# download, and is otherwise unused.
 SOURCE_PRIORITY = ["footballdata", "engsoccerdata", "openfootball"]
+MIRROR_GAPS = {(2013, 1)}
 KEY = ["season", "tier", "home_id", "away_id"]
 
 
@@ -35,6 +37,10 @@ def expunged() -> pd.DataFrame:
 
 def build() -> tuple[pd.DataFrame, pd.DataFrame]:
     srcs = {n: load_source(n) for n in SOURCE_PRIORITY}
+    mirror = load_source("footballdata_mirror")
+    mirror = mirror[[(a, b) in MIRROR_GAPS for a, b in zip(mirror.season, mirror.tier)]]
+    srcs["footballdata"] = pd.concat([srcs["footballdata"], mirror.assign(source="footballdata")],
+                                     ignore_index=True)
     long = pd.concat(srcs.values(), ignore_index=True)
     long["hg"] = long.hg.astype(int)
     long["ag"] = long.ag.astype(int)
@@ -62,14 +68,9 @@ def build() -> tuple[pd.DataFrame, pd.DataFrame]:
             (hg, ag), = scores.index
             basis = "agree" if n_src > 1 else f"single:{g.source.iloc[0]}"
         else:
-            top = scores.map(len).sort_values(ascending=False)
-            if top.iloc[0] > top.iloc[1]:
-                hg, ag = top.index[0]
-                basis = "majority"
-            else:
-                best = min(g.itertuples(), key=lambda r: SOURCE_PRIORITY.index(r.source))
-                hg, ag = best.hg, best.ag
-                basis = f"split:prefer {best.source}"
+            best = min(g.itertuples(), key=lambda r: SOURCE_PRIORITY.index(r.source))
+            hg, ag = best.hg, best.ag
+            basis = f"split:use {best.source}"
         if len(scores) > 1:
             conflicts.append({**dict(zip(KEY, key)), "chosen": f"{hg}-{ag}", "basis": basis,
                               **{s: f"{a}-{b}" for (a, b), ss in scores.items() for s in ss}})

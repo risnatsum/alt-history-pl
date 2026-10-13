@@ -11387,7 +11387,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2012,3,hartlepool_united,crawley_town,2012-10-20,0,1,False,3,agree
 2012,3,milton_keynes_dons,stevenage,2012-10-20,0,1,False,3,agree
 2012,3,oldham_athletic,leyton_orient,2012-10-20,2,0,False,3,agree
-2012,3,portsmouth,shrewsbury_town,2012-10-20,3,1,False,3,majority
+2012,3,portsmouth,shrewsbury_town,2012-10-20,2,1,False,3,split:use footballdata
 2012,3,preston_north_end,sheffield_united,2012-10-20,0,1,False,3,agree
 2012,3,swindon_town,scunthorpe_united,2012-10-20,1,1,False,3,agree
 2012,3,walsall,crewe_alexandra,2012-10-20,2,2,False,3,agree
@@ -12893,386 +12893,386 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2012,5,mansfield_town,wrexham,2013-04-20,1,0,False,2,agree
 2012,5,southport,luton_town,2013-04-20,1,3,False,2,agree
 2012,5,tamworth,woking,2013-04-20,2,1,False,2,agree
-2013,1,arsenal,aston_villa,2013-08-17,1,3,False,2,agree
-2013,1,liverpool,stoke_city,2013-08-17,1,0,False,2,agree
-2013,1,norwich_city,everton,2013-08-17,2,2,False,2,agree
-2013,1,sunderland,fulham,2013-08-17,0,1,False,2,agree
-2013,1,swansea_city,manchester_united,2013-08-17,1,4,False,2,agree
-2013,1,west_bromwich_albion,southampton,2013-08-17,0,1,False,2,agree
-2013,1,west_ham_united,cardiff_city,2013-08-17,2,0,False,2,agree
-2013,1,chelsea,hull_city,2013-08-18,2,0,False,2,agree
-2013,1,crystal_palace,tottenham_hotspur,2013-08-18,0,1,False,2,agree
-2013,1,manchester_city,newcastle_united,2013-08-19,4,0,False,2,agree
-2013,1,chelsea,aston_villa,2013-08-21,2,1,False,2,agree
-2013,1,aston_villa,liverpool,2013-08-24,0,1,False,2,agree
-2013,1,everton,west_bromwich_albion,2013-08-24,0,0,False,2,agree
-2013,1,fulham,arsenal,2013-08-24,1,3,False,2,agree
-2013,1,hull_city,norwich_city,2013-08-24,1,0,False,2,agree
-2013,1,newcastle_united,west_ham_united,2013-08-24,0,0,False,2,agree
-2013,1,southampton,sunderland,2013-08-24,1,1,False,2,agree
-2013,1,stoke_city,crystal_palace,2013-08-24,2,1,False,2,agree
-2013,1,cardiff_city,manchester_city,2013-08-25,3,2,False,2,agree
-2013,1,tottenham_hotspur,swansea_city,2013-08-25,1,0,False,2,agree
-2013,1,manchester_united,chelsea,2013-08-26,0,0,False,2,agree
-2013,1,cardiff_city,everton,2013-08-31,0,0,False,2,agree
-2013,1,crystal_palace,sunderland,2013-08-31,3,1,False,2,agree
-2013,1,manchester_city,hull_city,2013-08-31,2,0,False,2,agree
-2013,1,newcastle_united,fulham,2013-08-31,1,0,False,2,agree
-2013,1,norwich_city,southampton,2013-08-31,1,0,False,2,agree
-2013,1,west_ham_united,stoke_city,2013-08-31,0,1,False,2,agree
-2013,1,arsenal,tottenham_hotspur,2013-09-01,1,0,False,2,agree
-2013,1,liverpool,manchester_united,2013-09-01,1,0,False,2,agree
-2013,1,west_bromwich_albion,swansea_city,2013-09-01,0,2,False,2,agree
-2013,1,aston_villa,newcastle_united,2013-09-14,1,2,False,2,agree
-2013,1,everton,chelsea,2013-09-14,1,0,False,2,agree
-2013,1,fulham,west_bromwich_albion,2013-09-14,1,1,False,2,agree
-2013,1,hull_city,cardiff_city,2013-09-14,1,1,False,2,agree
-2013,1,manchester_united,crystal_palace,2013-09-14,2,0,False,2,agree
-2013,1,stoke_city,manchester_city,2013-09-14,0,0,False,2,agree
-2013,1,sunderland,arsenal,2013-09-14,1,3,False,2,agree
-2013,1,tottenham_hotspur,norwich_city,2013-09-14,2,0,False,2,agree
-2013,1,southampton,west_ham_united,2013-09-15,0,0,False,2,agree
-2013,1,swansea_city,liverpool,2013-09-16,2,2,False,2,agree
-2013,1,chelsea,fulham,2013-09-21,2,0,False,2,agree
-2013,1,liverpool,southampton,2013-09-21,0,1,False,2,agree
-2013,1,newcastle_united,hull_city,2013-09-21,2,3,False,2,agree
-2013,1,norwich_city,aston_villa,2013-09-21,0,1,False,2,agree
-2013,1,west_bromwich_albion,sunderland,2013-09-21,3,0,False,2,agree
-2013,1,west_ham_united,everton,2013-09-21,2,3,False,2,agree
-2013,1,arsenal,stoke_city,2013-09-22,3,1,False,2,agree
-2013,1,cardiff_city,tottenham_hotspur,2013-09-22,0,1,False,2,agree
-2013,1,crystal_palace,swansea_city,2013-09-22,0,2,False,2,agree
-2013,1,manchester_city,manchester_united,2013-09-22,4,1,False,2,agree
-2013,1,aston_villa,manchester_city,2013-09-28,3,2,False,2,agree
-2013,1,fulham,cardiff_city,2013-09-28,1,2,False,2,agree
-2013,1,hull_city,west_ham_united,2013-09-28,1,0,False,2,agree
-2013,1,manchester_united,west_bromwich_albion,2013-09-28,1,2,False,2,agree
-2013,1,southampton,crystal_palace,2013-09-28,2,0,False,2,agree
-2013,1,swansea_city,arsenal,2013-09-28,1,2,False,2,agree
-2013,1,tottenham_hotspur,chelsea,2013-09-28,1,1,False,2,agree
-2013,1,stoke_city,norwich_city,2013-09-29,0,1,False,2,agree
-2013,1,sunderland,liverpool,2013-09-29,1,3,False,2,agree
-2013,1,everton,newcastle_united,2013-09-30,3,2,False,2,agree
-2013,1,cardiff_city,newcastle_united,2013-10-05,1,2,False,2,agree
-2013,1,fulham,stoke_city,2013-10-05,1,0,False,2,agree
-2013,1,hull_city,aston_villa,2013-10-05,0,0,False,2,agree
-2013,1,liverpool,crystal_palace,2013-10-05,3,1,False,2,agree
-2013,1,manchester_city,everton,2013-10-05,3,1,False,2,agree
-2013,1,sunderland,manchester_united,2013-10-05,1,2,False,2,agree
-2013,1,norwich_city,chelsea,2013-10-06,1,3,False,2,agree
-2013,1,southampton,swansea_city,2013-10-06,2,0,False,2,agree
-2013,1,tottenham_hotspur,west_ham_united,2013-10-06,0,3,False,2,agree
-2013,1,west_bromwich_albion,arsenal,2013-10-06,1,1,False,2,agree
-2013,1,arsenal,norwich_city,2013-10-19,4,1,False,2,agree
-2013,1,chelsea,cardiff_city,2013-10-19,4,1,False,2,agree
-2013,1,everton,hull_city,2013-10-19,2,1,False,2,agree
-2013,1,manchester_united,southampton,2013-10-19,1,1,False,2,agree
-2013,1,newcastle_united,liverpool,2013-10-19,2,2,False,2,agree
-2013,1,stoke_city,west_bromwich_albion,2013-10-19,0,0,False,2,agree
-2013,1,swansea_city,sunderland,2013-10-19,4,0,False,2,agree
-2013,1,west_ham_united,manchester_city,2013-10-19,1,3,False,2,agree
-2013,1,aston_villa,tottenham_hotspur,2013-10-20,0,2,False,2,agree
-2013,1,crystal_palace,fulham,2013-10-21,1,4,False,2,agree
-2013,1,aston_villa,everton,2013-10-26,0,2,False,2,agree
-2013,1,crystal_palace,arsenal,2013-10-26,0,2,False,2,agree
-2013,1,liverpool,west_bromwich_albion,2013-10-26,4,1,False,2,agree
-2013,1,manchester_united,stoke_city,2013-10-26,3,2,False,2,agree
-2013,1,norwich_city,cardiff_city,2013-10-26,0,0,False,2,agree
-2013,1,southampton,fulham,2013-10-26,2,0,False,2,agree
-2013,1,chelsea,manchester_city,2013-10-27,2,1,False,2,agree
-2013,1,sunderland,newcastle_united,2013-10-27,2,1,False,2,agree
-2013,1,swansea_city,west_ham_united,2013-10-27,0,0,False,2,agree
-2013,1,tottenham_hotspur,hull_city,2013-10-27,1,0,False,2,agree
-2013,1,arsenal,liverpool,2013-11-02,2,0,False,2,agree
-2013,1,fulham,manchester_united,2013-11-02,1,3,False,2,agree
-2013,1,hull_city,sunderland,2013-11-02,1,0,False,2,agree
-2013,1,manchester_city,norwich_city,2013-11-02,7,0,False,2,agree
-2013,1,newcastle_united,chelsea,2013-11-02,2,0,False,2,agree
-2013,1,stoke_city,southampton,2013-11-02,1,1,False,2,agree
-2013,1,west_bromwich_albion,crystal_palace,2013-11-02,2,0,False,2,agree
-2013,1,west_ham_united,aston_villa,2013-11-02,0,0,False,2,agree
-2013,1,cardiff_city,swansea_city,2013-11-03,1,0,False,2,agree
-2013,1,everton,tottenham_hotspur,2013-11-03,0,0,False,2,agree
-2013,1,aston_villa,cardiff_city,2013-11-09,2,0,False,2,agree
-2013,1,chelsea,west_bromwich_albion,2013-11-09,2,2,False,2,agree
-2013,1,crystal_palace,everton,2013-11-09,0,0,False,2,agree
-2013,1,liverpool,fulham,2013-11-09,4,0,False,2,agree
-2013,1,norwich_city,west_ham_united,2013-11-09,3,1,False,2,agree
-2013,1,southampton,hull_city,2013-11-09,4,1,False,2,agree
-2013,1,manchester_united,arsenal,2013-11-10,1,0,False,2,agree
-2013,1,sunderland,manchester_city,2013-11-10,1,0,False,2,agree
-2013,1,swansea_city,stoke_city,2013-11-10,3,3,False,2,agree
-2013,1,tottenham_hotspur,newcastle_united,2013-11-10,0,1,False,2,agree
-2013,1,arsenal,southampton,2013-11-23,2,0,False,2,agree
-2013,1,everton,liverpool,2013-11-23,3,3,False,2,agree
-2013,1,fulham,swansea_city,2013-11-23,1,2,False,2,agree
-2013,1,hull_city,crystal_palace,2013-11-23,0,1,False,2,agree
-2013,1,newcastle_united,norwich_city,2013-11-23,2,1,False,2,agree
-2013,1,stoke_city,sunderland,2013-11-23,2,0,False,2,agree
-2013,1,west_ham_united,chelsea,2013-11-23,0,3,False,2,agree
-2013,1,cardiff_city,manchester_united,2013-11-24,2,2,False,2,agree
-2013,1,manchester_city,tottenham_hotspur,2013-11-24,6,0,False,2,agree
-2013,1,west_bromwich_albion,aston_villa,2013-11-25,2,2,False,2,agree
-2013,1,aston_villa,sunderland,2013-11-30,0,0,False,2,agree
-2013,1,cardiff_city,arsenal,2013-11-30,0,3,False,2,agree
-2013,1,everton,stoke_city,2013-11-30,4,0,False,2,agree
-2013,1,newcastle_united,west_bromwich_albion,2013-11-30,2,1,False,2,agree
-2013,1,norwich_city,crystal_palace,2013-11-30,1,0,False,2,agree
-2013,1,west_ham_united,fulham,2013-11-30,3,0,False,2,agree
-2013,1,chelsea,southampton,2013-12-01,3,1,False,2,agree
-2013,1,hull_city,liverpool,2013-12-01,3,1,False,2,agree
-2013,1,manchester_city,swansea_city,2013-12-01,3,0,False,2,agree
-2013,1,tottenham_hotspur,manchester_united,2013-12-01,2,2,False,2,agree
-2013,1,crystal_palace,west_ham_united,2013-12-03,1,0,False,2,agree
-2013,1,arsenal,hull_city,2013-12-04,2,0,False,2,agree
-2013,1,fulham,tottenham_hotspur,2013-12-04,1,2,False,2,agree
-2013,1,liverpool,norwich_city,2013-12-04,5,1,False,2,agree
-2013,1,manchester_united,everton,2013-12-04,0,1,False,2,agree
-2013,1,southampton,aston_villa,2013-12-04,2,3,False,2,agree
-2013,1,stoke_city,cardiff_city,2013-12-04,0,0,False,2,agree
-2013,1,sunderland,chelsea,2013-12-04,3,4,False,2,agree
-2013,1,swansea_city,newcastle_united,2013-12-04,3,0,False,2,agree
-2013,1,west_bromwich_albion,manchester_city,2013-12-04,2,3,False,2,agree
-2013,1,crystal_palace,cardiff_city,2013-12-07,2,0,False,2,agree
-2013,1,liverpool,west_ham_united,2013-12-07,4,1,False,2,agree
-2013,1,manchester_united,newcastle_united,2013-12-07,0,1,False,2,agree
-2013,1,southampton,manchester_city,2013-12-07,1,1,False,2,agree
-2013,1,stoke_city,chelsea,2013-12-07,3,2,False,2,agree
-2013,1,sunderland,tottenham_hotspur,2013-12-07,1,2,False,2,agree
-2013,1,west_bromwich_albion,norwich_city,2013-12-07,0,2,False,2,agree
-2013,1,arsenal,everton,2013-12-08,1,1,False,2,agree
-2013,1,fulham,aston_villa,2013-12-08,2,0,False,2,agree
-2013,1,swansea_city,hull_city,2013-12-09,1,1,False,2,agree
-2013,1,cardiff_city,west_bromwich_albion,2013-12-14,1,0,False,2,agree
-2013,1,chelsea,crystal_palace,2013-12-14,2,1,False,2,agree
-2013,1,everton,fulham,2013-12-14,4,1,False,2,agree
-2013,1,hull_city,stoke_city,2013-12-14,0,0,False,2,agree
-2013,1,manchester_city,arsenal,2013-12-14,6,3,False,2,agree
-2013,1,newcastle_united,southampton,2013-12-14,1,1,False,2,agree
-2013,1,west_ham_united,sunderland,2013-12-14,0,0,False,2,agree
-2013,1,aston_villa,manchester_united,2013-12-15,0,3,False,2,agree
-2013,1,norwich_city,swansea_city,2013-12-15,1,1,False,2,agree
-2013,1,tottenham_hotspur,liverpool,2013-12-15,0,5,False,2,agree
-2013,1,crystal_palace,newcastle_united,2013-12-21,0,3,False,2,agree
-2013,1,fulham,manchester_city,2013-12-21,2,4,False,2,agree
-2013,1,liverpool,cardiff_city,2013-12-21,3,1,False,2,agree
-2013,1,manchester_united,west_ham_united,2013-12-21,3,1,False,2,agree
-2013,1,stoke_city,aston_villa,2013-12-21,2,1,False,2,agree
-2013,1,sunderland,norwich_city,2013-12-21,0,0,False,2,agree
-2013,1,west_bromwich_albion,hull_city,2013-12-21,1,1,False,2,agree
-2013,1,southampton,tottenham_hotspur,2013-12-22,2,3,False,2,agree
-2013,1,swansea_city,everton,2013-12-22,1,2,False,2,agree
-2013,1,arsenal,chelsea,2013-12-23,0,0,False,2,agree
-2013,1,aston_villa,crystal_palace,2013-12-26,0,1,False,2,agree
-2013,1,cardiff_city,southampton,2013-12-26,0,3,False,2,agree
-2013,1,chelsea,swansea_city,2013-12-26,1,0,False,2,agree
-2013,1,everton,sunderland,2013-12-26,0,1,False,2,agree
-2013,1,hull_city,manchester_united,2013-12-26,2,3,False,2,agree
-2013,1,manchester_city,liverpool,2013-12-26,2,1,False,2,agree
-2013,1,newcastle_united,stoke_city,2013-12-26,5,1,False,2,agree
-2013,1,norwich_city,fulham,2013-12-26,1,2,False,2,agree
-2013,1,tottenham_hotspur,west_bromwich_albion,2013-12-26,1,1,False,2,agree
-2013,1,west_ham_united,arsenal,2013-12-26,1,3,False,2,agree
-2013,1,aston_villa,swansea_city,2013-12-28,1,1,False,2,agree
-2013,1,cardiff_city,sunderland,2013-12-28,2,2,False,2,agree
-2013,1,hull_city,fulham,2013-12-28,6,0,False,2,agree
-2013,1,manchester_city,crystal_palace,2013-12-28,1,0,False,2,agree
-2013,1,norwich_city,manchester_united,2013-12-28,0,1,False,2,agree
-2013,1,west_ham_united,west_bromwich_albion,2013-12-28,3,3,False,2,agree
-2013,1,chelsea,liverpool,2013-12-29,2,1,False,2,agree
-2013,1,everton,southampton,2013-12-29,2,1,False,2,agree
-2013,1,newcastle_united,arsenal,2013-12-29,0,1,False,2,agree
-2013,1,tottenham_hotspur,stoke_city,2013-12-29,3,0,False,2,agree
-2013,1,arsenal,cardiff_city,2014-01-01,2,0,False,2,agree
-2013,1,crystal_palace,norwich_city,2014-01-01,1,1,False,2,agree
-2013,1,fulham,west_ham_united,2014-01-01,2,1,False,2,agree
-2013,1,liverpool,hull_city,2014-01-01,2,0,False,2,agree
-2013,1,manchester_united,tottenham_hotspur,2014-01-01,1,2,False,2,agree
-2013,1,southampton,chelsea,2014-01-01,0,3,False,2,agree
-2013,1,stoke_city,everton,2014-01-01,1,1,False,2,agree
-2013,1,sunderland,aston_villa,2014-01-01,0,1,False,2,agree
-2013,1,swansea_city,manchester_city,2014-01-01,2,3,False,2,agree
-2013,1,west_bromwich_albion,newcastle_united,2014-01-01,1,0,False,2,agree
-2013,1,cardiff_city,west_ham_united,2014-01-11,0,2,False,2,agree
-2013,1,everton,norwich_city,2014-01-11,2,0,False,2,agree
-2013,1,fulham,sunderland,2014-01-11,1,4,False,2,agree
-2013,1,hull_city,chelsea,2014-01-11,0,2,False,2,agree
-2013,1,manchester_united,swansea_city,2014-01-11,2,0,False,2,agree
-2013,1,southampton,west_bromwich_albion,2014-01-11,1,0,False,2,agree
-2013,1,tottenham_hotspur,crystal_palace,2014-01-11,2,0,False,2,agree
-2013,1,newcastle_united,manchester_city,2014-01-12,0,2,False,2,agree
-2013,1,stoke_city,liverpool,2014-01-12,3,5,False,2,agree
-2013,1,aston_villa,arsenal,2014-01-13,1,2,False,2,agree
-2013,1,arsenal,fulham,2014-01-18,2,0,False,2,agree
-2013,1,crystal_palace,stoke_city,2014-01-18,1,0,False,2,agree
-2013,1,liverpool,aston_villa,2014-01-18,2,2,False,2,agree
-2013,1,manchester_city,cardiff_city,2014-01-18,4,2,False,2,agree
-2013,1,norwich_city,hull_city,2014-01-18,1,0,False,2,agree
-2013,1,sunderland,southampton,2014-01-18,2,2,False,2,agree
-2013,1,west_ham_united,newcastle_united,2014-01-18,1,3,False,2,agree
-2013,1,chelsea,manchester_united,2014-01-19,3,1,False,2,agree
-2013,1,swansea_city,tottenham_hotspur,2014-01-19,1,3,False,2,agree
-2013,1,west_bromwich_albion,everton,2014-01-20,1,1,False,2,agree
-2013,1,crystal_palace,hull_city,2014-01-28,1,0,False,2,agree
-2013,1,liverpool,everton,2014-01-28,4,0,False,2,agree
-2013,1,manchester_united,cardiff_city,2014-01-28,2,0,False,2,agree
-2013,1,norwich_city,newcastle_united,2014-01-28,0,0,False,2,agree
-2013,1,southampton,arsenal,2014-01-28,2,2,False,2,agree
-2013,1,swansea_city,fulham,2014-01-28,2,0,False,2,agree
-2013,1,aston_villa,west_bromwich_albion,2014-01-29,4,3,False,2,agree
-2013,1,chelsea,west_ham_united,2014-01-29,0,0,False,2,agree
-2013,1,sunderland,stoke_city,2014-01-29,1,0,False,2,agree
-2013,1,tottenham_hotspur,manchester_city,2014-01-29,1,5,False,2,agree
-2013,1,cardiff_city,norwich_city,2014-02-01,2,1,False,2,agree
-2013,1,everton,aston_villa,2014-02-01,2,1,False,2,agree
-2013,1,fulham,southampton,2014-02-01,0,3,False,2,agree
-2013,1,hull_city,tottenham_hotspur,2014-02-01,1,1,False,2,agree
-2013,1,newcastle_united,sunderland,2014-02-01,0,3,False,2,agree
-2013,1,stoke_city,manchester_united,2014-02-01,2,1,False,2,agree
-2013,1,west_ham_united,swansea_city,2014-02-01,2,0,False,2,agree
-2013,1,arsenal,crystal_palace,2014-02-02,2,0,False,2,agree
-2013,1,west_bromwich_albion,liverpool,2014-02-02,1,1,False,2,agree
-2013,1,manchester_city,chelsea,2014-02-03,0,1,False,2,agree
-2013,1,aston_villa,west_ham_united,2014-02-08,0,2,False,2,agree
-2013,1,chelsea,newcastle_united,2014-02-08,3,0,False,2,agree
-2013,1,crystal_palace,west_bromwich_albion,2014-02-08,3,1,False,2,agree
-2013,1,liverpool,arsenal,2014-02-08,5,1,False,2,agree
-2013,1,norwich_city,manchester_city,2014-02-08,0,0,False,2,agree
-2013,1,southampton,stoke_city,2014-02-08,2,2,False,2,agree
-2013,1,sunderland,hull_city,2014-02-08,0,2,False,2,agree
-2013,1,swansea_city,cardiff_city,2014-02-08,3,0,False,2,agree
-2013,1,manchester_united,fulham,2014-02-09,2,2,False,2,agree
-2013,1,tottenham_hotspur,everton,2014-02-09,1,0,False,2,agree
-2013,1,cardiff_city,aston_villa,2014-02-11,0,0,False,2,agree
-2013,1,hull_city,southampton,2014-02-11,0,1,False,2,agree
-2013,1,west_bromwich_albion,chelsea,2014-02-11,1,1,False,2,agree
-2013,1,west_ham_united,norwich_city,2014-02-11,2,0,False,2,agree
-2013,1,arsenal,manchester_united,2014-02-12,0,0,False,2,agree
-2013,1,fulham,liverpool,2014-02-12,2,3,False,2,agree
-2013,1,newcastle_united,tottenham_hotspur,2014-02-12,0,4,False,2,agree
-2013,1,stoke_city,swansea_city,2014-02-12,1,1,False,2,agree
-2013,1,arsenal,sunderland,2014-02-22,4,1,False,2,agree
-2013,1,cardiff_city,hull_city,2014-02-22,0,4,False,2,agree
-2013,1,chelsea,everton,2014-02-22,1,0,False,2,agree
-2013,1,crystal_palace,manchester_united,2014-02-22,0,2,False,2,agree
-2013,1,manchester_city,stoke_city,2014-02-22,1,0,False,2,agree
-2013,1,west_bromwich_albion,fulham,2014-02-22,1,1,False,2,agree
-2013,1,west_ham_united,southampton,2014-02-22,3,1,False,2,agree
-2013,1,liverpool,swansea_city,2014-02-23,4,3,False,2,agree
-2013,1,newcastle_united,aston_villa,2014-02-23,1,0,False,2,agree
-2013,1,norwich_city,tottenham_hotspur,2014-02-23,1,0,False,2,agree
-2013,1,everton,west_ham_united,2014-03-01,1,0,False,2,agree
-2013,1,fulham,chelsea,2014-03-01,1,3,False,2,agree
-2013,1,hull_city,newcastle_united,2014-03-01,1,4,False,2,agree
-2013,1,southampton,liverpool,2014-03-01,0,3,False,2,agree
-2013,1,stoke_city,arsenal,2014-03-01,1,0,False,2,agree
-2013,1,aston_villa,norwich_city,2014-03-02,4,1,False,2,agree
-2013,1,swansea_city,crystal_palace,2014-03-02,1,1,False,2,agree
-2013,1,tottenham_hotspur,cardiff_city,2014-03-02,1,0,False,2,agree
-2013,1,cardiff_city,fulham,2014-03-08,3,1,False,2,agree
-2013,1,chelsea,tottenham_hotspur,2014-03-08,4,0,False,2,agree
-2013,1,crystal_palace,southampton,2014-03-08,0,1,False,2,agree
-2013,1,norwich_city,stoke_city,2014-03-08,1,1,False,2,agree
-2013,1,west_bromwich_albion,manchester_united,2014-03-08,0,3,False,2,agree
-2013,1,aston_villa,chelsea,2014-03-15,1,0,False,2,agree
-2013,1,everton,cardiff_city,2014-03-15,2,1,False,2,agree
-2013,1,fulham,newcastle_united,2014-03-15,1,0,False,2,agree
-2013,1,hull_city,manchester_city,2014-03-15,0,2,False,2,agree
-2013,1,southampton,norwich_city,2014-03-15,4,2,False,2,agree
-2013,1,stoke_city,west_ham_united,2014-03-15,3,1,False,2,agree
-2013,1,sunderland,crystal_palace,2014-03-15,0,0,False,2,agree
-2013,1,swansea_city,west_bromwich_albion,2014-03-15,1,2,False,2,agree
-2013,1,manchester_united,liverpool,2014-03-16,0,3,False,2,agree
-2013,1,tottenham_hotspur,arsenal,2014-03-16,0,1,False,2,agree
-2013,1,cardiff_city,liverpool,2014-03-22,3,6,False,2,agree
-2013,1,chelsea,arsenal,2014-03-22,6,0,False,2,agree
-2013,1,everton,swansea_city,2014-03-22,3,2,False,2,agree
-2013,1,hull_city,west_bromwich_albion,2014-03-22,2,0,False,2,agree
-2013,1,manchester_city,fulham,2014-03-22,5,0,False,2,agree
-2013,1,newcastle_united,crystal_palace,2014-03-22,1,0,False,2,agree
-2013,1,norwich_city,sunderland,2014-03-22,2,0,False,2,agree
-2013,1,west_ham_united,manchester_united,2014-03-22,0,2,False,2,agree
-2013,1,aston_villa,stoke_city,2014-03-23,1,4,False,2,agree
-2013,1,tottenham_hotspur,southampton,2014-03-23,3,2,False,2,agree
-2013,1,arsenal,swansea_city,2014-03-25,2,2,False,2,agree
-2013,1,manchester_united,manchester_city,2014-03-25,0,3,False,2,agree
-2013,1,newcastle_united,everton,2014-03-25,0,3,False,2,agree
-2013,1,liverpool,sunderland,2014-03-26,2,1,False,2,agree
-2013,1,west_ham_united,hull_city,2014-03-26,2,1,False,2,agree
-2013,1,arsenal,manchester_city,2014-03-29,1,1,False,2,agree
-2013,1,crystal_palace,chelsea,2014-03-29,1,0,False,2,agree
-2013,1,manchester_united,aston_villa,2014-03-29,4,1,False,2,agree
-2013,1,southampton,newcastle_united,2014-03-29,4,0,False,2,agree
-2013,1,stoke_city,hull_city,2014-03-29,1,0,False,2,agree
-2013,1,swansea_city,norwich_city,2014-03-29,3,0,False,2,agree
-2013,1,west_bromwich_albion,cardiff_city,2014-03-29,3,3,False,2,agree
-2013,1,fulham,everton,2014-03-30,1,3,False,2,agree
-2013,1,liverpool,tottenham_hotspur,2014-03-30,4,0,False,2,agree
-2013,1,sunderland,west_ham_united,2014-03-31,1,2,False,2,agree
-2013,1,aston_villa,fulham,2014-04-05,1,2,False,2,agree
-2013,1,cardiff_city,crystal_palace,2014-04-05,0,3,False,2,agree
-2013,1,chelsea,stoke_city,2014-04-05,3,0,False,2,agree
-2013,1,hull_city,swansea_city,2014-04-05,1,0,False,2,agree
-2013,1,manchester_city,southampton,2014-04-05,4,1,False,2,agree
-2013,1,newcastle_united,manchester_united,2014-04-05,0,4,False,2,agree
-2013,1,norwich_city,west_bromwich_albion,2014-04-05,0,1,False,2,agree
-2013,1,everton,arsenal,2014-04-06,3,0,False,2,agree
-2013,1,west_ham_united,liverpool,2014-04-06,1,2,False,2,agree
-2013,1,tottenham_hotspur,sunderland,2014-04-07,5,1,False,2,agree
-2013,1,crystal_palace,aston_villa,2014-04-12,1,0,False,2,agree
-2013,1,fulham,norwich_city,2014-04-12,1,0,False,2,agree
-2013,1,southampton,cardiff_city,2014-04-12,0,1,False,2,agree
-2013,1,stoke_city,newcastle_united,2014-04-12,1,0,False,2,agree
-2013,1,sunderland,everton,2014-04-12,0,1,False,2,agree
-2013,1,west_bromwich_albion,tottenham_hotspur,2014-04-12,3,3,False,2,agree
-2013,1,liverpool,manchester_city,2014-04-13,3,2,False,2,agree
-2013,1,swansea_city,chelsea,2014-04-13,0,1,False,2,agree
-2013,1,arsenal,west_ham_united,2014-04-15,3,1,False,2,agree
-2013,1,everton,crystal_palace,2014-04-16,2,3,False,2,agree
-2013,1,manchester_city,sunderland,2014-04-16,2,2,False,2,agree
-2013,1,aston_villa,southampton,2014-04-19,0,0,False,2,agree
-2013,1,cardiff_city,stoke_city,2014-04-19,1,1,False,2,agree
-2013,1,chelsea,sunderland,2014-04-19,1,2,False,2,agree
-2013,1,newcastle_united,swansea_city,2014-04-19,1,2,False,2,agree
-2013,1,tottenham_hotspur,fulham,2014-04-19,3,1,False,2,agree
-2013,1,west_ham_united,crystal_palace,2014-04-19,0,1,False,2,agree
-2013,1,everton,manchester_united,2014-04-20,2,0,False,2,agree
-2013,1,hull_city,arsenal,2014-04-20,0,3,False,2,agree
-2013,1,norwich_city,liverpool,2014-04-20,2,3,False,2,agree
-2013,1,manchester_city,west_bromwich_albion,2014-04-21,3,1,False,2,agree
-2013,1,fulham,hull_city,2014-04-26,2,2,False,2,agree
-2013,1,manchester_united,norwich_city,2014-04-26,4,0,False,2,agree
-2013,1,southampton,everton,2014-04-26,2,0,False,2,agree
-2013,1,stoke_city,tottenham_hotspur,2014-04-26,0,1,False,2,agree
-2013,1,swansea_city,aston_villa,2014-04-26,4,1,False,2,agree
-2013,1,west_bromwich_albion,west_ham_united,2014-04-26,1,0,False,2,agree
-2013,1,crystal_palace,manchester_city,2014-04-27,0,2,False,2,agree
-2013,1,liverpool,chelsea,2014-04-27,0,2,False,2,agree
-2013,1,sunderland,cardiff_city,2014-04-27,4,0,False,2,agree
-2013,1,arsenal,newcastle_united,2014-04-28,3,0,False,2,agree
-2013,1,aston_villa,hull_city,2014-05-03,3,1,False,2,agree
-2013,1,everton,manchester_city,2014-05-03,2,3,False,2,agree
-2013,1,manchester_united,sunderland,2014-05-03,0,1,False,2,agree
-2013,1,newcastle_united,cardiff_city,2014-05-03,3,0,False,2,agree
-2013,1,stoke_city,fulham,2014-05-03,4,1,False,2,agree
-2013,1,swansea_city,southampton,2014-05-03,0,1,False,2,agree
-2013,1,west_ham_united,tottenham_hotspur,2014-05-03,2,0,False,2,agree
-2013,1,arsenal,west_bromwich_albion,2014-05-04,1,0,False,2,agree
-2013,1,chelsea,norwich_city,2014-05-04,0,0,False,2,agree
-2013,1,crystal_palace,liverpool,2014-05-05,3,3,False,2,agree
-2013,1,manchester_united,hull_city,2014-05-06,3,1,False,2,agree
-2013,1,manchester_city,aston_villa,2014-05-07,4,0,False,2,agree
-2013,1,sunderland,west_bromwich_albion,2014-05-07,2,0,False,2,agree
-2013,1,cardiff_city,chelsea,2014-05-11,1,2,False,2,agree
-2013,1,fulham,crystal_palace,2014-05-11,2,2,False,2,agree
-2013,1,hull_city,everton,2014-05-11,0,2,False,2,agree
-2013,1,liverpool,newcastle_united,2014-05-11,2,1,False,2,agree
-2013,1,manchester_city,west_ham_united,2014-05-11,2,0,False,2,agree
-2013,1,norwich_city,arsenal,2014-05-11,0,2,False,2,agree
-2013,1,southampton,manchester_united,2014-05-11,1,1,False,2,agree
-2013,1,sunderland,swansea_city,2014-05-11,1,3,False,2,agree
-2013,1,tottenham_hotspur,aston_villa,2014-05-11,3,0,False,2,agree
-2013,1,west_bromwich_albion,stoke_city,2014-05-11,1,2,False,2,agree
+2013,1,arsenal,aston_villa,2013-08-17,1,3,False,3,agree
+2013,1,liverpool,stoke_city,2013-08-17,1,0,False,3,agree
+2013,1,norwich_city,everton,2013-08-17,2,2,False,3,agree
+2013,1,sunderland,fulham,2013-08-17,0,1,False,3,agree
+2013,1,swansea_city,manchester_united,2013-08-17,1,4,False,3,agree
+2013,1,west_bromwich_albion,southampton,2013-08-17,0,1,False,3,agree
+2013,1,west_ham_united,cardiff_city,2013-08-17,2,0,False,3,agree
+2013,1,chelsea,hull_city,2013-08-18,2,0,False,3,agree
+2013,1,crystal_palace,tottenham_hotspur,2013-08-18,0,1,False,3,agree
+2013,1,manchester_city,newcastle_united,2013-08-19,4,0,False,3,agree
+2013,1,chelsea,aston_villa,2013-08-21,2,1,False,3,agree
+2013,1,aston_villa,liverpool,2013-08-24,0,1,False,3,agree
+2013,1,everton,west_bromwich_albion,2013-08-24,0,0,False,3,agree
+2013,1,fulham,arsenal,2013-08-24,1,3,False,3,agree
+2013,1,hull_city,norwich_city,2013-08-24,1,0,False,3,agree
+2013,1,newcastle_united,west_ham_united,2013-08-24,0,0,False,3,agree
+2013,1,southampton,sunderland,2013-08-24,1,1,False,3,agree
+2013,1,stoke_city,crystal_palace,2013-08-24,2,1,False,3,agree
+2013,1,cardiff_city,manchester_city,2013-08-25,3,2,False,3,agree
+2013,1,tottenham_hotspur,swansea_city,2013-08-25,1,0,False,3,agree
+2013,1,manchester_united,chelsea,2013-08-26,0,0,False,3,agree
+2013,1,cardiff_city,everton,2013-08-31,0,0,False,3,agree
+2013,1,crystal_palace,sunderland,2013-08-31,3,1,False,3,agree
+2013,1,manchester_city,hull_city,2013-08-31,2,0,False,3,agree
+2013,1,newcastle_united,fulham,2013-08-31,1,0,False,3,agree
+2013,1,norwich_city,southampton,2013-08-31,1,0,False,3,agree
+2013,1,west_ham_united,stoke_city,2013-08-31,0,1,False,3,agree
+2013,1,arsenal,tottenham_hotspur,2013-09-01,1,0,False,3,agree
+2013,1,liverpool,manchester_united,2013-09-01,1,0,False,3,agree
+2013,1,west_bromwich_albion,swansea_city,2013-09-01,0,2,False,3,agree
+2013,1,aston_villa,newcastle_united,2013-09-14,1,2,False,3,agree
+2013,1,everton,chelsea,2013-09-14,1,0,False,3,agree
+2013,1,fulham,west_bromwich_albion,2013-09-14,1,1,False,3,agree
+2013,1,hull_city,cardiff_city,2013-09-14,1,1,False,3,agree
+2013,1,manchester_united,crystal_palace,2013-09-14,2,0,False,3,agree
+2013,1,stoke_city,manchester_city,2013-09-14,0,0,False,3,agree
+2013,1,sunderland,arsenal,2013-09-14,1,3,False,3,agree
+2013,1,tottenham_hotspur,norwich_city,2013-09-14,2,0,False,3,agree
+2013,1,southampton,west_ham_united,2013-09-15,0,0,False,3,agree
+2013,1,swansea_city,liverpool,2013-09-16,2,2,False,3,agree
+2013,1,chelsea,fulham,2013-09-21,2,0,False,3,agree
+2013,1,liverpool,southampton,2013-09-21,0,1,False,3,agree
+2013,1,newcastle_united,hull_city,2013-09-21,2,3,False,3,agree
+2013,1,norwich_city,aston_villa,2013-09-21,0,1,False,3,agree
+2013,1,west_bromwich_albion,sunderland,2013-09-21,3,0,False,3,agree
+2013,1,west_ham_united,everton,2013-09-21,2,3,False,3,agree
+2013,1,arsenal,stoke_city,2013-09-22,3,1,False,3,agree
+2013,1,cardiff_city,tottenham_hotspur,2013-09-22,0,1,False,3,agree
+2013,1,crystal_palace,swansea_city,2013-09-22,0,2,False,3,agree
+2013,1,manchester_city,manchester_united,2013-09-22,4,1,False,3,agree
+2013,1,aston_villa,manchester_city,2013-09-28,3,2,False,3,agree
+2013,1,fulham,cardiff_city,2013-09-28,1,2,False,3,agree
+2013,1,hull_city,west_ham_united,2013-09-28,1,0,False,3,agree
+2013,1,manchester_united,west_bromwich_albion,2013-09-28,1,2,False,3,agree
+2013,1,southampton,crystal_palace,2013-09-28,2,0,False,3,agree
+2013,1,swansea_city,arsenal,2013-09-28,1,2,False,3,agree
+2013,1,tottenham_hotspur,chelsea,2013-09-28,1,1,False,3,agree
+2013,1,stoke_city,norwich_city,2013-09-29,0,1,False,3,agree
+2013,1,sunderland,liverpool,2013-09-29,1,3,False,3,agree
+2013,1,everton,newcastle_united,2013-09-30,3,2,False,3,agree
+2013,1,cardiff_city,newcastle_united,2013-10-05,1,2,False,3,agree
+2013,1,fulham,stoke_city,2013-10-05,1,0,False,3,agree
+2013,1,hull_city,aston_villa,2013-10-05,0,0,False,3,agree
+2013,1,liverpool,crystal_palace,2013-10-05,3,1,False,3,agree
+2013,1,manchester_city,everton,2013-10-05,3,1,False,3,agree
+2013,1,sunderland,manchester_united,2013-10-05,1,2,False,3,agree
+2013,1,norwich_city,chelsea,2013-10-06,1,3,False,3,agree
+2013,1,southampton,swansea_city,2013-10-06,2,0,False,3,agree
+2013,1,tottenham_hotspur,west_ham_united,2013-10-06,0,3,False,3,agree
+2013,1,west_bromwich_albion,arsenal,2013-10-06,1,1,False,3,agree
+2013,1,arsenal,norwich_city,2013-10-19,4,1,False,3,agree
+2013,1,chelsea,cardiff_city,2013-10-19,4,1,False,3,agree
+2013,1,everton,hull_city,2013-10-19,2,1,False,3,agree
+2013,1,manchester_united,southampton,2013-10-19,1,1,False,3,agree
+2013,1,newcastle_united,liverpool,2013-10-19,2,2,False,3,agree
+2013,1,stoke_city,west_bromwich_albion,2013-10-19,0,0,False,3,agree
+2013,1,swansea_city,sunderland,2013-10-19,4,0,False,3,agree
+2013,1,west_ham_united,manchester_city,2013-10-19,1,3,False,3,agree
+2013,1,aston_villa,tottenham_hotspur,2013-10-20,0,2,False,3,agree
+2013,1,crystal_palace,fulham,2013-10-21,1,4,False,3,agree
+2013,1,aston_villa,everton,2013-10-26,0,2,False,3,agree
+2013,1,crystal_palace,arsenal,2013-10-26,0,2,False,3,agree
+2013,1,liverpool,west_bromwich_albion,2013-10-26,4,1,False,3,agree
+2013,1,manchester_united,stoke_city,2013-10-26,3,2,False,3,agree
+2013,1,norwich_city,cardiff_city,2013-10-26,0,0,False,3,agree
+2013,1,southampton,fulham,2013-10-26,2,0,False,3,agree
+2013,1,chelsea,manchester_city,2013-10-27,2,1,False,3,agree
+2013,1,sunderland,newcastle_united,2013-10-27,2,1,False,3,agree
+2013,1,swansea_city,west_ham_united,2013-10-27,0,0,False,3,agree
+2013,1,tottenham_hotspur,hull_city,2013-10-27,1,0,False,3,agree
+2013,1,arsenal,liverpool,2013-11-02,2,0,False,3,agree
+2013,1,fulham,manchester_united,2013-11-02,1,3,False,3,agree
+2013,1,hull_city,sunderland,2013-11-02,1,0,False,3,agree
+2013,1,manchester_city,norwich_city,2013-11-02,7,0,False,3,agree
+2013,1,newcastle_united,chelsea,2013-11-02,2,0,False,3,agree
+2013,1,stoke_city,southampton,2013-11-02,1,1,False,3,agree
+2013,1,west_bromwich_albion,crystal_palace,2013-11-02,2,0,False,3,agree
+2013,1,west_ham_united,aston_villa,2013-11-02,0,0,False,3,agree
+2013,1,cardiff_city,swansea_city,2013-11-03,1,0,False,3,agree
+2013,1,everton,tottenham_hotspur,2013-11-03,0,0,False,3,agree
+2013,1,aston_villa,cardiff_city,2013-11-09,2,0,False,3,agree
+2013,1,chelsea,west_bromwich_albion,2013-11-09,2,2,False,3,agree
+2013,1,crystal_palace,everton,2013-11-09,0,0,False,3,agree
+2013,1,liverpool,fulham,2013-11-09,4,0,False,3,agree
+2013,1,norwich_city,west_ham_united,2013-11-09,3,1,False,3,agree
+2013,1,southampton,hull_city,2013-11-09,4,1,False,3,agree
+2013,1,manchester_united,arsenal,2013-11-10,1,0,False,3,agree
+2013,1,sunderland,manchester_city,2013-11-10,1,0,False,3,agree
+2013,1,swansea_city,stoke_city,2013-11-10,3,3,False,3,agree
+2013,1,tottenham_hotspur,newcastle_united,2013-11-10,0,1,False,3,agree
+2013,1,arsenal,southampton,2013-11-23,2,0,False,3,agree
+2013,1,everton,liverpool,2013-11-23,3,3,False,3,agree
+2013,1,fulham,swansea_city,2013-11-23,1,2,False,3,agree
+2013,1,hull_city,crystal_palace,2013-11-23,0,1,False,3,agree
+2013,1,newcastle_united,norwich_city,2013-11-23,2,1,False,3,agree
+2013,1,stoke_city,sunderland,2013-11-23,2,0,False,3,agree
+2013,1,west_ham_united,chelsea,2013-11-23,0,3,False,3,agree
+2013,1,cardiff_city,manchester_united,2013-11-24,2,2,False,3,agree
+2013,1,manchester_city,tottenham_hotspur,2013-11-24,6,0,False,3,agree
+2013,1,west_bromwich_albion,aston_villa,2013-11-25,2,2,False,3,agree
+2013,1,aston_villa,sunderland,2013-11-30,0,0,False,3,agree
+2013,1,cardiff_city,arsenal,2013-11-30,0,3,False,3,agree
+2013,1,everton,stoke_city,2013-11-30,4,0,False,3,agree
+2013,1,newcastle_united,west_bromwich_albion,2013-11-30,2,1,False,3,agree
+2013,1,norwich_city,crystal_palace,2013-11-30,1,0,False,3,agree
+2013,1,west_ham_united,fulham,2013-11-30,3,0,False,3,agree
+2013,1,chelsea,southampton,2013-12-01,3,1,False,3,agree
+2013,1,hull_city,liverpool,2013-12-01,3,1,False,3,agree
+2013,1,manchester_city,swansea_city,2013-12-01,3,0,False,3,agree
+2013,1,tottenham_hotspur,manchester_united,2013-12-01,2,2,False,3,agree
+2013,1,crystal_palace,west_ham_united,2013-12-03,1,0,False,3,agree
+2013,1,arsenal,hull_city,2013-12-04,2,0,False,3,agree
+2013,1,fulham,tottenham_hotspur,2013-12-04,1,2,False,3,agree
+2013,1,liverpool,norwich_city,2013-12-04,5,1,False,3,agree
+2013,1,manchester_united,everton,2013-12-04,0,1,False,3,agree
+2013,1,southampton,aston_villa,2013-12-04,2,3,False,3,agree
+2013,1,stoke_city,cardiff_city,2013-12-04,0,0,False,3,agree
+2013,1,sunderland,chelsea,2013-12-04,3,4,False,3,agree
+2013,1,swansea_city,newcastle_united,2013-12-04,3,0,False,3,agree
+2013,1,west_bromwich_albion,manchester_city,2013-12-04,2,3,False,3,agree
+2013,1,crystal_palace,cardiff_city,2013-12-07,2,0,False,3,agree
+2013,1,liverpool,west_ham_united,2013-12-07,4,1,False,3,agree
+2013,1,manchester_united,newcastle_united,2013-12-07,0,1,False,3,agree
+2013,1,southampton,manchester_city,2013-12-07,1,1,False,3,agree
+2013,1,stoke_city,chelsea,2013-12-07,3,2,False,3,agree
+2013,1,sunderland,tottenham_hotspur,2013-12-07,1,2,False,3,agree
+2013,1,west_bromwich_albion,norwich_city,2013-12-07,0,2,False,3,agree
+2013,1,arsenal,everton,2013-12-08,1,1,False,3,agree
+2013,1,fulham,aston_villa,2013-12-08,2,0,False,3,agree
+2013,1,swansea_city,hull_city,2013-12-09,1,1,False,3,agree
+2013,1,cardiff_city,west_bromwich_albion,2013-12-14,1,0,False,3,agree
+2013,1,chelsea,crystal_palace,2013-12-14,2,1,False,3,agree
+2013,1,everton,fulham,2013-12-14,4,1,False,3,agree
+2013,1,hull_city,stoke_city,2013-12-14,0,0,False,3,agree
+2013,1,manchester_city,arsenal,2013-12-14,6,3,False,3,agree
+2013,1,newcastle_united,southampton,2013-12-14,1,1,False,3,agree
+2013,1,west_ham_united,sunderland,2013-12-14,0,0,False,3,agree
+2013,1,aston_villa,manchester_united,2013-12-15,0,3,False,3,agree
+2013,1,norwich_city,swansea_city,2013-12-15,1,1,False,3,agree
+2013,1,tottenham_hotspur,liverpool,2013-12-15,0,5,False,3,agree
+2013,1,crystal_palace,newcastle_united,2013-12-21,0,3,False,3,agree
+2013,1,fulham,manchester_city,2013-12-21,2,4,False,3,agree
+2013,1,liverpool,cardiff_city,2013-12-21,3,1,False,3,agree
+2013,1,manchester_united,west_ham_united,2013-12-21,3,1,False,3,agree
+2013,1,stoke_city,aston_villa,2013-12-21,2,1,False,3,agree
+2013,1,sunderland,norwich_city,2013-12-21,0,0,False,3,agree
+2013,1,west_bromwich_albion,hull_city,2013-12-21,1,1,False,3,agree
+2013,1,southampton,tottenham_hotspur,2013-12-22,2,3,False,3,agree
+2013,1,swansea_city,everton,2013-12-22,1,2,False,3,agree
+2013,1,arsenal,chelsea,2013-12-23,0,0,False,3,agree
+2013,1,aston_villa,crystal_palace,2013-12-26,0,1,False,3,agree
+2013,1,cardiff_city,southampton,2013-12-26,0,3,False,3,agree
+2013,1,chelsea,swansea_city,2013-12-26,1,0,False,3,agree
+2013,1,everton,sunderland,2013-12-26,0,1,False,3,agree
+2013,1,hull_city,manchester_united,2013-12-26,2,3,False,3,agree
+2013,1,manchester_city,liverpool,2013-12-26,2,1,False,3,agree
+2013,1,newcastle_united,stoke_city,2013-12-26,5,1,False,3,agree
+2013,1,norwich_city,fulham,2013-12-26,1,2,False,3,agree
+2013,1,tottenham_hotspur,west_bromwich_albion,2013-12-26,1,1,False,3,agree
+2013,1,west_ham_united,arsenal,2013-12-26,1,3,False,3,agree
+2013,1,aston_villa,swansea_city,2013-12-28,1,1,False,3,agree
+2013,1,cardiff_city,sunderland,2013-12-28,2,2,False,3,agree
+2013,1,hull_city,fulham,2013-12-28,6,0,False,3,agree
+2013,1,manchester_city,crystal_palace,2013-12-28,1,0,False,3,agree
+2013,1,norwich_city,manchester_united,2013-12-28,0,1,False,3,agree
+2013,1,west_ham_united,west_bromwich_albion,2013-12-28,3,3,False,3,agree
+2013,1,chelsea,liverpool,2013-12-29,2,1,False,3,agree
+2013,1,everton,southampton,2013-12-29,2,1,False,3,agree
+2013,1,newcastle_united,arsenal,2013-12-29,0,1,False,3,agree
+2013,1,tottenham_hotspur,stoke_city,2013-12-29,3,0,False,3,agree
+2013,1,arsenal,cardiff_city,2014-01-01,2,0,False,3,agree
+2013,1,crystal_palace,norwich_city,2014-01-01,1,1,False,3,agree
+2013,1,fulham,west_ham_united,2014-01-01,2,1,False,3,agree
+2013,1,liverpool,hull_city,2014-01-01,2,0,False,3,agree
+2013,1,manchester_united,tottenham_hotspur,2014-01-01,1,2,False,3,agree
+2013,1,southampton,chelsea,2014-01-01,0,3,False,3,agree
+2013,1,stoke_city,everton,2014-01-01,1,1,False,3,agree
+2013,1,sunderland,aston_villa,2014-01-01,0,1,False,3,agree
+2013,1,swansea_city,manchester_city,2014-01-01,2,3,False,3,agree
+2013,1,west_bromwich_albion,newcastle_united,2014-01-01,1,0,False,3,agree
+2013,1,cardiff_city,west_ham_united,2014-01-11,0,2,False,3,agree
+2013,1,everton,norwich_city,2014-01-11,2,0,False,3,agree
+2013,1,fulham,sunderland,2014-01-11,1,4,False,3,agree
+2013,1,hull_city,chelsea,2014-01-11,0,2,False,3,agree
+2013,1,manchester_united,swansea_city,2014-01-11,2,0,False,3,agree
+2013,1,southampton,west_bromwich_albion,2014-01-11,1,0,False,3,agree
+2013,1,tottenham_hotspur,crystal_palace,2014-01-11,2,0,False,3,agree
+2013,1,newcastle_united,manchester_city,2014-01-12,0,2,False,3,agree
+2013,1,stoke_city,liverpool,2014-01-12,3,5,False,3,agree
+2013,1,aston_villa,arsenal,2014-01-13,1,2,False,3,agree
+2013,1,arsenal,fulham,2014-01-18,2,0,False,3,agree
+2013,1,crystal_palace,stoke_city,2014-01-18,1,0,False,3,agree
+2013,1,liverpool,aston_villa,2014-01-18,2,2,False,3,agree
+2013,1,manchester_city,cardiff_city,2014-01-18,4,2,False,3,agree
+2013,1,norwich_city,hull_city,2014-01-18,1,0,False,3,agree
+2013,1,sunderland,southampton,2014-01-18,2,2,False,3,agree
+2013,1,west_ham_united,newcastle_united,2014-01-18,1,3,False,3,agree
+2013,1,chelsea,manchester_united,2014-01-19,3,1,False,3,agree
+2013,1,swansea_city,tottenham_hotspur,2014-01-19,1,3,False,3,agree
+2013,1,west_bromwich_albion,everton,2014-01-20,1,1,False,3,agree
+2013,1,crystal_palace,hull_city,2014-01-28,1,0,False,3,agree
+2013,1,liverpool,everton,2014-01-28,4,0,False,3,agree
+2013,1,manchester_united,cardiff_city,2014-01-28,2,0,False,3,agree
+2013,1,norwich_city,newcastle_united,2014-01-28,0,0,False,3,agree
+2013,1,southampton,arsenal,2014-01-28,2,2,False,3,agree
+2013,1,swansea_city,fulham,2014-01-28,2,0,False,3,agree
+2013,1,aston_villa,west_bromwich_albion,2014-01-29,4,3,False,3,agree
+2013,1,chelsea,west_ham_united,2014-01-29,0,0,False,3,agree
+2013,1,sunderland,stoke_city,2014-01-29,1,0,False,3,agree
+2013,1,tottenham_hotspur,manchester_city,2014-01-29,1,5,False,3,agree
+2013,1,cardiff_city,norwich_city,2014-02-01,2,1,False,3,agree
+2013,1,everton,aston_villa,2014-02-01,2,1,False,3,agree
+2013,1,fulham,southampton,2014-02-01,0,3,False,3,agree
+2013,1,hull_city,tottenham_hotspur,2014-02-01,1,1,False,3,agree
+2013,1,newcastle_united,sunderland,2014-02-01,0,3,False,3,agree
+2013,1,stoke_city,manchester_united,2014-02-01,2,1,False,3,agree
+2013,1,west_ham_united,swansea_city,2014-02-01,2,0,False,3,agree
+2013,1,arsenal,crystal_palace,2014-02-02,2,0,False,3,agree
+2013,1,west_bromwich_albion,liverpool,2014-02-02,1,1,False,3,agree
+2013,1,manchester_city,chelsea,2014-02-03,0,1,False,3,agree
+2013,1,aston_villa,west_ham_united,2014-02-08,0,2,False,3,agree
+2013,1,chelsea,newcastle_united,2014-02-08,3,0,False,3,agree
+2013,1,crystal_palace,west_bromwich_albion,2014-02-08,3,1,False,3,agree
+2013,1,liverpool,arsenal,2014-02-08,5,1,False,3,agree
+2013,1,norwich_city,manchester_city,2014-02-08,0,0,False,3,agree
+2013,1,southampton,stoke_city,2014-02-08,2,2,False,3,agree
+2013,1,sunderland,hull_city,2014-02-08,0,2,False,3,agree
+2013,1,swansea_city,cardiff_city,2014-02-08,3,0,False,3,agree
+2013,1,manchester_united,fulham,2014-02-09,2,2,False,3,agree
+2013,1,tottenham_hotspur,everton,2014-02-09,1,0,False,3,agree
+2013,1,cardiff_city,aston_villa,2014-02-11,0,0,False,3,agree
+2013,1,hull_city,southampton,2014-02-11,0,1,False,3,agree
+2013,1,west_bromwich_albion,chelsea,2014-02-11,1,1,False,3,agree
+2013,1,west_ham_united,norwich_city,2014-02-11,2,0,False,3,agree
+2013,1,arsenal,manchester_united,2014-02-12,0,0,False,3,agree
+2013,1,fulham,liverpool,2014-02-12,2,3,False,3,agree
+2013,1,newcastle_united,tottenham_hotspur,2014-02-12,0,4,False,3,agree
+2013,1,stoke_city,swansea_city,2014-02-12,1,1,False,3,agree
+2013,1,arsenal,sunderland,2014-02-22,4,1,False,3,agree
+2013,1,cardiff_city,hull_city,2014-02-22,0,4,False,3,agree
+2013,1,chelsea,everton,2014-02-22,1,0,False,3,agree
+2013,1,crystal_palace,manchester_united,2014-02-22,0,2,False,3,agree
+2013,1,manchester_city,stoke_city,2014-02-22,1,0,False,3,agree
+2013,1,west_bromwich_albion,fulham,2014-02-22,1,1,False,3,agree
+2013,1,west_ham_united,southampton,2014-02-22,3,1,False,3,agree
+2013,1,liverpool,swansea_city,2014-02-23,4,3,False,3,agree
+2013,1,newcastle_united,aston_villa,2014-02-23,1,0,False,3,agree
+2013,1,norwich_city,tottenham_hotspur,2014-02-23,1,0,False,3,agree
+2013,1,everton,west_ham_united,2014-03-01,1,0,False,3,agree
+2013,1,fulham,chelsea,2014-03-01,1,3,False,3,agree
+2013,1,hull_city,newcastle_united,2014-03-01,1,4,False,3,agree
+2013,1,southampton,liverpool,2014-03-01,0,3,False,3,agree
+2013,1,stoke_city,arsenal,2014-03-01,1,0,False,3,agree
+2013,1,aston_villa,norwich_city,2014-03-02,4,1,False,3,agree
+2013,1,swansea_city,crystal_palace,2014-03-02,1,1,False,3,agree
+2013,1,tottenham_hotspur,cardiff_city,2014-03-02,1,0,False,3,agree
+2013,1,cardiff_city,fulham,2014-03-08,3,1,False,3,agree
+2013,1,chelsea,tottenham_hotspur,2014-03-08,4,0,False,3,agree
+2013,1,crystal_palace,southampton,2014-03-08,0,1,False,3,agree
+2013,1,norwich_city,stoke_city,2014-03-08,1,1,False,3,agree
+2013,1,west_bromwich_albion,manchester_united,2014-03-08,0,3,False,3,agree
+2013,1,aston_villa,chelsea,2014-03-15,1,0,False,3,agree
+2013,1,everton,cardiff_city,2014-03-15,2,1,False,3,agree
+2013,1,fulham,newcastle_united,2014-03-15,1,0,False,3,agree
+2013,1,hull_city,manchester_city,2014-03-15,0,2,False,3,agree
+2013,1,southampton,norwich_city,2014-03-15,4,2,False,3,agree
+2013,1,stoke_city,west_ham_united,2014-03-15,3,1,False,3,agree
+2013,1,sunderland,crystal_palace,2014-03-15,0,0,False,3,agree
+2013,1,swansea_city,west_bromwich_albion,2014-03-15,1,2,False,3,agree
+2013,1,manchester_united,liverpool,2014-03-16,0,3,False,3,agree
+2013,1,tottenham_hotspur,arsenal,2014-03-16,0,1,False,3,agree
+2013,1,cardiff_city,liverpool,2014-03-22,3,6,False,3,agree
+2013,1,chelsea,arsenal,2014-03-22,6,0,False,3,agree
+2013,1,everton,swansea_city,2014-03-22,3,2,False,3,agree
+2013,1,hull_city,west_bromwich_albion,2014-03-22,2,0,False,3,agree
+2013,1,manchester_city,fulham,2014-03-22,5,0,False,3,agree
+2013,1,newcastle_united,crystal_palace,2014-03-22,1,0,False,3,agree
+2013,1,norwich_city,sunderland,2014-03-22,2,0,False,3,agree
+2013,1,west_ham_united,manchester_united,2014-03-22,0,2,False,3,agree
+2013,1,aston_villa,stoke_city,2014-03-23,1,4,False,3,agree
+2013,1,tottenham_hotspur,southampton,2014-03-23,3,2,False,3,agree
+2013,1,arsenal,swansea_city,2014-03-25,2,2,False,3,agree
+2013,1,manchester_united,manchester_city,2014-03-25,0,3,False,3,agree
+2013,1,newcastle_united,everton,2014-03-25,0,3,False,3,agree
+2013,1,liverpool,sunderland,2014-03-26,2,1,False,3,agree
+2013,1,west_ham_united,hull_city,2014-03-26,2,1,False,3,agree
+2013,1,arsenal,manchester_city,2014-03-29,1,1,False,3,agree
+2013,1,crystal_palace,chelsea,2014-03-29,1,0,False,3,agree
+2013,1,manchester_united,aston_villa,2014-03-29,4,1,False,3,agree
+2013,1,southampton,newcastle_united,2014-03-29,4,0,False,3,agree
+2013,1,stoke_city,hull_city,2014-03-29,1,0,False,3,agree
+2013,1,swansea_city,norwich_city,2014-03-29,3,0,False,3,agree
+2013,1,west_bromwich_albion,cardiff_city,2014-03-29,3,3,False,3,agree
+2013,1,fulham,everton,2014-03-30,1,3,False,3,agree
+2013,1,liverpool,tottenham_hotspur,2014-03-30,4,0,False,3,agree
+2013,1,sunderland,west_ham_united,2014-03-31,1,2,False,3,agree
+2013,1,aston_villa,fulham,2014-04-05,1,2,False,3,agree
+2013,1,cardiff_city,crystal_palace,2014-04-05,0,3,False,3,agree
+2013,1,chelsea,stoke_city,2014-04-05,3,0,False,3,agree
+2013,1,hull_city,swansea_city,2014-04-05,1,0,False,3,agree
+2013,1,manchester_city,southampton,2014-04-05,4,1,False,3,agree
+2013,1,newcastle_united,manchester_united,2014-04-05,0,4,False,3,agree
+2013,1,norwich_city,west_bromwich_albion,2014-04-05,0,1,False,3,agree
+2013,1,everton,arsenal,2014-04-06,3,0,False,3,agree
+2013,1,west_ham_united,liverpool,2014-04-06,1,2,False,3,agree
+2013,1,tottenham_hotspur,sunderland,2014-04-07,5,1,False,3,agree
+2013,1,crystal_palace,aston_villa,2014-04-12,1,0,False,3,agree
+2013,1,fulham,norwich_city,2014-04-12,1,0,False,3,agree
+2013,1,southampton,cardiff_city,2014-04-12,0,1,False,3,agree
+2013,1,stoke_city,newcastle_united,2014-04-12,1,0,False,3,agree
+2013,1,sunderland,everton,2014-04-12,0,1,False,3,agree
+2013,1,west_bromwich_albion,tottenham_hotspur,2014-04-12,3,3,False,3,agree
+2013,1,liverpool,manchester_city,2014-04-13,3,2,False,3,agree
+2013,1,swansea_city,chelsea,2014-04-13,0,1,False,3,agree
+2013,1,arsenal,west_ham_united,2014-04-15,3,1,False,3,agree
+2013,1,everton,crystal_palace,2014-04-16,2,3,False,3,agree
+2013,1,manchester_city,sunderland,2014-04-16,2,2,False,3,agree
+2013,1,aston_villa,southampton,2014-04-19,0,0,False,3,agree
+2013,1,cardiff_city,stoke_city,2014-04-19,1,1,False,3,agree
+2013,1,chelsea,sunderland,2014-04-19,1,2,False,3,agree
+2013,1,newcastle_united,swansea_city,2014-04-19,1,2,False,3,agree
+2013,1,tottenham_hotspur,fulham,2014-04-19,3,1,False,3,agree
+2013,1,west_ham_united,crystal_palace,2014-04-19,0,1,False,3,agree
+2013,1,everton,manchester_united,2014-04-20,2,0,False,3,agree
+2013,1,hull_city,arsenal,2014-04-20,0,3,False,3,agree
+2013,1,norwich_city,liverpool,2014-04-20,2,3,False,3,agree
+2013,1,manchester_city,west_bromwich_albion,2014-04-21,3,1,False,3,agree
+2013,1,fulham,hull_city,2014-04-26,2,2,False,3,agree
+2013,1,manchester_united,norwich_city,2014-04-26,4,0,False,3,agree
+2013,1,southampton,everton,2014-04-26,2,0,False,3,agree
+2013,1,stoke_city,tottenham_hotspur,2014-04-26,0,1,False,3,agree
+2013,1,swansea_city,aston_villa,2014-04-26,4,1,False,3,agree
+2013,1,west_bromwich_albion,west_ham_united,2014-04-26,1,0,False,3,agree
+2013,1,crystal_palace,manchester_city,2014-04-27,0,2,False,3,agree
+2013,1,liverpool,chelsea,2014-04-27,0,2,False,3,agree
+2013,1,sunderland,cardiff_city,2014-04-27,4,0,False,3,agree
+2013,1,arsenal,newcastle_united,2014-04-28,3,0,False,3,agree
+2013,1,aston_villa,hull_city,2014-05-03,3,1,False,3,agree
+2013,1,everton,manchester_city,2014-05-03,2,3,False,3,agree
+2013,1,manchester_united,sunderland,2014-05-03,0,1,False,3,agree
+2013,1,newcastle_united,cardiff_city,2014-05-03,3,0,False,3,agree
+2013,1,stoke_city,fulham,2014-05-03,4,1,False,3,agree
+2013,1,swansea_city,southampton,2014-05-03,0,1,False,3,agree
+2013,1,west_ham_united,tottenham_hotspur,2014-05-03,2,0,False,3,agree
+2013,1,arsenal,west_bromwich_albion,2014-05-04,1,0,False,3,agree
+2013,1,chelsea,norwich_city,2014-05-04,0,0,False,3,agree
+2013,1,crystal_palace,liverpool,2014-05-05,3,3,False,3,agree
+2013,1,manchester_united,hull_city,2014-05-06,3,1,False,3,agree
+2013,1,manchester_city,aston_villa,2014-05-07,4,0,False,3,agree
+2013,1,sunderland,west_bromwich_albion,2014-05-07,2,0,False,3,agree
+2013,1,cardiff_city,chelsea,2014-05-11,1,2,False,3,agree
+2013,1,fulham,crystal_palace,2014-05-11,2,2,False,3,agree
+2013,1,hull_city,everton,2014-05-11,0,2,False,3,agree
+2013,1,liverpool,newcastle_united,2014-05-11,2,1,False,3,agree
+2013,1,manchester_city,west_ham_united,2014-05-11,2,0,False,3,agree
+2013,1,norwich_city,arsenal,2014-05-11,0,2,False,3,agree
+2013,1,southampton,manchester_united,2014-05-11,1,1,False,3,agree
+2013,1,sunderland,swansea_city,2014-05-11,1,3,False,3,agree
+2013,1,tottenham_hotspur,aston_villa,2014-05-11,3,0,False,3,agree
+2013,1,west_bromwich_albion,stoke_city,2014-05-11,1,2,False,3,agree
 2013,2,barnsley,wigan_athletic,2013-08-03,0,4,False,3,agree
 2013,2,birmingham_city,watford,2013-08-03,0,1,False,3,agree
 2013,2,bournemouth,charlton_athletic,2013-08-03,2,1,False,3,agree
@@ -20517,7 +20517,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2015,5,macclesfield_town,torquay_united,2016-03-01,1,2,False,3,agree
 2015,5,forest_green_rovers,grimsby_town,2016-03-04,0,1,False,3,agree
 2015,5,altrincham,macclesfield_town,2016-03-05,0,0,False,3,agree
-2015,5,boreham_wood,barrow,2016-03-05,0,2,False,3,majority
+2015,5,boreham_wood,barrow,2016-03-05,0,2,False,3,split:use footballdata
 2015,5,braintree_town,eastleigh,2016-03-05,2,0,False,3,agree
 2015,5,chester,bromley,2016-03-05,1,1,False,3,agree
 2015,5,lincoln_city,aldershot_town,2016-03-05,2,0,False,3,agree
@@ -44544,109 +44544,109 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,3,bradford_city,lincoln_city,2025-10-28,0,0,False,2,agree
 2025,3,mansfield_town,plymouth_argyle,2025-10-28,2,0,False,2,agree
 2025,3,rotherham_united,burton_albion,2025-11-04,2,2,False,1,single:footballdata
-2025,3,reading,stevenage,2025-11-06,1,0,False,2,split:prefer footballdata
-2025,3,blackpool,cardiff_city,2025-11-08,3,1,False,2,split:prefer footballdata
-2025,3,bolton_wanderers,port_vale,2025-11-08,4,0,False,2,split:prefer footballdata
-2025,3,bradford_city,burton_albion,2025-11-08,1,2,False,2,split:prefer footballdata
+2025,3,reading,stevenage,2025-11-06,1,0,False,2,split:use footballdata
+2025,3,blackpool,cardiff_city,2025-11-08,3,1,False,2,split:use footballdata
+2025,3,bolton_wanderers,port_vale,2025-11-08,4,0,False,2,split:use footballdata
+2025,3,bradford_city,burton_albion,2025-11-08,1,2,False,2,split:use footballdata
 2025,3,doncaster_rovers,barnsley,2025-11-08,1,2,False,2,agree
-2025,3,exeter_city,wigan_athletic,2025-11-08,1,1,False,2,split:prefer footballdata
-2025,3,huddersfield_town,plymouth_argyle,2025-11-08,3,1,False,2,split:prefer footballdata
-2025,3,northampton_town,mansfield_town,2025-11-08,2,1,False,2,split:prefer footballdata
-2025,3,peterborough_united,afc_wimbledon,2025-11-08,5,0,False,2,split:prefer footballdata
-2025,3,rotherham_united,lincoln_city,2025-11-08,3,0,False,2,split:prefer footballdata
-2025,3,stockport_county,luton_town,2025-11-08,0,3,False,2,split:prefer footballdata
-2025,3,wycombe_wanderers,leyton_orient,2025-11-08,4,1,False,2,split:prefer footballdata
-2025,3,burton_albion,blackpool,2025-11-15,1,0,False,2,split:prefer footballdata
-2025,3,leyton_orient,exeter_city,2025-11-15,2,1,False,2,split:prefer footballdata
-2025,3,lincoln_city,doncaster_rovers,2025-11-15,2,1,False,2,split:prefer footballdata
-2025,3,luton_town,rotherham_united,2025-11-15,0,0,False,2,split:prefer footballdata
-2025,3,port_vale,wycombe_wanderers,2025-11-15,0,0,False,2,split:prefer footballdata
-2025,3,peterborough_united,stockport_county,2025-11-20,3,0,False,2,split:prefer footballdata
-2025,3,afc_wimbledon,wigan_athletic,2025-11-22,1,2,False,2,split:prefer footballdata
-2025,3,barnsley,luton_town,2025-11-22,5,0,False,2,split:prefer footballdata
-2025,3,bolton_wanderers,bradford_city,2025-11-22,0,0,False,2,split:prefer footballdata
-2025,3,leyton_orient,blackpool,2025-11-22,1,1,False,2,split:prefer footballdata
+2025,3,exeter_city,wigan_athletic,2025-11-08,1,1,False,2,split:use footballdata
+2025,3,huddersfield_town,plymouth_argyle,2025-11-08,3,1,False,2,split:use footballdata
+2025,3,northampton_town,mansfield_town,2025-11-08,2,1,False,2,split:use footballdata
+2025,3,peterborough_united,afc_wimbledon,2025-11-08,5,0,False,2,split:use footballdata
+2025,3,rotherham_united,lincoln_city,2025-11-08,3,0,False,2,split:use footballdata
+2025,3,stockport_county,luton_town,2025-11-08,0,3,False,2,split:use footballdata
+2025,3,wycombe_wanderers,leyton_orient,2025-11-08,4,1,False,2,split:use footballdata
+2025,3,burton_albion,blackpool,2025-11-15,1,0,False,2,split:use footballdata
+2025,3,leyton_orient,exeter_city,2025-11-15,2,1,False,2,split:use footballdata
+2025,3,lincoln_city,doncaster_rovers,2025-11-15,2,1,False,2,split:use footballdata
+2025,3,luton_town,rotherham_united,2025-11-15,0,0,False,2,split:use footballdata
+2025,3,port_vale,wycombe_wanderers,2025-11-15,0,0,False,2,split:use footballdata
+2025,3,peterborough_united,stockport_county,2025-11-20,3,0,False,2,split:use footballdata
+2025,3,afc_wimbledon,wigan_athletic,2025-11-22,1,2,False,2,split:use footballdata
+2025,3,barnsley,luton_town,2025-11-22,5,0,False,2,split:use footballdata
+2025,3,bolton_wanderers,bradford_city,2025-11-22,0,0,False,2,split:use footballdata
+2025,3,leyton_orient,blackpool,2025-11-22,1,1,False,2,split:use footballdata
 2025,3,mansfield_town,huddersfield_town,2025-11-22,1,3,False,2,agree
-2025,3,northampton_town,cardiff_city,2025-11-22,1,3,False,2,split:prefer footballdata
-2025,3,port_vale,plymouth_argyle,2025-11-22,0,1,False,2,split:prefer footballdata
+2025,3,northampton_town,cardiff_city,2025-11-22,1,3,False,2,split:use footballdata
+2025,3,port_vale,plymouth_argyle,2025-11-22,0,1,False,2,split:use footballdata
 2025,3,reading,rotherham_united,2025-11-22,1,1,False,2,agree
-2025,3,stevenage,doncaster_rovers,2025-11-22,0,0,False,2,split:prefer footballdata
-2025,3,wycombe_wanderers,lincoln_city,2025-11-22,3,2,False,2,split:prefer footballdata
+2025,3,stevenage,doncaster_rovers,2025-11-22,0,0,False,2,split:use footballdata
+2025,3,wycombe_wanderers,lincoln_city,2025-11-22,3,2,False,2,split:use footballdata
 2025,3,luton_town,huddersfield_town,2025-11-25,2,1,False,1,single:footballdata
 2025,3,peterborough_united,stevenage,2025-11-25,0,1,False,1,single:footballdata
-2025,3,blackpool,reading,2025-11-29,0,3,False,2,split:prefer footballdata
-2025,3,bradford_city,exeter_city,2025-11-29,1,0,False,2,split:prefer footballdata
-2025,3,burton_albion,leyton_orient,2025-11-29,0,4,False,2,split:prefer footballdata
+2025,3,blackpool,reading,2025-11-29,0,3,False,2,split:use footballdata
+2025,3,bradford_city,exeter_city,2025-11-29,1,0,False,2,split:use footballdata
+2025,3,burton_albion,leyton_orient,2025-11-29,0,4,False,2,split:use footballdata
 2025,3,cardiff_city,mansfield_town,2025-11-29,3,0,False,2,agree
-2025,3,doncaster_rovers,peterborough_united,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,3,huddersfield_town,afc_wimbledon,2025-11-29,3,3,False,2,split:prefer footballdata
+2025,3,doncaster_rovers,peterborough_united,2025-11-29,2,1,False,2,split:use footballdata
+2025,3,huddersfield_town,afc_wimbledon,2025-11-29,3,3,False,2,split:use footballdata
 2025,3,lincoln_city,port_vale,2025-11-29,1,0,False,2,agree
 2025,3,luton_town,bolton_wanderers,2025-11-29,1,1,False,2,agree
-2025,3,plymouth_argyle,northampton_town,2025-11-29,0,3,False,2,split:prefer footballdata
-2025,3,rotherham_united,wycombe_wanderers,2025-11-29,1,1,False,2,split:prefer footballdata
-2025,3,stockport_county,barnsley,2025-11-29,1,1,False,2,split:prefer footballdata
-2025,3,wigan_athletic,stevenage,2025-11-29,0,0,False,2,split:prefer footballdata
-2025,3,wigan_athletic,burton_albion,2025-12-02,1,0,False,2,split:prefer footballdata
-2025,3,cardiff_city,huddersfield_town,2025-12-06,3,2,False,2,split:prefer footballdata
-2025,3,plymouth_argyle,bradford_city,2025-12-06,0,1,False,2,split:prefer footballdata
+2025,3,plymouth_argyle,northampton_town,2025-11-29,0,3,False,2,split:use footballdata
+2025,3,rotherham_united,wycombe_wanderers,2025-11-29,1,1,False,2,split:use footballdata
+2025,3,stockport_county,barnsley,2025-11-29,1,1,False,2,split:use footballdata
+2025,3,wigan_athletic,stevenage,2025-11-29,0,0,False,2,split:use footballdata
+2025,3,wigan_athletic,burton_albion,2025-12-02,1,0,False,2,split:use footballdata
+2025,3,cardiff_city,huddersfield_town,2025-12-06,3,2,False,2,split:use footballdata
+2025,3,plymouth_argyle,bradford_city,2025-12-06,0,1,False,2,split:use footballdata
 2025,3,doncaster_rovers,stockport_county,2025-12-09,0,2,False,2,agree
 2025,3,exeter_city,afc_wimbledon,2025-12-09,1,0,False,2,agree
-2025,3,leyton_orient,luton_town,2025-12-09,1,1,False,2,split:prefer footballdata
-2025,3,lincoln_city,barnsley,2025-12-09,3,1,False,2,split:prefer footballdata
-2025,3,mansfield_town,bolton_wanderers,2025-12-09,0,1,False,2,split:prefer footballdata
-2025,3,northampton_town,huddersfield_town,2025-12-09,1,1,False,2,split:prefer footballdata
-2025,3,reading,peterborough_united,2025-12-09,1,2,False,2,split:prefer footballdata
-2025,3,stevenage,cardiff_city,2025-12-09,0,1,False,2,split:prefer footballdata
-2025,3,wycombe_wanderers,plymouth_argyle,2025-12-09,0,1,False,2,split:prefer footballdata
-2025,3,rotherham_united,blackpool,2025-12-10,0,3,False,2,split:prefer footballdata
-2025,3,afc_wimbledon,mansfield_town,2025-12-13,0,0,False,2,split:prefer footballdata
-2025,3,barnsley,leyton_orient,2025-12-13,3,2,False,2,split:prefer footballdata
-2025,3,blackpool,lincoln_city,2025-12-13,2,2,False,2,split:prefer footballdata
-2025,3,bolton_wanderers,exeter_city,2025-12-13,2,1,False,2,split:prefer footballdata
-2025,3,bradford_city,reading,2025-12-13,2,0,False,2,split:prefer footballdata
-2025,3,burton_albion,wycombe_wanderers,2025-12-13,0,0,False,2,split:prefer footballdata
-2025,3,cardiff_city,doncaster_rovers,2025-12-13,4,3,False,2,split:prefer footballdata
-2025,3,huddersfield_town,wigan_athletic,2025-12-13,1,1,False,2,split:prefer footballdata
-2025,3,luton_town,port_vale,2025-12-13,2,2,False,2,split:prefer footballdata
-2025,3,peterborough_united,northampton_town,2025-12-13,2,1,False,2,split:prefer footballdata
-2025,3,plymouth_argyle,rotherham_united,2025-12-13,1,0,False,2,split:prefer footballdata
-2025,3,stockport_county,stevenage,2025-12-13,1,3,False,2,split:prefer footballdata
-2025,3,reading,luton_town,2025-12-18,3,2,False,2,split:prefer footballdata
-2025,3,northampton_town,afc_wimbledon,2025-12-19,3,1,False,2,split:prefer footballdata
-2025,3,doncaster_rovers,plymouth_argyle,2025-12-20,1,5,False,2,split:prefer footballdata
-2025,3,exeter_city,barnsley,2025-12-20,3,0,False,2,split:prefer footballdata
-2025,3,leyton_orient,bradford_city,2025-12-20,2,1,False,2,split:prefer footballdata
-2025,3,lincoln_city,cardiff_city,2025-12-20,2,1,False,2,split:prefer footballdata
-2025,3,mansfield_town,stockport_county,2025-12-20,1,2,False,2,split:prefer footballdata
-2025,3,port_vale,peterborough_united,2025-12-20,0,1,False,2,split:prefer footballdata
-2025,3,rotherham_united,huddersfield_town,2025-12-20,1,3,False,2,split:prefer footballdata
-2025,3,stevenage,burton_albion,2025-12-20,2,2,False,2,split:prefer footballdata
-2025,3,wigan_athletic,blackpool,2025-12-20,0,2,False,2,split:prefer footballdata
-2025,3,wycombe_wanderers,bolton_wanderers,2025-12-20,2,1,False,2,split:prefer footballdata
-2025,3,afc_wimbledon,stevenage,2025-12-26,0,0,False,2,split:prefer footballdata
-2025,3,barnsley,mansfield_town,2025-12-26,2,3,False,2,split:prefer footballdata
-2025,3,blackpool,doncaster_rovers,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,3,bolton_wanderers,rotherham_united,2025-12-26,2,1,False,2,split:prefer footballdata
-2025,3,bradford_city,wigan_athletic,2025-12-26,2,1,False,2,split:prefer footballdata
-2025,3,burton_albion,northampton_town,2025-12-26,5,1,False,2,split:prefer footballdata
-2025,3,cardiff_city,exeter_city,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,3,huddersfield_town,port_vale,2025-12-26,5,0,False,2,split:prefer footballdata
-2025,3,luton_town,wycombe_wanderers,2025-12-26,4,0,False,2,split:prefer footballdata
-2025,3,peterborough_united,leyton_orient,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,3,plymouth_argyle,reading,2025-12-26,1,4,False,2,split:prefer footballdata
-2025,3,stockport_county,lincoln_city,2025-12-26,1,2,False,2,split:prefer footballdata
-2025,3,afc_wimbledon,exeter_city,2025-12-29,0,1,False,2,split:prefer footballdata
-2025,3,barnsley,lincoln_city,2025-12-29,0,2,False,2,split:prefer footballdata
-2025,3,blackpool,rotherham_united,2025-12-29,4,0,False,2,split:prefer footballdata
-2025,3,bolton_wanderers,mansfield_town,2025-12-29,0,1,False,2,split:prefer footballdata
+2025,3,leyton_orient,luton_town,2025-12-09,1,1,False,2,split:use footballdata
+2025,3,lincoln_city,barnsley,2025-12-09,3,1,False,2,split:use footballdata
+2025,3,mansfield_town,bolton_wanderers,2025-12-09,0,1,False,2,split:use footballdata
+2025,3,northampton_town,huddersfield_town,2025-12-09,1,1,False,2,split:use footballdata
+2025,3,reading,peterborough_united,2025-12-09,1,2,False,2,split:use footballdata
+2025,3,stevenage,cardiff_city,2025-12-09,0,1,False,2,split:use footballdata
+2025,3,wycombe_wanderers,plymouth_argyle,2025-12-09,0,1,False,2,split:use footballdata
+2025,3,rotherham_united,blackpool,2025-12-10,0,3,False,2,split:use footballdata
+2025,3,afc_wimbledon,mansfield_town,2025-12-13,0,0,False,2,split:use footballdata
+2025,3,barnsley,leyton_orient,2025-12-13,3,2,False,2,split:use footballdata
+2025,3,blackpool,lincoln_city,2025-12-13,2,2,False,2,split:use footballdata
+2025,3,bolton_wanderers,exeter_city,2025-12-13,2,1,False,2,split:use footballdata
+2025,3,bradford_city,reading,2025-12-13,2,0,False,2,split:use footballdata
+2025,3,burton_albion,wycombe_wanderers,2025-12-13,0,0,False,2,split:use footballdata
+2025,3,cardiff_city,doncaster_rovers,2025-12-13,4,3,False,2,split:use footballdata
+2025,3,huddersfield_town,wigan_athletic,2025-12-13,1,1,False,2,split:use footballdata
+2025,3,luton_town,port_vale,2025-12-13,2,2,False,2,split:use footballdata
+2025,3,peterborough_united,northampton_town,2025-12-13,2,1,False,2,split:use footballdata
+2025,3,plymouth_argyle,rotherham_united,2025-12-13,1,0,False,2,split:use footballdata
+2025,3,stockport_county,stevenage,2025-12-13,1,3,False,2,split:use footballdata
+2025,3,reading,luton_town,2025-12-18,3,2,False,2,split:use footballdata
+2025,3,northampton_town,afc_wimbledon,2025-12-19,3,1,False,2,split:use footballdata
+2025,3,doncaster_rovers,plymouth_argyle,2025-12-20,1,5,False,2,split:use footballdata
+2025,3,exeter_city,barnsley,2025-12-20,3,0,False,2,split:use footballdata
+2025,3,leyton_orient,bradford_city,2025-12-20,2,1,False,2,split:use footballdata
+2025,3,lincoln_city,cardiff_city,2025-12-20,2,1,False,2,split:use footballdata
+2025,3,mansfield_town,stockport_county,2025-12-20,1,2,False,2,split:use footballdata
+2025,3,port_vale,peterborough_united,2025-12-20,0,1,False,2,split:use footballdata
+2025,3,rotherham_united,huddersfield_town,2025-12-20,1,3,False,2,split:use footballdata
+2025,3,stevenage,burton_albion,2025-12-20,2,2,False,2,split:use footballdata
+2025,3,wigan_athletic,blackpool,2025-12-20,0,2,False,2,split:use footballdata
+2025,3,wycombe_wanderers,bolton_wanderers,2025-12-20,2,1,False,2,split:use footballdata
+2025,3,afc_wimbledon,stevenage,2025-12-26,0,0,False,2,split:use footballdata
+2025,3,barnsley,mansfield_town,2025-12-26,2,3,False,2,split:use footballdata
+2025,3,blackpool,doncaster_rovers,2025-12-26,1,0,False,2,split:use footballdata
+2025,3,bolton_wanderers,rotherham_united,2025-12-26,2,1,False,2,split:use footballdata
+2025,3,bradford_city,wigan_athletic,2025-12-26,2,1,False,2,split:use footballdata
+2025,3,burton_albion,northampton_town,2025-12-26,5,1,False,2,split:use footballdata
+2025,3,cardiff_city,exeter_city,2025-12-26,1,0,False,2,split:use footballdata
+2025,3,huddersfield_town,port_vale,2025-12-26,5,0,False,2,split:use footballdata
+2025,3,luton_town,wycombe_wanderers,2025-12-26,4,0,False,2,split:use footballdata
+2025,3,peterborough_united,leyton_orient,2025-12-26,1,0,False,2,split:use footballdata
+2025,3,plymouth_argyle,reading,2025-12-26,1,4,False,2,split:use footballdata
+2025,3,stockport_county,lincoln_city,2025-12-26,1,2,False,2,split:use footballdata
+2025,3,afc_wimbledon,exeter_city,2025-12-29,0,1,False,2,split:use footballdata
+2025,3,barnsley,lincoln_city,2025-12-29,0,2,False,2,split:use footballdata
+2025,3,blackpool,rotherham_united,2025-12-29,4,0,False,2,split:use footballdata
+2025,3,bolton_wanderers,mansfield_town,2025-12-29,0,1,False,2,split:use footballdata
 2025,3,bradford_city,port_vale,2025-12-29,1,0,False,2,agree
 2025,3,burton_albion,wigan_athletic,2025-12-29,0,2,False,2,agree
-2025,3,cardiff_city,stevenage,2025-12-29,2,1,False,2,split:prefer footballdata
+2025,3,cardiff_city,stevenage,2025-12-29,2,1,False,2,split:use footballdata
 2025,3,huddersfield_town,northampton_town,2025-12-29,2,0,False,2,agree
-2025,3,luton_town,leyton_orient,2025-12-29,3,0,False,2,split:prefer footballdata
-2025,3,peterborough_united,reading,2025-12-29,1,1,False,2,split:prefer footballdata
-2025,3,plymouth_argyle,wycombe_wanderers,2025-12-29,1,1,False,2,split:prefer footballdata
-2025,3,stockport_county,doncaster_rovers,2025-12-29,4,2,False,2,split:prefer footballdata
+2025,3,luton_town,leyton_orient,2025-12-29,3,0,False,2,split:use footballdata
+2025,3,peterborough_united,reading,2025-12-29,1,1,False,2,split:use footballdata
+2025,3,plymouth_argyle,wycombe_wanderers,2025-12-29,1,1,False,2,split:use footballdata
+2025,3,stockport_county,doncaster_rovers,2025-12-29,4,2,False,2,split:use footballdata
 2025,3,doncaster_rovers,bolton_wanderers,2026-01-01,1,1,False,2,agree
 2025,3,exeter_city,luton_town,2026-01-01,1,0,False,2,agree
 2025,3,leyton_orient,afc_wimbledon,2026-01-01,1,3,False,2,agree
@@ -44734,8 +44734,8 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,3,rotherham_united,cardiff_city,2026-02-07,0,3,False,2,agree
 2025,3,stockport_county,leyton_orient,2026-02-07,0,0,False,2,agree
 2025,3,wycombe_wanderers,doncaster_rovers,2026-02-07,4,0,False,2,agree
-2025,3,mansfield_town,peterborough_united,2026-02-10,1,2,False,2,split:prefer footballdata
-2025,3,wigan_athletic,reading,2026-02-10,1,2,False,2,split:prefer footballdata
+2025,3,mansfield_town,peterborough_united,2026-02-10,1,2,False,2,split:use footballdata
+2025,3,wigan_athletic,reading,2026-02-10,1,2,False,2,split:use footballdata
 2025,3,barnsley,afc_wimbledon,2026-02-14,3,3,False,1,single:footballdata
 2025,3,blackpool,plymouth_argyle,2026-02-14,0,4,False,1,single:footballdata
 2025,3,bradford_city,peterborough_united,2026-02-14,2,0,False,1,single:footballdata
@@ -44784,7 +44784,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,3,wigan_athletic,huddersfield_town,2026-02-28,1,0,False,1,single:footballdata
 2025,3,wycombe_wanderers,burton_albion,2026-02-28,3,0,False,1,single:footballdata
 2025,3,barnsley,wycombe_wanderers,2026-03-03,0,1,False,1,single:footballdata
-2025,3,exeter_city,burton_albion,2026-03-03,1,1,False,2,split:prefer footballdata
+2025,3,exeter_city,burton_albion,2026-03-03,1,1,False,2,split:use footballdata
 2025,3,rotherham_united,mansfield_town,2026-03-03,0,0,False,1,single:footballdata
 2025,3,barnsley,exeter_city,2026-03-07,2,1,False,1,single:footballdata
 2025,3,blackpool,wigan_athletic,2026-03-07,1,1,False,1,single:footballdata
@@ -44803,7 +44803,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,3,stevenage,leyton_orient,2026-03-10,1,2,False,1,single:footballdata
 2025,3,wigan_athletic,plymouth_argyle,2026-03-10,0,3,False,1,single:footballdata
 2025,3,afc_wimbledon,blackpool,2026-03-11,4,1,False,1,single:footballdata
-2025,3,port_vale,bradford_city,2026-03-11,0,2,False,2,split:prefer footballdata
+2025,3,port_vale,bradford_city,2026-03-11,0,2,False,2,split:use footballdata
 2025,3,doncaster_rovers,blackpool,2026-03-14,2,1,False,1,single:footballdata
 2025,3,exeter_city,cardiff_city,2026-03-14,0,4,False,1,single:footballdata
 2025,3,leyton_orient,peterborough_united,2026-03-14,2,1,False,1,single:footballdata
@@ -44884,7 +44884,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,3,leyton_orient,mansfield_town,2026-04-14,0,0,False,1,single:footballdata
 2025,3,port_vale,barnsley,2026-04-14,0,0,False,1,single:footballdata
 2025,3,wigan_athletic,rotherham_united,2026-04-14,3,0,False,1,single:footballdata
-2025,3,afc_wimbledon,stockport_county,2026-04-15,0,2,False,2,split:prefer footballdata
+2025,3,afc_wimbledon,stockport_county,2026-04-15,0,2,False,2,split:use footballdata
 2025,3,luton_town,northampton_town,2026-04-15,2,1,False,1,single:footballdata
 2025,3,peterborough_united,port_vale,2026-04-16,1,3,False,1,single:footballdata
 2025,3,afc_wimbledon,plymouth_argyle,2026-04-18,1,3,False,1,single:footballdata
@@ -45100,114 +45100,114 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,4,swindon_town,colchester_united,2025-10-25,0,0,False,2,agree
 2025,4,tranmere_rovers,chesterfield,2025-10-25,1,1,False,2,agree
 2025,4,accrington_stanley,tranmere_rovers,2025-10-28,1,1,False,2,agree
-2025,4,barnet,milton_keynes_dons,2025-11-08,2,2,False,2,split:prefer footballdata
-2025,4,barrow,grimsby_town,2025-11-08,2,2,False,2,split:prefer footballdata
-2025,4,bristol_rovers,gillingham,2025-11-08,0,1,False,2,split:prefer footballdata
-2025,4,chesterfield,accrington_stanley,2025-11-08,3,3,False,2,split:prefer footballdata
-2025,4,colchester_united,bromley,2025-11-08,0,2,False,2,split:prefer footballdata
-2025,4,crawley_town,fleetwood_town,2025-11-08,2,1,False,2,split:prefer footballdata
-2025,4,crewe_alexandra,shrewsbury_town,2025-11-08,3,1,False,2,split:prefer footballdata
-2025,4,harrogate_town,oldham_athletic,2025-11-08,0,1,False,2,split:prefer footballdata
-2025,4,newport_county,walsall,2025-11-08,2,4,False,2,split:prefer footballdata
-2025,4,salford_city,cambridge_united,2025-11-08,0,0,False,2,split:prefer footballdata
-2025,4,swindon_town,tranmere_rovers,2025-11-08,2,1,False,2,split:prefer footballdata
-2025,4,cheltenham_town,notts_county,2025-11-10,1,2,False,2,split:prefer footballdata
-2025,4,accrington_stanley,bristol_rovers,2025-11-15,3,1,False,2,split:prefer footballdata
-2025,4,bromley,barrow,2025-11-15,2,1,False,2,split:prefer footballdata
-2025,4,cambridge_united,barnet,2025-11-15,0,0,False,2,split:prefer footballdata
-2025,4,fleetwood_town,swindon_town,2025-11-15,1,1,False,2,split:prefer footballdata
-2025,4,gillingham,crawley_town,2025-11-15,2,2,False,2,split:prefer footballdata
-2025,4,grimsby_town,chesterfield,2025-11-15,0,1,False,2,split:prefer footballdata
-2025,4,milton_keynes_dons,salford_city,2025-11-15,2,0,False,2,split:prefer footballdata
-2025,4,notts_county,harrogate_town,2025-11-15,1,1,False,2,split:prefer footballdata
-2025,4,oldham_athletic,crewe_alexandra,2025-11-15,0,0,False,2,split:prefer footballdata
-2025,4,shrewsbury_town,newport_county,2025-11-15,1,0,False,2,split:prefer footballdata
-2025,4,tranmere_rovers,cheltenham_town,2025-11-15,3,2,False,2,split:prefer footballdata
-2025,4,walsall,colchester_united,2025-11-15,0,2,False,2,split:prefer footballdata
-2025,4,barrow,cambridge_united,2025-11-22,0,2,False,2,split:prefer footballdata
-2025,4,bromley,salford_city,2025-11-22,2,0,False,2,split:prefer footballdata
-2025,4,cheltenham_town,bristol_rovers,2025-11-22,1,0,False,2,split:prefer footballdata
+2025,4,barnet,milton_keynes_dons,2025-11-08,2,2,False,2,split:use footballdata
+2025,4,barrow,grimsby_town,2025-11-08,2,2,False,2,split:use footballdata
+2025,4,bristol_rovers,gillingham,2025-11-08,0,1,False,2,split:use footballdata
+2025,4,chesterfield,accrington_stanley,2025-11-08,3,3,False,2,split:use footballdata
+2025,4,colchester_united,bromley,2025-11-08,0,2,False,2,split:use footballdata
+2025,4,crawley_town,fleetwood_town,2025-11-08,2,1,False,2,split:use footballdata
+2025,4,crewe_alexandra,shrewsbury_town,2025-11-08,3,1,False,2,split:use footballdata
+2025,4,harrogate_town,oldham_athletic,2025-11-08,0,1,False,2,split:use footballdata
+2025,4,newport_county,walsall,2025-11-08,2,4,False,2,split:use footballdata
+2025,4,salford_city,cambridge_united,2025-11-08,0,0,False,2,split:use footballdata
+2025,4,swindon_town,tranmere_rovers,2025-11-08,2,1,False,2,split:use footballdata
+2025,4,cheltenham_town,notts_county,2025-11-10,1,2,False,2,split:use footballdata
+2025,4,accrington_stanley,bristol_rovers,2025-11-15,3,1,False,2,split:use footballdata
+2025,4,bromley,barrow,2025-11-15,2,1,False,2,split:use footballdata
+2025,4,cambridge_united,barnet,2025-11-15,0,0,False,2,split:use footballdata
+2025,4,fleetwood_town,swindon_town,2025-11-15,1,1,False,2,split:use footballdata
+2025,4,gillingham,crawley_town,2025-11-15,2,2,False,2,split:use footballdata
+2025,4,grimsby_town,chesterfield,2025-11-15,0,1,False,2,split:use footballdata
+2025,4,milton_keynes_dons,salford_city,2025-11-15,2,0,False,2,split:use footballdata
+2025,4,notts_county,harrogate_town,2025-11-15,1,1,False,2,split:use footballdata
+2025,4,oldham_athletic,crewe_alexandra,2025-11-15,0,0,False,2,split:use footballdata
+2025,4,shrewsbury_town,newport_county,2025-11-15,1,0,False,2,split:use footballdata
+2025,4,tranmere_rovers,cheltenham_town,2025-11-15,3,2,False,2,split:use footballdata
+2025,4,walsall,colchester_united,2025-11-15,0,2,False,2,split:use footballdata
+2025,4,barrow,cambridge_united,2025-11-22,0,2,False,2,split:use footballdata
+2025,4,bromley,salford_city,2025-11-22,2,0,False,2,split:use footballdata
+2025,4,cheltenham_town,bristol_rovers,2025-11-22,1,0,False,2,split:use footballdata
 2025,4,crawley_town,accrington_stanley,2025-11-22,1,1,False,2,agree
-2025,4,crewe_alexandra,chesterfield,2025-11-22,3,3,False,2,split:prefer footballdata
-2025,4,fleetwood_town,shrewsbury_town,2025-11-22,3,1,False,2,split:prefer footballdata
-2025,4,gillingham,barnet,2025-11-22,1,1,False,2,split:prefer footballdata
-2025,4,harrogate_town,walsall,2025-11-22,0,2,False,2,split:prefer footballdata
-2025,4,notts_county,colchester_united,2025-11-22,1,3,False,2,split:prefer footballdata
-2025,4,oldham_athletic,newport_county,2025-11-22,3,0,False,2,split:prefer footballdata
-2025,4,swindon_town,grimsby_town,2025-11-22,2,2,False,2,split:prefer footballdata
-2025,4,tranmere_rovers,milton_keynes_dons,2025-11-22,2,2,False,2,split:prefer footballdata
-2025,4,grimsby_town,tranmere_rovers,2025-11-27,1,2,False,2,split:prefer footballdata
+2025,4,crewe_alexandra,chesterfield,2025-11-22,3,3,False,2,split:use footballdata
+2025,4,fleetwood_town,shrewsbury_town,2025-11-22,3,1,False,2,split:use footballdata
+2025,4,gillingham,barnet,2025-11-22,1,1,False,2,split:use footballdata
+2025,4,harrogate_town,walsall,2025-11-22,0,2,False,2,split:use footballdata
+2025,4,notts_county,colchester_united,2025-11-22,1,3,False,2,split:use footballdata
+2025,4,oldham_athletic,newport_county,2025-11-22,3,0,False,2,split:use footballdata
+2025,4,swindon_town,grimsby_town,2025-11-22,2,2,False,2,split:use footballdata
+2025,4,tranmere_rovers,milton_keynes_dons,2025-11-22,2,2,False,2,split:use footballdata
+2025,4,grimsby_town,tranmere_rovers,2025-11-27,1,2,False,2,split:use footballdata
 2025,4,accrington_stanley,oldham_athletic,2025-11-29,1,0,False,2,agree
-2025,4,barnet,harrogate_town,2025-11-29,1,1,False,2,split:prefer footballdata
-2025,4,bristol_rovers,notts_county,2025-11-29,0,1,False,2,split:prefer footballdata
-2025,4,cambridge_united,crewe_alexandra,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,4,chesterfield,swindon_town,2025-11-29,1,2,False,2,split:prefer footballdata
-2025,4,colchester_united,cheltenham_town,2025-11-29,2,0,False,2,split:prefer footballdata
-2025,4,milton_keynes_dons,fleetwood_town,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,4,newport_county,barrow,2025-11-29,2,2,False,2,split:prefer footballdata
-2025,4,salford_city,crawley_town,2025-11-29,4,3,False,2,split:prefer footballdata
-2025,4,shrewsbury_town,gillingham,2025-11-29,3,3,False,2,split:prefer footballdata
-2025,4,walsall,bromley,2025-11-29,3,1,False,2,split:prefer footballdata
-2025,4,colchester_united,gillingham,2025-12-06,0,0,False,2,split:prefer footballdata
-2025,4,barnet,bristol_rovers,2025-12-09,4,0,False,2,split:prefer footballdata
-2025,4,barrow,tranmere_rovers,2025-12-09,0,3,False,2,split:prefer footballdata
-2025,4,bromley,crawley_town,2025-12-09,3,1,False,2,split:prefer footballdata
+2025,4,barnet,harrogate_town,2025-11-29,1,1,False,2,split:use footballdata
+2025,4,bristol_rovers,notts_county,2025-11-29,0,1,False,2,split:use footballdata
+2025,4,cambridge_united,crewe_alexandra,2025-11-29,2,1,False,2,split:use footballdata
+2025,4,chesterfield,swindon_town,2025-11-29,1,2,False,2,split:use footballdata
+2025,4,colchester_united,cheltenham_town,2025-11-29,2,0,False,2,split:use footballdata
+2025,4,milton_keynes_dons,fleetwood_town,2025-11-29,2,1,False,2,split:use footballdata
+2025,4,newport_county,barrow,2025-11-29,2,2,False,2,split:use footballdata
+2025,4,salford_city,crawley_town,2025-11-29,4,3,False,2,split:use footballdata
+2025,4,shrewsbury_town,gillingham,2025-11-29,3,3,False,2,split:use footballdata
+2025,4,walsall,bromley,2025-11-29,3,1,False,2,split:use footballdata
+2025,4,colchester_united,gillingham,2025-12-06,0,0,False,2,split:use footballdata
+2025,4,barnet,bristol_rovers,2025-12-09,4,0,False,2,split:use footballdata
+2025,4,barrow,tranmere_rovers,2025-12-09,0,3,False,2,split:use footballdata
+2025,4,bromley,crawley_town,2025-12-09,3,1,False,2,split:use footballdata
 2025,4,cambridge_united,chesterfield,2025-12-09,1,1,False,2,agree
-2025,4,fleetwood_town,salford_city,2025-12-09,1,1,False,2,split:prefer footballdata
-2025,4,harrogate_town,accrington_stanley,2025-12-09,0,2,False,2,split:prefer footballdata
-2025,4,notts_county,milton_keynes_dons,2025-12-09,3,2,False,2,split:prefer footballdata
-2025,4,shrewsbury_town,grimsby_town,2025-12-09,1,1,False,2,split:prefer footballdata
-2025,4,swindon_town,cheltenham_town,2025-12-09,0,1,False,2,split:prefer footballdata
-2025,4,crewe_alexandra,newport_county,2025-12-10,2,2,False,2,split:prefer footballdata
+2025,4,fleetwood_town,salford_city,2025-12-09,1,1,False,2,split:use footballdata
+2025,4,harrogate_town,accrington_stanley,2025-12-09,0,2,False,2,split:use footballdata
+2025,4,notts_county,milton_keynes_dons,2025-12-09,3,2,False,2,split:use footballdata
+2025,4,shrewsbury_town,grimsby_town,2025-12-09,1,1,False,2,split:use footballdata
+2025,4,swindon_town,cheltenham_town,2025-12-09,0,1,False,2,split:use footballdata
+2025,4,crewe_alexandra,newport_county,2025-12-10,2,2,False,2,split:use footballdata
 2025,4,oldham_athletic,walsall,2025-12-10,0,1,False,2,agree
-2025,4,accrington_stanley,bromley,2025-12-13,0,1,False,2,split:prefer footballdata
-2025,4,bristol_rovers,swindon_town,2025-12-13,0,3,False,2,split:prefer footballdata
-2025,4,cheltenham_town,harrogate_town,2025-12-13,1,1,False,2,split:prefer footballdata
+2025,4,accrington_stanley,bromley,2025-12-13,0,1,False,2,split:use footballdata
+2025,4,bristol_rovers,swindon_town,2025-12-13,0,3,False,2,split:use footballdata
+2025,4,cheltenham_town,harrogate_town,2025-12-13,1,1,False,2,split:use footballdata
 2025,4,chesterfield,barnet,2025-12-13,3,1,False,2,agree
-2025,4,crawley_town,oldham_athletic,2025-12-13,2,2,False,2,split:prefer footballdata
-2025,4,gillingham,barrow,2025-12-13,2,2,False,2,split:prefer footballdata
-2025,4,grimsby_town,notts_county,2025-12-13,0,2,False,2,split:prefer footballdata
-2025,4,milton_keynes_dons,cambridge_united,2025-12-13,1,1,False,2,split:prefer footballdata
-2025,4,newport_county,fleetwood_town,2025-12-13,0,2,False,2,split:prefer footballdata
-2025,4,salford_city,colchester_united,2025-12-13,4,3,False,2,split:prefer footballdata
-2025,4,tranmere_rovers,crewe_alexandra,2025-12-13,1,4,False,2,split:prefer footballdata
-2025,4,walsall,shrewsbury_town,2025-12-13,1,1,False,2,split:prefer footballdata
-2025,4,barrow,cheltenham_town,2025-12-19,1,2,False,2,split:prefer footballdata
+2025,4,crawley_town,oldham_athletic,2025-12-13,2,2,False,2,split:use footballdata
+2025,4,gillingham,barrow,2025-12-13,2,2,False,2,split:use footballdata
+2025,4,grimsby_town,notts_county,2025-12-13,0,2,False,2,split:use footballdata
+2025,4,milton_keynes_dons,cambridge_united,2025-12-13,1,1,False,2,split:use footballdata
+2025,4,newport_county,fleetwood_town,2025-12-13,0,2,False,2,split:use footballdata
+2025,4,salford_city,colchester_united,2025-12-13,4,3,False,2,split:use footballdata
+2025,4,tranmere_rovers,crewe_alexandra,2025-12-13,1,4,False,2,split:use footballdata
+2025,4,walsall,shrewsbury_town,2025-12-13,1,1,False,2,split:use footballdata
+2025,4,barrow,cheltenham_town,2025-12-19,1,2,False,2,split:use footballdata
 2025,4,cambridge_united,accrington_stanley,2025-12-19,2,0,False,2,agree
-2025,4,crewe_alexandra,bristol_rovers,2025-12-19,1,1,False,2,split:prefer footballdata
+2025,4,crewe_alexandra,bristol_rovers,2025-12-19,1,1,False,2,split:use footballdata
 2025,4,barnet,salford_city,2025-12-20,1,3,False,2,agree
-2025,4,bromley,grimsby_town,2025-12-20,2,0,False,2,split:prefer footballdata
-2025,4,colchester_united,newport_county,2025-12-20,4,1,False,2,split:prefer footballdata
-2025,4,fleetwood_town,gillingham,2025-12-20,2,1,False,2,split:prefer footballdata
-2025,4,harrogate_town,milton_keynes_dons,2025-12-20,0,4,False,2,split:prefer footballdata
-2025,4,notts_county,walsall,2025-12-20,0,0,False,2,split:prefer footballdata
-2025,4,oldham_athletic,tranmere_rovers,2025-12-20,3,1,False,2,split:prefer footballdata
-2025,4,shrewsbury_town,chesterfield,2025-12-20,0,1,False,2,split:prefer footballdata
+2025,4,bromley,grimsby_town,2025-12-20,2,0,False,2,split:use footballdata
+2025,4,colchester_united,newport_county,2025-12-20,4,1,False,2,split:use footballdata
+2025,4,fleetwood_town,gillingham,2025-12-20,2,1,False,2,split:use footballdata
+2025,4,harrogate_town,milton_keynes_dons,2025-12-20,0,4,False,2,split:use footballdata
+2025,4,notts_county,walsall,2025-12-20,0,0,False,2,split:use footballdata
+2025,4,oldham_athletic,tranmere_rovers,2025-12-20,3,1,False,2,split:use footballdata
+2025,4,shrewsbury_town,chesterfield,2025-12-20,0,1,False,2,split:use footballdata
 2025,4,swindon_town,crawley_town,2025-12-20,1,0,False,2,agree
-2025,4,accrington_stanley,barrow,2025-12-26,2,1,False,2,split:prefer footballdata
-2025,4,bristol_rovers,bromley,2025-12-26,2,3,False,2,split:prefer footballdata
-2025,4,cheltenham_town,shrewsbury_town,2025-12-26,3,1,False,2,split:prefer footballdata
-2025,4,chesterfield,notts_county,2025-12-26,2,0,False,2,split:prefer footballdata
-2025,4,crawley_town,colchester_united,2025-12-26,1,1,False,2,split:prefer footballdata
-2025,4,gillingham,cambridge_united,2025-12-26,1,1,False,2,split:prefer footballdata
-2025,4,grimsby_town,oldham_athletic,2025-12-26,0,0,False,2,split:prefer footballdata
-2025,4,milton_keynes_dons,swindon_town,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,4,newport_county,barnet,2025-12-26,0,0,False,2,split:prefer footballdata
-2025,4,salford_city,harrogate_town,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,4,tranmere_rovers,fleetwood_town,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,4,walsall,crewe_alexandra,2025-12-26,1,0,False,2,split:prefer footballdata
+2025,4,accrington_stanley,barrow,2025-12-26,2,1,False,2,split:use footballdata
+2025,4,bristol_rovers,bromley,2025-12-26,2,3,False,2,split:use footballdata
+2025,4,cheltenham_town,shrewsbury_town,2025-12-26,3,1,False,2,split:use footballdata
+2025,4,chesterfield,notts_county,2025-12-26,2,0,False,2,split:use footballdata
+2025,4,crawley_town,colchester_united,2025-12-26,1,1,False,2,split:use footballdata
+2025,4,gillingham,cambridge_united,2025-12-26,1,1,False,2,split:use footballdata
+2025,4,grimsby_town,oldham_athletic,2025-12-26,0,0,False,2,split:use footballdata
+2025,4,milton_keynes_dons,swindon_town,2025-12-26,1,0,False,2,split:use footballdata
+2025,4,newport_county,barnet,2025-12-26,0,0,False,2,split:use footballdata
+2025,4,salford_city,harrogate_town,2025-12-26,1,0,False,2,split:use footballdata
+2025,4,tranmere_rovers,fleetwood_town,2025-12-26,1,0,False,2,split:use footballdata
+2025,4,walsall,crewe_alexandra,2025-12-26,1,0,False,2,split:use footballdata
 2025,4,accrington_stanley,harrogate_town,2025-12-29,1,0,False,2,agree
-2025,4,bristol_rovers,barnet,2025-12-29,0,2,False,2,split:prefer footballdata
-2025,4,cheltenham_town,swindon_town,2025-12-29,0,2,False,2,split:prefer footballdata
-2025,4,chesterfield,cambridge_united,2025-12-29,0,1,False,2,split:prefer footballdata
-2025,4,crawley_town,bromley,2025-12-29,1,3,False,2,split:prefer footballdata
-2025,4,gillingham,colchester_united,2025-12-29,1,1,False,2,split:prefer footballdata
-2025,4,grimsby_town,shrewsbury_town,2025-12-29,1,0,False,2,split:prefer footballdata
+2025,4,bristol_rovers,barnet,2025-12-29,0,2,False,2,split:use footballdata
+2025,4,cheltenham_town,swindon_town,2025-12-29,0,2,False,2,split:use footballdata
+2025,4,chesterfield,cambridge_united,2025-12-29,0,1,False,2,split:use footballdata
+2025,4,crawley_town,bromley,2025-12-29,1,3,False,2,split:use footballdata
+2025,4,gillingham,colchester_united,2025-12-29,1,1,False,2,split:use footballdata
+2025,4,grimsby_town,shrewsbury_town,2025-12-29,1,0,False,2,split:use footballdata
 2025,4,milton_keynes_dons,notts_county,2025-12-29,1,1,False,2,agree
-2025,4,newport_county,crewe_alexandra,2025-12-29,2,0,False,2,split:prefer footballdata
-2025,4,salford_city,fleetwood_town,2025-12-29,0,0,False,2,split:prefer footballdata
-2025,4,tranmere_rovers,barrow,2025-12-29,1,3,False,2,split:prefer footballdata
-2025,4,walsall,oldham_athletic,2025-12-29,1,2,False,2,split:prefer footballdata
+2025,4,newport_county,crewe_alexandra,2025-12-29,2,0,False,2,split:use footballdata
+2025,4,salford_city,fleetwood_town,2025-12-29,0,0,False,2,split:use footballdata
+2025,4,tranmere_rovers,barrow,2025-12-29,1,3,False,2,split:use footballdata
+2025,4,walsall,oldham_athletic,2025-12-29,1,2,False,2,split:use footballdata
 2025,4,barnet,crawley_town,2026-01-01,2,1,False,1,single:footballdata
 2025,4,barrow,salford_city,2026-01-01,1,2,False,1,single:footballdata
 2025,4,bromley,newport_county,2026-01-01,2,1,False,1,single:footballdata
@@ -45673,110 +45673,110 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,5,wealdstone,sutton_united,2025-10-25,4,2,False,2,agree
 2025,5,woking,rochdale,2025-10-25,0,0,False,2,agree
 2025,5,yeovil_town,carlisle_united,2025-10-25,1,1,False,2,agree
-2025,5,boreham_wood,aldershot_town,2025-11-04,1,0,False,2,split:prefer footballdata
+2025,5,boreham_wood,aldershot_town,2025-11-04,1,0,False,2,split:use footballdata
 2025,5,carlisle_united,fc_halifax_town,2025-11-04,2,0,False,2,agree
-2025,5,hartlepool_united,morecambe,2025-11-04,1,1,False,2,split:prefer footballdata
-2025,5,yeovil_town,wealdstone,2025-11-04,0,2,False,2,split:prefer footballdata
-2025,5,altrincham,boston_united,2025-11-05,1,0,False,2,split:prefer footballdata
-2025,5,braintree_town,brackley_town,2025-11-05,0,1,False,2,split:prefer footballdata
-2025,5,solihull_moors,truro_city,2025-11-05,4,0,False,2,split:prefer footballdata
-2025,5,sutton_united,eastleigh,2025-11-05,2,1,False,2,split:prefer footballdata
-2025,5,woking,southend_united,2025-11-05,1,1,False,2,split:prefer footballdata
-2025,5,york_city,gateshead,2025-11-05,4,0,False,2,split:prefer footballdata
-2025,5,aldershot_town,forest_green_rovers,2025-11-08,2,3,False,2,split:prefer footballdata
+2025,5,hartlepool_united,morecambe,2025-11-04,1,1,False,2,split:use footballdata
+2025,5,yeovil_town,wealdstone,2025-11-04,0,2,False,2,split:use footballdata
+2025,5,altrincham,boston_united,2025-11-05,1,0,False,2,split:use footballdata
+2025,5,braintree_town,brackley_town,2025-11-05,0,1,False,2,split:use footballdata
+2025,5,solihull_moors,truro_city,2025-11-05,4,0,False,2,split:use footballdata
+2025,5,sutton_united,eastleigh,2025-11-05,2,1,False,2,split:use footballdata
+2025,5,woking,southend_united,2025-11-05,1,1,False,2,split:use footballdata
+2025,5,york_city,gateshead,2025-11-05,4,0,False,2,split:use footballdata
+2025,5,aldershot_town,forest_green_rovers,2025-11-08,2,3,False,2,split:use footballdata
 2025,5,boston_united,rochdale,2025-11-08,1,3,False,2,agree
-2025,5,brackley_town,boreham_wood,2025-11-08,1,3,False,2,split:prefer footballdata
-2025,5,eastleigh,york_city,2025-11-08,2,4,False,2,split:prefer footballdata
-2025,5,fc_halifax_town,hartlepool_united,2025-11-08,0,1,False,2,split:prefer footballdata
-2025,5,gateshead,solihull_moors,2025-11-08,0,2,False,2,split:prefer footballdata
-2025,5,morecambe,sutton_united,2025-11-08,2,2,False,2,split:prefer footballdata
-2025,5,scunthorpe_united,yeovil_town,2025-11-08,1,0,False,2,split:prefer footballdata
-2025,5,southend_united,carlisle_united,2025-11-08,1,2,False,2,split:prefer footballdata
-2025,5,tamworth,woking,2025-11-08,0,1,False,2,split:prefer footballdata
-2025,5,truro_city,altrincham,2025-11-08,0,1,False,2,split:prefer footballdata
+2025,5,brackley_town,boreham_wood,2025-11-08,1,3,False,2,split:use footballdata
+2025,5,eastleigh,york_city,2025-11-08,2,4,False,2,split:use footballdata
+2025,5,fc_halifax_town,hartlepool_united,2025-11-08,0,1,False,2,split:use footballdata
+2025,5,gateshead,solihull_moors,2025-11-08,0,2,False,2,split:use footballdata
+2025,5,morecambe,sutton_united,2025-11-08,2,2,False,2,split:use footballdata
+2025,5,scunthorpe_united,yeovil_town,2025-11-08,1,0,False,2,split:use footballdata
+2025,5,southend_united,carlisle_united,2025-11-08,1,2,False,2,split:use footballdata
+2025,5,tamworth,woking,2025-11-08,0,1,False,2,split:use footballdata
+2025,5,truro_city,altrincham,2025-11-08,0,1,False,2,split:use footballdata
 2025,5,wealdstone,braintree_town,2025-11-08,1,0,False,2,agree
-2025,5,forest_green_rovers,tamworth,2025-11-11,4,2,False,2,split:prefer footballdata
+2025,5,forest_green_rovers,tamworth,2025-11-11,4,2,False,2,split:use footballdata
 2025,5,york_city,rochdale,2025-11-11,4,1,False,1,single:footballdata
-2025,5,altrincham,brackley_town,2025-11-15,2,1,False,2,split:prefer footballdata
-2025,5,boreham_wood,tamworth,2025-11-15,1,2,False,2,split:prefer footballdata
-2025,5,braintree_town,truro_city,2025-11-15,2,0,False,2,split:prefer footballdata
-2025,5,carlisle_united,eastleigh,2025-11-15,1,1,False,2,split:prefer footballdata
+2025,5,altrincham,brackley_town,2025-11-15,2,1,False,2,split:use footballdata
+2025,5,boreham_wood,tamworth,2025-11-15,1,2,False,2,split:use footballdata
+2025,5,braintree_town,truro_city,2025-11-15,2,0,False,2,split:use footballdata
+2025,5,carlisle_united,eastleigh,2025-11-15,1,1,False,2,split:use footballdata
 2025,5,forest_green_rovers,gateshead,2025-11-15,3,1,False,2,agree
-2025,5,hartlepool_united,wealdstone,2025-11-15,1,1,False,2,split:prefer footballdata
-2025,5,rochdale,aldershot_town,2025-11-15,1,0,False,2,split:prefer footballdata
-2025,5,solihull_moors,scunthorpe_united,2025-11-15,3,0,False,2,split:prefer footballdata
-2025,5,sutton_united,fc_halifax_town,2025-11-15,2,0,False,2,split:prefer footballdata
-2025,5,woking,boston_united,2025-11-15,1,1,False,2,split:prefer footballdata
+2025,5,hartlepool_united,wealdstone,2025-11-15,1,1,False,2,split:use footballdata
+2025,5,rochdale,aldershot_town,2025-11-15,1,0,False,2,split:use footballdata
+2025,5,solihull_moors,scunthorpe_united,2025-11-15,3,0,False,2,split:use footballdata
+2025,5,sutton_united,fc_halifax_town,2025-11-15,2,0,False,2,split:use footballdata
+2025,5,woking,boston_united,2025-11-15,1,1,False,2,split:use footballdata
 2025,5,yeovil_town,southend_united,2025-11-15,0,1,False,2,agree
-2025,5,york_city,morecambe,2025-11-15,4,2,False,2,split:prefer footballdata
+2025,5,york_city,morecambe,2025-11-15,4,2,False,2,split:use footballdata
 2025,5,morecambe,brackley_town,2025-11-18,2,0,False,1,single:footballdata
-2025,5,aldershot_town,woking,2025-11-22,1,2,False,2,split:prefer footballdata
-2025,5,boston_united,carlisle_united,2025-11-22,1,2,False,2,split:prefer footballdata
-2025,5,brackley_town,york_city,2025-11-22,2,3,False,2,split:prefer footballdata
-2025,5,eastleigh,hartlepool_united,2025-11-22,0,2,False,2,split:prefer footballdata
-2025,5,fc_halifax_town,solihull_moors,2025-11-22,3,0,False,2,split:prefer footballdata
-2025,5,gateshead,boreham_wood,2025-11-22,0,3,False,2,split:prefer footballdata
-2025,5,morecambe,yeovil_town,2025-11-22,0,0,False,2,split:prefer footballdata
-2025,5,scunthorpe_united,braintree_town,2025-11-22,1,1,False,2,split:prefer footballdata
-2025,5,southend_united,altrincham,2025-11-22,3,0,False,2,split:prefer footballdata
-2025,5,tamworth,rochdale,2025-11-22,1,2,False,2,split:prefer footballdata
-2025,5,truro_city,sutton_united,2025-11-22,2,3,False,2,split:prefer footballdata
-2025,5,wealdstone,forest_green_rovers,2025-11-22,1,1,False,2,split:prefer footballdata
-2025,5,altrincham,scunthorpe_united,2025-11-29,4,2,False,2,split:prefer footballdata
-2025,5,boreham_wood,fc_halifax_town,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,5,braintree_town,morecambe,2025-11-29,1,0,False,2,split:prefer footballdata
-2025,5,carlisle_united,tamworth,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,5,forest_green_rovers,southend_united,2025-11-29,2,1,False,2,split:prefer footballdata
-2025,5,hartlepool_united,truro_city,2025-11-29,3,1,False,2,split:prefer footballdata
-2025,5,rochdale,eastleigh,2025-11-29,2,0,False,2,split:prefer footballdata
-2025,5,solihull_moors,wealdstone,2025-11-29,1,1,False,2,split:prefer footballdata
-2025,5,sutton_united,gateshead,2025-11-29,4,2,False,2,split:prefer footballdata
-2025,5,woking,brackley_town,2025-11-29,2,0,False,2,split:prefer footballdata
+2025,5,aldershot_town,woking,2025-11-22,1,2,False,2,split:use footballdata
+2025,5,boston_united,carlisle_united,2025-11-22,1,2,False,2,split:use footballdata
+2025,5,brackley_town,york_city,2025-11-22,2,3,False,2,split:use footballdata
+2025,5,eastleigh,hartlepool_united,2025-11-22,0,2,False,2,split:use footballdata
+2025,5,fc_halifax_town,solihull_moors,2025-11-22,3,0,False,2,split:use footballdata
+2025,5,gateshead,boreham_wood,2025-11-22,0,3,False,2,split:use footballdata
+2025,5,morecambe,yeovil_town,2025-11-22,0,0,False,2,split:use footballdata
+2025,5,scunthorpe_united,braintree_town,2025-11-22,1,1,False,2,split:use footballdata
+2025,5,southend_united,altrincham,2025-11-22,3,0,False,2,split:use footballdata
+2025,5,tamworth,rochdale,2025-11-22,1,2,False,2,split:use footballdata
+2025,5,truro_city,sutton_united,2025-11-22,2,3,False,2,split:use footballdata
+2025,5,wealdstone,forest_green_rovers,2025-11-22,1,1,False,2,split:use footballdata
+2025,5,altrincham,scunthorpe_united,2025-11-29,4,2,False,2,split:use footballdata
+2025,5,boreham_wood,fc_halifax_town,2025-11-29,2,1,False,2,split:use footballdata
+2025,5,braintree_town,morecambe,2025-11-29,1,0,False,2,split:use footballdata
+2025,5,carlisle_united,tamworth,2025-11-29,2,1,False,2,split:use footballdata
+2025,5,forest_green_rovers,southend_united,2025-11-29,2,1,False,2,split:use footballdata
+2025,5,hartlepool_united,truro_city,2025-11-29,3,1,False,2,split:use footballdata
+2025,5,rochdale,eastleigh,2025-11-29,2,0,False,2,split:use footballdata
+2025,5,solihull_moors,wealdstone,2025-11-29,1,1,False,2,split:use footballdata
+2025,5,sutton_united,gateshead,2025-11-29,4,2,False,2,split:use footballdata
+2025,5,woking,brackley_town,2025-11-29,2,0,False,2,split:use footballdata
 2025,5,yeovil_town,boston_united,2025-11-29,2,1,False,2,agree
-2025,5,york_city,aldershot_town,2025-11-29,5,1,False,2,split:prefer footballdata
-2025,5,aldershot_town,altrincham,2025-12-06,2,1,False,2,split:prefer footballdata
-2025,5,fc_halifax_town,braintree_town,2025-12-06,4,0,False,2,split:prefer footballdata
-2025,5,forest_green_rovers,solihull_moors,2025-12-06,1,1,False,2,split:prefer footballdata
-2025,5,hartlepool_united,yeovil_town,2025-12-06,0,2,False,2,split:prefer footballdata
-2025,5,morecambe,boston_united,2025-12-06,0,3,False,2,split:prefer footballdata
-2025,5,scunthorpe_united,tamworth,2025-12-06,3,1,False,2,split:prefer footballdata
-2025,5,carlisle_united,woking,2025-12-10,1,3,False,2,split:prefer footballdata
-2025,5,truro_city,wealdstone,2025-12-16,2,0,False,2,split:prefer footballdata
-2025,5,altrincham,rochdale,2025-12-19,0,3,False,2,split:prefer footballdata
-2025,5,boston_united,aldershot_town,2025-12-20,0,2,False,2,split:prefer footballdata
-2025,5,tamworth,southend_united,2025-12-20,2,1,False,2,split:prefer footballdata
-2025,5,woking,scunthorpe_united,2025-12-20,1,2,False,2,split:prefer footballdata
+2025,5,york_city,aldershot_town,2025-11-29,5,1,False,2,split:use footballdata
+2025,5,aldershot_town,altrincham,2025-12-06,2,1,False,2,split:use footballdata
+2025,5,fc_halifax_town,braintree_town,2025-12-06,4,0,False,2,split:use footballdata
+2025,5,forest_green_rovers,solihull_moors,2025-12-06,1,1,False,2,split:use footballdata
+2025,5,hartlepool_united,yeovil_town,2025-12-06,0,2,False,2,split:use footballdata
+2025,5,morecambe,boston_united,2025-12-06,0,3,False,2,split:use footballdata
+2025,5,scunthorpe_united,tamworth,2025-12-06,3,1,False,2,split:use footballdata
+2025,5,carlisle_united,woking,2025-12-10,1,3,False,2,split:use footballdata
+2025,5,truro_city,wealdstone,2025-12-16,2,0,False,2,split:use footballdata
+2025,5,altrincham,rochdale,2025-12-19,0,3,False,2,split:use footballdata
+2025,5,boston_united,aldershot_town,2025-12-20,0,2,False,2,split:use footballdata
+2025,5,tamworth,southend_united,2025-12-20,2,1,False,2,split:use footballdata
+2025,5,woking,scunthorpe_united,2025-12-20,1,2,False,2,split:use footballdata
 2025,5,yeovil_town,forest_green_rovers,2025-12-20,0,2,False,2,agree
 2025,5,york_city,truro_city,2025-12-20,4,0,False,2,agree
-2025,5,boreham_wood,carlisle_united,2025-12-21,2,0,False,2,split:prefer footballdata
-2025,5,brackley_town,morecambe,2025-12-21,0,2,False,2,split:prefer footballdata
-2025,5,braintree_town,hartlepool_united,2025-12-21,0,0,False,2,split:prefer footballdata
-2025,5,fc_halifax_town,wealdstone,2025-12-21,2,2,False,2,split:prefer footballdata
-2025,5,gateshead,eastleigh,2025-12-21,1,3,False,2,split:prefer footballdata
-2025,5,solihull_moors,sutton_united,2025-12-21,4,1,False,2,split:prefer footballdata
-2025,5,brackley_town,forest_green_rovers,2025-12-26,1,0,False,2,split:prefer footballdata
-2025,5,braintree_town,southend_united,2025-12-26,0,1,False,2,split:prefer footballdata
+2025,5,boreham_wood,carlisle_united,2025-12-21,2,0,False,2,split:use footballdata
+2025,5,brackley_town,morecambe,2025-12-21,0,2,False,2,split:use footballdata
+2025,5,braintree_town,hartlepool_united,2025-12-21,0,0,False,2,split:use footballdata
+2025,5,fc_halifax_town,wealdstone,2025-12-21,2,2,False,2,split:use footballdata
+2025,5,gateshead,eastleigh,2025-12-21,1,3,False,2,split:use footballdata
+2025,5,solihull_moors,sutton_united,2025-12-21,4,1,False,2,split:use footballdata
+2025,5,brackley_town,forest_green_rovers,2025-12-26,1,0,False,2,split:use footballdata
+2025,5,braintree_town,southend_united,2025-12-26,0,1,False,2,split:use footballdata
 2025,5,eastleigh,woking,2025-12-26,1,1,False,2,agree
-2025,5,fc_halifax_town,altrincham,2025-12-26,2,1,False,2,split:prefer footballdata
-2025,5,gateshead,carlisle_united,2025-12-26,0,3,False,2,split:prefer footballdata
-2025,5,hartlepool_united,scunthorpe_united,2025-12-26,1,2,False,2,split:prefer footballdata
-2025,5,morecambe,rochdale,2025-12-26,1,2,False,2,split:prefer footballdata
-2025,5,solihull_moors,tamworth,2025-12-26,7,1,False,2,split:prefer footballdata
-2025,5,sutton_united,aldershot_town,2025-12-26,0,0,False,2,split:prefer footballdata
+2025,5,fc_halifax_town,altrincham,2025-12-26,2,1,False,2,split:use footballdata
+2025,5,gateshead,carlisle_united,2025-12-26,0,3,False,2,split:use footballdata
+2025,5,hartlepool_united,scunthorpe_united,2025-12-26,1,2,False,2,split:use footballdata
+2025,5,morecambe,rochdale,2025-12-26,1,2,False,2,split:use footballdata
+2025,5,solihull_moors,tamworth,2025-12-26,7,1,False,2,split:use footballdata
+2025,5,sutton_united,aldershot_town,2025-12-26,0,0,False,2,split:use footballdata
 2025,5,truro_city,yeovil_town,2025-12-26,1,0,False,2,agree
-2025,5,wealdstone,boreham_wood,2025-12-26,0,4,False,2,split:prefer footballdata
-2025,5,york_city,boston_united,2025-12-26,2,2,False,2,split:prefer footballdata
-2025,5,aldershot_town,wealdstone,2025-12-30,4,1,False,2,split:prefer footballdata
+2025,5,wealdstone,boreham_wood,2025-12-26,0,4,False,2,split:use footballdata
+2025,5,york_city,boston_united,2025-12-26,2,2,False,2,split:use footballdata
+2025,5,aldershot_town,wealdstone,2025-12-30,4,1,False,2,split:use footballdata
 2025,5,altrincham,york_city,2025-12-30,1,2,False,2,agree
-2025,5,boreham_wood,solihull_moors,2025-12-30,2,1,False,2,split:prefer footballdata
-2025,5,boston_united,brackley_town,2025-12-30,1,2,False,2,split:prefer footballdata
-2025,5,carlisle_united,morecambe,2025-12-30,1,0,False,2,split:prefer footballdata
-2025,5,forest_green_rovers,truro_city,2025-12-30,1,1,False,2,split:prefer footballdata
-2025,5,rochdale,hartlepool_united,2025-12-30,1,2,False,2,split:prefer footballdata
-2025,5,scunthorpe_united,gateshead,2025-12-30,2,0,False,2,split:prefer footballdata
-2025,5,southend_united,sutton_united,2025-12-30,1,0,False,2,split:prefer footballdata
-2025,5,tamworth,fc_halifax_town,2025-12-30,0,2,False,2,split:prefer footballdata
-2025,5,woking,braintree_town,2025-12-30,0,1,False,2,split:prefer footballdata
+2025,5,boreham_wood,solihull_moors,2025-12-30,2,1,False,2,split:use footballdata
+2025,5,boston_united,brackley_town,2025-12-30,1,2,False,2,split:use footballdata
+2025,5,carlisle_united,morecambe,2025-12-30,1,0,False,2,split:use footballdata
+2025,5,forest_green_rovers,truro_city,2025-12-30,1,1,False,2,split:use footballdata
+2025,5,rochdale,hartlepool_united,2025-12-30,1,2,False,2,split:use footballdata
+2025,5,scunthorpe_united,gateshead,2025-12-30,2,0,False,2,split:use footballdata
+2025,5,southend_united,sutton_united,2025-12-30,1,0,False,2,split:use footballdata
+2025,5,tamworth,fc_halifax_town,2025-12-30,0,2,False,2,split:use footballdata
+2025,5,woking,braintree_town,2025-12-30,0,1,False,2,split:use footballdata
 2025,5,yeovil_town,eastleigh,2025-12-30,1,1,False,2,agree
 2025,5,boston_united,eastleigh,2026-01-03,1,2,False,1,single:footballdata
 2025,5,carlisle_united,wealdstone,2026-01-03,2,0,False,1,single:footballdata
@@ -45785,7 +45785,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,5,yeovil_town,braintree_town,2026-01-03,3,1,False,1,single:footballdata
 2025,5,aldershot_town,solihull_moors,2026-01-10,1,5,False,1,single:footballdata
 2025,5,braintree_town,boston_united,2026-01-10,0,0,False,1,single:footballdata
-2025,5,sutton_united,york_city,2026-01-10,1,2,False,2,split:prefer footballdata
+2025,5,sutton_united,york_city,2026-01-10,1,2,False,2,split:use footballdata
 2025,5,woking,hartlepool_united,2026-01-10,4,0,False,1,single:footballdata
 2025,5,brackley_town,yeovil_town,2026-01-17,2,1,False,1,single:footballdata
 2025,5,braintree_town,boreham_wood,2026-01-17,0,3,False,1,single:footballdata
@@ -45825,7 +45825,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,5,sutton_united,brackley_town,2026-01-31,1,1,False,1,single:footballdata
 2025,5,altrincham,morecambe,2026-02-03,1,1,False,1,single:footballdata
 2025,5,forest_green_rovers,woking,2026-02-03,4,2,False,1,single:footballdata
-2025,5,rochdale,boreham_wood,2026-02-03,4,1,False,2,split:prefer footballdata
+2025,5,rochdale,boreham_wood,2026-02-03,4,1,False,2,split:use footballdata
 2025,5,aldershot_town,fc_halifax_town,2026-02-07,3,2,False,1,single:footballdata
 2025,5,altrincham,yeovil_town,2026-02-07,0,1,False,1,single:footballdata
 2025,5,boston_united,sutton_united,2026-02-07,1,0,False,1,single:footballdata
@@ -45857,7 +45857,7 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,5,wealdstone,york_city,2026-02-14,0,3,False,1,single:footballdata
 2025,5,yeovil_town,rochdale,2026-02-14,1,1,False,1,single:footballdata
 2025,5,fc_halifax_town,gateshead,2026-02-17,1,2,False,1,single:footballdata
-2025,5,rochdale,scunthorpe_united,2026-02-17,1,1,False,2,split:prefer footballdata
+2025,5,rochdale,scunthorpe_united,2026-02-17,1,1,False,2,split:use footballdata
 2025,5,sutton_united,woking,2026-02-17,2,1,False,1,single:footballdata
 2025,5,yeovil_town,aldershot_town,2026-02-17,1,2,False,1,single:footballdata
 2025,5,aldershot_town,scunthorpe_united,2026-02-21,3,1,False,1,single:footballdata
@@ -45913,9 +45913,9 @@ season,tier,home_id,away_id,date,hg,ag,awarded,n_sources,basis
 2025,5,yeovil_town,scunthorpe_united,2026-03-07,0,3,False,1,single:footballdata
 2025,5,york_city,eastleigh,2026-03-07,3,1,False,1,single:footballdata
 2025,5,aldershot_town,carlisle_united,2026-03-10,0,2,False,1,single:footballdata
-2025,5,eastleigh,brackley_town,2026-03-10,2,1,False,2,split:prefer footballdata
+2025,5,eastleigh,brackley_town,2026-03-10,2,1,False,2,split:use footballdata
 2025,5,scunthorpe_united,sutton_united,2026-03-10,1,2,False,1,single:footballdata
-2025,5,southend_united,gateshead,2026-03-10,1,1,False,2,split:prefer footballdata
+2025,5,southend_united,gateshead,2026-03-10,1,1,False,2,split:use footballdata
 2025,5,wealdstone,tamworth,2026-03-10,3,2,False,1,single:footballdata
 2025,5,woking,boreham_wood,2026-03-10,2,2,False,1,single:footballdata
 2025,5,aldershot_town,york_city,2026-03-14,0,3,False,1,single:footballdata

@@ -12,26 +12,27 @@ confirmed against an official source.
 Seasons are labelled by start year in the code (2008 = 2008/09). 2026/27 division
 membership is recorded too, so the real moves out of 2025/26 are known.
 
-**E1-02 Sources.** Three independent sources, reconciled match by match:
-football-data.co.uk (season CSVs downloaded by Mus, committed under
-`data/sources/footballdata_csv/`), engsoccerdata (jalapic/engsoccerdata, to 2024/25,
-missing 2022/23 for tiers 1–4) and openfootball/england (National League only from
-2015/16). A GitHub mirror of football-data (xgabora/Club-Football-Match-Data) is used
-only for the odds of 2013/14 Premier League, the one file missing from Mus's download;
-it does not vote on scores because it is a copy of football-data. Every source is
-pinned to a fixed version in `altpl/config.py`.
+**E1-02 Sources.** football-data.co.uk is the source of every result (Mus, 13 Oct
+2026), using the season CSVs Mus downloaded, committed under
+`data/sources/footballdata_csv/`. The one file missing from that download, 2013/14
+Premier League, comes from a GitHub copy of football-data
+(xgabora/Club-Football-Match-Data). Two independent sources are used only as a check
+and to fill any match football-data lacks (none at present): engsoccerdata
+(jalapic/engsoccerdata) and openfootball/england. Every source is pinned to a fixed
+version in `altpl/config.py`.
 
-**E1-03 Settling disagreements.** Where sources disagree the majority wins; on a
-two-way split football-data wins. All 291 disagreements are listed in
-`data/processed/source_conflicts.csv`. Two are genuine one-offs (Portsmouth v
-Shrewsbury 2012/13, Boreham Wood v Barrow 2015/16) settled by majority. The other 289
-are all in League One, League Two and the National League in November–December 2025,
-where openfootball's scores differ from football-data's for about 90% of matches.
-Football-data was kept: its scores fit the bookmaker odds about as well as real
-results do elsewhere (log-loss 1.02 vs 1.03 for matches where the sources agree),
-while openfootball's fit them better than real results ever do (0.95), the signature
-of placeholder scores generated from a model rather than recorded. So 2025/26 League
-One, League Two and National League rest on football-data alone for those months.
+**E1-03 Disagreements.** football-data's score is always used. The 291 matches where
+another source disagrees are listed in `data/processed/source_conflicts.csv`:
+- Portsmouth v Shrewsbury 2012/13: football-data has 2–1; engsoccerdata, openfootball
+  and the Wikipedia goal totals point to 3–1 (Check). Using 2–1 changes no points or
+  positions, but leaves Portsmouth's goals for and Shrewsbury's goals against one
+  lower than Wikipedia's table.
+- Boreham Wood v Barrow 2015/16: football-data and engsoccerdata 0–2, openfootball 0–0.
+- The other 289 are in League One, League Two and the National League in
+  November–December 2025, where openfootball's scores differ from football-data's for
+  about 90% of matches. openfootball's fit the bookmaker odds better than real results
+  ever do (log-loss 0.95 vs 1.03), the signature of model-generated placeholder scores,
+  while football-data's fit as real results do (1.02).
 
 **E1-04 Club identity.** Each club has one `club_id` across sources and seasons
 (`data/reference/clubs.csv`). Chester City (expelled 2010, wound up) and the phoenix
@@ -71,6 +72,8 @@ goal totals only, none changing points or positions:
 - League One 2013/14 Sheffield United: goals against 46 vs 47; Wikipedia's own totals
   don't add up.
 - League Two 2012/13 Oxford United: goals ±1; all 46 of our matches agree across 3 sources.
+- League One 2012/13 Portsmouth and Shrewsbury: one goal each, from football-data's
+  2–1 in their match (E1-03).
 - National League 2025/26 Scunthorpe and Wealdstone: goals differ; football-data is the
   only source, probably linked to their abandoned match on 6 Sep 2025 (Check).
 

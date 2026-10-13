@@ -86,7 +86,8 @@ def test_real_moves_match_final_positions(tables):
 # Where our goal totals differ from the Wikipedia table without changing points or
 # position; each is explained in the assumptions log (E1-07).
 GOAL_ONLY_DIFFS = {(2013, 3, "sheffield_united"), (2012, 4, "oxford_united"),
-                   (2025, 5, "scunthorpe_united"), (2025, 5, "wealdstone")}
+                   (2025, 5, "scunthorpe_united"), (2025, 5, "wealdstone"),
+                   (2012, 3, "portsmouth"), (2012, 3, "shrewsbury_town")}
 # Wikipedia's 2011/12 PL rows for the two Manchester clubs came back swapped in transcription.
 TRANSCRIPTION_ERRORS = {(2011, 1, "manchester_city"), (2011, 1, "manchester_united")}
 
