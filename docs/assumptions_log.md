@@ -57,7 +57,7 @@ Reading 2023/24 from −4 to −6. Two entries on that list are deliberately not
 - Bury −12 (2019/20): Bury were expelled before playing, so there is no table to apply it to.
 - Brentford −3 (2018/19, "unfulfilled fixture"): Brentford were the side awarded the
   unplayed match at Bolton, and all three match sources give a 64-point season, so this
-  looks like an error on the list (Check).
+  looks like an error on the list; Mus agrees (13 Oct 2026).
 National League deductions aren't on that list and remain from memory (Check):
 Salisbury City −10 (2009/10), Kidderminster −5 (2010/11), Darlington −10 (2011/12),
 Aldershot −10 (2013/14; possibly the same penalty as their 2012/13 League Two one,
