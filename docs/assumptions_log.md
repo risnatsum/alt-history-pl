@@ -50,7 +50,7 @@ to goal difference, then goals scored.
 
 **E1-07 Points deductions** (`data/reference/adjustments.csv`). Premier League and EFL
 deductions are checked against dragonfootball.co.uk's points-deductions list (updated
-7 Oct 2026), which Mus supplied; all 37 that apply to a table match it. Checking added
+7 Oct 2026), which Mus supplied; all 38 that apply to a table match it. Checking added
 four the first draft missed (Aldershot −10 in 2012/13 League Two, Morecambe −3 in
 2023/24, Sheffield United −2 in 2024/25, West Brom −2 in 2025/26) and corrected
 Reading 2023/24 from −4 to −6. Two entries on that list are deliberately not applied:
