@@ -1,0 +1,17 @@
+# Real end-of-season moves that did not follow from league position, and clubs
+# reprieved because of them. Used by the E1 consistency check and by the simulator
+# to apply the same real-world events. season = start year of the season just ended.
+season,tier,club_id,event,detail
+2009,5,salisbury_city,demoted,Finished 12th; demoted two divisions for breaching financial rules
+2009,5,forest_green_rovers,reprieved,Finished 21st; stayed up after Salisbury City's demotion
+2010,5,rushden_and_diamonds,expelled,Finished mid-table; expelled by the Conference and wound up
+2013,5,hereford_united,expelled,Finished 20th; expelled from the Conference over unpaid debts
+2013,5,salisbury_city,expelled,Finished 12th; expelled from the Conference over unpaid debts
+2013,5,chester,reprieved,Finished 21st; reprieved after two expulsions
+2013,5,dartford,reprieved,Finished 22nd; reprieved after two expulsions
+2018,4,bury,expelled,Promoted to League One (2nd) but expelled by the EFL in Aug 2019 before playing
+2018,5,gateshead,demoted,Finished 9th; demoted to National League North over financial irregularities
+2018,5,aldershot_town,reprieved,Finished 21st; reprieved after Gateshead's demotion
+2019,4,stevenage,reprieved,Bottom on the pitch; stayed up because League Two relegated only one club in 2019/20
+2019,5,dover_athletic,expunged_next,Stayed in the National League but their 2020/21 record was expunged
+2019,4,macclesfield_town,relegated_wound_up,Relegated to the National League and wound up in Sept 2020 before playing there
