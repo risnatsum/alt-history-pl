@@ -10,7 +10,7 @@ the validated data and the scenario outputs.
 | Stage | What | Status |
 |---|---|---|
 | E1 | Every league result 2008/09–2025/26 loaded; real final tables reproduced | Built, awaiting verification against official tables |
-| E2 | Ratings model and back-test | Not started |
+| E2 | Ratings model and back-test | Built, awaiting Mus's check ([docs/e2_validation.md](docs/e2_validation.md)) |
 | E3 | Season simulator | Not started |
 | E4 | Finance model | Not started |
 
@@ -23,6 +23,7 @@ Judgement calls are logged in [docs/assumptions_log.md](docs/assumptions_log.md)
 pip install -r requirements.txt
 python -m altpl.sources.fetch   # download pinned GitHub sources, write data/sources/*.csv
 python -m altpl.build_e1        # results, tables, membership, validation report
+python -m altpl.build_e2        # ratings, back-tests, docs/e2_validation.md (~20 min, 4 cores)
 python -m pytest
 ```
 
@@ -40,6 +41,9 @@ altpl/
   results.py           reconcile sources into one result per fixture
   tables.py            league tables with deductions and points-per-game
   build_e1.py          stage E1 pipeline and validation report
+  ratings.py           E2 Dixon-Coles ratings on one scale across divisions, odds-implied goals
+  backtest.py          E2 back-tests and a light season Monte Carlo
+  build_e2.py          stage E2 pipeline; e2_report.py writes the validation report
 data/
   sources/             standardised copy of each source (committed)
   reference/           hand-maintained facts: clubs, adjustments, league rules, exceptions
@@ -55,3 +59,7 @@ tests/
 - `data/processed/membership.csv`: which division every club was in each season, 2008/09–2026/27.
 - `data/processed/real_tables.xlsx`: the same tables, one sheet per division.
 - `docs/e1_validation.md`: match counts, source disagreements, consistency checks, champions.
+- `data/processed/ratings.csv`: attack, defence and strength (with standard errors) for every club-season, all divisions on one scale.
+- `data/processed/division_levels.csv`: average strength of each division-season and the gap to the division above.
+- `data/processed/ratings_params.json`: fitted home advantage, rho and the tuned settings.
+- `data/processed/e2_backtest.xlsx` and `docs/e2_validation.md`: every back-test table.
