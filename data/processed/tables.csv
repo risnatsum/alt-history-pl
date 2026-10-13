@@ -553,7 +553,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2012,4,plymouth_argyle,46,Plymouth Argyle,13,13,20,46,55,-9,52,0,52,1.130435,21,False,4.0,,
 2012,4,dagenham_and_redbridge,46,Dagenham & Redbridge,13,12,21,55,62,-7,51,0,51,1.108696,22,False,4.0,,
 2012,4,barnet,46,Barnet,13,12,21,47,59,-12,51,0,51,1.108696,23,False,5.0,relegated,down
-2012,4,aldershot_town,46,Aldershot Town,11,15,20,42,60,-18,48,0,48,1.043478,24,False,5.0,relegated,down
+2012,4,aldershot_town,46,Aldershot Town,11,15,20,42,60,-18,48,10,38,0.826087,24,False,5.0,relegated,down
 2012,5,mansfield_town,46,Mansfield Town,30,5,11,92,52,40,95,0,95,2.065217,1,False,4.0,promoted,auto up
 2012,5,kidderminster_harriers,46,Kidderminster Harriers,28,9,9,82,40,42,93,0,93,2.021739,2,False,5.0,,play-offs
 2012,5,newport_county,46,Newport County,25,10,11,85,60,25,85,0,85,1.847826,3,False,4.0,promoted via play-offs,play-offs
@@ -1793,8 +1793,8 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2023,3,exeter_city,46,Exeter City,17,10,19,46,61,-15,61,0,61,1.326087,13,False,3.0,,
 2023,3,northampton_town,46,Northampton Town,17,9,20,57,66,-9,60,0,60,1.304348,14,False,3.0,,
 2023,3,bristol_rovers,46,Bristol Rovers,16,9,21,52,68,-16,57,0,57,1.23913,15,False,3.0,,
-2023,3,reading,46,Reading,16,11,19,68,70,-2,59,4,55,1.195652,16,False,3.0,,
-2023,3,charlton_athletic,46,Charlton Athletic,11,20,15,64,65,-1,53,0,53,1.152174,17,False,3.0,,
+2023,3,charlton_athletic,46,Charlton Athletic,11,20,15,64,65,-1,53,0,53,1.152174,16,False,3.0,,
+2023,3,reading,46,Reading,16,11,19,68,70,-2,59,6,53,1.152174,17,False,3.0,,
 2023,3,cambridge_united,46,Cambridge United,12,12,22,39,61,-22,48,0,48,1.043478,18,False,3.0,,
 2023,3,shrewsbury_town,46,Shrewsbury Town,13,9,24,35,67,-32,48,0,48,1.043478,19,False,3.0,,
 2023,3,burton_albion,46,Burton Albion,12,10,24,39,67,-28,46,0,46,1.0,20,False,3.0,,
@@ -1816,7 +1816,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2023,4,gillingham,46,Gillingham,18,10,18,46,57,-11,64,0,64,1.391304,12,False,4.0,,
 2023,4,harrogate_town,46,Harrogate Town,17,12,17,60,69,-9,63,0,63,1.369565,13,False,4.0,,
 2023,4,notts_county,46,Notts County,18,7,21,89,86,3,61,0,61,1.326087,14,False,4.0,,
-2023,4,morecambe,46,Morecambe,17,10,19,67,81,-14,61,0,61,1.326087,15,False,4.0,,
+2023,4,morecambe,46,Morecambe,17,10,19,67,81,-14,61,3,58,1.26087,15,False,4.0,,
 2023,4,tranmere_rovers,46,Tranmere Rovers,17,6,23,67,70,-3,57,0,57,1.23913,16,False,4.0,,
 2023,4,accrington_stanley,46,Accrington Stanley,16,9,21,63,71,-8,57,0,57,1.23913,17,False,4.0,,
 2023,4,newport_county,46,Newport County,16,7,23,62,76,-14,55,0,55,1.195652,18,False,4.0,,
@@ -1872,7 +1872,7 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2024,1,southampton,38,Southampton,2,6,30,26,86,-60,12,0,12,0.315789,20,False,2.0,relegated,down
 2024,2,leeds_united,46,Leeds United,29,13,4,95,30,65,100,0,100,2.173913,1,False,1.0,promoted,auto up
 2024,2,burnley,46,Burnley,28,16,2,69,16,53,100,0,100,2.173913,2,False,1.0,promoted,auto up
-2024,2,sheffield_united,46,Sheffield United,28,8,10,63,36,27,92,0,92,2.0,3,False,2.0,,play-offs
+2024,2,sheffield_united,46,Sheffield United,28,8,10,63,36,27,92,2,90,1.956522,3,False,2.0,,play-offs
 2024,2,sunderland,46,Sunderland,21,13,12,58,44,14,76,0,76,1.652174,4,False,1.0,promoted via play-offs,play-offs
 2024,2,coventry_city,46,Coventry City,20,9,17,64,58,6,69,0,69,1.5,5,False,2.0,,play-offs
 2024,2,bristol_city,46,Bristol City,17,17,12,59,55,4,68,0,68,1.478261,6,False,2.0,,play-offs
@@ -2004,9 +2004,9 @@ season,tier,club_id,p,club,w,d,l,gf,ga,gd,pts_raw,deduction,pts,ppg,pos,tied,nex
 2025,2,watford,46,Watford,14,15,17,53,65,-12,57,0,57,1.23913,16,False,2.0,,
 2025,2,stoke_city,46,Stoke City,15,10,21,51,56,-5,55,0,55,1.195652,17,False,2.0,,
 2025,2,portsmouth,46,Portsmouth,14,13,19,49,64,-15,55,0,55,1.195652,18,False,2.0,,
-2025,2,west_bromwich_albion,46,West Bromwich Albion,13,14,19,48,58,-10,53,0,53,1.152174,19,False,2.0,,
-2025,2,charlton_athletic,46,Charlton Athletic,13,14,19,44,58,-14,53,0,53,1.152174,20,False,2.0,,
-2025,2,blackburn_rovers,46,Blackburn Rovers,13,13,20,42,56,-14,52,0,52,1.130435,21,False,2.0,,
+2025,2,charlton_athletic,46,Charlton Athletic,13,14,19,44,58,-14,53,0,53,1.152174,19,False,2.0,,
+2025,2,blackburn_rovers,46,Blackburn Rovers,13,13,20,42,56,-14,52,0,52,1.130435,20,False,2.0,,
+2025,2,west_bromwich_albion,46,West Bromwich Albion,13,14,19,48,58,-10,53,2,51,1.108696,21,False,2.0,,
 2025,2,oxford_united,46,Oxford United,11,14,21,45,59,-14,47,0,47,1.021739,22,False,3.0,relegated,down
 2025,2,leicester_city,46,Leicester City,12,16,18,58,68,-10,52,6,46,1.0,23,False,3.0,relegated,down
 2025,2,sheffield_wednesday,46,Sheffield Wednesday,2,12,32,29,89,-60,18,18,0,0.0,24,False,3.0,relegated,down

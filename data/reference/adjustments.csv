@@ -1,49 +1,54 @@
 # Real-world adjustments to league tables. season = start year (2008 = 2008/09).
 # type: deduction (points removed), expunged (club's results removed from the table),
 #       expelled (club removed before the season; no results exist)
-# confidence: high = recalled with certainty and consistent with the computed table;
-#             check = needs confirming against an official final table
+# confidence: verified = matches the dragonfootball.co.uk points-deductions list (EFL and PL,
+#             checked Oct 2026); check = not covered by that list (National League) or unconfirmed
+#             high = structural fact (expulsion/expunging)
 season,tier,club_id,type,points,reason,confidence
-2009,5,chester_city,expunged,,Expelled by the Conference in Feb 2010; record expunged,high
-2019,3,bury,expelled,,Expelled from the EFL in Aug 2019 before playing; League One ran with 23 clubs,high
-2020,5,dover_athletic,expunged,,Refused to play after Jan 2021; record expunged (12-point deduction carried into 2021/22),high
-2008,3,stockport_county,deduction,10,Administration,check
-2008,4,luton_town,deduction,30,10 administration + 20 Football League/FA irregularities,check
-2008,4,bournemouth,deduction,17,Exit from administration without a CVA,check
-2008,4,rotherham_united,deduction,17,Exit from administration without a CVA,check
-2008,4,darlington,deduction,10,Administration,check
-2009,1,portsmouth,deduction,9,Administration,check
-2009,2,crystal_palace,deduction,10,Administration,check
-2009,3,southampton,deduction,10,Administration (parent company),check
-2009,3,hartlepool_united,deduction,3,Fielded an ineligible player,check
+2008,3,stockport_county,deduction,10,Administration,verified
+2008,4,bournemouth,deduction,17,Exit from administration without a CVA,verified
+2008,4,darlington,deduction,10,Administration,verified
+2008,4,luton_town,deduction,30,10 administration + 20 Football League/FA irregularities,verified
+2008,4,rotherham_united,deduction,17,Exit from administration without a CVA,verified
+2009,1,portsmouth,deduction,9,Administration,verified
+2009,2,crystal_palace,deduction,10,Administration,verified
+2009,3,hartlepool_united,deduction,3,Fielded an ineligible player,verified
+2009,3,southampton,deduction,10,Administration (parent company),verified
 2009,5,salisbury_city,deduction,10,Administration (also demoted two divisions at season end),check
-2010,3,plymouth_argyle,deduction,10,Administration,check
-2010,4,hereford_united,deduction,3,Fielded an ineligible player,check
-2010,4,torquay_united,deduction,1,Fielded an ineligible player,check
-2011,2,portsmouth,deduction,10,Administration,check
-2011,4,port_vale,deduction,10,Administration,check
-2012,3,portsmouth,deduction,10,Administration,check
-2012,3,coventry_city,deduction,10,Administration,check
-2013,3,coventry_city,deduction,10,Insolvency event (CVA not agreed),check
-2013,4,afc_wimbledon,deduction,3,Fielded an ineligible player,check
-2014,2,rotherham_united,deduction,3,Fielded an ineligible player,check
-2018,2,birmingham_city,deduction,9,Breach of EFL profitability and sustainability rules,check
-2019,2,wigan_athletic,deduction,12,Administration,check
-2019,3,bolton_wanderers,deduction,12,Administration,check
-2020,2,sheffield_wednesday,deduction,6,Breach of profitability and sustainability rules (12 reduced to 6 on appeal),check
-2021,2,derby_county,deduction,21,12 administration + 9 profitability and sustainability,check
-2021,2,reading,deduction,6,Breach of profitability and sustainability rules,check
-2021,5,dover_athletic,deduction,12,Carried over from 2020/21 failure to fulfil fixtures,check
-2022,2,reading,deduction,6,Breach of business plan agreed with the EFL,check
-2023,1,everton,deduction,8,Breaches of PL profitability and sustainability rules (10 cut to 6 on appeal; then 2 more),check
-2023,1,nottingham_forest,deduction,4,Breach of PL profitability and sustainability rules,check
+2009,5,chester_city,expunged,,Expelled by the Conference in Feb 2010; record expunged,high
+2010,3,plymouth_argyle,deduction,10,Administration,verified
+2010,4,hereford_united,deduction,3,Fielded an ineligible player,verified
+2010,4,torquay_united,deduction,1,Fielded an ineligible player,verified
 2010,5,kidderminster_harriers,deduction,5,Financial irregularities (from memory; not yet verified),check
+2011,2,portsmouth,deduction,10,Administration,verified
+2011,4,port_vale,deduction,10,Administration,verified
 2011,5,darlington,deduction,10,Administration (also demoted four divisions at season end),check
+2012,3,coventry_city,deduction,10,Administration,verified
+2012,3,portsmouth,deduction,10,Administration,verified
+2012,4,aldershot_town,deduction,10,Administration (applied to 2012/13 by the EFL; already bottom),verified
+2013,3,coventry_city,deduction,10,Insolvency event (CVA not agreed),verified
+2013,4,afc_wimbledon,deduction,3,Fielded an ineligible player,verified
 2013,5,aldershot_town,deduction,10,Administration (entered May 2013; applied to 2013/14),check
-2019,4,macclesfield_town,deduction,17,Unpaid wages and fixture failures (total after the July 2020 appeal ruling),check
-2022,2,wigan_athletic,deduction,3,Failure to pay players on time,check
-2023,3,wigan_athletic,deduction,8,Failure to pay players on time (applied at the start of 2023/24),check
-2023,3,reading,deduction,4,Failures to pay players and HMRC on time,check
+2014,2,rotherham_united,deduction,3,Fielded an ineligible player,verified
+2018,2,birmingham_city,deduction,9,Breach of EFL profitability and sustainability rules,verified
+2019,2,wigan_athletic,deduction,12,Administration,verified
+2019,3,bolton_wanderers,deduction,12,Administration,verified
+2019,3,bury,expelled,,Expelled from the EFL in Aug 2019 before playing; League One ran with 23 clubs,high
+2019,4,macclesfield_town,deduction,17,Unpaid wages and fixture failures (total after the July 2020 appeal ruling),verified
+2020,2,sheffield_wednesday,deduction,6,Breach of profitability and sustainability rules (12 reduced to 6 on appeal),verified
+2020,5,dover_athletic,expunged,,Refused to play after Jan 2021; record expunged (12-point deduction carried into 2021/22),high
+2021,2,derby_county,deduction,21,12 administration + 9 profitability and sustainability,verified
+2021,2,reading,deduction,6,Breach of profitability and sustainability rules,verified
+2021,5,dover_athletic,deduction,12,Carried over from 2020/21 failure to fulfil fixtures,check
+2022,2,reading,deduction,6,Breach of business plan agreed with the EFL,verified
+2022,2,wigan_athletic,deduction,3,Failure to pay players on time,verified
+2023,1,everton,deduction,8,Breaches of PL profitability and sustainability rules (10 cut to 6 on appeal; then 2 more),verified
+2023,1,nottingham_forest,deduction,4,Breach of PL profitability and sustainability rules,verified
+2023,3,reading,deduction,6,Late wages and late tax payments,verified
+2023,3,wigan_athletic,deduction,8,Failure to pay players on time (applied at the start of 2023/24),verified
+2023,4,morecambe,deduction,3,Late payment of player wages (suspended deduction activated),verified
 2023,5,southend_united,deduction,10,Failure to pay HMRC and players (from memory; not yet verified),check
-2025,2,leicester_city,deduction,6,Breach of profitability and sustainability rules (2023/24 accounts),check
-2025,2,sheffield_wednesday,deduction,18,12 administration + 6 payment failures (from memory; not yet verified),check
+2024,2,sheffield_united,deduction,2,Late transfer payments to other clubs,verified
+2025,2,leicester_city,deduction,6,Breach of profitability and sustainability rules (2023/24 accounts),verified
+2025,2,sheffield_wednesday,deduction,18,12 administration + 6 payment failures (from memory; not yet verified),verified
+2025,2,west_bromwich_albion,deduction,2,Breach of profitability and sustainability rules,verified

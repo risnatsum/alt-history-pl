@@ -48,18 +48,21 @@ League One, League Two and the National League were curtailed and decided on
 unweighted points per game, with deductions taken off before dividing. Ties on PPG go
 to goal difference, then goals scored.
 
-**E1-07 Points deductions** (`data/reference/adjustments.csv`). Entered from memory
-because Wikipedia and the league sites are blocked from the build environment. Every
-entry is marked Check until confirmed against official final tables. They reproduce
-every real promotion and relegation and these known totals: Everton 40 and Forest 32
-(2023/24), Portsmouth 19 (2009/10), Derby 34 and Reading 41 (2021/22), Birmingham 52
-(2018/19), Wigan 47 (2019/20) and 42 (2022/23), Sheffield Wednesday 41 (2020/21),
-Luton 26 (2008/09), Bolton 14 and Macclesfield 19 (2019/20). Least certain:
-Kidderminster −5 (2010/11), Darlington −10 (2011/12), Aldershot −10 (2013/14),
-Reading −4, Wigan −8 and Southend −10 (2023/24), Leicester −6 and Sheffield Wednesday
-−18 (2025/26; the latter leaves them on 0 points, which needs confirming). Deductions
-that don't change any position relative to promotion or relegation could be missing
-entirely, especially in the National League.
+**E1-07 Points deductions** (`data/reference/adjustments.csv`). Premier League and EFL
+deductions are checked against dragonfootball.co.uk's points-deductions list (updated
+7 Oct 2026), which Mus supplied; all 37 that apply to a table match it. Checking added
+four the first draft missed (Aldershot −10 in 2012/13 League Two, Morecambe −3 in
+2023/24, Sheffield United −2 in 2024/25, West Brom −2 in 2025/26) and corrected
+Reading 2023/24 from −4 to −6. Two entries on that list are deliberately not applied:
+- Bury −12 (2019/20): Bury were expelled before playing, so there is no table to apply it to.
+- Brentford −3 (2018/19, "unfulfilled fixture"): Brentford were the side awarded the
+  unplayed match at Bolton, and all three match sources give a 64-point season, so this
+  looks like an error on the list (Check).
+National League deductions aren't on that list and remain from memory (Check):
+Salisbury City −10 (2009/10), Kidderminster −5 (2010/11), Darlington −10 (2011/12),
+Aldershot −10 (2013/14; possibly the same penalty as their 2012/13 League Two one,
+counted twice), Dover −12 (2021/22) and Southend −10 (2023/24). Any National League
+deduction that changed no promotion or relegation could also be missing.
 
 **E1-08 Expunged and expelled clubs.** Chester City 2009/10 and Dover Athletic 2020/21
 had their records expunged: their matches are removed from the tables (football-data
