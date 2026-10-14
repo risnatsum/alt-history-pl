@@ -262,12 +262,108 @@ the 5-95% range than the 90% they should), as E2's in-sample back-test found; wi
 fifth of fixtures hidden and simulated, the scenario situation, ranges and chances are
 close to right. See the report for the numbers.
 
-**E3-11 European places** are not in the engine yet: they depend on each season's UEFA
-allocation and the cup winners, which need a sourced table (wanted for E4's UEFA
-money). Until then PL tables show top-4 to top-7 chances.
+**E3-11 European places** were not in the engine at E3. E4 added the sourced allocation
+(E4-07); PL tables now show each club's chance of a league-earned Champions League,
+Europa League and Conference League place, as well as top-4 to top-7.
 
 **E3-12 Last season simulated.** Moves out of the last season use its nominal
 promotion and relegation places, because next season's division sizes are not set.
+
+### E4: finance model
+
+**E4-01 Difference, not level.** Each run's revenue is priced with the same model as
+reality's, and only the difference is reported, so errors in revenue levels (which
+the model does not try to get right for each club) cancel. A club's revenue is the
+sum of the components below; other income (player sales, cup runs, loans, owner
+funding) is the same in a scenario as in reality and left out. Revenue counts only
+inside the simulated seasons: money a run's last season would earn the season after
+(parachutes, UEFA prize money) is not counted.
+
+**E4-02 Sources, and no figure from memory.** Every figure is in
+`data/reference/finance/sources/` with the URL it was read from. The network allows
+only GitHub and PyPI, so pages were read through a web-reading tool that summarises
+them; read the figures as transcriptions (Check). No official PL payment table could
+be read (they are images); PL payments come from pages that reproduce them
+(sportingintelligence, Sky Sports, CityAM, futbolekonomi, salarysport, fanbanter,
+Planet Football). Each price carries a status: sourced, derived (arithmetic on
+sourced figures), estimate (a source's own estimate) or filled (no source; stated
+rule), listed per item and season in `docs/e4_validation.md`.
+
+**E4-03 Fill rules.** A season with no sourced value takes linear interpolation
+between the nearest sourced seasons, or the nearest season's value at the ends,
+unless a better rule is stated: 2008/09 PL payments and parachutes take 2009/10's
+(same 2007-10 TV contract; nothing was found for 2008/09); missing years 2-4 of the
+2011/12-2013/14 parachutes follow the TV deal's scheme shape (16/16/8/8, then
+23/18/9/9, Swiss Ramble); 2025/26 parachute year 3 = 20/55 of year 1. Thinnest
+items: the EFL's own distribution in League One and Two (one or two sourced
+seasons), and League One/Two solidarity before 2018/19.
+
+**E4-04 PL central payments by position.** Per season: a base payment (the average
+club's sourced total less its average merit), merit of one unit per place above
+21st (the median step between sourced merit payments; from 2019/20 this includes the
+overseas merit element), and facility fees as a straight line in position (fitted on
+the clubs' sourced fees). Facility fees really follow TV picks, so a club's real
+payment differs from its position's by £2-4m a season (validation §4). 2019/20 and
+2025/26 rest on journalists' estimates; 2009/10-2012/13 and 2014/15 bases on the few
+clubs whose totals were found (2014/15 interpolated, as four of its five sourced
+clubs were top-four clubs). Positions beyond 20 in a bigger PL earn no merit; a
+smaller PL keeps the same scale.
+
+**E4-05 Parachutes** are paid while the club is outside the PL, by the rules of the
+season it went down and the amounts of the season paid: two years for clubs relegated
+up to 2007/08; three for 2008/09 relegations; four for 2009/10 to 2014/15; from
+2015/16 relegations, three years, or two after a single PL season (Sky Sports, June
+2015; Evans/CSB; Wikipedia). The 2008/09-three-years and 2009/10-four-years cut-offs
+are read from the recipient counts by season (Evans Table 1; sportingintelligence's
+5, 7 and 8 recipients in 2009/10, 2011/12 and 2012/13, all reproduced). PL membership
+from 2000/01 (engsoccerdata) sets who is on a parachute in 2008/09. 2012/13's stated
+range (£5.7m-£15.7m) is read as years 4 and 1. A blog's 2023/24 figures (~£44m/£36m/
+£16m) sit below both neighbouring seasons and were replaced by the mean of 2022/23
+and 2024/25. 2019/20-2021/22 are Wikipedia's own estimates. The EFL's own small
+parachutes (2016/17 on) are left out.
+
+**E4-06 Solidarity and EFL money.** Championship clubs on a parachute get no
+solidarity; every League One and League Two club does. Set aside: one club's League
+One accounts line for 2009/10 (£0.1m, below the next season's League Two figure) and
+an ambiguous £1.0m EFL distribution for 2010/11 between £2.47m and £2.5m. National
+League clubs get no central money in the model (only a 2024/25 total was found, from
+a secondary source), so moves between League Two and the National League are priced
+by matchday and commercial revenue alone.
+
+**E4-07 UEFA places and money.** The competition each PL position earned through the
+league each season is as it really happened (Wikipedia season articles): places a cup
+winner left to the next league position count as league places; places won through a
+cup, the fair-play places and title-holders' places do not, since the same club
+qualifies the same way in a scenario and in reality, so they cancel (Check: a scenario
+that changes a cup winner's league finish is not handled). Prize money for a place is
+the average of English clubs' UEFA payments in that competition the following season
+(UEFA distribution documents and financial reports), at the season's average euro
+rate (ECB reference rate via the Bundesbank). The stage reached is not modelled.
+Missing: 2020/21 Europa League, 2021/22 and 2023/24 (only rounded press figures for
+some clubs), 2025/26 (not yet published); Conference League rests on two winners'
+payments, so it overstates a typical entrant.
+
+**E4-08 Matchday and commercial revenue per division.** From clubs' accounts in the
+season before and after a move (Swiss Ramble, Price of Football, club reports;
+Covid seasons 2019/20 and 2020/21 left out): PL v Championship from 30 moves, pooled
+over promotions and relegations, a straight-line trend in real terms (about £5.5m a
+season in 2008/09 rising to £12.6m in 2025/26, nominal); Championship v League One
+from 4 promotions, constant in real terms (about £3-5m). League One v League Two and
+League Two v National League: no usable accounts, so each step is the one above times
+the ratio of League Two to League One average revenue (0.64, Deloitte); Check. The
+same accounts feed the promotion test (§5), though this component is a small part of
+each change. Relegated clubs lose less than promoted clubs gain (validation §5 shows
+a small bias); the pooled figure sits between them.
+
+**E4-09 Money in 2025/26 pounds** uses the ONS CPI (D7BT), averaged August-May of each
+season.
+
+**E4-10 What the tests show** (`docs/e4_validation.md`). Reality reproduced: a
+difference of exactly £0 for every club-season. Parachute recipients match every
+sourced list and count. Real promotions from the Championship outside the Covid
+seasons: the model's change in revenue is within 10% of the published accounts for
+most clubs, with little bias; relegations slightly overstate the loss. The Covid
+seasons and the lower divisions are much less certain.
 
 ## Scenario S01: Man City removed
 

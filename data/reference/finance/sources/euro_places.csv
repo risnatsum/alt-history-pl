@@ -1,0 +1,89 @@
+league_season,position_from,position_to,competition,stage,route,club_real,source_url,notes
+2008,1,3,UCL,group stage,league,Manchester United; Liverpool; Chelsea,https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League,table cell spans 1-3 (fetch reported note on row 1)
+2008,4,4,UCL,play-off round,league,Arsenal,https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League,
+2008,5,5,UEL,play-off round,league,Everton,https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League,
+2008,6,6,UEL,play-off round,passed_down_from_cup,Aston Villa,https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League,FA Cup finalists Chelsea and Everton and League Cup winners Man Utd qualified on league position; cup berth passed to 6th
+2008,7,7,UEL,third qualifying round,passed_down_from_cup,Fulham,https://en.wikipedia.org/wiki/2008%E2%80%9309_Premier_League,per footnote 7th got EL 3QR berth
+2009,1,3,UCL,group stage,league,Chelsea; Manchester United; Arsenal,https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League,
+2009,4,4,UCL,play-off round,league,Tottenham Hotspur,https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League,
+2009,5,5,UEL,play-off round,league,Manchester City,https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League,
+2009,6,6,UEL,play-off round,passed_down_from_cup,Aston Villa,https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League,League Cup winners Man Utd in UCL; spot passed to 6th (Villa were LC runners-up). Stage assumed same as row-5 spanned cell (EL play-off)
+2009,7,7,UEL,third qualifying round,passed_down_from_cup,Liverpool,https://en.wikipedia.org/wiki/2009%E2%80%9310_Premier_League,FA Cup winner Chelsea in UCL; runner-up Portsmouth (20th) originally got EL 3QR but failed to apply for UEFA licence; passed to Liverpool
+2010,1,3,UCL,group stage,league,Manchester United; Chelsea; Manchester City,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,
+2010,4,4,UCL,play-off round,league,Arsenal,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,
+2010,5,5,UEL,play-off round,league,Tottenham Hotspur,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,
+2010,8,8,UEL,first qualifying round,fair_play,Fulham,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,highest-ranked team in PL Fair Play table not yet qualified
+2010,13,13,UEL,third qualifying round,fa_cup_runner_up,Stoke City,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,FA Cup runners-up to UCL-qualified Man City
+2010,18,18,UEL,play-off round,league_cup_winner,Birmingham City,https://en.wikipedia.org/wiki/2010%E2%80%9311_Premier_League,League Cup winners (3QR berth) moved up to play-off round due to FA Cup final outcome; relegated
+2011,1,3,UCL,group stage,league,Manchester United; Manchester City; Arsenal,https://en.wikipedia.org/wiki/2011%E2%80%9312_Premier_League,
+2011,4,4,UEL,group stage,league_displaced_by_ucl_holder,Tottenham Hotspur,https://en.wikipedia.org/wiki/2011%E2%80%9312_Premier_League,4th would have been UCL; Chelsea (6th) won UCL and max 4 English clubs in UCL
+2011,5,5,UEL,play-off round,league,Newcastle United,https://en.wikipedia.org/wiki/2011%E2%80%9312_Premier_League,
+2011,6,6,UCL,group stage,ucl_title_holder,Chelsea,https://en.wikipedia.org/wiki/2011%E2%80%9312_Premier_League,won 2011-12 UCL; forfeited FA Cup EL spot
+2011,8,8,UEL,third qualifying round,league_cup_winner,Liverpool,https://en.wikipedia.org/wiki/2011%E2%80%9312_Premier_League,
+2012,1,3,UCL,group stage,league,Manchester United; Manchester City; Chelsea,https://en.wikipedia.org/wiki/2012%E2%80%9313_Premier_League,
+2012,4,4,UCL,play-off round,league,Arsenal,https://en.wikipedia.org/wiki/2012%E2%80%9313_Premier_League,
+2012,5,5,UEL,play-off round,league,Tottenham Hotspur,https://en.wikipedia.org/wiki/2012%E2%80%9313_Premier_League,
+2012,9,9,UEL,third qualifying round,league_cup_winner,Swansea City,https://en.wikipedia.org/wiki/2012%E2%80%9313_Premier_League,
+2012,18,18,UEL,group stage,fa_cup_winner,Wigan Athletic,https://en.wikipedia.org/wiki/2012%E2%80%9313_Premier_League,relegated
+2013,1,3,UCL,group stage,league,Manchester City; Liverpool; Chelsea,https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League,
+2013,4,4,UCL,play-off round,league,Arsenal,https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League,
+2013,5,5,UEL,group stage,league,Everton,https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League,
+2013,6,6,UEL,play-off round,passed_down_from_cup,Tottenham Hotspur,https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League,League Cup winner Man City in UCL
+2013,16,16,UEL,third qualifying round,fa_cup_runner_up,Hull City,https://en.wikipedia.org/wiki/2013%E2%80%9314_Premier_League,FA Cup winners Arsenal in UCL
+2014,1,3,UCL,group stage,league,Chelsea; Manchester City; Arsenal,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,
+2014,4,4,UCL,play-off round,league,Manchester United,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,
+2014,5,5,UEL,group stage,league,Tottenham Hotspur,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,
+2014,6,6,UEL,group stage,passed_down_from_cup,Liverpool,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,FA Cup winner Arsenal in UCL
+2014,7,7,UEL,third qualifying round,passed_down_from_cup,Southampton,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,League Cup winner Chelsea in UCL
+2014,12,12,UEL,first qualifying round,fair_play,West Ham United,https://en.wikipedia.org/wiki/2014%E2%80%9315_Premier_League,extra England berth via UEFA Respect Fair Play ranking; top of PL Fair Play table
+2015,1,3,UCL,group stage,league,Leicester City; Arsenal; Tottenham Hotspur,https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League,
+2015,4,4,UCL,play-off round,league,Manchester City,https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League,
+2015,5,5,UEL,group stage,league,Manchester United,https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League,also FA Cup winners
+2015,6,6,UEL,group stage,passed_down_from_cup,Southampton,https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League,FA Cup spot passed
+2015,7,7,UEL,third qualifying round,passed_down_from_cup,West Ham United,https://en.wikipedia.org/wiki/2015%E2%80%9316_Premier_League,League Cup spot passed (Man City)
+2016,1,3,UCL,group stage,league,Chelsea; Tottenham Hotspur; Manchester City,https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League,
+2016,4,4,UCL,play-off round,league,Liverpool,https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League,
+2016,5,5,UEL,group stage,league,Arsenal,https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League,also FA Cup winners
+2016,6,6,UCL,group stage,uel_title_holder,Manchester United,https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League,won 2016-17 UEL; their EL group spot (passed from FA Cup) vacated without replacement
+2016,7,7,UEL,third qualifying round,passed_down_from_cup,Everton,https://en.wikipedia.org/wiki/2016%E2%80%9317_Premier_League,League Cup winner Man Utd
+2017,1,4,UCL,group stage,league,Manchester City; Manchester United; Tottenham Hotspur; Liverpool,https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League,from 2018-19 top 4 direct to group stage
+2017,5,5,UEL,group stage,league,Chelsea,https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League,also FA Cup winners
+2017,6,6,UEL,group stage,passed_down_from_cup,Arsenal,https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League,5th-place berth passed down because Chelsea used FA Cup/league
+2017,7,7,UEL,second qualifying round,passed_down_from_cup,Burnley,https://en.wikipedia.org/wiki/2017%E2%80%9318_Premier_League,League Cup winner Man City
+2018,1,4,UCL,group stage,league,Manchester City; Liverpool; Chelsea; Tottenham Hotspur,https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League,
+2018,5,5,UEL,group stage,league,Arsenal,https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League,
+2018,6,6,UEL,group stage,passed_down_from_cup,Manchester United,https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League,FA Cup winner Man City
+2018,7,7,UEL,second qualifying round,passed_down_from_cup,Wolverhampton Wanderers,https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League,League Cup winner Man City
+2019,1,4,UCL,group stage,league,Liverpool; Manchester City; Manchester United; Chelsea,https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League,
+2019,5,5,UEL,group stage,league,Leicester City,https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League,
+2019,6,6,UEL,second qualifying round,passed_down_from_cup,Tottenham Hotspur,https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League,League Cup winner Man City
+2019,8,8,UEL,group stage,fa_cup_winner,Arsenal,https://en.wikipedia.org/wiki/2019%E2%80%9320_Premier_League,7th Wolves got nothing
+2020,1,4,UCL,group stage,league,Manchester City; Manchester United; Liverpool; Chelsea,https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League,
+2020,5,5,UEL,group stage,league,Leicester City,https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League,also FA Cup winners
+2020,6,6,UEL,group stage,passed_down_from_cup,West Ham United,https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League,second EL GS berth transferred
+2020,7,7,UECL,play-off round,passed_down_from_cup,Tottenham Hotspur,https://en.wikipedia.org/wiki/2020%E2%80%9321_Premier_League,League Cup winner Man City
+2021,1,4,UCL,group stage,league,Manchester City; Liverpool; Chelsea; Tottenham Hotspur,https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League,
+2021,5,5,UEL,group stage,league,Arsenal,https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League,
+2021,6,6,UEL,group stage,passed_down_from_cup,Manchester United,https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League,FA Cup winner Liverpool
+2021,7,7,UECL,play-off round,passed_down_from_cup,West Ham United,https://en.wikipedia.org/wiki/2021%E2%80%9322_Premier_League,League Cup winner Liverpool
+2022,1,4,UCL,group stage,league,Manchester City; Arsenal; Manchester United; Newcastle United,https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League,
+2022,5,5,UEL,group stage,league,Liverpool,https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League,
+2022,6,6,UEL,group stage,passed_down_from_cup,Brighton & Hove Albion,https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League,FA Cup winner Man City
+2022,7,7,UECL,play-off round,passed_down_from_cup,Aston Villa,https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League,League Cup winner Man Utd
+2022,14,14,UEL,group stage,uecl_title_holder,West Ham United,https://en.wikipedia.org/wiki/2022%E2%80%9323_Premier_League,won 2022-23 UECL
+2023,1,4,UCL,league phase,league,Manchester City; Arsenal; Liverpool; Aston Villa,https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League,no EPS for England this season (none mentioned on page)
+2023,5,5,UEL,league phase,league,Tottenham Hotspur,https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League,
+2023,6,6,UECL,play-off round,passed_down_from_cup,Chelsea,https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League,League Cup winner Liverpool
+2023,8,8,UEL,league phase,fa_cup_winner,Manchester United,https://en.wikipedia.org/wiki/2023%E2%80%9324_Premier_League,7th Newcastle got nothing
+2024,1,4,UCL,league phase,league,Liverpool; Arsenal; Manchester City; Chelsea,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,
+2024,5,5,UCL,league phase,european_performance_spot,Newcastle United,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,also League Cup winners
+2024,6,6,UEL,league phase,league,Aston Villa,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,
+2024,7,7,UEL,league phase,passed_down_from_cup,Nottingham Forest,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,initially got LC UECL PO berth (Newcastle); moved to UEL replacing Crystal Palace (multi-club ownership)
+2024,12,12,UECL,play-off round,fa_cup_winner_demoted,Crystal Palace,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,"FA Cup winners; barred from UEL by multi-club ownership rules, appeal rejected; swapped to UECL PO"
+2024,17,17,UCL,league phase,uel_title_holder,Tottenham Hotspur,https://en.wikipedia.org/wiki/2024%E2%80%9325_Premier_League,won 2024-25 UEL
+2025,1,4,UCL,league phase,league,Arsenal; Manchester City; Manchester United; Aston Villa,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,
+2025,5,5,UCL,league phase,european_performance_spot,Liverpool,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,
+2025,6,6,UEL,league phase,league,Bournemouth,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,
+2025,7,7,UEL,league phase,passed_down_from_cup,Sunderland,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,FA Cup winner Man City
+2025,8,8,UECL,play-off round,passed_down_from_cup,Brighton & Hove Albion,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,League Cup winner Man City
+2025,15,15,UEL,league phase,uecl_title_holder,Crystal Palace,https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League,won 2025-26 UECL
