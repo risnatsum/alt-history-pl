@@ -106,6 +106,70 @@ can leave it out.
 over/under 2.5. football-data renamed its maximum/average columns in 2019/20; both
 names are mapped to one.
 
+### E2: ratings model and back-test
+
+**E2-01 Model.** Dixon-Coles Poisson model (`altpl/ratings.py`): one attack and one
+defence rating per club per season, a home advantage per season (so 2020/21 without
+crowds gets its own) plus a fixed adjustment per division, a shared goal level mu
+and the Dixon-Coles low-score correction rho. Fitted to every league match in tiers
+1–5, 2008/09–2025/26, at once. The awarded Bolton v Brentford result is left out.
+Ratings are constant within a season; form changes inside a season are not modelled.
+
+**E2-02 One scale across divisions.** Divisions never meet within a season, so each
+club's ratings are tied to its previous season's in the data by a random walk with
+standard deviation sigma per season (wider for a club that left the data and came
+back). Clubs moving between divisions (about 4–7 per boundary per season) fix the gap.
+Because mu is shared, a rating means the same thing in every division: in E3 a club
+playing a division it wasn't really in keeps its real-season rating, with no other
+adjustment (but see E2-06). Ratings are shifted so the average PL club-season has
+attack 0; strength = attack + defence.
+
+**E2-03 Bookmaker odds.** Average odds across bookmakers (Bet365 where averages are
+missing; the football-data GitHub mirror for 2013/14 PL), margin removed by the power
+method, which is well calibrated on these matches where scaling all prices equally
+leaves a favourite-longshot bias (favourites priced at 64% won 67%). The home-win,
+away-win and over-2.5 probabilities are turned into the expected goals they imply
+under independent Poissons and added to the likelihood as fractional goals with
+weight omega. A held-out match contributes neither its score nor its odds.
+
+**E2-04 Tuning.** sigma = 0.15, chosen by pre-season prediction of 2010/11–2025/26
+(flat between 0.1 and 0.25). omega = 16, the smallest weight within 0.0005 log-loss
+of the best on 5-fold held-out matches; the odds carry most of the information about
+a club's strength once omega passes about 8.
+
+**E2-05 Rating uncertainty.** Standard errors come from the diagonal of the
+information matrix counting real results and season links but not the odds (the odds
+are not independent observations; counting them made ratings look about
+twice as certain as this, and mid-season simulations under-covered real points). With
+that, real points fall inside the simulated 5–95% range in 87–90% of club-seasons
+mid-season and 87–94% pre-season (target 90%). Simulations draw each club's ratings
+from these errors once per run.
+
+**E2-06 Clubs moving up (open question for E3).** Pre-season forecasts of clubs
+promoted into the PL over-predicted them by 3.6 points a season on average (48
+clubs, standard error 1.6); clubs that stayed in the PL were predicted within 0.3.
+Other boundaries show no consistent bias. Part of this is promoted clubs regressing
+after a good season, which is not the E3 situation (E3 rates a club from the same
+season), so the default is no adjustment; a step-up penalty is a candidate
+sensitivity parameter (Check with Mus).
+
+**E2-07 Known limits.** Held-out probabilities are slightly too cautious: favourites
+the model gives 64% win 70%, and sharpening every probability by 10% would cut
+log-loss by 0.0008. Leicester 2015/16 is rated by what the market thought of them
+(they get a 0% title chance when 2015/16 is re-simulated from scratch); with real
+results kept as the anchor this matters only for fixtures that never happened. The
+held-out model beats the bookmakers' pre-match odds (log-loss 1.016 v 1.026) because
+it also knows the rest of the season; it is not a forecast made at the time.
+
+**E2-08 Back-test play-offs (E3 to confirm).** For promotion odds the back-test
+simulates the play-offs: two-legged EFL semis (3rd v 6th, 4th v 5th; National League
+2v5, 3v4 to 2016/17), a level aggregate settled by a coin flip standing in for extra
+time and penalties, and a one-off neutral final. From 2017/18 in the National League,
+one-leg eliminators 4v7 and 5v6, then 2nd at home to the lower-placed winner and 3rd
+to the other (pairing assumed, Check). 2019/20 League One, League Two and National
+League are left out of the season back-tests because they were decided on points per
+game.
+
 ## Scenario S01: Man City removed
 
 Not started (S1 comes after the engine). Data notes from E1:
