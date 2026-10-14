@@ -1,5 +1,8 @@
 # Real league structure by season (start year) and tier. playoff_from/to are the
 # league positions entering the play-offs; playoff_up is the number promoted through them.
+# Play-off pairings checked against real ties (assumptions log E3-03) in engsoccerdata's play-off
+# results (EFL 2008/09-2015/16, National League 2012/13-2018/19), gloverscast.co.uk (National
+# League 2024/25) and Sky Sports / Wikipedia (National League 2025/26).
 season,tier,teams,auto_up,playoff_from,playoff_to,playoff_up,relegated,ranking,playoff_format,note
 2008,1,20,0,0,0,0,3,points,,
 2008,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
@@ -50,44 +53,44 @@ season,tier,teams,auto_up,playoff_from,playoff_to,playoff_up,relegated,ranking,p
 2017,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2017,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2017,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2017,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",Play-offs expanded to six clubs from 2017/18
+2017,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",Play-offs expanded to six clubs from 2017/18
 2018,1,20,0,0,0,0,3,points,,
 2018,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2018,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2018,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2018,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",
+2018,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",
 2019,1,20,0,0,0,0,3,points,,
 2019,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2019,3,23,2,3,6,1,3,ppg,"two-legged semis, one-off final",23 clubs after Bury expelled; Curtailed (Covid); final positions on points per game
 2019,4,24,3,4,7,1,1,ppg,"two-legged semis, one-off final",Only one club relegated (Bury vacancy); Curtailed (Covid); final positions on points per game
-2019,5,24,1,2,7,1,3,ppg,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",Curtailed (Covid); final positions on points per game
+2019,5,24,1,2,7,1,3,ppg,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",Curtailed (Covid); final positions on points per game
 2020,1,20,0,0,0,0,3,points,,
 2020,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2020,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2020,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2020,5,22,1,2,7,1,0,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",No relegation (National League North/South voided); Dover Athletic expunged
+2020,5,22,1,2,7,1,0,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",No relegation (National League North/South voided); Dover Athletic expunged
 2021,1,20,0,0,0,0,3,points,,
 2021,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2021,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2021,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2021,5,23,1,2,7,1,3,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",23 clubs
+2021,5,23,1,2,7,1,3,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",23 clubs
 2022,1,20,0,0,0,0,3,points,,
 2022,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2022,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2022,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2022,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",
+2022,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",
 2023,1,20,0,0,0,0,3,points,,
 2023,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2023,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2023,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2023,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",
+2023,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",
 2024,1,20,0,0,0,0,3,points,,
 2024,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2024,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2024,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2024,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",
+2024,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",
 2025,1,20,0,0,0,0,3,points,,
 2025,2,24,2,3,6,1,3,points,"two-legged semis, one-off final",
 2025,3,24,2,3,6,1,4,points,"two-legged semis, one-off final",
 2025,4,24,3,4,7,1,2,points,"two-legged semis, one-off final",
-2025,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg), semis vs 2nd/3rd (one leg), final",
+2025,5,24,1,2,7,1,4,points,"eliminators 4v7 5v6 (one leg); semis 2nd v 5/6 winner, 3rd v 4/7 winner (one leg); final",

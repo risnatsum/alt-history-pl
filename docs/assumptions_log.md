@@ -166,9 +166,108 @@ simulates the play-offs: two-legged EFL semis (3rd v 6th, 4th v 5th; National Le
 2v5, 3v4 to 2016/17), a level aggregate settled by a coin flip standing in for extra
 time and penalties, and a one-off neutral final. From 2017/18 in the National League,
 one-leg eliminators 4v7 and 5v6, then 2nd at home to the lower-placed winner and 3rd
-to the other (pairing assumed, Check). 2019/20 League One, League Two and National
+to the other (pairing assumed, Check; E3-03 found a fixed bracket instead and the
+E3 simulator uses that). 2019/20 League One, League Two and National
 League are left out of the season back-tests because they were decided on points per
 game.
+
+### E3: season simulator
+
+**E3-01 How a run works** (`altpl/simulator.py`). Each run plays every division of a
+season, then carries its own promotions and relegations into the next, so membership
+can differ between runs. A division can have any number of clubs: with an odd number
+every club still plays everyone home and away (2(n-1) matches), one club sitting out
+each round; rounds and fixture dates are not modelled. A scenario changes only the
+`World` (clubs removed, division sizes, promotion and relegation places), never the
+code. Default 10,000 runs with a fixed seed (20083).
+
+**E3-02 Real results as the anchor.** A fixture keeps its real score when the same two
+clubs really met, home and away the same way round, in the same division and season;
+anything else is simulated. `anchored=False` simulates everything, as the check the spec
+asks for. Play-offs: if a run's whole play-off field (every club in the same seed) is
+the real one, the real winner goes up; otherwise any individual tie that really
+happened keeps its real winner where engsoccerdata has it (EFL 2008/09-2015/16,
+National League 2012/13-2018/19), and the rest are simulated. Real play-off ties after
+those years are not in any source the build can read, so only whole-field matches
+reproduce them.
+
+**E3-03 Play-off formats** (`data/reference/seasons.csv`). EFL: 3rd v 6th and 4th v
+5th over two legs, the higher seed at home in the second leg, then a one-off final on
+neutral ground. Checked against every real EFL semi-final 2008/09-2015/16 in
+engsoccerdata; later seasons assumed the same (Check). No away-goals rule: level
+aggregates went to extra time and penalties even when one side had more away goals
+(Leicester v Cardiff 2009/10, Bournemouth v Huddersfield 2010/11 and Swindon v
+Brentford 2012/13 in engsoccerdata). A level tie gets extra time, simulated as a third
+of a match at the same scoring rates, then penalties as a coin flip. National League to
+2016/17: 2nd v 5th and 3rd v 4th over two legs (checked 2012/13-2015/16). From
+2017/18: one-leg eliminators 4th v 7th and 5th v 6th, then 2nd at home to the 5th/6th
+winner and 3rd at home to the 4th/7th winner, no re-seeding. Real ties fix this: in
+2018/19 2nd (Solihull) met 5th (Fylde) while 3rd (Salford) met 7th (Eastleigh), from
+engsoccerdata; in 2024/25 2nd (York) met 5th (Oldham) and 3rd (Forest Green) met 7th
+(Southend), from gloverscast.co.uk's round-up; 2025/26 2nd (Rochdale) met 5th
+(Scunthorpe) and 3rd (Carlisle) met 4th (Boreham Wood), from Sky Sports and the
+Wikipedia final page. A Sports Illustrated preview of 2025/26 described the opposite
+pairing; the real ties are used. This replaces the re-seeded pairing assumed in E2-08.
+
+**E3-04 Clubs in a division they weren't really in** keep their real-season rating with
+no adjustment (Mus, 14 Oct 2026, on E2-06). Two sensitivities, both off by default, in
+strength units (attack + defence, split equally): `step_up`, a penalty per division a
+club plays above its real one; `money_boost`, a lift for a club promoted in the run but
+not in reality (its real rating already carries any real promotion). A club with no
+real rating that season (outside the pyramid in reality, e.g. relegated from the
+National League in reality but not in the run) carries its nearest real season's
+rating, its uncertainty widened by sigma per season of distance (Check: probably
+generous to clubs that really dropped out).
+
+**E3-05 Moves between seasons.** Automatic places and play-off winners go up. Each
+division is then filled to its real size for next season from the top down, so
+normally the real number of clubs go down. Real departures (expelled, demoted, wound
+up, expunged and not continuing) apply to the club wherever it is in the run, and the
+division it leaves relegates one fewer: the best-placed club in the drop zone is
+reprieved, as Forest Green, Chester, Dartford and Aldershot really were. A demoted club
+leaves the modelled pyramid wherever it is (Check: only National League demotions
+exist in the data). Bury (expelled August 2019) and Macclesfield (wound up September
+2020) left too late to be replaced: their vacancy follows the club, so in a run where
+Bury were not promoted, League Two rather than League One runs one club short in
+2019/20 (column `vacancy` in `movement_exceptions.csv`). Clubs entering the National
+League from below are the clubs really promoted into it; a club relegated out of the
+National League in a run but not in reality stays outside the model unless it is a
+real entrant later (step 6 is not simulated; Check). If a division is still short after
+relegating nobody, the next-best club below is promoted.
+
+**E3-06 Clubs a scenario removes.** By default their place is filled by cascade: the
+best club not promoted from the division below goes up, then the best not promoted
+from the division below that, down to the National League, which relegates one fewer.
+From the real 2008/09 tables, removing Manchester City from 2009/10 promotes Sheffield
+United, Milton Keynes Dons, Bury and Cambridge United one division each and reprieves
+Woking (`tests/test_e3.py`). `removal_fill="reprieve"` keeps the removed club's
+division one relegation short instead.
+
+**E3-07 Deductions and expunged records** follow the club into whichever division it is
+in. An expunged club's matches count for nobody and it finishes bottom.
+
+**E3-08 Ties in the table** after points (or points per game), goal difference and
+goals scored are settled by a random draw. Real tie-breaks (head-to-head and so on)
+are not modelled; E1 found one exact tie in the real data (E1-05).
+
+**E3-09 2019/20 curtailed divisions** (League One, League Two, National League). A
+pairing of two clubs really in the division counts only if it was really played before
+the stop; any other pairing counts with the division's real share of matches played.
+Tables rank on points per game, as in E1-06.
+
+**E3-10 What the tests show** (`docs/e3_validation.md`). With every real result kept,
+every run reproduces all 2,083 real club-seasons and every real promotion, relegation,
+expulsion and reprieve. Fully simulated seasons are cautious (more real points inside
+the 5-95% range than the 90% they should), as E2's in-sample back-test found; with a
+fifth of fixtures hidden and simulated, the scenario situation, ranges and chances are
+close to right. See the report for the numbers.
+
+**E3-11 European places** are not in the engine yet: they depend on each season's UEFA
+allocation and the cup winners, which need a sourced table (wanted for E4's UEFA
+money). Until then PL tables show top-4 to top-7 chances.
+
+**E3-12 Last season simulated.** Moves out of the last season use its nominal
+promotion and relegation places, because next season's division sizes are not set.
 
 ## Scenario S01: Man City removed
 
@@ -177,7 +276,7 @@ Not started (S1 comes after the engine). Data notes from E1:
   Championship (3rd, 80 pts, lost the play-off final to Burnley), ahead of Reading
   (4th, 77). So 1A promotes Sheffield United, as the brief expected.
 - 1B and 1C need divisions with an odd number of clubs (19 in the PL, 21 in the
-  Championship), so one club is idle each round. That is an engine requirement for E3;
-  E1's data handles any division size.
+  Championship), so one club is idle each round. The E3 simulator handles any division
+  size (E3-01) and fills a removed club's place by cascade by default (E3-06).
 - In every variant, City's real 2009/10+ results are dropped and the rest of each
   season's real results stay as the anchor.

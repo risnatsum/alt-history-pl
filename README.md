@@ -11,7 +11,7 @@ the validated data and the scenario outputs.
 |---|---|---|
 | E1 | Every league result 2008/09–2025/26 loaded; real final tables reproduced | Built, awaiting verification against official tables |
 | E2 | Ratings model and back-test | Built, awaiting Mus's check ([docs/e2_validation.md](docs/e2_validation.md)) |
-| E3 | Season simulator | Not started |
+| E3 | Season simulator | Built, awaiting Mus's check ([docs/e3_validation.md](docs/e3_validation.md)) |
 | E4 | Finance model | Not started |
 
 Scenarios are listed in [docs/scenario_register.md](docs/scenario_register.md).
@@ -24,6 +24,7 @@ pip install -r requirements.txt
 python -m altpl.sources.fetch   # download pinned GitHub sources, write data/sources/*.csv
 python -m altpl.build_e1        # results, tables, membership, validation report
 python -m altpl.build_e2        # ratings, back-tests, docs/e2_validation.md (~20 min, 4 cores)
+python -m altpl.build_e3        # simulator tests, docs/e3_validation.md (~20 min)
 python -m pytest
 ```
 
@@ -44,6 +45,9 @@ altpl/
   ratings.py           E2 Dixon-Coles ratings on one scale across divisions, odds-implied goals
   backtest.py          E2 back-tests and a light season Monte Carlo
   build_e2.py          stage E2 pipeline; e2_report.py writes the validation report
+  simulator.py         E3 Monte Carlo of the whole pyramid, season by season (World = a scenario's rules)
+  outputs.py           standard output tables: expected tables, who's where, champions, variants
+  build_e3.py          stage E3 re-simulation tests and validation report
 data/
   sources/             standardised copy of each source (committed)
   reference/           hand-maintained facts: clubs, adjustments, league rules, exceptions
@@ -63,3 +67,21 @@ tests/
 - `data/processed/division_levels.csv`: average strength of each division-season and the gap to the division above.
 - `data/processed/ratings_params.json`: fitted home advantage, rho and the tuned settings.
 - `data/processed/e2_backtest.xlsx` and `docs/e2_validation.md`: every back-test table.
+- `data/processed/e3_backtest.xlsx` and `docs/e3_validation.md`: simulator tests (reality reproduced, single-season re-simulations, knock-on runs).
+- `data/processed/e3_knock_on_example.xlsx`: the standard output workbook, for reality fully simulated 2008/09-2025/26.
+
+## Running a scenario
+
+```python
+from altpl import simulator as S, outputs as O
+R = S.Reality()
+w = S.real_world(R, start=2009, end=2025)   # reality's rules from 2009/10
+w.removed = {"manchester_city": 2009}       # scenario change: club gone from 2009/10
+w.name = "S01 1A"
+sim = S.simulate(w, runs=10_000, reality=R)  # real results kept where they happened
+O.write_workbook(sim, R, "s01_1a.xlsx")
+```
+
+`w.sizes[(season, tier)]` sets division sizes, `w.rules` the promotion, play-off and
+relegation places, `anchored=False` simulates every fixture, and `w.step_up` /
+`w.money_boost` are the optional sensitivities (off by default).
