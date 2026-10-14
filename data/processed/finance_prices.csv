@@ -1,0 +1,281 @@
+season,item,value,status,basis,source
+2008,cpi,85.77,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2009,cpi,88.01,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2010,cpi,91.32,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2011,cpi,94.94,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2012,cpi,97.41999999999999,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2013,cpi,99.4,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2014,cpi,99.96,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2015,cpi,100.15,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2016,cpi,101.86999999999999,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2017,cpi,104.71000000000001,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2018,cpi,106.95,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2019,cpi,108.46,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2020,cpi,109.33,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2021,cpi,115.63,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2022,cpi,127.19000000000001,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2023,cpi,132.34,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2024,cpi,135.87,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2025,cpi,140.31,derived,"mean of ONS D7BT monthly index, Aug-May",https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt
+2008,efl_t2,2470000.0,filled,carried from 2009,
+2009,efl_t2,2470000.0,sourced,"'the £2.47 million distribution from the Football League' to every Championship club, 2009/10.",http://swissramble.blogspot.com/2011/06/swansea-city-back-in-big-time.html
+2010,efl_t2,2485000.0,filled,interpolated between 2009 and 2011,
+2011,efl_t2,2500000.0,sourced,£2.5m (2011/12). Also Swiss Ramble Aug 2013 (2011/12 accounts): 'Football League pool (£2.5 million)'.,http://swissramble.blogspot.com/2012/05/leeds-united-marching-on-together.html
+2012,efl_t2,2200000.0,filled,interpolated between 2011 and 2013,
+2013,efl_t2,1900000.0,sourced,QPR 2013/14: '£1.9 million from the Football League pool'. Swiss Ramble Burnley post also cites £1.9m FL pool.,http://swissramble.blogspot.com/2016/05/queens-park-rangers-they-cant-buy.html
+2014,efl_t2,1700000.0,sourced,'£1.7 million from the Football League pool' (2014/15 context).,http://swissramble.blogspot.com/2015/06/fulham-penthouse-and-pavement.html
+2015,efl_t2,1700000.0,sourced,Hull 2015/16: 'Football League distribution of £1.7 million'.,http://swissramble.blogspot.com/2015/07/hull-city-whats-my-name.html
+2016,efl_t2,2300000.0,sourced,"Swiss Ramble thread (Aug 2018, 2016/17 accounts): 'including a £2.3m distribution from the EFL'.",https://threadreaderapp.com/thread/1031811168132841473.html
+2017,efl_t2,2300000.0,sourced,PoF May 2018: EFL broadcast deal 'worth about £2.3 million a season for clubs in the Championship'.,https://priceoffootball.com/sunderland-short-changed/
+2018,efl_t2,2657142.8571428573,filled,interpolated between 2017 and 2024,
+2019,efl_t2,3014285.7142857146,filled,interpolated between 2017 and 2024,
+2020,efl_t2,3371428.5714285714,filled,interpolated between 2017 and 2024,
+2021,efl_t2,3728571.4285714286,filled,interpolated between 2017 and 2024,
+2022,efl_t2,4085714.2857142854,filled,interpolated between 2017 and 2024,
+2023,efl_t2,4442857.142857143,filled,interpolated between 2017 and 2024,
+2024,efl_t2,4800000.0,estimate,midpoint of the stated range £4.6m-£5.0m,https://theesk.org/2025/12/18/the-analysis-series-broadcast-rights-solidarity-mechanisms-and-financial-redistribution-in-the-english-football-league/
+2025,efl_t2,4800000.0,filled,carried from 2024,
+2008,efl_t3,640000.0,filled,carried from 2009,
+2009,efl_t3,640000.0,sourced,"Leeds (L1) 2009/10 accounts: 'central distributions £0.64 million' - single club, approximate.",http://swissramble.blogspot.com/2012/05/leeds-united-marching-on-together.html
+2010,efl_t3,603125.0,filled,interpolated between 2009 and 2017,
+2011,efl_t3,566250.0,filled,interpolated between 2009 and 2017,
+2012,efl_t3,529375.0,filled,interpolated between 2009 and 2017,
+2013,efl_t3,492500.0,filled,interpolated between 2009 and 2017,
+2014,efl_t3,455625.0,filled,interpolated between 2009 and 2017,
+2015,efl_t3,418750.0,filled,interpolated between 2009 and 2017,
+2016,efl_t3,381875.0,filled,interpolated between 2009 and 2017,
+2017,efl_t3,345000.0,sourced,"PoF May 2018: '£345,000 in League One' (EFL broadcast deal).",https://priceoffootball.com/sunderland-short-changed/
+2018,efl_t3,452857.14285714284,filled,interpolated between 2017 and 2024,
+2019,efl_t3,560714.2857142857,filled,interpolated between 2017 and 2024,
+2020,efl_t3,668571.4285714286,filled,interpolated between 2017 and 2024,
+2021,efl_t3,776428.5714285714,filled,interpolated between 2017 and 2024,
+2022,efl_t3,884285.7142857143,filled,interpolated between 2017 and 2024,
+2023,efl_t3,992142.8571428572,filled,interpolated between 2017 and 2024,
+2024,efl_t3,1100000.0,estimate,midpoint of the stated range £1.0m-£1.2m,https://theesk.org/2025/12/18/the-analysis-series-broadcast-rights-solidarity-mechanisms-and-financial-redistribution-in-the-english-football-league/
+2025,efl_t3,1100000.0,filled,carried from 2024,
+2008,efl_t4,230000.0,filled,carried from 2017,
+2009,efl_t4,230000.0,filled,carried from 2017,
+2010,efl_t4,230000.0,filled,carried from 2017,
+2011,efl_t4,230000.0,filled,carried from 2017,
+2012,efl_t4,230000.0,filled,carried from 2017,
+2013,efl_t4,230000.0,filled,carried from 2017,
+2014,efl_t4,230000.0,filled,carried from 2017,
+2015,efl_t4,230000.0,filled,carried from 2017,
+2016,efl_t4,230000.0,filled,carried from 2017,
+2017,efl_t4,230000.0,sourced,"PoF May 2018: '£230,000 in League Two'.",https://priceoffootball.com/sunderland-short-changed/
+2018,efl_t4,325714.2857142857,filled,interpolated between 2017 and 2024,
+2019,efl_t4,421428.5714285714,filled,interpolated between 2017 and 2024,
+2020,efl_t4,517142.85714285716,filled,interpolated between 2017 and 2024,
+2021,efl_t4,612857.1428571428,filled,interpolated between 2017 and 2024,
+2022,efl_t4,708571.4285714286,filled,interpolated between 2017 and 2024,
+2023,efl_t4,804285.7142857143,filled,interpolated between 2017 and 2024,
+2024,efl_t4,900000.0,estimate,midpoint of the stated range £0.8m-£1.0m,https://theesk.org/2025/12/18/the-analysis-series-broadcast-rights-solidarity-mechanisms-and-financial-redistribution-in-the-english-football-league/
+2025,efl_t4,900000.0,filled,carried from 2024,
+2008,parachute_y1,12400000.0,filled,2009/10 amount (same 2007-10 TV deal); no 2008/09 figure found,
+2009,parachute_y1,12400000.0,sourced,,https://sportingintelligence832.substack.com/p/the-premier-league-where-the-money-went-in-2009-10
+2010,parachute_y1,16000000.0,sourced,scheme amount (16/16/8/8); Burnley accounts say about £15m,http://swissramble.blogspot.com/2016/04/burnley-seasons-in-sun.html
+2011,parachute_y1,15475005.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2011-12-150501
+2012,parachute_y1,15700000.0,sourced,"top of the stated 2012/13 range (£5.7m-£15.7m), taken as year 1",https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2012-13-210501
+2013,parachute_y1,24100000.0,sourced,QPR accounts via Swiss Ramble,http://swissramble.blogspot.com/2016/05/queens-park-rangers-they-cant-buy.html
+2014,parachute_y1,25000000.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-chelsea-top-premier-league-cash-table-with-99m-prize-020601
+2015,parachute_y1,25937356.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-arsenal-top-pl-prize-cash-table-with-101m-240101
+2016,parachute_y1,40900000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2017,parachute_y1,41570000.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-150-united-pip-city-in-premier-league-cash-table-170501
+2018,parachute_y1,42600000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,parachute_y1,41300000.0,estimate,Wikipedia table marks it est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2020,parachute_y1,43400000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2021,parachute_y1,44400000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2022,parachute_y1,47600000.0,sourced,EFL evidence to Parliament,https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,parachute_y1,48250000.0,filled,mean of 2022/23 and 2024/25 (a blog's ~44/36/16 judged unreliable),
+2024,parachute_y1,48900000.0,sourced,EFL evidence to Parliament,https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,parachute_y1,49000000.0,estimate,low-confidence secondary article,https://theballbusiness.com/inside-football/what-parachute-payments-are-and-why-championship-clubs-depend-on-them/
+2008,parachute_y2,12400000.0,filled,2009/10 amount (same 2007-10 TV deal); no 2008/09 figure found,
+2009,parachute_y2,12400000.0,sourced,,https://sportingintelligence832.substack.com/p/the-premier-league-where-the-money-went-in-2009-10
+2010,parachute_y2,16000000.0,sourced,"scheme amount, 16/16/8/8",http://swissramble.blogspot.com/2016/04/burnley-seasons-in-sun.html
+2011,parachute_y2,15475005.0,filled,year 1 x 16/16 (scheme shape of the TV deal),
+2012,parachute_y2,15700000.0,filled,year 1 x 16/16 (scheme shape of the TV deal),
+2013,parachute_y2,18860869.56521739,filled,year 1 x 18/23 (scheme shape of the TV deal),
+2014,parachute_y2,20000000.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-chelsea-top-premier-league-cash-table-with-99m-prize-020601
+2015,parachute_y2,20800000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2016,parachute_y2,31100000.0,sourced,old-system year 2 (QPR),https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2017,parachute_y2,34000000.0,sourced,,https://sportingintelligence832.substack.com/p/where-the-money-went-150-united-pip-city-in-premier-league-cash-table-170501
+2018,parachute_y2,34900000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,parachute_y2,33800000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2020,parachute_y2,35500000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2021,parachute_y2,36300000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2022,parachute_y2,38900000.0,sourced,EFL evidence,https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,parachute_y2,39500000.0,filled,mean of 2022/23 and 2024/25 (a blog's ~44/36/16 judged unreliable),
+2024,parachute_y2,40100000.0,sourced,EFL evidence,https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,parachute_y2,40000000.0,estimate,low-confidence secondary article,https://theballbusiness.com/inside-football/what-parachute-payments-are-and-why-championship-clubs-depend-on-them/
+2011,parachute_y3,7737502.5,filled,year 1 x 8/16 (scheme shape of the TV deal),
+2012,parachute_y3,7850000.0,filled,year 1 x 8/16 (scheme shape of the TV deal),
+2013,parachute_y3,9430434.782608695,filled,year 1 x 9/23 (scheme shape of the TV deal),
+2014,parachute_y3,10000000.0,sourced,scheme amount (25/20/10/10),http://swissramble.blogspot.com/2015/06/fulham-penthouse-and-pavement.html
+2015,parachute_y3,10500000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2016,parachute_y3,16300000.0,sourced,old system,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2017,parachute_y3,16600000.000000002,sourced,old system (QPR),https://sportingintelligence832.substack.com/p/where-the-money-went-150-united-pip-city-in-premier-league-cash-table-170501
+2018,parachute_y3,15900000.0,sourced,first new-system year 3 (Aston Villa),https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,parachute_y3,15000000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2020,parachute_y3,15800000.0,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2021,parachute_y3,16100000.000000002,estimate,Wikipedia est.,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2022,parachute_y3,17300000.0,sourced,EFL evidence,https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,parachute_y3,17550000.0,filled,mean of 2022/23 and 2024/25 (a blog's ~44/36/16 judged unreliable),
+2024,parachute_y3,17800000.0,sourced,EFL evidence,https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,parachute_y3,17818181.818181816,filled,20/55 of year 1 (the 55/45/20 rule),
+2011,parachute_y4,7737502.5,filled,year 1 x 8/16 (scheme shape of the TV deal),
+2012,parachute_y4,5700000.0,sourced,"bottom of the stated range, taken as year 4",https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2012-13-210501
+2013,parachute_y4,9430434.782608695,filled,year 1 x 9/23 (scheme shape of the TV deal),
+2014,parachute_y4,10000000.0,sourced,scheme amount (25/20/10/10),http://swissramble.blogspot.com/2015/06/fulham-penthouse-and-pavement.html
+2015,parachute_y4,10500000.0,sourced,,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2016,parachute_y4,16300000.0,sourced,old system,https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2017,parachute_y4,16600000.000000002,sourced,old system,https://sportingintelligence832.substack.com/p/where-the-money-went-150-united-pip-city-in-premier-league-cash-table-170501
+2018,parachute_y4,17000000.0,sourced,old system (QPR's last payment),https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2008,pl_base,35193013.333333336,filled,carried from 2009,
+2009,pl_base,35193013.333333336,derived,mean of total minus merit over the 3 clubs with a sourced total (the other totals were not found),https://sportingintelligence832.substack.com/p/the-premier-league-where-the-money-went-in-2009-10
+2010,pl_base,41430228.0,derived,mean of total minus merit over the 2 clubs with a sourced total (the other totals were not found),https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2010-11-240503
+2011,pl_base,42127031.5,derived,mean of total minus merit over the 6 clubs with a sourced total (the other totals were not found),https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2011-12-150501
+2012,pl_base,43297429.6,derived,mean of total minus merit over the 5 clubs with a sourced total (the other totals were not found),https://www.sportingintelligence.com/2013/05/21/where-the-money-went-premier-league-prize-and-tv-payments-for-2012-13-210501/
+2013,pl_base,65176996.0,derived,mean of total minus merit over all 20 clubs,https://futbolekonomi.com/index.php/economy/3085-manchester-city-earn-p965m-for-successful-premier-league-season.html
+2014,pl_base,67036019.7,filled,interpolated between 2013 and 2015,
+2015,pl_base,68895043.4,derived,mean of total minus merit over all 20 clubs,https://www.skysports.com/football/news/11712/10293524/champions-leicester-only-fifth-highest-earning-club-in-premier-league
+2016,pl_base,99538894.15,derived,mean of total minus merit over all 20 clubs,https://skysports.com/football/news/11668/10900647/chelsea-lead-premier-league-payments-with-150-8m
+2017,pl_base,100700873.6,derived,mean of total minus merit over all 20 clubs,https://cityam.com/?p=2064110
+2018,pl_base,102655978.3,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2019,pl_base,113400000.0,estimate,mean of total minus merit over all 20 clubs,https://www.planetfootball.com/quick-reads/club-by-club-a-breakdown-of-the-2019-20-premier-league-prize-money
+2020,pl_base,103196316.0,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2021,pl_base,105244042.0,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2022,pl_base,106358452.75,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2023,pl_base,112835000.0,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2024,pl_base,113840000.0,derived,mean of total minus merit over all 20 clubs,https://salarysport.com/football/premier-league/prize-money/
+2025,pl_base,117935000.0,estimate,mean of total minus merit over all 20 clubs,https://www.softfootball.com/arsenal-lead-record-premier-league-payouts-as-2025-26-earnings-surpass-3bn/
+2008,pl_fac_slope,-359990.6469640827,filled,2013 slope scaled by the ratio of base payments,
+2009,pl_fac_slope,-359990.6469640827,filled,2013 slope scaled by the ratio of base payments,
+2010,pl_fac_slope,-423791.3485931333,filled,2013 slope scaled by the ratio of base payments,
+2011,pl_fac_slope,-430918.9776027882,filled,2013 slope scaled by the ratio of base payments,
+2012,pl_fac_slope,-442891.02345273725,filled,2013 slope scaled by the ratio of base payments,
+2013,pl_fac_slope,-666697.9248120299,derived,least-squares slope of facility fees on league position,https://futbolekonomi.com/index.php/economy/3085-manchester-city-earn-p965m-for-successful-premier-league-season.html
+2014,pl_fac_slope,-685713.9476272941,filled,2013 slope scaled by the ratio of base payments,
+2015,pl_fac_slope,-502738.54736842087,derived,least-squares slope of facility fees on league position,https://www.skysports.com/football/news/11712/10293524/champions-leicester-only-fifth-highest-earning-club-in-premier-league
+2016,pl_fac_slope,-1188189.062406015,derived,least-squares slope of facility fees on league position,https://skysports.com/football/news/11668/10900647/chelsea-lead-premier-league-payments-with-150-8m
+2017,pl_fac_slope,-1093349.4390977444,derived,least-squares slope of facility fees on league position,https://cityam.com/?p=2064110
+2018,pl_fac_slope,-1088811.4902255638,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2019,pl_fac_slope,-934812.0300751878,estimate,least-squares slope of facility fees on league position,https://www.planetfootball.com/quick-reads/club-by-club-a-breakdown-of-the-2019-20-premier-league-prize-money
+2020,pl_fac_slope,-869738.9127819544,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2021,pl_fac_slope,-675284.6255639091,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2022,pl_fac_slope,-531010.0804511274,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2023,pl_fac_slope,-761729.3233082703,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2024,pl_fac_slope,-603458.6466165413,derived,least-squares slope of facility fees on league position,https://salarysport.com/football/premier-league/prize-money/
+2025,pl_fac_slope,-306541.35338345816,estimate,least-squares slope of facility fees on league position,https://www.softfootball.com/arsenal-lead-record-premier-league-payouts-as-2025-26-earnings-surpass-3bn/
+2008,pl_merit_unit,800424.0,filled,carried from 2009,
+2009,pl_merit_unit,800424.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://sportingintelligence832.substack.com/p/the-premier-league-where-the-money-went-in-2009-10
+2010,pl_merit_unit,756756.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2010-11-240503
+2011,pl_merit_unit,755062.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://sportingintelligence832.substack.com/p/where-the-money-went-premier-league-prize-and-tv-payments-for-2011-12-150501
+2012,pl_merit_unit,755881.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://www.sportingintelligence.com/2013/05/21/where-the-money-went-premier-league-prize-and-tv-payments-for-2012-13-210501/
+2013,pl_merit_unit,1236083.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://futbolekonomi.com/index.php/economy/3085-manchester-city-earn-p965m-for-successful-premier-league-season.html
+2014,pl_merit_unit,1244898.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://sportingintelligence832.substack.com/p/where-the-money-went-chelsea-top-premier-league-cash-table-with-99m-prize-020601
+2015,pl_merit_unit,1242405.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://www.skysports.com/football/news/11712/10293524/champions-leicester-only-fifth-highest-earning-club-in-premier-league
+2016,pl_merit_unit,1941609.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://skysports.com/football/news/11668/10900647/chelsea-lead-premier-league-payments-with-150-8m
+2017,pl_merit_unit,1931268.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://cityam.com/?p=2064110
+2018,pl_merit_unit,1918518.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2019,pl_merit_unit,1800000.0,estimate,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://www.planetfootball.com/quick-reads/club-by-club-a-breakdown-of-the-2019-20-premier-league-prize-money
+2020,pl_merit_unit,2164350.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2021,pl_merit_unit,2057220.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2022,pl_merit_unit,3113491.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2023,pl_merit_unit,2800000.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2024,pl_merit_unit,2600000.0,derived,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://salarysport.com/football/premier-league/prize-money/
+2025,pl_merit_unit,3760000.0,estimate,median step between merit payments of consecutive places (from 2019/20 includes the overseas merit element),https://www.softfootball.com/arsenal-lead-record-premier-league-payouts-as-2025-26-earnings-surpass-3bn/
+2008,solidarity_t2,1000000.0,sourced,"£1m per Championship club from 2006/07 (Wikipedia, cited in the 2009/10 note)",http://swissramble.blogspot.com/2011/06/swansea-city-back-in-big-time.html
+2009,solidarity_t2,1000000.0,sourced,'the £1 million solidarity payment from the Premier League' (2009/10). Wikipedia: £1m per Championship club began 2006/07.,http://swissramble.blogspot.com/2011/06/swansea-city-back-in-big-time.html
+2010,solidarity_t2,2200000.0,sourced,Aug 2010: '£2.2m per Championship club' per season for next three seasons (2010/11-2012/13). Swiss Ramble confirms rise from £1m to £2.2m in 2010/11.,https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2011,solidarity_t2,2200000.0,sourced,'£2.2 million solidarity payment from the Premier League (up from £1.3 million)'. Note '£1.3m' conflicts with £1m elsewhere for the prior level.,http://swissramble.blogspot.com/2012/05/leeds-united-marching-on-together.html
+2012,solidarity_t2,2200000.0,sourced,From 2010 3-season package (assumed to cover 2012/13 as third season; article says 'next three seasons'). Swiss Ramble June 2012 projected rise to £3.4m under new deal (not borne out by later sources),https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2013,solidarity_t2,2250000.0,filled,interpolated between 2012 and 2014,
+2014,solidarity_t2,2300000.0,sourced,Fulham 2014/15 context: 'a £2.3 million solidarity payment from the Premier League'.,http://swissramble.blogspot.com/2015/06/fulham-penthouse-and-pavement.html
+2015,solidarity_t2,2300000.0,sourced,2015/16: '£2.3 million solidarity payment'. Also Sky Jun 2015 current £2.3m.,http://swissramble.blogspot.com/2015/07/hull-city-whats-my-name.html
+2016,solidarity_t2,4300000.0,sourced,Swiss Ramble: '£2.3m (2015/16) rising to £4.3m in 2016/17'. PoF: 'from £2.3 million to £4.3 million' for 2016/19 deal. New basis: 30% of year-3 parachute.,https://threadreaderapp.com/thread/1031811168132841473.html
+2017,solidarity_t2,4300000.0,sourced,PoF May 2018: 'worth about £4.3 million for a Championship club'. Wikipedia: £100m solidarity to 64 non-parachute EFL clubs in 2017/18.,https://priceoffootball.com/sunderland-short-changed/
+2018,solidarity_t2,4650000.0,sourced,"Wikipedia 2018-19 table: 4.65m per club, 79.1m total.",https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,solidarity_t2,4500000.0,sourced,PoF Oct 2020 for 2019/20: '£4.5m for Championship teams'.,https://priceoffootball.com/the-same-deep-waters-as-you/
+2020,solidarity_t2,4157894.736842105,derived,£79m total / 19 clubs,https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2021,solidarity_t2,4678947.368421053,filled,interpolated between 2020 and 2022,
+2022,solidarity_t2,5200000.0,sourced,EFL evidence May 2024 for 2022/23: '£5.2m'.,https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,solidarity_t2,5000000.0,estimate,"APPROX: DotEcon Jul 2025 'in the region of £5m' (30% of ~£17m year-3, tied to 2023/24 income). Season attribution uncertain.",https://www.dotecon.com/wp-content/uploads/2025/07/Parachute-payments-arbitration.pdf
+2024,solidarity_t2,5379000.0,sourced,"EFL evidence Jun 2025, 2024/25: '£5.379m'.",https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,solidarity_t2,5379000.0,filled,carried from 2024,
+2008,solidarity_t3,335000.0,filled,carried from 2010,
+2009,solidarity_t3,335000.0,filled,carried from 2010,
+2010,solidarity_t3,335000.0,sourced,"'£335,000 per League 1 club' (3-season package 2010/11-2012/13).",https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2011,solidarity_t3,335000.0,sourced,From 2010 3-season package.,https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2012,solidarity_t3,335000.0,sourced,From 2010 3-season package.,https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2013,solidarity_t3,347500.0,filled,interpolated between 2012 and 2014,
+2014,solidarity_t3,360000.0,sourced,"Sky 3 Jun 2015 'current' amounts: League One £360,000.",https://www.skysports.com/football/news/9873622/parachute-payments-overhauled-for-promoted-premier-league-clubs
+2015,solidarity_t3,360000.0,sourced,"Sky Jun 2015 current amount, assumed unchanged to 2015/16.",https://www.skysports.com/football/news/9873622/parachute-payments-overhauled-for-promoted-premier-league-clubs
+2016,solidarity_t3,473333.3333333333,filled,interpolated between 2015 and 2018,
+2017,solidarity_t3,586666.6666666666,filled,interpolated between 2015 and 2018,
+2018,solidarity_t3,700000.0,sourced,"Wikipedia 2018-19: 0.70m, 16.1m total.",https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,solidarity_t3,670000.0,sourced,"PoF: '£670,000 in League One'.",https://priceoffootball.com/the-same-deep-waters-as-you/
+2020,solidarity_t3,706666.6666666666,filled,interpolated between 2019 and 2022,
+2021,solidarity_t3,743333.3333333334,filled,interpolated between 2019 and 2022,
+2022,solidarity_t3,780000.0,sourced,"EFL evidence: '£780,000'.",https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,solidarity_t3,800000.0,estimate,APPROX: '£800k' (4.5%).,https://www.dotecon.com/wp-content/uploads/2025/07/Parachute-payments-arbitration.pdf
+2024,solidarity_t3,806850.0,sourced,"EFL evidence: '£806,850'.",https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,solidarity_t3,806850.0,filled,carried from 2024,
+2008,solidarity_t4,225000.0,filled,carried from 2010,
+2009,solidarity_t4,225000.0,filled,carried from 2010,
+2010,solidarity_t4,225000.0,sourced,"'£225,000 per League 2 club' (3-season package).",https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2011,solidarity_t4,225000.0,sourced,From 2010 3-season package.,https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2012,solidarity_t4,225000.0,sourced,From 2010 3-season package.,https://sportingintelligence832.substack.com/p/good-news-for-blackpool-premier-league-confirms-increased-parachute-cash-up-to-48m-and-372m-to-be-handed-to-football-league-040804
+2013,solidarity_t4,232500.0,filled,interpolated between 2012 and 2014,
+2014,solidarity_t4,240000.0,sourced,"Sky 3 Jun 2015 'current': '£240,000' labelled 'third tier' in summary - read as League Two (fourth tier); check.",https://www.skysports.com/football/news/9873622/parachute-payments-overhauled-for-promoted-premier-league-clubs
+2015,solidarity_t4,240000.0,sourced,"Sky Jun 2015 current amount, assumed unchanged to 2015/16.",https://www.skysports.com/football/news/9873622/parachute-payments-overhauled-for-promoted-premier-league-clubs
+2016,solidarity_t4,316666.6666666667,filled,interpolated between 2015 and 2018,
+2017,solidarity_t4,393333.3333333334,filled,interpolated between 2015 and 2018,
+2018,solidarity_t4,470000.0,sourced,"Wikipedia 2018-19: 0.47m, 11.2m total.",https://en.wikipedia.org/wiki/Premier_League_parachute_and_solidarity_payments
+2019,solidarity_t4,450000.0,sourced,"PoF: '£450,000 in League Two'.",https://priceoffootball.com/the-same-deep-waters-as-you/
+2020,solidarity_t4,473333.3333333333,filled,interpolated between 2019 and 2022,
+2021,solidarity_t4,496666.6666666667,filled,interpolated between 2019 and 2022,
+2022,solidarity_t4,520000.0,sourced,"EFL evidence: '£520,000'.",https://publications.parliament.uk/pa/cm5804/cmpublic/FootballGovernance/memo/FGB05.htm
+2023,solidarity_t4,600000.0,estimate,APPROX: '£600k' (DotEcon says 3.5%; others say 3%).,https://www.dotecon.com/wp-content/uploads/2025/07/Parachute-payments-arbitration.pdf
+2024,solidarity_t4,408315.0,sourced,"EFL evidence: '£408,315' (does not equal 3% of year-3 £17.8m = ~£534k; ratio implies ~2.3%; unexplained).",https://publications.parliament.uk/pa/cm5901/cmpublic/FootballGovernance/memo/FGB03.htm
+2025,solidarity_t4,408315.0,filled,carried from 2024,
+2008,uefa_UCL,31059504.209999997,filled,carried from 2009,
+2009,uefa_UCL,31059504.209999997,derived,mean of 4 English clubs' UEFA payments x 0.8861 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/01/51/72/68/1517268_DOWNLOAD.pdf
+2010,uefa_UCL,34006390.51,derived,mean of 4 English clubs' UEFA payments x 0.8564 GBP/EUR,https://www.uefa.com/news-media/news/01f4-0e79313daf2f-102570ad582e-1000--champions-league-financial-distribution-2010-11/
+2011,uefa_UCL,31656086.010500003,derived,mean of 4 English clubs' UEFA payments x 0.8449 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/uefaorg/Finance/01/84/05/87/1840587_DOWNLOAD.pdf
+2012,uefa_UCL,26144769.399,derived,mean of 4 English clubs' UEFA payments x 0.8265 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/uefaorg/Finance/01/97/52/97/1975297_DOWNLOAD.pdf
+2013,uefa_UCL,31465287.1,derived,mean of 4 English clubs' UEFA payments x 0.8346 GBP/EUR,https://editorial.uefa.com/resources/0216-0f8429835b39-8cd0d92046a4-1000/uefa_champions_league_and_uefa_europa_league_-_distribution_to_clubs_2013_14.pdf
+2014,uefa_UCL,29574477.505000003,derived,mean of 4 English clubs' UEFA payments x 0.7629 GBP/EUR,https://fr.uefa.com/MultimediaFiles/Download/competitions/General/02/29/45/25/2294525_DOWNLOAD.pdf
+2015,uefa_UCL,45806104.15500001,derived,mean of 4 English clubs' UEFA payments x 0.7491 GBP/EUR,http://www.uefa.com//MultimediaFiles/Download/competitions/General/02/41/82/55/2418255_DOWNLOAD.pdf
+2016,uefa_UCL,51530784.082499996,derived,mean of 4 English clubs' UEFA payments x 0.8598 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/competitions/General/02/51/12/21/2511221_DOWNLOAD.pdf
+2017,uefa_UCL,55313206.8072,derived,mean of 5 English clubs' UEFA payments x 0.8867 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/57/82/51/2578251_DOWNLOAD.pdf
+2018,uefa_UCL,87895255.536,derived,mean of 4 English clubs' UEFA payments x 0.8802 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/63/74/65/2637465_DOWNLOAD.pdf
+2019,uefa_UCL,69127150.868,derived,mean of 4 English clubs' UEFA payments x 0.8734 GBP/EUR,https://editorial.uefa.com/resources/0268-1215a6daaf78-a6ca16cd1df1-1000/04_uefa_financial_report_2019-20_en.pdf
+2020,uefa_UCL,86249160.256,derived,mean of 4 English clubs' UEFA payments x 0.8872 GBP/EUR,https://annualreport.uefa.com/2020-21/en/static/_content/EN_LN_UEFA_RapportFinancier_2020-2021.pdf
+2021,uefa_UCL,90289188.73333333,derived,mean of 3 English clubs' UEFA payments x 0.8449 GBP/EUR,https://www.arabnews.com/football/real-madrid-earn-most-uefa-prize-money-with-146m-in-2022-2281996
+2022,uefa_UCL,83100168.86700001,derived,mean of 4 English clubs' UEFA payments x 0.8730 GBP/EUR,https://editorial.uefa.com/resources/028a-1a2134203eb5-f59fe74100ae-1000/uefa--financial--report--2022-23--en.pdf
+2023,uefa_UCL,64403431.75,derived,mean of 4 English clubs' UEFA payments x 0.8601 GBP/EUR,https://www.tntsports.co.uk/football/champions-league/2023-2024/manchester-united-uefa-prize-money-real-madrid_sto23169719/story.shtml
+2024,uefa_UCL,78687432.83800001,derived,mean of 4 English clubs' UEFA payments x 0.8393 GBP/EUR,https://editorial.uefa.com/resources/02a1-1fcc539a26d9-78ac6793e755-1000/20260113_enclosure_04_financial_report_2024-25_en.pdf
+2025,uefa_UCL,78687432.83800001,filled,carried from 2024,
+2021,uefa_UECL,19300537.948000003,filled,carried from 2022,
+2022,uefa_UECL,19300537.948000003,derived,mean of 1 English clubs' UEFA payments x 0.8730 GBP/EUR,https://editorial.uefa.com/resources/028a-1a2134203eb5-f59fe74100ae-1000/uefa--financial--report--2022-23--en.pdf
+2023,uefa_UECL,18807445.745000005,filled,interpolated between 2022 and 2024,
+2024,uefa_UECL,18314353.542000003,derived,mean of 1 English clubs' UEFA payments x 0.8393 GBP/EUR,https://editorial.uefa.com/resources/02a1-1fcc539a26d9-78ac6793e755-1000/20260113_enclosure_04_financial_report_2024-25_en.pdf
+2025,uefa_UECL,18314353.542000003,filled,carried from 2024,
+2008,uefa_UEL,4651690.06554,filled,carried from 2009,
+2009,uefa_UEL,4651690.06554,derived,mean of 3 English clubs' UEFA payments x 0.8861 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/01/51/72/70/1517270_DOWNLOAD.pdf
+2010,uefa_UEL,5250718.92136,derived,mean of 2 English clubs' UEFA payments x 0.8564 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/uefaorg/Finance/01/66/11/25/1661125_DOWNLOAD.pdf
+2011,uefa_UEL,2083914.9407983334,derived,mean of 6 English clubs' UEFA payments x 0.8449 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/uefaorg/Finance/01/84/05/88/1840588_DOWNLOAD.pdf
+2012,uefa_UEL,5463765.24173175,derived,mean of 4 English clubs' UEFA payments x 0.8265 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/uefaorg/Finance/01/97/53/15/1975315_DOWNLOAD.pdf
+2013,uefa_UEL,3814790.480525,derived,mean of 3 English clubs' UEFA payments x 0.8346 GBP/EUR,https://editorial.uefa.com/resources/0216-0f8429835b39-8cd0d92046a4-1000/uefa_champions_league_and_uefa_europa_league_-_distribution_to_clubs_2013_14.pdf
+2014,uefa_UEL,3583060.289259,derived,mean of 3 English clubs' UEFA payments x 0.7629 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/competitions/General/02/29/45/29/2294529_DOWNLOAD.pdf
+2015,uefa_UEL,15607682.037953,derived,mean of 3 English clubs' UEFA payments x 0.7491 GBP/EUR,http://www.uefa.com/MultimediaFiles/Download/competitions/General/02/41/82/56/2418256_DOWNLOAD.pdf
+2016,uefa_UEL,17791433.849294998,derived,mean of 3 English clubs' UEFA payments x 0.8598 GBP/EUR,https://fr.uefa.com/MultimediaFiles/Download/competitions/General/02/51/12/33/2511233_DOWNLOAD.pdf
+2017,uefa_UEL,23007731.72127,derived,mean of 2 English clubs' UEFA payments x 0.8867 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/57/82/58/2578258_DOWNLOAD.pdf
+2018,uefa_UEL,37572361.609728,derived,mean of 2 English clubs' UEFA payments x 0.8802 GBP/EUR,https://www.uefa.com/MultimediaFiles/Download/competitions/General/02/63/74/66/2637466_DOWNLOAD.pdf
+2019,uefa_UEL,20680152.098,derived,mean of 3 English clubs' UEFA payments x 0.8734 GBP/EUR,https://editorial.uefa.com/resources/0268-1215a6daaf78-a6ca16cd1df1-1000/04_uefa_financial_report_2019-20_en.pdf
+2020,uefa_UEL,22179520.873333335,filled,interpolated between 2019 and 2022,
+2021,uefa_UEL,23678889.64866667,filled,interpolated between 2019 and 2022,
+2022,uefa_UEL,25178258.424000002,derived,mean of 2 English clubs' UEFA payments x 0.8730 GBP/EUR,https://editorial.uefa.com/resources/028a-1a2134203eb5-f59fe74100ae-1000/uefa--financial--report--2022-23--en.pdf
+2023,uefa_UEL,28903733.606250003,filled,interpolated between 2022 and 2024,
+2024,uefa_UEL,32629208.788500007,derived,mean of 2 English clubs' UEFA payments x 0.8393 GBP/EUR,https://editorial.uefa.com/resources/02a1-1fcc539a26d9-78ac6793e755-1000/20260113_enclosure_04_financial_report_2024-25_en.pdf
+2025,uefa_UEL,32629208.788500007,filled,carried from 2024,

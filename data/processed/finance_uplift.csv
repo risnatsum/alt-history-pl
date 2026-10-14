@@ -1,0 +1,73 @@
+season,tier,step_gain,status,basis
+2008,1,5531614.449529207,derived,linear trend in real terms over 30 PL/Championship moves
+2008,2,3019565.6900088037,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2008,3,1928977.4955614673,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2008,4,1232281.2484903226,filled,step above x 0.64 again (no National League evidence)
+2009,1,5807757.255533913,derived,linear trend in real terms over 30 PL/Championship moves
+2009,2,3098425.7476702207,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2009,3,1979355.3618323978,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2009,4,1264463.9463639187,filled,step above x 0.64 again (no National League evidence)
+2010,1,6162812.783237528,derived,linear trend in real terms over 30 PL/Championship moves
+2010,2,3214955.5650181174,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2010,3,2053797.6552952451,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2010,4,1312019.6293824909,filled,step above x 0.64 again (no National League evidence)
+2011,1,6549157.341325271,derived,linear trend in real terms over 30 PL/Championship moves
+2011,2,3342399.0510602286,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2011,3,2135211.8856080878,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2011,4,1364029.1679103558,filled,step above x 0.64 again (no National League evidence)
+2012,1,6865988.930125636,derived,linear trend in real terms over 30 PL/Championship moves
+2012,2,3429708.40061394,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2012,3,2190987.3804080463,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2012,4,1399660.0119846943,filled,step above x 0.64 again (no National League evidence)
+2013,1,7154254.2859750595,derived,linear trend in real terms over 30 PL/Championship moves
+2013,2,3499415.0587253715,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2013,3,2235517.8157725297,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2013,4,1428107.2181408193,filled,step above x 0.64 again (no National League evidence)
+2014,1,7344116.259688353,derived,linear trend in real terms over 30 PL/Championship moves
+2014,2,3519130.073140725,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2014,3,2248112.2823402616,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2014,4,1436152.8926092181,filled,step above x 0.64 again (no National League evidence)
+2015,1,7507916.250815957,derived,linear trend in real terms over 30 PL/Championship moves
+2015,2,3525819.095888792,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2015,3,2252385.404925743,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2015,4,1438882.6750181394,filled,step above x 0.64 again (no National League evidence)
+2016,1,7789272.980674567,derived,linear trend in real terms over 30 PL/Championship moves
+2016,2,3586372.3544502365,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2016,3,2291068.409383778,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2016,4,1463594.3894567932,filled,step above x 0.64 again (no National League evidence)
+2017,1,8163090.626480071,derived,linear trend in real terms over 30 PL/Championship moves
+2017,2,3686355.641842391,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2017,3,2354940.3469772795,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2017,4,1504397.4528322455,filled,step above x 0.64 again (no National League evidence)
+2018,1,8497733.351916313,derived,linear trend in real terms over 30 PL/Championship moves
+2018,2,3765215.6995038074,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2018,3,2405318.2132482096,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2018,4,1536580.1507058411,filled,step above x 0.64 again (no National League evidence)
+2019,1,8779984.389402539,derived,linear trend in real terms over 30 PL/Championship moves
+2019,2,3818375.827659494,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2019,3,2439278.2927433453,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2019,4,1558274.7372188454,filled,step above x 0.64 again (no National League evidence)
+2020,1,9013987.421835428,derived,linear trend in real terms over 30 PL/Championship moves
+2020,2,3849004.510769062,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2020,3,2458844.6961610727,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2020,4,1570774.2671965368,filled,step above x 0.64 again (no National League evidence)
+2021,1,9706407.969691796,derived,linear trend in real terms over 30 PL/Championship moves
+2021,2,4070798.4229417974,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2021,3,2600532.445048064,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2021,4,1661288.1049660256,filled,step above x 0.64 again (no National League evidence)
+2022,1,10867093.732353562,derived,linear trend in real terms over 30 PL/Championship moves
+2022,2,4477772.649087324,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2022,3,2860518.219196258,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2022,4,1827373.8136351188,filled,step above x 0.64 again (no National League evidence)
+2023,1,11505110.956994388,derived,linear trend in real terms over 30 PL/Championship moves
+2023,2,4659080.370942813,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2023,3,2976342.3313816553,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2023,4,1901365.2841927165,filled,step above x 0.64 again (no National League evidence)
+2024,1,12015278.535739882,derived,linear trend in real terms over 30 PL/Championship moves
+2024,2,4783355.372525314,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2024,3,3055732.4509961125,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2024,4,1952081.767895303,filled,step above x 0.64 again (no National League evidence)
+2025,1,12617843.794621468,derived,linear trend in real terms over 30 PL/Championship moves
+2025,2,4939667.272532765,derived,"mean of 4 Championship/League One moves, constant in real terms"
+2025,3,3155588.578783135,filled,"step above x 0.64 (League Two / League One average revenue, Deloitte)"
+2025,4,2015872.4726090378,filled,step above x 0.64 again (no National League evidence)
