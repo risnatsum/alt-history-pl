@@ -12,9 +12,11 @@ real columns are the facts they are compared with.
 - ``compare_variants``: the same club-season measures for several variants side by side.
 - ``write_workbook``: all of the above in one spreadsheet.
 
-European places depend on each season's UEFA allocation and the cup winners; they
-are not in the engine yet (E4 needs them for UEFA money), so the PL tables give
-top-4 to top-7 chances instead.
+European places: the PL tables give each club's chance of finishing in a position
+that earned a Champions League, Europa League or Conference League place through
+the league that season (the sourced allocation in
+``data/processed/finance_uefa_places.csv``, cup winners' places passed down the
+table included; places won through a cup are not counted), plus top-4 to top-7.
 """
 from __future__ import annotations
 
@@ -22,7 +24,7 @@ import numpy as np
 import pandas as pd
 
 from altpl.clubs import club_name
-from altpl.config import season_label
+from altpl.config import PROCESSED, season_label
 from altpl.simulator import AUTO, PLAYOFF, RELEGATED, TIERS, Reality, Simulation
 
 DIV = {1: "Premier League", 2: "Championship", 3: "League One", 4: "League Two",
@@ -60,6 +62,10 @@ def expected_tables(sim: Simulation, reality: Reality) -> pd.DataFrame:
                 "p_title": (ink & (posk == 1)).mean(0),
             })
             if k == 1:
+                places = _euro_places().get(s, {})
+                for comp in ("UCL", "UEL", "UECL"):
+                    ps = [p for p, c in places.items() if c == comp]
+                    d[f"p_{comp.lower()}"] = (ink & np.isin(posk, ps)).mean(0) if ps else 0.0
                 for top in (4, 5, 6, 7):
                     d[f"p_top{top}"] = (ink & (posk <= top)).mean(0)
             else:
@@ -83,6 +89,15 @@ def expected_tables(sim: Simulation, reality: Reality) -> pd.DataFrame:
             d = d.assign(_rare=d.p_in_division < 0.5).sort_values(["_rare", "xpos", "club_id"])
             rows.append(d.drop(columns="_rare"))
     return pd.concat(rows, ignore_index=True)
+
+
+def _euro_places() -> dict:
+    """{season: {league position: competition}} earned through the PL table."""
+    f = PROCESSED / "finance_uefa_places.csv"
+    if not f.exists():
+        return {}
+    e = pd.read_csv(f)
+    return {s: dict(zip(g.position, g.competition)) for s, g in e.groupby("season")}
 
 
 def whos_where(sim: Simulation) -> pd.DataFrame:

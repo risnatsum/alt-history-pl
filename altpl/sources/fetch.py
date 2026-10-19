@@ -10,8 +10,9 @@ from pathlib import Path
 
 import pandas as pd
 
-from altpl.config import (ENGSOCCERDATA, FOOTBALLDATA_MIRROR, OPENFOOTBALL, RAW, SEASONS,
-                          SOURCES)
+from altpl.clubs import club_id
+from altpl.config import (ENGSOCCERDATA, FIRST_SEASON, FOOTBALLDATA_MIRROR, OPENFOOTBALL, RAW,
+                          SEASONS, SOURCES)
 from altpl.sources.openfootball import parse_file
 
 OF_FILES = {1: "1-premierleague.txt", 2: "2-championship.txt", 3: "3-league1.txt",
@@ -75,6 +76,12 @@ def extract() -> None:
 
     esd = pd.concat([pd.read_csv(RAW / "engsoccerdata" / "england.csv", low_memory=False),
                      pd.read_csv(RAW / "engsoccerdata" / "england5.csv")])
+    # Premier League clubs of the seasons before 2008/09: parachute payments from
+    # 2008/09 on depend on who was relegated from the PL earlier (E4).
+    pre = esd[(esd.tier == 1) & esd.Season.between(FIRST_SEASON - 8, FIRST_SEASON - 1)]
+    pre = sorted({(s, club_id(h, s)) for s, h in zip(pre.Season, pre.home)})
+    pd.DataFrame(pre, columns=["season", "club_id"]).to_csv(
+        SOURCES / "pl_membership_pre2008.csv", index=False)
     esd = esd[esd.Season.isin(SEASONS)].rename(columns={
         "Season": "season", "Date": "date", "visitor": "away", "hgoal": "hg", "vgoal": "ag"})
     esd[cols].sort_values(["season", "tier", "date"]).to_csv(
