@@ -438,7 +438,7 @@ percentile ranges.
 ### S1: decisions (Mus, 19 Oct 2026)
 
 **S01-09 1C Championship size: 23 clubs** from 2009/10 on (the brief's "21" was a
-slip). 46 matches each with one club idle each round, 3 down and 3 up as normal.
+slip). 44 matches each with one club idle each round, 3 down and 3 up as normal.
 
 **S01-10 1B central money is shared among the 19.** Each PL club's equal share and
 overseas share are scaled by 20/19, since the rights are sold for the league as a
