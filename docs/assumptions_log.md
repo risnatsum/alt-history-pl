@@ -435,13 +435,11 @@ are compared by position and points per game as well as points.
 **S01-08 Runs.** 10,000 runs per variant, seed 20083 (E3-01); averages and 5th-95th
 percentile ranges.
 
-### S1: open questions for Mus
+### S1: decisions (Mus, 19 Oct 2026)
 
-**S01-Q1 1C Championship size.** The brief says 21 teams, but one extra promotion
-with no replacement leaves 23 (the real Championship had 24 in every season,
-`tables.csv`). Default: 23.
+**S01-09 1C Championship size: 23 clubs** from 2009/10 on (the brief's "21" was a
+slip). 46 matches each with one club idle each round, 3 down and 3 up as normal.
 
-**S01-Q2 1B central money.** With 19 clubs, does City's share of the PL's central
-money go to the other 19 (each club's equal and overseas shares times 20/19), or does
-each club get what its position really paid? E4-04 currently does the latter. Default:
-share it among the 19, since the TV rights are sold for the league as a whole.
+**S01-10 1B central money is shared among the 19.** Each PL club's equal share and
+overseas share are scaled by 20/19, since the rights are sold for the league as a
+whole; merit and facility fees keep E4-04's scale by position.
