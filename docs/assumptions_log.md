@@ -367,12 +367,79 @@ seasons and the lower divisions are much less certain.
 
 ## Scenario S01: Man City removed
 
-Not started (S1 comes after the engine). Data notes from E1:
-- 1A: Sheffield United were the best-placed club not promoted from the 2008/09
-  Championship (3rd, 80 pts, lost the play-off final to Burnley), ahead of Reading
-  (4th, 77). So 1A promotes Sheffield United, as the brief expected.
-- 1B and 1C need divisions with an odd number of clubs (19 in the PL, 21 in the
-  Championship), so one club is idle each round. The E3 simulator handles any division
-  size (E3-01) and fills a removed club's place by cascade by default (E3-06).
-- In every variant, City's real 2009/10+ results are dropped and the rest of each
-  season's real results stay as the anchor.
+### S1: rules restated (from Mus's brief, 13 Oct 2026)
+
+**The change.** Manchester City become ineligible for the Premier League after
+2008/09. 2008/09 stands as played (City 10th, 50 pts, `data/processed/tables.csv`).
+From 2009/10 City leave the pyramid entirely; they are not dropped into a lower
+division. Histories split from 2009/10 and run to 2025/26, the latest finished
+season: 17 changed seasons. In reality City were in the PL in every one of them and
+won it eight times (2011/12, 2013/14, 2017/18, 2018/19, 2020/21-2023/24; `tables.csv`).
+
+**1A Cascade replacement.** City's PL place goes to the best-placed 2008/09
+Championship club not promoted: Sheffield United (3rd, 80 pts, play-off final loser),
+ahead of Reading (4th), as the brief expected (E1). The gap is filled the same way
+down the pyramid (E3-06): Milton Keynes Dons (3rd in League One), Bury (4th in League
+Two) and Cambridge United (2nd in the National League) each go up one division, and
+Woking (21st), the best-placed club relegated from the National League, are reprieved
+(all from the real 2008/09 tables, `tables.csv`). Every division keeps its real size.
+
+**1B 19-team Premier League.** Nobody replaces City. The PL has 19 clubs from 2009/10
+on, 36 matches each with one club idle each round, 3 down and 3 up as normal.
+Championship and below unchanged in size.
+
+**1C Bigger Championship.** Sheffield United go up as in 1A but are not replaced from
+League One. The PL stays at 20. League One and below are unchanged. See S01-Q1 on the
+Championship's size.
+
+**Focus.** Finance for clubs that would have been promoted or stayed up but didn't in
+reality, and the gains for existing PL clubs from finishing higher and from European
+places.
+
+### S1: assumptions (defaults unless Mus says otherwise)
+
+**S01-01 Real results kept.** Every real 2009/10+ result not involving City is kept
+where the same two clubs met the same way round in the same division and season
+(E3-02); City's results are dropped. Fixtures that never happened (for example
+Sheffield United's PL matches in 1A) are simulated. A fully simulated version is run
+as the check.
+
+**S01-02 Ratings.** A club in a division it wasn't really in keeps its real-season
+rating with no step-up penalty (Mus, 14 Oct 2026; E3-04). `step_up` (about 0.15, the
+value matching E2-06's 3.6 points) and `money_boost` are shown only as sensitivities,
+on 1A.
+
+**S01-03 Other clubs' squads are as in reality.** City's real transfer and wage
+spending is not handed to anyone: no club gets the players City really signed, and no
+club is stronger because City weren't bidding. This is the biggest simplification in
+the scenario.
+
+**S01-04 Season rules.** Each season's real promotion, relegation and play-off rules
+apply (E3-03, E3-05); real deductions, expulsions (Bury 2019, Macclesfield 2020) and
+the 2019/20 points-per-game finishes follow each club wherever it is (E3-07, E3-09).
+
+**S01-05 European places.** Each PL position earns the competition it really earned
+through the league that season, including places a cup winner passed down the table
+(E4-07, `finance_uefa_places.csv`). Domestic cups are not simulated, so this also
+holds in seasons where City's own cup wins passed a place down (Check: who would win
+those cups without City is unknown). The number of English places each season stays
+as real, though City's European results fed England's coefficient.
+
+**S01-06 Finance.** E4 prices the difference from reality per club and season,
+2009/10-2025/26, in nominal and 2025/26 pounds (E4-01, E4-09). City are outside the
+pyramid and not in the ranking. Money a run would earn after 2025/26 is not counted.
+
+**S01-07 Comparing 1B with reality.** PL clubs play 36 matches, not 38, so 1B tables
+are compared by position and points per game as well as points.
+
+**S01-08 Runs.** 10,000 runs per variant, seed 20083 (E3-01); averages and 5th-95th
+percentile ranges.
+
+### S1: decisions (Mus, 19 Oct 2026)
+
+**S01-09 1C Championship size: 23 clubs** from 2009/10 on (the brief's "21" was a
+slip). 44 matches each with one club idle each round, 3 down and 3 up as normal.
+
+**S01-10 1B central money is shared among the 19.** Each PL club's equal share and
+overseas share are scaled by 20/19, since the rights are sold for the league as a
+whole; merit and facility fees keep E4-04's scale by position.
